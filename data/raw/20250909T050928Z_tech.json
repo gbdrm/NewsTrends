@@ -1,0 +1,277 @@
+{
+  "provider": "gnews",
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "title": "Cardano latest news, XRP price predictions & what is the hottest crypto to buy in the first week of September",
+      "description": "Cardano and XRP continue to show resilience with bullish price setups, but Remittix is stealing the spotlight as the hottest crypto to buy in September thanks to its PayFi technology and strong presale momentum.",
+      "source": "Indiatimes",
+      "url": "https://www.indiatimes.com/partner/cardano-latest-news-xrp-price-predictions-what-is-the-hottest-crypto-to-buy-in-the-first-week-of-september-669432.html",
+      "published_at": "2025-09-08T16:49:04Z",
+      "author": "",
+      "image_url": "https://im.indiatimes.in/content/template/share/669432.jpg",
+      "content": "Cardano is holding firm at a key support level, sparking fresh ADA Price Prediction debates as traders watch for a possible push higher. At the same time, XRP News is filled with talk of consolidation zones and resistance levels that could shape Ripp... [3251 chars]"
+    },
+    {
+      "title": "Philippine CEOs optimistic, investing in people and tech for growth",
+      "description": "CHIEF executives in the Philippines remain optimistic about industry prospects and are ramping up investments in people and technology to drive growth, a recently conducted survey showed.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2025/09/09/business/top-business/philippine-ceos-optimistic-investing-in-people-and-tech-for-growth/2180894",
+      "published_at": "2025-09-08T16:40:00Z",
+      "author": "",
+      "image_url": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/08/740567.jpg",
+      "content": "CHIEF executives in the Philippines remain optimistic about industry prospects and are ramping up investments in people and technology to drive growth, a recently conducted survey showed.\n“CEOs in the Philippines see both the risks and opportunities ... [3738 chars]"
+    },
+    {
+      "title": "Defence Holdings appoints former army chief as chairman",
+      "description": "The start-up, created from the shell of an esports venture backed by David Beckham, will focus on developing ‘next-generation defence technology’",
+      "source": "The Sunday Times",
+      "url": "https://www.thetimes.com/business-money/companies/article/defence-holdings-appoints-ex-army-chief-as-chairman-pnzgnrjft",
+      "published_at": "2025-09-08T16:30:00Z",
+      "author": "",
+      "image_url": "https://www.thetimes.com/imageserver/image/%2F21c81078-7994-45c1-96bd-1ede85b7194e.jpg?crop=5760%2C3240%2C0%2C10&resize=1200",
+      "content": "James Norwood, a former Raytheon executive and Defence Holdings’ present chairman, who will become deputy chairman when Houghton formally joins on October 1, said: “His leadership experience, strategic acumen and credibility at the highest levels of ... [1998 chars]"
+    },
+    {
+      "title": "Google sued over monopoly violations by advertising exchange",
+      "description": "Alphabet Inc.'s Google was sued by advertising exchange PubMatic Inc., which is seeking billions of dollars over its claim that the search giant has illegally monopolized the ad technology market.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/09/08/google-sued-over-monopoly-violations-by-advertising-exchange/",
+      "published_at": "2025-09-08T16:26:21Z",
+      "author": "",
+      "image_url": "https://www.mercurynews.com/wp-content/uploads/2025/09/SJM-L-GOOGLE-0829-2.jpg?w=1024&h=558",
+      "content": "(Bloomberg/Leah Nylen) — Alphabet Inc.’s Google was sued by advertising exchange PubMatic Inc., which is seeking billions of dollars over its claim that the search giant has illegally monopolized the ad technology market.\nThe lawsuit, filed Monday in... [1874 chars]"
+    },
+    {
+      "title": "Nasdaq seeks rule change with SEC to trade tokenized stocks",
+      "description": "Nasdaq Inc. is asking regulators to let investors trade tokenized versions of stocks on its exchange, a move that could mark the first big test of blockchain technology inside the core of America's equity markets.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/09/08/nasdaq-seeks-rule-change-trade-tokenized-stocks/",
+      "published_at": "2025-09-08T16:25:35Z",
+      "author": "",
+      "image_url": "https://www.mercurynews.com/wp-content/uploads/2021/08/mn-logo-sm.png",
+      "content": "(Bloomberg/Katherine Doherty) — Nasdaq Inc. is asking regulators to let investors trade tokenized versions of stocks on its exchange, a move that could mark the first big test of blockchain technology inside the core of America’s equity markets.\nThe ... [5451 chars]"
+    },
+    {
+      "title": "QuantumScape (QS) Stock Surges After Successful Solid-State Battery Demo With Volkswagen",
+      "description": "QuantumScape shares are trading sharply higher Monday morning. The company announced the first live demonstration of its solid-state lithium-metal battery technology.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/09/47552388/quantumscape-qs-stock-surges-after-successful-solid-state-battery-demo-with-volkswagen",
+      "published_at": "2025-09-08T16:19:04Z",
+      "author": "",
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/08/QuantumScapeQSE-5-and-A0-Prototype-2.png?width=1200&height=800&fit=crop",
+      "content": "QuantumScape Corp QS shares are trading sharply higher Monday morning after the company, in partnership with Volkswagen's PowerCo, announced the first live demonstration of its solid-state lithium-metal battery technology. The demonstration, held at ... [1910 chars]"
+    },
+    {
+      "title": "Atomic clocks may keep Air Force drone swarms flying without GPS",
+      "description": "A new Air Force project aims to replace vulnerable satellite signals with atomic clock technology for next-generation drone swarms.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/military/air-force-atomic-clock-gps",
+      "published_at": "2025-09-08T16:17:23Z",
+      "author": "",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/Canva-Photo-2025-09-08T192146.739.jpg",
+      "content": "The US Air Force is turning to atomic clock technology to help coordinate swarms of small drones in environments where traditional satellite navigation is jammed or spoofed, according to a new request for information (RFI) released by the Air Force R... [4713 chars]"
+    },
+    {
+      "title": "NBA Champion Tristan Thompson: 'AI is the Ultimate Teammate'",
+      "description": "The former NBA player is now co-founder of TracyAI, a sports broadcasting and analysis technology company.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/nba-champion-tristan-thompson-ai-ultimate-teammate-2125198",
+      "published_at": "2025-09-08T16:15:29Z",
+      "author": "",
+      "image_url": "https://d.newsweek.com/en/full/2716779/tristan-thompson-playing.jpg",
+      "content": "Over the past few years, artificial intelligence (AI) has begun moving from the sidelines to the center of the sports experience, rapidly reshaping how millions of sports fans engage with the games and the athletes they love. The data leaves no doubt... [4870 chars]"
+    },
+    {
+      "title": "Venture Catalysts Group raises ₹150 crore",
+      "description": "Venture Catalysts secures ₹150 crore funding for leadership expansion, new funds, technology upgrades, and geographic expansion.",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/venture-catalysts-group-raises-150-crore/article70026258.ece",
+      "published_at": "2025-09-08T16:13:12Z",
+      "author": "",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "content": "Venture Catalysts, a multi‑stage venture investing platform, said it has raised ₹150 crore funding comprising a mix of primary and secondary transactions. The company said the proceeds will be used for leadership expansion, the launch of new funds, t... [1044 chars]"
+    },
+    {
+      "title": "Chain Bridge I to merge with CommLoan",
+      "description": "SPAC Chain Bridge I (OTC:CBRRF) and commercial real estate lending technology company CommLoan intend to pursue a potential business combination.",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4493085-chain-bridge-i-to-merge-with-commloan",
+      "published_at": "2025-09-08T16:12:06Z",
+      "author": "",
+      "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1344417409/image_1344417409.jpg?io=getty-c-w750",
+      "content": "Chain Bridge I to merge with CommLoan\nSep. 08, 2025 12:12 PM ETChain Bridge I (CBRRF) StockBy: Mary Christine Joy, SA News Editor\nComments\nSPAC Chain Bridge I (OTC:CBRRF) and commercial real estate lending technology company CommLoan intend to pursue... [429 chars]"
+    }
+  ],
+  "raw_response": {
+    "information": {
+      "realTimeArticles": {
+        "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+      }
+    },
+    "totalArticles": 84102,
+    "articles": [
+      {
+        "id": "b0dd37314768736d967e795be06ee796",
+        "title": "Cardano latest news, XRP price predictions & what is the hottest crypto to buy in the first week of September",
+        "description": "Cardano and XRP continue to show resilience with bullish price setups, but Remittix is stealing the spotlight as the hottest crypto to buy in September thanks to its PayFi technology and strong presale momentum.",
+        "content": "Cardano is holding firm at a key support level, sparking fresh ADA Price Prediction debates as traders watch for a possible push higher. At the same time, XRP News is filled with talk of consolidation zones and resistance levels that could shape Ripp... [3251 chars]",
+        "url": "https://www.indiatimes.com/partner/cardano-latest-news-xrp-price-predictions-what-is-the-hottest-crypto-to-buy-in-the-first-week-of-september-669432.html",
+        "image": "https://im.indiatimes.in/content/template/share/669432.jpg",
+        "publishedAt": "2025-09-08T16:49:04Z",
+        "lang": "en",
+        "source": {
+          "id": "da182982e3ceb53c6eb8df72aa2030c3",
+          "name": "Indiatimes",
+          "url": "https://www.indiatimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "18ec17e894e19b599e0323dc807695eb",
+        "title": "Philippine CEOs optimistic, investing in people and tech for growth",
+        "description": "CHIEF executives in the Philippines remain optimistic about industry prospects and are ramping up investments in people and technology to drive growth, a recently conducted survey showed.",
+        "content": "CHIEF executives in the Philippines remain optimistic about industry prospects and are ramping up investments in people and technology to drive growth, a recently conducted survey showed.\n“CEOs in the Philippines see both the risks and opportunities ... [3738 chars]",
+        "url": "https://www.manilatimes.net/2025/09/09/business/top-business/philippine-ceos-optimistic-investing-in-people-and-tech-for-growth/2180894",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/08/740567.jpg",
+        "publishedAt": "2025-09-08T16:40:00Z",
+        "lang": "en",
+        "source": {
+          "id": "7c666ee953f873d3057b310220f510df",
+          "name": "The Manila Times",
+          "url": "https://www.manilatimes.net",
+          "country": "ph"
+        }
+      },
+      {
+        "id": "77e1805b2a2d9db4aeadf564d65321f3",
+        "title": "Defence Holdings appoints former army chief as chairman",
+        "description": "The start-up, created from the shell of an esports venture backed by David Beckham, will focus on developing ‘next-generation defence technology’",
+        "content": "James Norwood, a former Raytheon executive and Defence Holdings’ present chairman, who will become deputy chairman when Houghton formally joins on October 1, said: “His leadership experience, strategic acumen and credibility at the highest levels of ... [1998 chars]",
+        "url": "https://www.thetimes.com/business-money/companies/article/defence-holdings-appoints-ex-army-chief-as-chairman-pnzgnrjft",
+        "image": "https://www.thetimes.com/imageserver/image/%2F21c81078-7994-45c1-96bd-1ede85b7194e.jpg?crop=5760%2C3240%2C0%2C10&resize=1200",
+        "publishedAt": "2025-09-08T16:30:00Z",
+        "lang": "en",
+        "source": {
+          "id": "b419a989918b3665a34559f5047546b6",
+          "name": "The Sunday Times",
+          "url": "https://www.thetimes.com",
+          "country": "gb"
+        }
+      },
+      {
+        "id": "7d75f5aa9c92f00fe955c06b2acc21b7",
+        "title": "Google sued over monopoly violations by advertising exchange",
+        "description": "Alphabet Inc.'s Google was sued by advertising exchange PubMatic Inc., which is seeking billions of dollars over its claim that the search giant has illegally monopolized the ad technology market.",
+        "content": "(Bloomberg/Leah Nylen) — Alphabet Inc.’s Google was sued by advertising exchange PubMatic Inc., which is seeking billions of dollars over its claim that the search giant has illegally monopolized the ad technology market.\nThe lawsuit, filed Monday in... [1874 chars]",
+        "url": "https://www.mercurynews.com/2025/09/08/google-sued-over-monopoly-violations-by-advertising-exchange/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2025/09/SJM-L-GOOGLE-0829-2.jpg?w=1024&h=558",
+        "publishedAt": "2025-09-08T16:26:21Z",
+        "lang": "en",
+        "source": {
+          "id": "17d7c2645f485578130862e0c8dd9480",
+          "name": "The Mercury News",
+          "url": "https://www.mercurynews.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "9cd54010f3fa1e951a45ff3827b718a8",
+        "title": "Nasdaq seeks rule change with SEC to trade tokenized stocks",
+        "description": "Nasdaq Inc. is asking regulators to let investors trade tokenized versions of stocks on its exchange, a move that could mark the first big test of blockchain technology inside the core of America's equity markets.",
+        "content": "(Bloomberg/Katherine Doherty) — Nasdaq Inc. is asking regulators to let investors trade tokenized versions of stocks on its exchange, a move that could mark the first big test of blockchain technology inside the core of America’s equity markets.\nThe ... [5451 chars]",
+        "url": "https://www.mercurynews.com/2025/09/08/nasdaq-seeks-rule-change-trade-tokenized-stocks/",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2021/08/mn-logo-sm.png",
+        "publishedAt": "2025-09-08T16:25:35Z",
+        "lang": "en",
+        "source": {
+          "id": "17d7c2645f485578130862e0c8dd9480",
+          "name": "The Mercury News",
+          "url": "https://www.mercurynews.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "ba170aa55813c679e2d9a0d0468bc55a",
+        "title": "QuantumScape (QS) Stock Surges After Successful Solid-State Battery Demo With Volkswagen",
+        "description": "QuantumScape shares are trading sharply higher Monday morning. The company announced the first live demonstration of its solid-state lithium-metal battery technology.",
+        "content": "QuantumScape Corp QS shares are trading sharply higher Monday morning after the company, in partnership with Volkswagen's PowerCo, announced the first live demonstration of its solid-state lithium-metal battery technology. The demonstration, held at ... [1910 chars]",
+        "url": "https://www.benzinga.com/trading-ideas/movers/25/09/47552388/quantumscape-qs-stock-surges-after-successful-solid-state-battery-demo-with-volkswagen",
+        "image": "https://cdn.benzinga.com/files/images/story/2025/09/08/QuantumScapeQSE-5-and-A0-Prototype-2.png?width=1200&height=800&fit=crop",
+        "publishedAt": "2025-09-08T16:19:04Z",
+        "lang": "en",
+        "source": {
+          "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "1c7f28ac802503d6df47c6f5dda4fac5",
+        "title": "Atomic clocks may keep Air Force drone swarms flying without GPS",
+        "description": "A new Air Force project aims to replace vulnerable satellite signals with atomic clock technology for next-generation drone swarms.",
+        "content": "The US Air Force is turning to atomic clock technology to help coordinate swarms of small drones in environments where traditional satellite navigation is jammed or spoofed, according to a new request for information (RFI) released by the Air Force R... [4713 chars]",
+        "url": "https://interestingengineering.com/military/air-force-atomic-clock-gps",
+        "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/09/Canva-Photo-2025-09-08T192146.739.jpg",
+        "publishedAt": "2025-09-08T16:17:23Z",
+        "lang": "en",
+        "source": {
+          "id": "1a6c3258d04827f52d40713ad8166b1b",
+          "name": "Interesting Engineering",
+          "url": "https://interestingengineering.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "e5aeccfec73bfaa76cb0c39f8ee37b70",
+        "title": "NBA Champion Tristan Thompson: 'AI is the Ultimate Teammate'",
+        "description": "The former NBA player is now co-founder of TracyAI, a sports broadcasting and analysis technology company.",
+        "content": "Over the past few years, artificial intelligence (AI) has begun moving from the sidelines to the center of the sports experience, rapidly reshaping how millions of sports fans engage with the games and the athletes they love. The data leaves no doubt... [4870 chars]",
+        "url": "https://www.newsweek.com/nba-champion-tristan-thompson-ai-ultimate-teammate-2125198",
+        "image": "https://d.newsweek.com/en/full/2716779/tristan-thompson-playing.jpg",
+        "publishedAt": "2025-09-08T16:15:29Z",
+        "lang": "en",
+        "source": {
+          "id": "5b07f2eba74fc799fd5d1ee46c5bafc3",
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "df135377640689c812b7d7a4071416ac",
+        "title": "Venture Catalysts Group raises ₹150 crore",
+        "description": "Venture Catalysts secures ₹150 crore funding for leadership expansion, new funds, technology upgrades, and geographic expansion.",
+        "content": "Venture Catalysts, a multi‑stage venture investing platform, said it has raised ₹150 crore funding comprising a mix of primary and secondary transactions. The company said the proceeds will be used for leadership expansion, the launch of new funds, t... [1044 chars]",
+        "url": "https://www.thehindu.com/business/venture-catalysts-group-raises-150-crore/article70026258.ece",
+        "image": "https://www.thehindu.com/theme/images/og-image.png",
+        "publishedAt": "2025-09-08T16:13:12Z",
+        "lang": "en",
+        "source": {
+          "id": "b33a42ef1c098421f66aad47a76d6a3c",
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "ba89e5b626bf06211032ced90d8a73ea",
+        "title": "Chain Bridge I to merge with CommLoan",
+        "description": "SPAC Chain Bridge I (OTC:CBRRF) and commercial real estate lending technology company CommLoan intend to pursue a potential business combination.",
+        "content": "Chain Bridge I to merge with CommLoan\nSep. 08, 2025 12:12 PM ETChain Bridge I (CBRRF) StockBy: Mary Christine Joy, SA News Editor\nComments\nSPAC Chain Bridge I (OTC:CBRRF) and commercial real estate lending technology company CommLoan intend to pursue... [429 chars]",
+        "url": "https://seekingalpha.com/news/4493085-chain-bridge-i-to-merge-with-commloan",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1344417409/image_1344417409.jpg?io=getty-c-w750",
+        "publishedAt": "2025-09-08T16:12:06Z",
+        "lang": "en",
+        "source": {
+          "id": "a6d401909ca644c4ffb332486c9cfaea",
+          "name": "Seeking Alpha",
+          "url": "https://seekingalpha.com",
+          "country": "us"
+        }
+      }
+    ]
+  }
+}

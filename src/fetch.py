@@ -174,16 +174,24 @@ def fetch_headlines(query: str, page_size: int = 50, language: str = "en") -> Di
     }
 
 
-def save_raw(payload: Dict, tag: str = "tech") -> str:
+def save_raw(payload: Dict, tag: str = "tech", provider: str = None) -> str:
     """
-    Save raw JSON payload to data/raw/ directory with timestamp.
+    Save raw JSON payload to appropriate directory with timestamp.
     Returns the file path.
     """
-    os.makedirs(config.RAW_DIR, exist_ok=True)
+    # Determine save directory based on provider
+    if provider == "gnews":
+        save_dir = config.GNEWS_RAW_DIR
+    elif provider == "newsapi":
+        save_dir = config.NEWSAPI_RAW_DIR
+    else:
+        save_dir = config.RAW_DIR  # Legacy/fallback
+    
+    os.makedirs(save_dir, exist_ok=True)
     
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     filename = f"{timestamp}_{tag}.json"
-    filepath = os.path.join(config.RAW_DIR, filename)
+    filepath = os.path.join(save_dir, filename)
     
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
@@ -191,20 +199,82 @@ def save_raw(payload: Dict, tag: str = "tech") -> str:
     return filepath
 
 
+def collect_from_both_providers(query: str, page_size: int = 50, language: str = "en") -> List[Dict]:
+    """
+    Collect data from both providers when both API keys are available.
+    Returns list of results with provider info.
+    """
+    results = []
+    
+    # Collect from GNews if key available
+    if config.GNEWS_API_KEY:
+        try:
+            raw_response = fetch_gnews(query, page_size, language)
+            normalized_articles = normalize_articles(raw_response, "gnews")
+            result = {
+                "provider": "gnews",
+                "status": "ok",
+                "totalResults": raw_response.get("totalResults", len(normalized_articles)),
+                "articles": normalized_articles,
+                "raw_response": raw_response
+            }
+            results.append(result)
+            print(f"GNews: Fetched {len(normalized_articles)} articles")
+        except Exception as e:
+            print(f"GNews API error: {e}")
+    
+    # Collect from NewsAPI if key available
+    if config.NEWS_API_KEY:
+        try:
+            raw_response = fetch_newsapi(query, page_size, language)
+            normalized_articles = normalize_articles(raw_response, "newsapi")
+            result = {
+                "provider": "newsapi",
+                "status": "ok",
+                "totalResults": raw_response.get("totalResults", len(normalized_articles)),
+                "articles": normalized_articles,
+                "raw_response": raw_response
+            }
+            results.append(result)
+            print(f"NewsAPI: Fetched {len(normalized_articles)} articles")
+        except Exception as e:
+            print(f"NewsAPI error: {e}")
+    
+    return results
+
+
 if __name__ == "__main__":
-    # Fetch headlines and save raw data
-    headlines = fetch_headlines(config.NEWS_QUERY)
-    filepath = save_raw(headlines)
-    
-    article_count = headlines.get("totalResults", 0)
-    articles_list = headlines.get("articles", [])
-    actual_count = len(articles_list)
-    
-    provider = headlines.get("provider", "unknown")
-    print(f"Saved {actual_count} articles to {filepath}")
-    print(f"Provider used: {provider}")
-    
-    if provider == "stub":
-        print("Using stub data (no API key provided)")
+    if config.COLLECT_BOTH and (config.GNEWS_API_KEY or config.NEWS_API_KEY):
+        # Collect from both providers
+        print("Collecting from multiple providers...")
+        results = collect_from_both_providers(config.NEWS_QUERY)
+        
+        if not results:
+            print("No data collected from any provider")
+        else:
+            for result in results:
+                provider = result["provider"]
+                articles = result["articles"]
+                filepath = save_raw(result, provider=provider)
+                print(f"Saved {len(articles)} {provider} articles to {filepath}")
+                
+                if provider != "stub":
+                    print(f"  Total {provider} results available: {result.get('totalResults', 0)}")
     else:
-        print(f"Total results available: {article_count}")
+        # Single provider collection (legacy behavior)
+        print("Collecting from single provider...")
+        headlines = fetch_headlines(config.NEWS_QUERY)
+        provider = headlines.get("provider", "unknown")
+        filepath = save_raw(headlines, provider=provider)
+        
+        article_count = headlines.get("totalResults", 0)
+        articles_list = headlines.get("articles", [])
+        actual_count = len(articles_list)
+        
+        print(f"Saved {actual_count} articles to {filepath}")
+        print(f"Provider used: {provider}")
+        
+        if provider == "stub":
+            print("Using stub data (no API key provided)")
+        else:
+            print(f"Total results available: {article_count}")

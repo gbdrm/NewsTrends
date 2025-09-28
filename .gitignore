@@ -1,1 +1,10 @@
 /.env
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+src/__pycache__/
+src/__pycache__

@@ -1,15 +1,3 @@
-"""
-Data Exploration Module for Tech News Trends
-
-This module provides comprehensive data exploration capabilities for analyzing
-collected news articles using pandas, numpy, and matplotlib.
-
-Step 1: Basic Data Exploration
-- Load all collected JSON files into a unified DataFrame
-- Perform initial data exploration and quality assessment
-- Display key statistics and data structure insights
-"""
-
 import json
 import os
 from pathlib import Path

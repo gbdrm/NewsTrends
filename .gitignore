@@ -1,5 +1,10 @@
 /.env
 
+# Local development files (not for GitHub)
+DEV_PLAN_LOCAL.md
+*_LOCAL.*
+NOTES_LOCAL.*
+
 # Python cache
 **/__pycache__/
 *.pyc

@@ -1,6 +1,7 @@
 /.env
 
 # Local development files (not for GitHub)
+.claude/
 DEV_PLAN_LOCAL.md
 *_LOCAL.*
 NOTES_LOCAL.*

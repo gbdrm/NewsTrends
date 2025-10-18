@@ -1,0 +1,1071 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 47995,
+  "articles": [
+    {
+      "title": "AI-generated lesson plans fall short on inspiring students and promoting critical thinking",
+      "description": "Common chatbots produce generic lesson plans that are unlikely to improve learning, a study finds. It shows how teachers should be critical users – not rapid adopters  − of generative AI.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/ai-generated-lesson-plans-fall-short-on-inspiring-students-and-promoting-critical-thinking-265355",
+      "published_at": "2025-10-17T12:19:26Z",
+      "author": "Torrey Trust, Professor of Learning Technology, UMass Amherst, Robert Maloy, Senior Lecturer of Education, University of Massachusetts",
+      "image_url": "https://images.theconversation.com/files/695711/original/file-20251010-56-z5rh1l.jpg?ixlib=rb-4.1.0&rect=0%2C255%2C8170%2C4085&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "When teachers rely on commonly used artificial intelligence chatbots to devise lesson plans, it does not result in more engaging, immersive or effective learning experiences compared with existing te… [+6778 chars]"
+    },
+    {
+      "title": "'Cockroach' hunting, Bolton indicted, Apple eyes F1 and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/10/17/5-things-to-know-before-the-stock-market-opens.html",
+      "published_at": "2025-10-17T12:18:58Z",
+      "author": null,
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107339507-1701114231815-107339507-1701114120751-gettyimages-1540379512-ZIONS_EARNS.jpg?v=1760650229&w=1920&h=1080",
+      "content": "An automatic teller machine at the Zions Bank headquarters in Salt Lake City, Utah, on July 10, 2023.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbo… [+5501 chars]"
+    },
+    {
+      "title": "OpenAI temporarily stops AI deepfakes of Martin Luther King Jr",
+      "description": "The firm said \"disrespectful\" content had been generated about the civil rights campaigner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y0g79xevxo",
+      "published_at": "2025-10-17T12:17:01Z",
+      "author": null,
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3ba5/live/372f54e0-ab44-11f0-86b3-2dd47a6542fa.jpg",
+      "content": "Liv McMahonTechnology reporter\r\nOpenAI has temporarily stoppedits artificial intelligence (AI) app Sora creating deepfake videos portraying Dr Martin Luther King Jr, following a request from his esta… [+3316 chars]"
+    },
+    {
+      "title": "Evaxion reports 75% Objective Response Rate in phase 2 trial with AI-designed personalized cancer vaccine EVX-01",
+      "description": "COPENHAGEN, Denmark, October 17, 2025 - Evaxion A/S (NASDAQ: EVAX) (“Evaxion”), a clinical-stage TechBio company specializing in developing AI-Immunology™ powered vaccines, announces new two-year unprecedented clinical efficacy data of its personalized cancer…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168593/0/en/Evaxion-reports-75-Objective-Response-Rate-in-phase-2-trial-with-AI-designed-personalized-cancer-vaccine-EVX-01.html",
+      "published_at": "2025-10-17T12:15:00Z",
+      "author": "Evaxion",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/19d0d69c-7f37-4d3b-8f26-2866d4ec3311",
+      "content": "<ul><li>75% Objective Response Rate as 12 out of 16 advanced melanoma patients had objective clinical responses, with 11 of the 12 responders continuing to respond at 24 months follow-up</li><li>Immu… [+8218 chars]"
+    },
+    {
+      "title": "China’s New Export Controls: Critical Implications For U.S. Businesses",
+      "description": "China’s new rare earth export controls reignite the US-China trade war, pressuring markets and forcing American firms to rethink supply chains.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/earlcarr/2025/10/17/chinas-new-export-controls-critical-implications-for-us-businesses/",
+      "published_at": "2025-10-17T12:13:22Z",
+      "author": "Earl Carr, Contributor, \n Earl Carr, Contributor\n https://www.forbes.com/sites/earlcarr/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/68f06d95f1689926d26f324b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "SHENZHEN, CHINA - APRIL 12: A Chinese national flag is seen in the foreground with container ships, cranes, and stacked shipping containers at the Yantian International Container Terminal under cloud… [+12073 chars]"
+    },
+    {
+      "title": "(PR) Fanatec Unveils Flagship Podium Series and Hosts Major Partners at SimRacing Expo 2025",
+      "description": "Fanatec, a brand of Corsair and global leader in sim racing hardware, presents the next generation of its flagship Podium Series and hosts some of the most exciting partners in the industry. At this year's SimRacing Expo, Fanatec revealed two highly anticipat…",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/341997/fanatec-unveils-flagship-podium-series-and-hosts-major-partners-at-simracing-expo-2025",
+      "published_at": "2025-10-17T12:11:30Z",
+      "author": "GFreeman",
+      "image_url": "https://www.techpowerup.com/img/ckE31Rp8qQHLiOXx.jpg",
+      "content": "Fanatec, a brand of Corsair and global leader in sim racing hardware, presents the next generation of its flagship Podium Series and hosts some of the most exciting partners in the industry. At this … [+2486 chars]"
+    },
+    {
+      "title": "Microsoft sounds alarm as hackers turn Teams platform into 'real-world dangers' for users",
+      "description": "Cybercriminals exploit Microsoft Teams through impersonation, malicious links, and fake profiles to gather intel and deliver ransomware to personal and work devices.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/microsoft-sounds-alarm-hackers-turn-teams-platform-real-world-dangers-users",
+      "published_at": "2025-10-17T12:10:48Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/microsoft-teams-bing-smartphone-and-laptop.jpg",
+      "content": "Microsoft is sounding the alarm, and this time, the warning hits home for everyday users. Hackers are now turning Microsoft Teams security threats into real-world dangers that go far beyond corporate… [+9216 chars]"
+    },
+    {
+      "title": "Treasure Data Achieves the AWS Generative AI Competency",
+      "description": "MOUNTAIN VIEW, Calif. — Treasure Data, the Intelligent Customer Data Platform (CDP) built for enterprise scale, announced today that it has achieved the Amazon Web Services (AWS) Generative AI Competency. This specialization recognizes Treasure Data as an AWS…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/treasure-data-achieves-the-aws-generative-ai-competency",
+      "published_at": "2025-10-17T12:10:10Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "MOUNTAIN VIEW, Calif. Treasure Data, the Intelligent Customer Data Platform (CDP) built for enterprise scale, announced today that it has achieved the Amazon Web Services (AWS) Generative AI Competen… [+4729 chars]"
+    },
+    {
+      "title": "IMUNON Invited to Present PlaCCine® DNA Technology Proof-of-Concept Data in Platform Presentations at Leading Vaccine Conferences",
+      "description": "Company seeks strategic partners to advance novel PlaCCine technology  LAWRENCEVILLE, N.J., Oct.  17, 2025  (GLOBE NEWSWIRE) -- IMUNON, Inc. (Nasdaq:......",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168591/0/en/IMUNON-Invited-to-Present-PlaCCine-DNA-Technology-Proof-of-Concept-Data-in-Platform-Presentations-at-Leading-Vaccine-Conferences.html",
+      "published_at": "2025-10-17T12:10:00Z",
+      "author": "Imunon, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/acf78e45-a45b-456b-93e3-0e39f2122826",
+      "content": "Company seeks strategic partners to advance novel PlaCCine technology\r\nLAWRENCEVILLE, N.J., Oct. 17, 2025 (GLOBE NEWSWIRE) -- IMUNON, Inc. (Nasdaq: IMNN), a clinical-stage company focused on developi… [+5807 chars]"
+    },
+    {
+      "title": "The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. From slop to Sotheby’s? AI art enters a new phase In this era of AI slop, the idea that generative AI tools like Midjourn…",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/10/17/1125895/the-download-the-rehabilitation-of-ai-art-and-the-scary-truth-about-antimicrobial-resistance/",
+      "published_at": "2025-10-17T12:10:00Z",
+      "author": "Rhiannon Williams",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/WEB_totalpixelspace.jpg?resize=1200,600",
+      "content": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd.\r\nBut amid all the muck, there are people using AI tools with real consi… [+1077 chars]"
+    },
+    {
+      "title": "US Chip Stocks Tumble As Trade Tensions With China Heat Up",
+      "description": "Semiconductor equities faced sharp selling pressure on Friday, with shares of Nvidia Corporation (NASDAQ:NVDA), Broadcom Inc. (NASDAQ:AVGO), Marvell Technology, Inc. (NASDAQ:MRVL), Taiwan Semiconductor Manufacturing Co. Ltd. (NYSE:TSM), Intel Corporation (NAS…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c54fe36ce012428d",
+      "published_at": "2025-10-17T12:09:25Z",
+      "author": "benzinga.com",
+      "image_url": "https://biztoc.com/cdn/c54fe36ce012428d_s.webp",
+      "content": "Semiconductor equities faced sharp selling pressure on Friday, with shares of Nvidia Corporation (NASDAQ:NVDA), Broadcom Inc. (NASDAQ:AVGO), Marvell Technology, Inc. (NASDAQ:MRVL), Taiwan Semiconduct… [+145 chars]"
+    },
+    {
+      "title": "Most of what we call progress",
+      "description": "What years of software development reveal about progress, process, and people, reflections on why good judgment outlasts tools, and simplicity always wins.",
+      "source": "Yusufaytas.com",
+      "url": "https://yusufaytas.com/most-of-what-we-call-progress/",
+      "published_at": "2025-10-17T12:09:12Z",
+      "author": "https://www.facebook.com/yusufaytas",
+      "image_url": "https://yusufaytas.com/wp-content/uploads/2025/10/keep-it-simple-rust.jpg",
+      "content": "Most of What We Call Progress\r\nMost of what we call progress in software is just motion. New tools, new frameworks, same problems. Maybe fancier logos. Our industry always has this collective thrill … [+14797 chars]"
+    },
+    {
+      "title": "iPhone Air Sells Out In China, While Samsung’s Galaxy S25 Edge Has Taken The Completely Opposite Trajectory",
+      "description": "Apple’s decision to compress the thickness of the iPhone Air meant that it shares a few compromises, but that has not prevented its popularity from skyrocketing in China, because the latest report says that the sleek flagship has sold out across all online st…",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/iphone-air-sells-out-in-china/",
+      "published_at": "2025-10-17T12:07:40Z",
+      "author": "Omar Sohail",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/10/iPhone-Air-3.jpg",
+      "content": "Apples decision to compress the thickness of the iPhone Air meant that it shares a few compromises, but that has not prevented its popularity from skyrocketing in China, because the latest report say… [+3026 chars]"
+    },
+    {
+      "title": "Sex is a big market for the AI industry; ChatGPT won't be the first to tap it",
+      "description": "OpenAI won't be the first to try to profit from sexualised AI. Sexual content was a top draw for AI tools almost as soon as the boom in AI-generated imagery and words erupted in 2022. After three years of largely banning mature content, Altman said Wednesday …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sex-is-a-big-market-for-the-ai-industry-chatgpt-wont-be-the-first-to-tap-it/articleshow/124629438.cms",
+      "published_at": "2025-10-17T12:06:23Z",
+      "author": "By MATT O'BRIEN",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-122228,resizemode-75,msid-124629438/tech/artificial-intelligence/sex-is-a-big-market-for-the-ai-industry-chatgpt-wont-be-the-first-to-tap-it.jpg",
+      "content": "ChatGPT will be able to have kinkier conversations after OpenAI CEO Sam Altman announced the artificial intelligence company will soon allow its chatbot to engage in \"erotica for verified adults.\"Ope… [+6047 chars]"
+    },
+    {
+      "title": "Greg McCall takes BT’s top tech role as Howard Watson retires",
+      "description": "BT’s chief security and networks officer, Howard Watson, has announced his retirement He is being replaced by BT’s current chief networks officer Greg McCall, …",
+      "source": "TelecomTV",
+      "url": "https://www.telecomtv.com/content/access-evolution/greg-mccall-takes-bt-s-top-tech-role-as-howard-watson-retires-54095/",
+      "published_at": "2025-10-17T12:05:22Z",
+      "author": "Ray Le Maistre",
+      "image_url": "https://assets.telecomtv.com/assets/telecomtv/bts-howard-watson-and-greg-mccall-21129.png?w=1200",
+      "content": "BT Group has promoted current chief networks officer Greg McCall to the telco’s top tech role of chief security and networks officer (CSNO) starting on 1 January 2026. McCall will replace Howard Wats… [+5312 chars]"
+    },
+    {
+      "title": "MAX Power Selects Premier Drilling Contractor for Canada’s First Dedicated Natural Hydrogen Well",
+      "description": "MAX Power Saskatchewan Natural Hydrogen Documentary VideoSASKATOON, Saskatchewan, Oct. 17, 2025 (GLOBE NEWSWIRE) — MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FRANKFURT: 89N) (“MAX Power” or the “Company”) is pleased to announce a major operational milesto…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/max-power-selects-premier-drilling-contractor-for-canadas-first-dedicated-natural-hydrogen-well",
+      "published_at": "2025-10-17T12:05:20Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "IBN1108 Lavaca St., Austin, TXUSA78701Ph: (512) 354-7000editor@investorbrandnetwork.com\r\nThe agreement with TAFIN GmbH of Taunusstein, Germany (finanzmedien@tafin.gmbh), is for an initial term of app… [+3689 chars]"
+    },
+    {
+      "title": "Proven Strength, New Chapters Ahead: Chery Super Hybrid (CSH) Global Endurance Test Concludes in Triumph, Paving the Way for the 2025 Chery Brand User Summit",
+      "description": "WUHU, China, Oct. 17, 2025 (GLOBE NEWSWIRE) -- On October 16, 2025 (Beijing Time), the “Endless Horizon Worry-Free Voyage” Chery Super Hybrid (CSH) Global Endurance Test successfully concluded in Wuhu, China. The closing journey spanned three provinces—Shanxi…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168590/0/en/Proven-Strength-New-Chapters-Ahead-Chery-Super-Hybrid-CSH-Global-Endurance-Test-Concludes-in-Triumph-Paving-the-Way-for-the-2025-Chery-Brand-User-Summit.html",
+      "published_at": "2025-10-17T12:05:00Z",
+      "author": "Chery Automobile Co., Ltd.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/26da7feb-dea8-4a3e-b4ce-9f3ffea86534",
+      "content": "WUHU, China, Oct. 17, 2025 (GLOBE NEWSWIRE) -- On October 16, 2025 (Beijing Time), the Endless Horizon Worry-Free Voyage Chery Super Hybrid (CSH) Global Endurance Test successfully concluded in Wuhu,… [+5022 chars]"
+    },
+    {
+      "title": "Assetto Corsa Rally aims to fill a Colin McRae-shaped void, and it's out in early access next month",
+      "description": "Attention, folks who like the idea of flinging a fire-breathing Group B monster down some dirt tracks. Assetto Corsa devs Kunos are bringing out a rally sim. It's called Assetto Corsa Rally, therefore instantly winning the inventive video game name award for …",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/assetto-corsa-rally-aims-to-fill-a-colin-mcrae-shaped-void-and-its-out-in-early-access-next-month",
+      "published_at": "2025-10-17T12:04:39Z",
+      "author": "Mark Warren",
+      "image_url": "https://assetsio.gnwcdn.com/assetto-corsa-rally-announced-early-access-november-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "content": "Attention, folks who like the idea of flinging a fire-breathing Group B monster down some dirt tracks. Assetto Corsa devs Kunos are bringing out a rally sim. It's called Assetto Corsa Rally, therefor… [+2537 chars]"
+    },
+    {
+      "title": "HSBC and Juspay partner for new digital acquiring platform",
+      "description": "The new acquiring platform will leverage HSBC's extensive global network and Juspay's expertise in payments infrastructure.",
+      "source": "Electronicpaymentsinternational.com",
+      "url": "https://www.electronicpaymentsinternational.com/news/hsbc-juspay-acquiring-platform-partnerhship/",
+      "published_at": "2025-10-17T12:04:14Z",
+      "author": "GlobalData",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/I2.QChVuXt37Gmu0hYucfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/electronic_payments_938/8736b5fbbe20ed3023c3d05c10974a9e",
+      "content": "HSBC and Juspay have entered a strategic partnership to develop an advanced acquiring platform for digital-first global merchants.\r\nThe new platform will leverage HSBC's extensive global network and … [+2659 chars]"
+    },
+    {
+      "title": "Businesses Warn of Labor Shortages as Trump Faces Lawsuit Over H-1B Visa Costs",
+      "description": "US businesses sue Trump administration over $100,000 H-1B visa fee, warning of labor shortages.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/businesses-warn-labor-shortages-trump-faces-lawsuit-over-h-1b-visa-costs-3787406",
+      "published_at": "2025-10-17T12:02:54Z",
+      "author": "Madelaine Panganiban",
+      "image_url": "https://d.ibtimes.com/en/full/4629320/trump-media-partners-cryptocom-1-billion-cro-crypto.jpg",
+      "content": "The US Chamber of Commerce is suing President Donald Trump's administration over a new $100,000 fee on H-1B visa applications for highly skilled foreign workers.\r\nThe lawsuit, filed Thursday in Washi… [+2597 chars]"
+    },
+    {
+      "title": "Europe’s Food Biotech Alliance To Bridge Trust, Policy And Capital",
+      "description": "Europe’s new Agrifood Biotech Alliance aims to turn food biotechnology into trusted, investable infrastructure, linking innovation, regulation, and capital.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/feliciajackson/2025/10/17/europes-food-biotech-push-aims-to-bridge-trust-policy-and-capital/",
+      "published_at": "2025-10-17T12:02:19Z",
+      "author": "Felicia Jackson, Contributor, \n Felicia Jackson, Contributor\n https://www.forbes.com/sites/feliciajackson/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/68f2246d11a00ddd55b04c86/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "man closing the lid of a milk container. jobs\r\ngetty\r\nEuropes next wave of biotech innovation could determine how the continent feeds itself as climate disruption and supply-chain shocks intensify. B… [+9690 chars]"
+    },
+    {
+      "title": "Forbes Daily: U.S. Chamber Sues Over $100,000 H-1B Visa Fee",
+      "description": "Today’s Forbes Daily newsletter covers Chobani's latest fundraise, homebuilder confidence jumps, a new data storage billionaire, the highest-paid soccer players and more.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/daniellechemtob/2025/10/17/forbes-daily-us-chamber-sues-over-100000-h-1b-visa-fee/",
+      "published_at": "2025-10-17T12:01:39Z",
+      "author": "Danielle Chemtob, Forbes Staff, \n Danielle Chemtob, Forbes Staff\n https://www.forbes.com/sites/daniellechemtob/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/68f22f5c8e83354b37523532/0x0.jpg?format=jpg&crop=1363,766,x0,y70,safe&height=900&width=1600&fit=bounds",
+      "content": "When it comes to evaluating labor market data, its not just about the quantity of jobsits also about the quality.And most Americans arent feeling good about that, either.\r\nA new report found that jus… [+8140 chars]"
+    },
+    {
+      "title": "Pixel 4 Watch Tips and Tricks: Master Your Smartwatch Today",
+      "description": "The Pixel 4 Watch is a sophisticated smartwatch designed to integrate into your daily life seamlessly. With its advanced features, it offers a blend of convenience, safety, and personalization to meet diverse user needs. Whether you’re managing calls, trackin…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/?p=472664",
+      "published_at": "2025-10-17T12:00:45Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/pixel-4-watch-gesture-controls-guide_optimized.jpg",
+      "content": "The Pixel 4 Watch is a sophisticated smartwatch designed to integrate into your daily life seamlessly. With its advanced features, it offers a blend of convenience, safety, and personalization to mee… [+6253 chars]"
+    },
+    {
+      "title": "Prerna launches CANTEL™: A MicroRNA-based blood test for breast cancer screening",
+      "description": "PrecisionRNA Biotech from Hyderabad has launched Cantel, a new microRNA blood test for breast cancer screening. This test offers a simple and accurate alternative to traditional methods. It aims to improve early detection rates in India. Cantel is designed fo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/prerna-launches-cantel-a-microrna-based-blood-test-for-breast-cancer-screening/articleshow/124628966.cms",
+      "published_at": "2025-10-17T12:00:22Z",
+      "author": "Spotlight Wire",
+      "image_url": "https://img.etimg.com/thumb/msid-124629155,width-1200,height-630,imgsize-14692,overlay-economictimes/articleshow.jpg",
+      "content": "PrecisionRNA Biotech Pvt Ltd (Prerna), a healthcare innovation company from Hyderabad, today announced the launch of Cantel, a microRNA-based blood test for breast cancer screening. This groundbreaki… [+3209 chars]"
+    },
+    {
+      "title": "Organized crime rings drive street takeovers by using kids to steal cars for wild stunts: expert",
+      "description": "Street takeovers organized on social media involve stolen high-performance cars, with thieves targeting luxury vehicles and using new technology to steal them.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/organized-crime-rings-drive-street-takeovers-using-kids-steal-cars-wild-stunts-expert",
+      "published_at": "2025-10-17T12:00:04Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/donut-gif-final.gif",
+      "content": "Authorities are racing to pump the brakes on a startling trend involving organized criminals using stolen vehicles to terrorize communities, with videos of chaotic street takeovers wreaking havoc fro… [+6787 chars]"
+    },
+    {
+      "title": "Windows 10’s death sure doesn’t feel like a PC apocalypse",
+      "description": "Welcome to The Full Nerd newsletter—your weekly dose of hardware talk from the enthusiasts at PCWorld. Missed the latest topics on our YouTube show or burning news from across the web? You’re in the right place. \r\n\n\n\n\nFor this edition, I’m tag-teaming with Br…",
+      "source": "PCWorld",
+      "url": "https://www.pcworld.com/article/2944594/windows-10s-death-sure-doesnt-feel-like-a-pc-apocalypse.html",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "Alaina Yee, Brad Chacos",
+      "image_url": "https://www.pcworld.com/wp-content/uploads/2025/10/Windows-10-laptop-on-a-desk-in-dramatic-lighting-2.jpg?quality=50&strip=all&w=1024",
+      "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWelcome to The Full Nerd newsletter—your weekly dose… [+8263 chars]"
+    },
+    {
+      "title": "Novartis Kisqali® 5-year NATALEE data demonstrate 28% reduction in risk of recurrence in the broadest early breast cancer patient population",
+      "description": "Basel, October 17, 2025 – Novartis today announced results from the five-year analysis of the pivotal Phase III NATALEE trial of Kisqali® (ribociclib) that demonstrated a sustained benefit at a median of two years after a three-year treatment with Kisqali (me…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168565/0/en/Novartis-Kisqali-5-year-NATALEE-data-demonstrate-28-reduction-in-risk-of-recurrence-in-the-broadest-early-breast-cancer-patient-population.html",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "Novartis Pharma  AG",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/5d242013-5d1f-440c-8ba6-3b5d3799b035",
+      "content": "<ul><li>After 5 years, Kisqali® plus endocrine therapy consistently shows significant and clinically meaningful benefit in invasive disease-free survival1</li><li>Kisqali remains the only CDK4/6 inhi… [+17839 chars]"
+    },
+    {
+      "title": "SEALSQ Announces Development of QASIC, the Quantum-Resistant ASIC, By IC’Alps",
+      "description": "Geneva, Switzerland, Oct.  17, 2025  (GLOBE NEWSWIRE) --   From Catalog ICs to Custom ICs and Security IP, a unified offering to shape the post-quantum......",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168578/0/en/SEALSQ-Announces-Development-of-QASIC-the-Quantum-Resistant-ASIC-By-IC-Alps.html",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "SEAL Semiconductors",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df",
+      "content": "Geneva, Switzerland, Oct. 17, 2025 (GLOBE NEWSWIRE) -- \r\nFrom Catalog ICs to Custom ICs and Security IP, a unified offering to shape the post-quantum era.\r\nSEALSQ Corp (NASDAQ: LAES), a global leader… [+6453 chars]"
+    },
+    {
+      "title": "Who Gets to Procreate and Parent? A Black Feminist Critique of the Pronatalist Agenda",
+      "description": "Pronatalism is not simply about encouraging births—it is a political project rooted in racism and control. Its goal is to engineer a future that permits only certain people to bear and raise children while coercing or punishing others for reproducing or paren…",
+      "source": "Ms. Magazine",
+      "url": "https://msmagazine.com/2025/10/17/feminist-pronatalism-birth-rate-black-women-adriana-smith-reproductive-justice/",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "Jallicia A. Jolly",
+      "image_url": "https://msmagazine.com/wp-content/uploads/2025/10/GettyImages-2221265481-1.jpg",
+      "content": "Luna Hernandez points to a photo of Adriana Smith while speaking as protesters rally on the three-year anniversary of the U.S. Supreme Court decision overturning Roe v Wade on June 24, 2025, in Los A… [+8453 chars]"
+    },
+    {
+      "title": "MAX Power Selects Premier Drilling Contractor for Canada’s First Dedicated Natural Hydrogen Well",
+      "description": "MAX Power Saskatchewan Natural Hydrogen Documentary Videohttps://www.maxpowermining.com/NaturalHydrogen-NewEra/    SASKATOON, Saskatchewan, Oct.  17, 2025...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168577/0/en/MAX-Power-Selects-Premier-Drilling-Contractor-for-Canada-s-First-Dedicated-Natural-Hydrogen-Well.html",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "MAX Power Mining Corp",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/fc6a8c68-8fa8-4b43-a78d-bab1dd02c661",
+      "content": "MAX Power Saskatchewan Natural Hydrogen Documentary Video\r\nhttps://www.maxpowermining.com/NaturalHydrogen-NewEra/\r\nSASKATOON, Saskatchewan, Oct. 17, 2025 (GLOBE NEWSWIRE) -- MAX Power Mining Corp. (C… [+8567 chars]"
+    },
+    {
+      "title": "Atlas Copco Offices – Hemel Hempstead",
+      "description": "The Atlas Copco Group, UK project was about transforming a dilapidated 55,000 sq ft space...\nThe post Atlas Copco Offices – Hemel Hempstead appeared first on Office Snapshots.",
+      "source": "Officesnapshots.com",
+      "url": "https://officesnapshots.com/2025/10/17/atlas-copco-offices-hemel-hempstead/",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "Stephen Searer",
+      "image_url": "https://officesnapshots.com/wp-content/uploads/2025/10/atlas-copco-offices-hemel-hempstead-12.jpg",
+      "content": "Habit Action’s Atlas Copco offices in Hemel Hempstead expertly transform a 55,000 square-foot space into a collaborative and sustainable hub, prioritizing employee well-being and celebrating the bran… [+6621 chars]"
+    },
+    {
+      "title": "Meta Vibes Is Here and It’s About To Shake Up Short-Form Content (+ How It Opens New Doors for Brands)",
+      "description": "Meta Vibes just dropped. Learn how this new AI video feed in the Meta AI app turns users into creators and what brands and marketers need to do to adapt.",
+      "source": "Webfx.com",
+      "url": "https://www.webfx.com/blog/ai/meta-vibes-ai-videos/",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "Albert Dandy Velasquez",
+      "image_url": "https://www.webfx.com/wp-content/uploads/2025/10/102504_meta_vibes_ai-1.png",
+      "content": "Meta Vibes just dropped, and it’s already refashioning what short-form content can look like. Announced on September 25, 2025, this new AI video feed gives anyone the power to create or remix videos … [+10231 chars]"
+    },
+    {
+      "title": "MEXQuick Showcases AI-Driven Market making Technology at TOKEN2049 Singapore Summit",
+      "description": "Engages in Ecosystem Collaboration with MEXC to Advance Lightweight Global Trading Engages in Ecosystem Collaboration with MEXC to Advance Lightweight Global Trading",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168575/0/en/MEXQuick-Showcases-AI-Driven-Market-making-Technology-at-TOKEN2049-Singapore-Summit.html",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "MEXQuick",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/efc5e435-78a1-43ae-bb90-d55b2d97cc79",
+      "content": "Singapore, Oct. 17, 2025 (GLOBE NEWSWIRE) -- Web3 derivatives platform MEXQuick participated in the TOKEN2049 Singapore Summit held at Marina Bay Sands on October 12, showcasing its AI-powered market… [+5156 chars]"
+    },
+    {
+      "title": "Top Employment Law Changes In Q3 2025: What Employers Must Know",
+      "description": "Discover key Q3 2025 employment law updates on fair chance hiring, pay transparency, cannabis testing, AI regulation, and I-9 compliance that impact employers.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/alonzomartinez/2025/10/17/top-employment-law-changes-in-q3-2025-what-employers-must-know/",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "Alonzo Martinez, Senior Contributor, \n Alonzo Martinez, Senior Contributor\n https://www.forbes.com/sites/alonzomartinez/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/68f12a1528d21fe1c66b2c3e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "The third quarter of 2025 revealed a hard truth: compliance is no longer reactive, it must be proactive, documented, and defensible. Legal obligations now extend beyond the what and into the how and … [+12215 chars]"
+    },
+    {
+      "title": "Terra Innovatum Global Files New Investor Presentation Updating Timeline for First-of-A-Kind SOLO™ Deployment in 2027 from 2028",
+      "description": "NEW YORK, Oct. 17, 2025 (GLOBE NEWSWIRE) -- Terra Innovatum Global N.V. (“Terra Innovatum” or the “Company”) (NASDAQ: NKLR), a developer of micro-modular nuclear reactors, today filed a new investor presentation including updates to the timeline for the deplo…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168580/0/en/Terra-Innovatum-Global-Files-New-Investor-Presentation-Updating-Timeline-for-First-of-A-Kind-SOLO-Deployment-in-2027-from-2028.html",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "Terra Innovatum Global N.V",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/dd95abf0-9913-40d1-a81f-e9125f9b0759",
+      "content": "NEW YORK, Oct. 17, 2025 (GLOBE NEWSWIRE) -- Terra Innovatum Global N.V. (Terra Innovatum or the Company) (NASDAQ: NKLR), a developer of micro-modular nuclear reactors, today filed a new investor pres… [+9067 chars]"
+    },
+    {
+      "title": "PodcastOne (NASDAQ: PODC) and Digital Media Giant BuzzFeed Join Forces for Original Podcast Series: Phone A Fangirl",
+      "description": "Phone A Fangirl Sets the K-Pop World on Fire with Over 100k Plays in 24hrs, Marks First Podcast in Strategic Development Pipeline Orchestrated by PodcastOne",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168576/0/en/PodcastOne-NASDAQ-PODC-and-Digital-Media-Giant-BuzzFeed-Join-Forces-for-Original-Podcast-Series-Phone-A-Fangirl.html",
+      "published_at": "2025-10-17T12:00:00Z",
+      "author": "PodcastOne",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/cc4dd733-0525-4e27-9a1f-8130762da9c5",
+      "content": "Phone A Fangirl Sets the K-Pop World on Fire with Over 100k Plays in 24hrs, Marks First Podcast in Strategic Development Pipeline Orchestrated by PodcastOne\r\nUpcoming Guests Include TOMORROW X TOGETH… [+6814 chars]"
+    },
+    {
+      "title": "AI revolution in gaming: NPCs with memory, emotions and real personality – beyond games",
+      "description": "NPCs that remember players, display emotions and form genuine bonds – what once sounded like science fiction is now becoming reality. A young start-up from San Francisco is developing AI-driven characters that continue to grow and evolve beyond the game itsel…",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/AI-revolution-in-gaming-NPCs-with-memory-emotions-and-real-personality-beyond-games.1140779.0.html",
+      "published_at": "2025-10-17T11:59:00Z",
+      "author": "Marius Müller",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/EGO-AI-KI-Charaktere.jpg",
+      "content": "Founded in 2023, the San Franciscobased AI start-up ego AI has launched character.world, a platform that brings virtual characters to life complete with memory, emotions and the ability to form relat… [+1876 chars]"
+    },
+    {
+      "title": "Tata Tech Q2 Results: Profit rises 5% YoY to Rs 166 crore on non-core business boost",
+      "description": "Indian engineering firm Tata Technologies reported a 5% rise in second-quarter profit on Friday, as growth in its non-automotive business cushioned weakness in its key auto-focused segment",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-tech-q2-results-profit-rises-5-yoy-to-rs-166-crore-on-non-core-business-boost/articleshow/124628944.cms",
+      "published_at": "2025-10-17T11:51:12Z",
+      "author": "Reuters",
+      "image_url": "https://img.etimg.com/thumb/msid-124628944,width-1200,height-630,imgsize-32942,overlay-etmarkets/articleshow.jpg",
+      "content": "Indian engineering firm Tata Technologies reported a 5% rise in second-quarter profit on Friday, as growth in its non-automotive business cushioned weakness in its key auto-focused segment.The firm, … [+1301 chars]"
+    },
+    {
+      "title": "Pandag Tech to Showcase Commercial Autonomous Lawn Mowers at Equipment Expo 2025",
+      "description": "The Pandag G1 delivers intelligent, eco-friendly mowing solutions for commercial landscapes and large- scale operations. The Pandag G1 delivers intelligent, eco-friendly mowing solutions for commercial landscapes and large- scale operations.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/17/3168561/0/en/Pandag-Tech-to-Showcase-Commercial-Autonomous-Lawn-Mowers-at-Equipment-Expo-2025.html",
+      "published_at": "2025-10-17T11:50:00Z",
+      "author": "Pandag Tech",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/13e0e634-6e34-45d5-913d-8073fed49e34",
+      "content": "LOUISVILLE, Ky., Oct. 17, 2025 (GLOBE NEWSWIRE) -- Pandag Tech, a technology-driven company specializing in smart commercial equipment, will debut its Pandag G1 Commercial Autonomous Lawn Mower in th… [+2761 chars]"
+    },
+    {
+      "title": "CRISIS REPORT: Universal Studios Loses $421 Million, ‘Harry Potter’ Land Blamed",
+      "description": "A recent report suggests that one of Universal’s newest theme parks isn’t doing so hot financially. For decades, Universal has relied on a tried-and-tested formula of attractions and entertainment inspired by fan-favorite movies to lure in guests. While some …",
+      "source": "Inside the Magic",
+      "url": "https://insidethemagic.net/2025/10/universal-studios-losing-money-harry-potter-blamed-cj1/",
+      "published_at": "2025-10-17T11:49:21Z",
+      "author": "Chloe James",
+      "image_url": "https://insidethemagic.net/wp-content/uploads/2025/10/wizarding-world-of-harry-potter.jpg",
+      "content": "A recent report suggests that one of Universal’s newest theme parks isn’t doing so hot financially.\r\nFor decades, Universal has relied on a tried-and-tested formula of attractions and entertainment i… [+4001 chars]"
+    },
+    {
+      "title": "U.S. Stock Futures Down Amid Commercial Loan Losses",
+      "description": "U.S. stocks fell Thursday after two regional banks announced credit-quality issues. Also: What is FCF in investing?",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/catherinebrock/2025/10/17/us-stock-futures-down-amid-commercial-loan-losses/",
+      "published_at": "2025-10-17T11:47:48Z",
+      "author": "Catherine Brock, Contributor, \n Catherine Brock, Contributor\n https://www.forbes.com/sites/wealth-planning-insights/people/catherinebrock/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/68f22c23bbf59fc5799174bc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "U.S. stocks fell Thursday after two regional banks announced credit-quality issues. \r\ngetty\r\nU.S. stocks fell Thursday after two regional banks announced credit-quality issues. Zions Bancorporation s… [+3032 chars]"
+    },
+    {
+      "title": "Dongfeng Nissan previews new electric N6 sedan, Teana",
+      "description": "China is playing an increasingly important role in Nissan’s global NEV strategy.",
+      "source": "Just-auto.com",
+      "url": "https://www.just-auto.com/news/dongfeng-nissan-previews-new-electric-n6-sedan-teana/",
+      "published_at": "2025-10-17T11:46:11Z",
+      "author": "GlobalData",
+      "image_url": "https://media.zenfs.com/en/just_auto_187/51209da82fefa3d8a09e406ec75dea92",
+      "content": "Nissan Motors Chinese joint venture, Dongfeng Nissan, has provided a preview of its first plug-in hybrid sedan, the N6, along with the new Teana sedan, as part of the second phase of the companys Re:… [+2348 chars]"
+    },
+    {
+      "title": "Launch of Apple's First Foldable iPhone Could Be Delayed",
+      "description": "The launch of Apple's first foldable iPhone could be delayed to 2027, according to Japan's Mizuho Securities (via The Elec).\n\n\n\n\n\nThe investment banking and securities firm suggested that a potential postponement could be due to Apple taking longer to decide …",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/10/17/foldable-iphone-could-be-delayed/",
+      "published_at": "2025-10-17T11:44:59Z",
+      "author": "Hartley Charlton",
+      "image_url": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "content": "The launch of Apple's first foldable iPhone could be delayed to 2027, according to Japan's Mizuho Securities (via The Elec).\r\nThe investment banking and securities firm suggested that a potential pos… [+1386 chars]"
+    },
+    {
+      "title": "Meta introduces new AI safeguards for teens",
+      "description": "Meta, the parent company of Facebook, Instagram and WhatsApp, has announced new safeguards for teens interacting with its artificial intelligence (AI) tools.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2025/1017/1539117-meta-introduces-new-ai-safeguards-for-teens/",
+      "published_at": "2025-10-17T11:43:52Z",
+      "author": "Brian O'Donovan",
+      "image_url": "https://www.rte.ie/images/00224d17-1600.jpg",
+      "content": "Meta, the parent company of Facebook, Instagram and WhatsApp, has announced new safeguards for teens interacting with its artificial intelligence (AI) tools.\r\nUnder new controls, parents will be able… [+1041 chars]"
+    },
+    {
+      "title": "The Styling Trick That Makes Any Wide-Leg Fit Look Effortless",
+      "description": "Slim fits are out — flow is in. From relaxed denim to pleated wool trousers, wide-leg pants are redefining modern menswear. Here’s how to wear them with confidence and look sharp doing it. 1. Get the Fit Right Baggy doesn’t mean sloppy. The first rule: make s…",
+      "source": "Fashionbeans.com",
+      "url": "https://www.fashionbeans.com/article/wide-leg-pants/",
+      "published_at": "2025-10-17T11:41:24Z",
+      "author": "FashionBeans Editors",
+      "image_url": "https://www.fashionbeans.com/wp-content/uploads/2025/10/WideLegTrousers.jpg",
+      "content": "Slim fits are out flow is in. From relaxed denim to pleated wool trousers, wide-leg pants are redefining modern menswear. Heres how to wear them with confidence and look sharp doing it.\r\n1. Get the F… [+4232 chars]"
+    },
+    {
+      "title": "OPPO Find X9 Series to launch in India next month: Check features, variants, likely launch date and price",
+      "description": "OPPO's Find X9 series is set to launch in India in November 2025, following its global debut. The flagship phones will feature the MediaTek Dimensity 9500 chipset and Android 16-based ColorOS 16. The Find X9 Pro boasts a 200MP telephoto lens and a 7,500mAh ba…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/oppo-find-x9-series-to-launch-in-india-next-month-check-date-price-features-and-other-details/articleshow/124628502.cms",
+      "published_at": "2025-10-17T11:40:52Z",
+      "author": "ET Online",
+      "image_url": "https://img.etimg.com/thumb/msid-124628701,width-1200,height-630,imgsize-558362,overlay-economictimes/articleshow.jpg",
+      "content": "OPPO has officially confirmed that its highly anticipated Find X9 series will arrive in India in November 2025, following its global debut on October 28. The phone comes in two variants - OPPO Find X… [+1948 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 47995,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "Torrey Trust, Professor of Learning Technology, UMass Amherst, Robert Maloy, Senior Lecturer of Education, University of Massachusetts",
+        "title": "AI-generated lesson plans fall short on inspiring students and promoting critical thinking",
+        "description": "Common chatbots produce generic lesson plans that are unlikely to improve learning, a study finds. It shows how teachers should be critical users – not rapid adopters  − of generative AI.",
+        "url": "https://theconversation.com/ai-generated-lesson-plans-fall-short-on-inspiring-students-and-promoting-critical-thinking-265355",
+        "urlToImage": "https://images.theconversation.com/files/695711/original/file-20251010-56-z5rh1l.jpg?ixlib=rb-4.1.0&rect=0%2C255%2C8170%2C4085&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2025-10-17T12:19:26Z",
+        "content": "When teachers rely on commonly used artificial intelligence chatbots to devise lesson plans, it does not result in more engaging, immersive or effective learning experiences compared with existing te… [+6778 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": null,
+        "title": "'Cockroach' hunting, Bolton indicted, Apple eyes F1 and more in Morning Squawk",
+        "description": "Here are five key things investors need to know to start the trading day.",
+        "url": "https://www.cnbc.com/2025/10/17/5-things-to-know-before-the-stock-market-opens.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107339507-1701114231815-107339507-1701114120751-gettyimages-1540379512-ZIONS_EARNS.jpg?v=1760650229&w=1920&h=1080",
+        "publishedAt": "2025-10-17T12:18:58Z",
+        "content": "An automatic teller machine at the Zions Bank headquarters in Salt Lake City, Utah, on July 10, 2023.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbo… [+5501 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "OpenAI temporarily stops AI deepfakes of Martin Luther King Jr",
+        "description": "The firm said \"disrespectful\" content had been generated about the civil rights campaigner.",
+        "url": "https://www.bbc.com/news/articles/c5y0g79xevxo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3ba5/live/372f54e0-ab44-11f0-86b3-2dd47a6542fa.jpg",
+        "publishedAt": "2025-10-17T12:17:01Z",
+        "content": "Liv McMahonTechnology reporter\r\nOpenAI has temporarily stoppedits artificial intelligence (AI) app Sora creating deepfake videos portraying Dr Martin Luther King Jr, following a request from his esta… [+3316 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Evaxion",
+        "title": "Evaxion reports 75% Objective Response Rate in phase 2 trial with AI-designed personalized cancer vaccine EVX-01",
+        "description": "COPENHAGEN, Denmark, October 17, 2025 - Evaxion A/S (NASDAQ: EVAX) (“Evaxion”), a clinical-stage TechBio company specializing in developing AI-Immunology™ powered vaccines, announces new two-year unprecedented clinical efficacy data of its personalized cancer…",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168593/0/en/Evaxion-reports-75-Objective-Response-Rate-in-phase-2-trial-with-AI-designed-personalized-cancer-vaccine-EVX-01.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/19d0d69c-7f37-4d3b-8f26-2866d4ec3311",
+        "publishedAt": "2025-10-17T12:15:00Z",
+        "content": "<ul><li>75% Objective Response Rate as 12 out of 16 advanced melanoma patients had objective clinical responses, with 11 of the 12 responders continuing to respond at 24 months follow-up</li><li>Immu… [+8218 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Earl Carr, Contributor, \n Earl Carr, Contributor\n https://www.forbes.com/sites/earlcarr/",
+        "title": "China’s New Export Controls: Critical Implications For U.S. Businesses",
+        "description": "China’s new rare earth export controls reignite the US-China trade war, pressuring markets and forcing American firms to rethink supply chains.",
+        "url": "https://www.forbes.com/sites/earlcarr/2025/10/17/chinas-new-export-controls-critical-implications-for-us-businesses/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f06d95f1689926d26f324b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-17T12:13:22Z",
+        "content": "SHENZHEN, CHINA - APRIL 12: A Chinese national flag is seen in the foreground with container ships, cranes, and stacked shipping containers at the Yantian International Container Terminal under cloud… [+12073 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techpowerup.com"
+        },
+        "author": "GFreeman",
+        "title": "(PR) Fanatec Unveils Flagship Podium Series and Hosts Major Partners at SimRacing Expo 2025",
+        "description": "Fanatec, a brand of Corsair and global leader in sim racing hardware, presents the next generation of its flagship Podium Series and hosts some of the most exciting partners in the industry. At this year's SimRacing Expo, Fanatec revealed two highly anticipat…",
+        "url": "https://www.techpowerup.com/341997/fanatec-unveils-flagship-podium-series-and-hosts-major-partners-at-simracing-expo-2025",
+        "urlToImage": "https://www.techpowerup.com/img/ckE31Rp8qQHLiOXx.jpg",
+        "publishedAt": "2025-10-17T12:11:30Z",
+        "content": "Fanatec, a brand of Corsair and global leader in sim racing hardware, presents the next generation of its flagship Podium Series and hosts some of the most exciting partners in the industry. At this … [+2486 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Microsoft sounds alarm as hackers turn Teams platform into 'real-world dangers' for users",
+        "description": "Cybercriminals exploit Microsoft Teams through impersonation, malicious links, and fake profiles to gather intel and deliver ransomware to personal and work devices.",
+        "url": "https://www.foxnews.com/tech/microsoft-sounds-alarm-hackers-turn-teams-platform-real-world-dangers-users",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/microsoft-teams-bing-smartphone-and-laptop.jpg",
+        "publishedAt": "2025-10-17T12:10:48Z",
+        "content": "Microsoft is sounding the alarm, and this time, the warning hits home for everyday users. Hackers are now turning Microsoft Teams security threats into real-world dangers that go far beyond corporate… [+9216 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Treasure Data Achieves the AWS Generative AI Competency",
+        "description": "MOUNTAIN VIEW, Calif. — Treasure Data, the Intelligent Customer Data Platform (CDP) built for enterprise scale, announced today that it has achieved the Amazon Web Services (AWS) Generative AI Competency. This specialization recognizes Treasure Data as an AWS…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/treasure-data-achieves-the-aws-generative-ai-competency",
+        "urlToImage": null,
+        "publishedAt": "2025-10-17T12:10:10Z",
+        "content": "MOUNTAIN VIEW, Calif. Treasure Data, the Intelligent Customer Data Platform (CDP) built for enterprise scale, announced today that it has achieved the Amazon Web Services (AWS) Generative AI Competen… [+4729 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Imunon, Inc.",
+        "title": "IMUNON Invited to Present PlaCCine® DNA Technology Proof-of-Concept Data in Platform Presentations at Leading Vaccine Conferences",
+        "description": "Company seeks strategic partners to advance novel PlaCCine technology  LAWRENCEVILLE, N.J., Oct.  17, 2025  (GLOBE NEWSWIRE) -- IMUNON, Inc. (Nasdaq:......",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168591/0/en/IMUNON-Invited-to-Present-PlaCCine-DNA-Technology-Proof-of-Concept-Data-in-Platform-Presentations-at-Leading-Vaccine-Conferences.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/acf78e45-a45b-456b-93e3-0e39f2122826",
+        "publishedAt": "2025-10-17T12:10:00Z",
+        "content": "Company seeks strategic partners to advance novel PlaCCine technology\r\nLAWRENCEVILLE, N.J., Oct. 17, 2025 (GLOBE NEWSWIRE) -- IMUNON, Inc. (Nasdaq: IMNN), a clinical-stage company focused on developi… [+5807 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MIT Technology Review"
+        },
+        "author": "Rhiannon Williams",
+        "title": "The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance",
+        "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. From slop to Sotheby’s? AI art enters a new phase In this era of AI slop, the idea that generative AI tools like Midjourn…",
+        "url": "https://www.technologyreview.com/2025/10/17/1125895/the-download-the-rehabilitation-of-ai-art-and-the-scary-truth-about-antimicrobial-resistance/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/WEB_totalpixelspace.jpg?resize=1200,600",
+        "publishedAt": "2025-10-17T12:10:00Z",
+        "content": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd.\r\nBut amid all the muck, there are people using AI tools with real consi… [+1077 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "benzinga.com",
+        "title": "US Chip Stocks Tumble As Trade Tensions With China Heat Up",
+        "description": "Semiconductor equities faced sharp selling pressure on Friday, with shares of Nvidia Corporation (NASDAQ:NVDA), Broadcom Inc. (NASDAQ:AVGO), Marvell Technology, Inc. (NASDAQ:MRVL), Taiwan Semiconductor Manufacturing Co. Ltd. (NYSE:TSM), Intel Corporation (NAS…",
+        "url": "https://biztoc.com/x/c54fe36ce012428d",
+        "urlToImage": "https://biztoc.com/cdn/c54fe36ce012428d_s.webp",
+        "publishedAt": "2025-10-17T12:09:25Z",
+        "content": "Semiconductor equities faced sharp selling pressure on Friday, with shares of Nvidia Corporation (NASDAQ:NVDA), Broadcom Inc. (NASDAQ:AVGO), Marvell Technology, Inc. (NASDAQ:MRVL), Taiwan Semiconduct… [+145 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yusufaytas.com"
+        },
+        "author": "https://www.facebook.com/yusufaytas",
+        "title": "Most of what we call progress",
+        "description": "What years of software development reveal about progress, process, and people, reflections on why good judgment outlasts tools, and simplicity always wins.",
+        "url": "https://yusufaytas.com/most-of-what-we-call-progress/",
+        "urlToImage": "https://yusufaytas.com/wp-content/uploads/2025/10/keep-it-simple-rust.jpg",
+        "publishedAt": "2025-10-17T12:09:12Z",
+        "content": "Most of What We Call Progress\r\nMost of what we call progress in software is just motion. New tools, new frameworks, same problems. Maybe fancier logos. Our industry always has this collective thrill … [+14797 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Omar Sohail",
+        "title": "iPhone Air Sells Out In China, While Samsung’s Galaxy S25 Edge Has Taken The Completely Opposite Trajectory",
+        "description": "Apple’s decision to compress the thickness of the iPhone Air meant that it shares a few compromises, but that has not prevented its popularity from skyrocketing in China, because the latest report says that the sleek flagship has sold out across all online st…",
+        "url": "https://wccftech.com/iphone-air-sells-out-in-china/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/iPhone-Air-3.jpg",
+        "publishedAt": "2025-10-17T12:07:40Z",
+        "content": "Apples decision to compress the thickness of the iPhone Air meant that it shares a few compromises, but that has not prevented its popularity from skyrocketing in China, because the latest report say… [+3026 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "By MATT O'BRIEN",
+        "title": "Sex is a big market for the AI industry; ChatGPT won't be the first to tap it",
+        "description": "OpenAI won't be the first to try to profit from sexualised AI. Sexual content was a top draw for AI tools almost as soon as the boom in AI-generated imagery and words erupted in 2022. After three years of largely banning mature content, Altman said Wednesday …",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sex-is-a-big-market-for-the-ai-industry-chatgpt-wont-be-the-first-to-tap-it/articleshow/124629438.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-122228,resizemode-75,msid-124629438/tech/artificial-intelligence/sex-is-a-big-market-for-the-ai-industry-chatgpt-wont-be-the-first-to-tap-it.jpg",
+        "publishedAt": "2025-10-17T12:06:23Z",
+        "content": "ChatGPT will be able to have kinkier conversations after OpenAI CEO Sam Altman announced the artificial intelligence company will soon allow its chatbot to engage in \"erotica for verified adults.\"Ope… [+6047 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "TelecomTV"
+        },
+        "author": "Ray Le Maistre",
+        "title": "Greg McCall takes BT’s top tech role as Howard Watson retires",
+        "description": "BT’s chief security and networks officer, Howard Watson, has announced his retirement He is being replaced by BT’s current chief networks officer Greg McCall, …",
+        "url": "https://www.telecomtv.com/content/access-evolution/greg-mccall-takes-bt-s-top-tech-role-as-howard-watson-retires-54095/",
+        "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/bts-howard-watson-and-greg-mccall-21129.png?w=1200",
+        "publishedAt": "2025-10-17T12:05:22Z",
+        "content": "BT Group has promoted current chief networks officer Greg McCall to the telco’s top tech role of chief security and networks officer (CSNO) starting on 1 January 2026. McCall will replace Howard Wats… [+5312 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "MAX Power Selects Premier Drilling Contractor for Canada’s First Dedicated Natural Hydrogen Well",
+        "description": "MAX Power Saskatchewan Natural Hydrogen Documentary VideoSASKATOON, Saskatchewan, Oct. 17, 2025 (GLOBE NEWSWIRE) — MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FRANKFURT: 89N) (“MAX Power” or the “Company”) is pleased to announce a major operational milesto…",
+        "url": "https://financialpost.com/globe-newswire/max-power-selects-premier-drilling-contractor-for-canadas-first-dedicated-natural-hydrogen-well",
+        "urlToImage": null,
+        "publishedAt": "2025-10-17T12:05:20Z",
+        "content": "IBN1108 Lavaca St., Austin, TXUSA78701Ph: (512) 354-7000editor@investorbrandnetwork.com\r\nThe agreement with TAFIN GmbH of Taunusstein, Germany (finanzmedien@tafin.gmbh), is for an initial term of app… [+3689 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Chery Automobile Co., Ltd.",
+        "title": "Proven Strength, New Chapters Ahead: Chery Super Hybrid (CSH) Global Endurance Test Concludes in Triumph, Paving the Way for the 2025 Chery Brand User Summit",
+        "description": "WUHU, China, Oct. 17, 2025 (GLOBE NEWSWIRE) -- On October 16, 2025 (Beijing Time), the “Endless Horizon Worry-Free Voyage” Chery Super Hybrid (CSH) Global Endurance Test successfully concluded in Wuhu, China. The closing journey spanned three provinces—Shanxi…",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168590/0/en/Proven-Strength-New-Chapters-Ahead-Chery-Super-Hybrid-CSH-Global-Endurance-Test-Concludes-in-Triumph-Paving-the-Way-for-the-2025-Chery-Brand-User-Summit.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/26da7feb-dea8-4a3e-b4ce-9f3ffea86534",
+        "publishedAt": "2025-10-17T12:05:00Z",
+        "content": "WUHU, China, Oct. 17, 2025 (GLOBE NEWSWIRE) -- On October 16, 2025 (Beijing Time), the Endless Horizon Worry-Free Voyage Chery Super Hybrid (CSH) Global Endurance Test successfully concluded in Wuhu,… [+5022 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rock Paper Shotgun"
+        },
+        "author": "Mark Warren",
+        "title": "Assetto Corsa Rally aims to fill a Colin McRae-shaped void, and it's out in early access next month",
+        "description": "Attention, folks who like the idea of flinging a fire-breathing Group B monster down some dirt tracks. Assetto Corsa devs Kunos are bringing out a rally sim. It's called Assetto Corsa Rally, therefore instantly winning the inventive video game name award for …",
+        "url": "https://www.rockpapershotgun.com/assetto-corsa-rally-aims-to-fill-a-colin-mcrae-shaped-void-and-its-out-in-early-access-next-month",
+        "urlToImage": "https://assetsio.gnwcdn.com/assetto-corsa-rally-announced-early-access-november-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2025-10-17T12:04:39Z",
+        "content": "Attention, folks who like the idea of flinging a fire-breathing Group B monster down some dirt tracks. Assetto Corsa devs Kunos are bringing out a rally sim. It's called Assetto Corsa Rally, therefor… [+2537 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Electronicpaymentsinternational.com"
+        },
+        "author": "GlobalData",
+        "title": "HSBC and Juspay partner for new digital acquiring platform",
+        "description": "The new acquiring platform will leverage HSBC's extensive global network and Juspay's expertise in payments infrastructure.",
+        "url": "https://www.electronicpaymentsinternational.com/news/hsbc-juspay-acquiring-platform-partnerhship/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I2.QChVuXt37Gmu0hYucfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/electronic_payments_938/8736b5fbbe20ed3023c3d05c10974a9e",
+        "publishedAt": "2025-10-17T12:04:14Z",
+        "content": "HSBC and Juspay have entered a strategic partnership to develop an advanced acquiring platform for digital-first global merchants.\r\nThe new platform will leverage HSBC's extensive global network and … [+2659 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Madelaine Panganiban",
+        "title": "Businesses Warn of Labor Shortages as Trump Faces Lawsuit Over H-1B Visa Costs",
+        "description": "US businesses sue Trump administration over $100,000 H-1B visa fee, warning of labor shortages.",
+        "url": "https://www.ibtimes.com/businesses-warn-labor-shortages-trump-faces-lawsuit-over-h-1b-visa-costs-3787406",
+        "urlToImage": "https://d.ibtimes.com/en/full/4629320/trump-media-partners-cryptocom-1-billion-cro-crypto.jpg",
+        "publishedAt": "2025-10-17T12:02:54Z",
+        "content": "The US Chamber of Commerce is suing President Donald Trump's administration over a new $100,000 fee on H-1B visa applications for highly skilled foreign workers.\r\nThe lawsuit, filed Thursday in Washi… [+2597 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Felicia Jackson, Contributor, \n Felicia Jackson, Contributor\n https://www.forbes.com/sites/feliciajackson/",
+        "title": "Europe’s Food Biotech Alliance To Bridge Trust, Policy And Capital",
+        "description": "Europe’s new Agrifood Biotech Alliance aims to turn food biotechnology into trusted, investable infrastructure, linking innovation, regulation, and capital.",
+        "url": "https://www.forbes.com/sites/feliciajackson/2025/10/17/europes-food-biotech-push-aims-to-bridge-trust-policy-and-capital/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f2246d11a00ddd55b04c86/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-17T12:02:19Z",
+        "content": "man closing the lid of a milk container. jobs\r\ngetty\r\nEuropes next wave of biotech innovation could determine how the continent feeds itself as climate disruption and supply-chain shocks intensify. B… [+9690 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Danielle Chemtob, Forbes Staff, \n Danielle Chemtob, Forbes Staff\n https://www.forbes.com/sites/daniellechemtob/",
+        "title": "Forbes Daily: U.S. Chamber Sues Over $100,000 H-1B Visa Fee",
+        "description": "Today’s Forbes Daily newsletter covers Chobani's latest fundraise, homebuilder confidence jumps, a new data storage billionaire, the highest-paid soccer players and more.",
+        "url": "https://www.forbes.com/sites/daniellechemtob/2025/10/17/forbes-daily-us-chamber-sues-over-100000-h-1b-visa-fee/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f22f5c8e83354b37523532/0x0.jpg?format=jpg&crop=1363,766,x0,y70,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-17T12:01:39Z",
+        "content": "When it comes to evaluating labor market data, its not just about the quantity of jobsits also about the quality.And most Americans arent feeling good about that, either.\r\nA new report found that jus… [+8140 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Pixel 4 Watch Tips and Tricks: Master Your Smartwatch Today",
+        "description": "The Pixel 4 Watch is a sophisticated smartwatch designed to integrate into your daily life seamlessly. With its advanced features, it offers a blend of convenience, safety, and personalization to meet diverse user needs. Whether you’re managing calls, trackin…",
+        "url": "https://www.geeky-gadgets.com/?p=472664",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/pixel-4-watch-gesture-controls-guide_optimized.jpg",
+        "publishedAt": "2025-10-17T12:00:45Z",
+        "content": "The Pixel 4 Watch is a sophisticated smartwatch designed to integrate into your daily life seamlessly. With its advanced features, it offers a blend of convenience, safety, and personalization to mee… [+6253 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Spotlight Wire",
+        "title": "Prerna launches CANTEL™: A MicroRNA-based blood test for breast cancer screening",
+        "description": "PrecisionRNA Biotech from Hyderabad has launched Cantel, a new microRNA blood test for breast cancer screening. This test offers a simple and accurate alternative to traditional methods. It aims to improve early detection rates in India. Cantel is designed fo…",
+        "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/prerna-launches-cantel-a-microrna-based-blood-test-for-breast-cancer-screening/articleshow/124628966.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-124629155,width-1200,height-630,imgsize-14692,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-10-17T12:00:22Z",
+        "content": "PrecisionRNA Biotech Pvt Ltd (Prerna), a healthcare innovation company from Hyderabad, today announced the launch of Cantel, a microRNA-based blood test for breast cancer screening. This groundbreaki… [+3209 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Organized crime rings drive street takeovers by using kids to steal cars for wild stunts: expert",
+        "description": "Street takeovers organized on social media involve stolen high-performance cars, with thieves targeting luxury vehicles and using new technology to steal them.",
+        "url": "https://www.foxnews.com/us/organized-crime-rings-drive-street-takeovers-using-kids-steal-cars-wild-stunts-expert",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/donut-gif-final.gif",
+        "publishedAt": "2025-10-17T12:00:04Z",
+        "content": "Authorities are racing to pump the brakes on a startling trend involving organized criminals using stolen vehicles to terrorize communities, with videos of chaotic street takeovers wreaking havoc fro… [+6787 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PCWorld"
+        },
+        "author": "Alaina Yee, Brad Chacos",
+        "title": "Windows 10’s death sure doesn’t feel like a PC apocalypse",
+        "description": "Welcome to The Full Nerd newsletter—your weekly dose of hardware talk from the enthusiasts at PCWorld. Missed the latest topics on our YouTube show or burning news from across the web? You’re in the right place. \r\n\n\n\n\nFor this edition, I’m tag-teaming with Br…",
+        "url": "https://www.pcworld.com/article/2944594/windows-10s-death-sure-doesnt-feel-like-a-pc-apocalypse.html",
+        "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/10/Windows-10-laptop-on-a-desk-in-dramatic-lighting-2.jpg?quality=50&strip=all&w=1024",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWelcome to The Full Nerd newsletter—your weekly dose… [+8263 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Novartis Pharma  AG",
+        "title": "Novartis Kisqali® 5-year NATALEE data demonstrate 28% reduction in risk of recurrence in the broadest early breast cancer patient population",
+        "description": "Basel, October 17, 2025 – Novartis today announced results from the five-year analysis of the pivotal Phase III NATALEE trial of Kisqali® (ribociclib) that demonstrated a sustained benefit at a median of two years after a three-year treatment with Kisqali (me…",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168565/0/en/Novartis-Kisqali-5-year-NATALEE-data-demonstrate-28-reduction-in-risk-of-recurrence-in-the-broadest-early-breast-cancer-patient-population.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/5d242013-5d1f-440c-8ba6-3b5d3799b035",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "<ul><li>After 5 years, Kisqali® plus endocrine therapy consistently shows significant and clinically meaningful benefit in invasive disease-free survival1</li><li>Kisqali remains the only CDK4/6 inhi… [+17839 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SEAL Semiconductors",
+        "title": "SEALSQ Announces Development of QASIC, the Quantum-Resistant ASIC, By IC’Alps",
+        "description": "Geneva, Switzerland, Oct.  17, 2025  (GLOBE NEWSWIRE) --   From Catalog ICs to Custom ICs and Security IP, a unified offering to shape the post-quantum......",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168578/0/en/SEALSQ-Announces-Development-of-QASIC-the-Quantum-Resistant-ASIC-By-IC-Alps.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "Geneva, Switzerland, Oct. 17, 2025 (GLOBE NEWSWIRE) -- \r\nFrom Catalog ICs to Custom ICs and Security IP, a unified offering to shape the post-quantum era.\r\nSEALSQ Corp (NASDAQ: LAES), a global leader… [+6453 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ms. Magazine"
+        },
+        "author": "Jallicia A. Jolly",
+        "title": "Who Gets to Procreate and Parent? A Black Feminist Critique of the Pronatalist Agenda",
+        "description": "Pronatalism is not simply about encouraging births—it is a political project rooted in racism and control. Its goal is to engineer a future that permits only certain people to bear and raise children while coercing or punishing others for reproducing or paren…",
+        "url": "https://msmagazine.com/2025/10/17/feminist-pronatalism-birth-rate-black-women-adriana-smith-reproductive-justice/",
+        "urlToImage": "https://msmagazine.com/wp-content/uploads/2025/10/GettyImages-2221265481-1.jpg",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "Luna Hernandez points to a photo of Adriana Smith while speaking as protesters rally on the three-year anniversary of the U.S. Supreme Court decision overturning Roe v Wade on June 24, 2025, in Los A… [+8453 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "MAX Power Mining Corp",
+        "title": "MAX Power Selects Premier Drilling Contractor for Canada’s First Dedicated Natural Hydrogen Well",
+        "description": "MAX Power Saskatchewan Natural Hydrogen Documentary Videohttps://www.maxpowermining.com/NaturalHydrogen-NewEra/    SASKATOON, Saskatchewan, Oct.  17, 2025...",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168577/0/en/MAX-Power-Selects-Premier-Drilling-Contractor-for-Canada-s-First-Dedicated-Natural-Hydrogen-Well.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/fc6a8c68-8fa8-4b43-a78d-bab1dd02c661",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "MAX Power Saskatchewan Natural Hydrogen Documentary Video\r\nhttps://www.maxpowermining.com/NaturalHydrogen-NewEra/\r\nSASKATOON, Saskatchewan, Oct. 17, 2025 (GLOBE NEWSWIRE) -- MAX Power Mining Corp. (C… [+8567 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Officesnapshots.com"
+        },
+        "author": "Stephen Searer",
+        "title": "Atlas Copco Offices – Hemel Hempstead",
+        "description": "The Atlas Copco Group, UK project was about transforming a dilapidated 55,000 sq ft space...\nThe post Atlas Copco Offices – Hemel Hempstead appeared first on Office Snapshots.",
+        "url": "https://officesnapshots.com/2025/10/17/atlas-copco-offices-hemel-hempstead/",
+        "urlToImage": "https://officesnapshots.com/wp-content/uploads/2025/10/atlas-copco-offices-hemel-hempstead-12.jpg",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "Habit Action’s Atlas Copco offices in Hemel Hempstead expertly transform a 55,000 square-foot space into a collaborative and sustainable hub, prioritizing employee well-being and celebrating the bran… [+6621 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Webfx.com"
+        },
+        "author": "Albert Dandy Velasquez",
+        "title": "Meta Vibes Is Here and It’s About To Shake Up Short-Form Content (+ How It Opens New Doors for Brands)",
+        "description": "Meta Vibes just dropped. Learn how this new AI video feed in the Meta AI app turns users into creators and what brands and marketers need to do to adapt.",
+        "url": "https://www.webfx.com/blog/ai/meta-vibes-ai-videos/",
+        "urlToImage": "https://www.webfx.com/wp-content/uploads/2025/10/102504_meta_vibes_ai-1.png",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "Meta Vibes just dropped, and it’s already refashioning what short-form content can look like. Announced on September 25, 2025, this new AI video feed gives anyone the power to create or remix videos … [+10231 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "MEXQuick",
+        "title": "MEXQuick Showcases AI-Driven Market making Technology at TOKEN2049 Singapore Summit",
+        "description": "Engages in Ecosystem Collaboration with MEXC to Advance Lightweight Global Trading Engages in Ecosystem Collaboration with MEXC to Advance Lightweight Global Trading",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168575/0/en/MEXQuick-Showcases-AI-Driven-Market-making-Technology-at-TOKEN2049-Singapore-Summit.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/efc5e435-78a1-43ae-bb90-d55b2d97cc79",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "Singapore, Oct. 17, 2025 (GLOBE NEWSWIRE) -- Web3 derivatives platform MEXQuick participated in the TOKEN2049 Singapore Summit held at Marina Bay Sands on October 12, showcasing its AI-powered market… [+5156 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Alonzo Martinez, Senior Contributor, \n Alonzo Martinez, Senior Contributor\n https://www.forbes.com/sites/alonzomartinez/",
+        "title": "Top Employment Law Changes In Q3 2025: What Employers Must Know",
+        "description": "Discover key Q3 2025 employment law updates on fair chance hiring, pay transparency, cannabis testing, AI regulation, and I-9 compliance that impact employers.",
+        "url": "https://www.forbes.com/sites/alonzomartinez/2025/10/17/top-employment-law-changes-in-q3-2025-what-employers-must-know/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f12a1528d21fe1c66b2c3e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "The third quarter of 2025 revealed a hard truth: compliance is no longer reactive, it must be proactive, documented, and defensible. Legal obligations now extend beyond the what and into the how and … [+12215 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Terra Innovatum Global N.V",
+        "title": "Terra Innovatum Global Files New Investor Presentation Updating Timeline for First-of-A-Kind SOLO™ Deployment in 2027 from 2028",
+        "description": "NEW YORK, Oct. 17, 2025 (GLOBE NEWSWIRE) -- Terra Innovatum Global N.V. (“Terra Innovatum” or the “Company”) (NASDAQ: NKLR), a developer of micro-modular nuclear reactors, today filed a new investor presentation including updates to the timeline for the deplo…",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168580/0/en/Terra-Innovatum-Global-Files-New-Investor-Presentation-Updating-Timeline-for-First-of-A-Kind-SOLO-Deployment-in-2027-from-2028.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/dd95abf0-9913-40d1-a81f-e9125f9b0759",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "NEW YORK, Oct. 17, 2025 (GLOBE NEWSWIRE) -- Terra Innovatum Global N.V. (Terra Innovatum or the Company) (NASDAQ: NKLR), a developer of micro-modular nuclear reactors, today filed a new investor pres… [+9067 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "PodcastOne",
+        "title": "PodcastOne (NASDAQ: PODC) and Digital Media Giant BuzzFeed Join Forces for Original Podcast Series: Phone A Fangirl",
+        "description": "Phone A Fangirl Sets the K-Pop World on Fire with Over 100k Plays in 24hrs, Marks First Podcast in Strategic Development Pipeline Orchestrated by PodcastOne",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168576/0/en/PodcastOne-NASDAQ-PODC-and-Digital-Media-Giant-BuzzFeed-Join-Forces-for-Original-Podcast-Series-Phone-A-Fangirl.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/cc4dd733-0525-4e27-9a1f-8130762da9c5",
+        "publishedAt": "2025-10-17T12:00:00Z",
+        "content": "Phone A Fangirl Sets the K-Pop World on Fire with Over 100k Plays in 24hrs, Marks First Podcast in Strategic Development Pipeline Orchestrated by PodcastOne\r\nUpcoming Guests Include TOMORROW X TOGETH… [+6814 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Notebookcheck.net"
+        },
+        "author": "Marius Müller",
+        "title": "AI revolution in gaming: NPCs with memory, emotions and real personality – beyond games",
+        "description": "NPCs that remember players, display emotions and form genuine bonds – what once sounded like science fiction is now becoming reality. A young start-up from San Francisco is developing AI-driven characters that continue to grow and evolve beyond the game itsel…",
+        "url": "https://www.notebookcheck.net/AI-revolution-in-gaming-NPCs-with-memory-emotions-and-real-personality-beyond-games.1140779.0.html",
+        "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/EGO-AI-KI-Charaktere.jpg",
+        "publishedAt": "2025-10-17T11:59:00Z",
+        "content": "Founded in 2023, the San Franciscobased AI start-up ego AI has launched character.world, a platform that brings virtual characters to life complete with memory, emotions and the ability to form relat… [+1876 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "Tata Tech Q2 Results: Profit rises 5% YoY to Rs 166 crore on non-core business boost",
+        "description": "Indian engineering firm Tata Technologies reported a 5% rise in second-quarter profit on Friday, as growth in its non-automotive business cushioned weakness in its key auto-focused segment",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-tech-q2-results-profit-rises-5-yoy-to-rs-166-crore-on-non-core-business-boost/articleshow/124628944.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-124628944,width-1200,height-630,imgsize-32942,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-10-17T11:51:12Z",
+        "content": "Indian engineering firm Tata Technologies reported a 5% rise in second-quarter profit on Friday, as growth in its non-automotive business cushioned weakness in its key auto-focused segment.The firm, … [+1301 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Pandag Tech",
+        "title": "Pandag Tech to Showcase Commercial Autonomous Lawn Mowers at Equipment Expo 2025",
+        "description": "The Pandag G1 delivers intelligent, eco-friendly mowing solutions for commercial landscapes and large- scale operations. The Pandag G1 delivers intelligent, eco-friendly mowing solutions for commercial landscapes and large- scale operations.",
+        "url": "https://www.globenewswire.com/news-release/2025/10/17/3168561/0/en/Pandag-Tech-to-Showcase-Commercial-Autonomous-Lawn-Mowers-at-Equipment-Expo-2025.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/13e0e634-6e34-45d5-913d-8073fed49e34",
+        "publishedAt": "2025-10-17T11:50:00Z",
+        "content": "LOUISVILLE, Ky., Oct. 17, 2025 (GLOBE NEWSWIRE) -- Pandag Tech, a technology-driven company specializing in smart commercial equipment, will debut its Pandag G1 Commercial Autonomous Lawn Mower in th… [+2761 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Inside the Magic"
+        },
+        "author": "Chloe James",
+        "title": "CRISIS REPORT: Universal Studios Loses $421 Million, ‘Harry Potter’ Land Blamed",
+        "description": "A recent report suggests that one of Universal’s newest theme parks isn’t doing so hot financially. For decades, Universal has relied on a tried-and-tested formula of attractions and entertainment inspired by fan-favorite movies to lure in guests. While some …",
+        "url": "https://insidethemagic.net/2025/10/universal-studios-losing-money-harry-potter-blamed-cj1/",
+        "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/wizarding-world-of-harry-potter.jpg",
+        "publishedAt": "2025-10-17T11:49:21Z",
+        "content": "A recent report suggests that one of Universal’s newest theme parks isn’t doing so hot financially.\r\nFor decades, Universal has relied on a tried-and-tested formula of attractions and entertainment i… [+4001 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Catherine Brock, Contributor, \n Catherine Brock, Contributor\n https://www.forbes.com/sites/wealth-planning-insights/people/catherinebrock/",
+        "title": "U.S. Stock Futures Down Amid Commercial Loan Losses",
+        "description": "U.S. stocks fell Thursday after two regional banks announced credit-quality issues. Also: What is FCF in investing?",
+        "url": "https://www.forbes.com/sites/catherinebrock/2025/10/17/us-stock-futures-down-amid-commercial-loan-losses/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f22c23bbf59fc5799174bc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-17T11:47:48Z",
+        "content": "U.S. stocks fell Thursday after two regional banks announced credit-quality issues. \r\ngetty\r\nU.S. stocks fell Thursday after two regional banks announced credit-quality issues. Zions Bancorporation s… [+3032 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Just-auto.com"
+        },
+        "author": "GlobalData",
+        "title": "Dongfeng Nissan previews new electric N6 sedan, Teana",
+        "description": "China is playing an increasingly important role in Nissan’s global NEV strategy.",
+        "url": "https://www.just-auto.com/news/dongfeng-nissan-previews-new-electric-n6-sedan-teana/",
+        "urlToImage": "https://media.zenfs.com/en/just_auto_187/51209da82fefa3d8a09e406ec75dea92",
+        "publishedAt": "2025-10-17T11:46:11Z",
+        "content": "Nissan Motors Chinese joint venture, Dongfeng Nissan, has provided a preview of its first plug-in hybrid sedan, the N6, along with the new Teana sedan, as part of the second phase of the companys Re:… [+2348 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Hartley Charlton",
+        "title": "Launch of Apple's First Foldable iPhone Could Be Delayed",
+        "description": "The launch of Apple's first foldable iPhone could be delayed to 2027, according to Japan's Mizuho Securities (via The Elec).\n\n\n\n\n\nThe investment banking and securities firm suggested that a potential postponement could be due to Apple taking longer to decide …",
+        "url": "https://www.macrumors.com/2025/10/17/foldable-iphone-could-be-delayed/",
+        "urlToImage": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+        "publishedAt": "2025-10-17T11:44:59Z",
+        "content": "The launch of Apple's first foldable iPhone could be delayed to 2027, according to Japan's Mizuho Securities (via The Elec).\r\nThe investment banking and securities firm suggested that a potential pos… [+1386 chars]"
+      },
+      {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "Brian O'Donovan",
+        "title": "Meta introduces new AI safeguards for teens",
+        "description": "Meta, the parent company of Facebook, Instagram and WhatsApp, has announced new safeguards for teens interacting with its artificial intelligence (AI) tools.",
+        "url": "https://www.rte.ie/news/business/2025/1017/1539117-meta-introduces-new-ai-safeguards-for-teens/",
+        "urlToImage": "https://www.rte.ie/images/00224d17-1600.jpg",
+        "publishedAt": "2025-10-17T11:43:52Z",
+        "content": "Meta, the parent company of Facebook, Instagram and WhatsApp, has announced new safeguards for teens interacting with its artificial intelligence (AI) tools.\r\nUnder new controls, parents will be able… [+1041 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fashionbeans.com"
+        },
+        "author": "FashionBeans Editors",
+        "title": "The Styling Trick That Makes Any Wide-Leg Fit Look Effortless",
+        "description": "Slim fits are out — flow is in. From relaxed denim to pleated wool trousers, wide-leg pants are redefining modern menswear. Here’s how to wear them with confidence and look sharp doing it. 1. Get the Fit Right Baggy doesn’t mean sloppy. The first rule: make s…",
+        "url": "https://www.fashionbeans.com/article/wide-leg-pants/",
+        "urlToImage": "https://www.fashionbeans.com/wp-content/uploads/2025/10/WideLegTrousers.jpg",
+        "publishedAt": "2025-10-17T11:41:24Z",
+        "content": "Slim fits are out flow is in. From relaxed denim to pleated wool trousers, wide-leg pants are redefining modern menswear. Heres how to wear them with confidence and look sharp doing it.\r\n1. Get the F… [+4232 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "OPPO Find X9 Series to launch in India next month: Check features, variants, likely launch date and price",
+        "description": "OPPO's Find X9 series is set to launch in India in November 2025, following its global debut. The flagship phones will feature the MediaTek Dimensity 9500 chipset and Android 16-based ColorOS 16. The Find X9 Pro boasts a 200MP telephoto lens and a 7,500mAh ba…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/oppo-find-x9-series-to-launch-in-india-next-month-check-date-price-features-and-other-details/articleshow/124628502.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-124628701,width-1200,height-630,imgsize-558362,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-10-17T11:40:52Z",
+        "content": "OPPO has officially confirmed that its highly anticipated Find X9 series will arrive in India in November 2025, following its global debut on October 28. The phone comes in two variants - OPPO Find X… [+1948 chars]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1140 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 46031,
+  "articles": [
+    {
+      "title": "How to Build an AI-Powered T-SQL Assistant with Python & SQL Server",
+      "description": "Discover how to build an AI-powered T-SQL assistant using Python, embeddings, vector search and SQL Server’s new AI features. Step-by-step for DBAs & developers.…\nThe post How to Build an AI-Powered T-SQL Assistant with Python & SQL Server appeared first on S…",
+      "source": "Red-gate.com",
+      "url": "https://www.red-gate.com/simple-talk/databases/sql-server/an-ai-powered-t-sql-assistant-built-with-python-and-sql-server/",
+      "published_at": "2025-10-22T12:25:31Z",
+      "author": "Rodrigo Ribeiro Gomes",
+      "image_url": "https://www.red-gate.com/simple-talk/wp-content/uploads/2025/06/Python_SimpleTalk1-scaled.jpg",
+      "content": "If youre a SQL Server DBA or developer looking to harness AI for your everyday scripting workflows, this article will walk you through building an AI-powered T-SQL assistant using Python and SQL Serv… [+64347 chars]"
+    },
+    {
+      "title": "Detroit glass factory to open in late 2026 on former site of Southwestern High School",
+      "description": "LuxWall plans to begin manufacturing its advanced insulated glass on the site that could eventually employ 277.",
+      "source": "Detroit Free Press",
+      "url": "https://www.freep.com/story/money/business/michigan/2025/10/22/detroit-glass-factory-luxwall-southwestern/86820208007/",
+      "published_at": "2025-10-22T12:25:13Z",
+      "author": "JC Reindl, Detroit Free Press",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/EDnufVemo1nqb39XiSlrjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/detroit_free_press_natl_articles_245/697487f46efde677c03b398e10eff760",
+      "content": "The former site of Southwestern High School in Detroit is set to become home to an advanced glass manufacturing plant next year that could eventually employ 277 workers.\r\nYpsilanti-based startup LuxW… [+3767 chars]"
+    },
+    {
+      "title": "How the online world relies on AWS cloud servers",
+      "description": "Chaos caused by Monday’s online outage shows that ‘when AWS sneezes, half the internet catches the flu’",
+      "source": "The Week Magazine",
+      "url": "https://theweek.com/tech/how-the-online-world-relies-on-aws-cloud-servers",
+      "published_at": "2025-10-22T12:24:52Z",
+      "author": "theweekonlineeditorsuk@futurenet.com (The Week UK) , The Week UK",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4vY7pbSwVtVWJhQrCVpmq-2000-80.jpg",
+      "content": "Amazon Web Services (AWS) has “returned to normal operations”, the company has said, following an outage that caused widespread chaos and again exposed the fragile foundations that today’s digital wo… [+4181 chars]"
+    },
+    {
+      "title": "Senior Care Gets An Upgrade: How LogicMark's Patented Token & Privacy Technology Helps It Better Manage Customer Data Security",
+      "description": "When it comes to monitoring an elderly person in the home or on the go, keeping their health data private and secure is of the utmost importance. After all, if it falls into the wrong hands, it can lead to identity theft, stigmatization, discrimination, elder…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1f3fc5b7b0832f7d",
+      "published_at": "2025-10-22T12:24:44Z",
+      "author": "benzinga.com",
+      "image_url": "https://biztoc.com/cdn/1f3fc5b7b0832f7d_s.webp",
+      "content": "When it comes to monitoring an elderly person in the home or on the go, keeping their health data private and secure is of the utmost importance. After all, if it falls into the wrong hands, it can l… [+147 chars]"
+    },
+    {
+      "title": "McKinsey: CMOs and CFOs must unite to solve marketing tech ROI gap — with help from AI",
+      "description": "Good morning. Marketing technology, or “martech,” promises smarter customer engagement—but without clear ROI, it risks becoming a digital money pit. Chief marketing officers and chief financial officers play a major role in preventing that.\nEmail marketing to…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/112aaf429b8b05e5",
+      "published_at": "2025-10-22T12:24:37Z",
+      "author": "fortune.com",
+      "image_url": "https://biztoc.com/cdn/112aaf429b8b05e5_s.webp",
+      "content": "Good morning. Marketing technology, or martech, promises smarter customer engagementbut without clear ROI, it risks becoming a digital money pit. Chief marketing officers and chief financial officers… [+135 chars]"
+    },
+    {
+      "title": "Vertiv Crushes Q3 Estimates On Strong AI Data Center Business",
+      "description": "Data center infrastructure firm Vertiv beat expectations for Q3 and guided above views for the current period. Vertiv stock rose.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/vertiv-stock-vrt-q3-2025-earnings/",
+      "published_at": "2025-10-22T12:24:19Z",
+      "author": "PATRICK SEITZ, Investor's Business Daily",
+      "image_url": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Vertiv-CoolChipCDU-company.jpg",
+      "content": "Data center infrastructure firm Vertiv (VRT) on Wednesday beat expectations for the third quarter and guided above views for the current period, thanks to strong AI data center business. Vertiv stock… [+2081 chars]"
+    },
+    {
+      "title": "Investors Pause To Wait For Magnificent 7 Earnings",
+      "description": "Stocks were mixed on Tuesday ahead of Tesla earnings, scheduled for Wednesday after market close. Also: what is a bubble in investing?",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/catherinebrock/2025/10/22/investors-pause-to-wait-for-magnificent-7-earnings/",
+      "published_at": "2025-10-22T12:23:01Z",
+      "author": "Catherine Brock, Contributor, \n Catherine Brock, Contributor\n https://www.forbes.com/sites/wealth-planning-insights/people/catherinebrock/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/67e31f7682a4c312170ecd53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "U.S. stocks were mixed Tuesday as investors await earnings results from the Magnificent Seven stocks, starting with Tesla (TSLA) after the market closes on Wednesday.\r\ngetty\r\nU.S. stocks were mixed T… [+2967 chars]"
+    },
+    {
+      "title": "Get ASUS’ ROG Strix 25-inch Fast IPS FHD 310Hz gaming monitor for your battlestation while it’s down at $199 low",
+      "description": "We just spotted a deal at Amazon that drops ASUS’ ROG Strix 25-inch FHD 310Hz gaming monitor down to $199 shipped. This already affordable monitor typically goes for $299, and it’s now seeing a straight-up $100 markdown to land $30 below its previous all-time…",
+      "source": "9to5Toys",
+      "url": "http://9to5toys.com/2025/10/22/asus-rog-strix-25-inch-fast-ips-fhd-310hz-gaming-monitor-199-low/",
+      "published_at": "2025-10-22T12:22:51Z",
+      "author": "Karthik Iyer",
+      "image_url": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/02/ASUS-ROG-Strix-FHD-gaming-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "content": "We just spotted a deal at Amazon that drops ASUS’ ROG Strix 25-inch FHD 310Hz gaming monitor down to $199 shipped. This already affordable monitor typically goes for $299, and it’s now seeing a strai… [+1940 chars]"
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens",
+      "description": "News of the day for Oct. 22, 2025",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-october-22-2025-11834499",
+      "published_at": "2025-10-22T12:22:49Z",
+      "author": "Terry Lane",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/7yL0G896Nx8fcuwP2_MFlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/c31868a1a5b87e40603f264044f9134b",
+      "content": "Joe Lamberti / Bloomberg / Getty Images\r\n Tesla will be the first of the Magnificent Seven major tech companies to release its quarterly results.\r\nStock futures are holding steady this morning as qua… [+4223 chars]"
+    },
+    {
+      "title": "Intel CEO-Backed Startup Seeks Role as AI Chip Matchmaker",
+      "description": "Gimlet is building software that will chop up AI tasks and send them to the most cost-effective chips",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/intel-ceo-backed-startup-seeks-role-as-ai-chip-matchmaker",
+      "published_at": "2025-10-22T12:21:08Z",
+      "author": "Bloomberg News",
+      "image_url": null,
+      "content": "(Bloomberg) A startup backed by Intel Corp.s CEO is building software that can carve up artificial intelligence tasks and send them to different kinds of chips, aiming to streamline an expensive and … [+5503 chars]"
+    },
+    {
+      "title": "Money-losing companies with colorful histories have pivoted to crypto",
+      "description": "So far this year, billions of dollars have flowed into companies that have reinvented themselves by making the buying and holding of cryptocurrency their main focus",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/Business/wireStory/money-losing-companies-colorful-histories-pivoted-crypto-126749813",
+      "published_at": "2025-10-22T12:20:53Z",
+      "author": "ALAN SUDERMAN AP business writer",
+      "image_url": "https://i.abcnewsfe.com/a/73c65275-e3ef-4b7f-988d-05513ded870d/wirestory_f288fa3040cb48486f2f8a0c1886f7d0_16x9.jpg?w=1600",
+      "content": "A marketer of shark-repellant sunscreen. A maker of chocolate-flavored whiskey. A seller of a drink that promises to quickly lower blood-alcohol levels.\r\nUntil recently, these businesses had signific… [+8317 chars]"
+    },
+    {
+      "title": "Five 2026 vehicles you should absolutely wait for",
+      "description": "Have you ever bought a new car then realized that a redesigned version of the car you just purchased just came out",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/Business/wireStory/2026-vehicles-absolutely-wait-126750575",
+      "published_at": "2025-10-22T12:20:27Z",
+      "author": "MICHAEL CANTU EDMUNDS Associated Press",
+      "image_url": "https://i.abcnewsfe.com/a/c0640048-9cf2-4ff2-9248-6d7704f0cd54/wirestory_fc27bb38f6d4075e07be1998f5b3703e_16x9.jpg?w=1600",
+      "content": "Dont buy that new car yet. If you can wait, youll have new 2026 model year options that arent out yet. Although some models barely change, others are completely redesigned and often get the latest fe… [+4168 chars]"
+    },
+    {
+      "title": "Is it wrong to have too much money? Your answer may depend on deep-seated values – and your country’s economy",
+      "description": "People who highly value equality and purity are most likely to see excessive wealth as wrong, a new study suggests.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/is-it-wrong-to-have-too-much-money-your-answer-may-depend-on-deep-seated-values-and-your-countrys-economy-265247",
+      "published_at": "2025-10-22T12:18:42Z",
+      "author": "Jackson Trager, Ph.D. Candidate in Psychology, USC Dornsife College of Letters, Arts and Sciences",
+      "image_url": "https://images.theconversation.com/files/697609/original/file-20251021-56-arp74n.jpg?ixlib=rb-4.1.0&rect=0%2C1536%2C9202%2C4601&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "Demonstrators arrive for a protest ahead of the World Economic Forum in Davos, Switzerland, on Jan. 19, 2025. AP Photo/Markus Schreiber\r\nAcross cultures, people often wrestle with whether having lots… [+4853 chars]"
+    },
+    {
+      "title": "New Report: Hotels are a $7 Billion Economic Engine in Denver",
+      "description": "According to a new ⁠economic impact report conducted by Oxford Economics, Denver’s hospitality industry continues to serve as a powerful engine for growth and opportunity. The report details the Denver hotel industry’s far-reaching economic impact, finding th…",
+      "source": "Hospitality Net",
+      "url": "https://www.hospitalitynet.org/news/4129438.html",
+      "published_at": "2025-10-22T12:18:00Z",
+      "author": "AH&LA",
+      "image_url": "https://www.hospitalitynet.org/HN-icon.jpg",
+      "content": "DENVER, Colo. - According to a new economic impact report conducted by Oxford Economics, Denver's hospitality industry continues to serve as a powerful engine for growth and opportunity. The report d… [+3582 chars]"
+    },
+    {
+      "title": "Does TSA's Digital ID System Actually Work? Here's What Users Say",
+      "description": "It's now possible to use your digital ID at about 250 airports, which should, theoretically, get you through checkpoints faster. But does it actually work?",
+      "source": "BGR",
+      "url": "https://www.bgr.com/1998079/does-tsa-digital-id-system-work-common-problems-2025/",
+      "published_at": "2025-10-22T12:17:00Z",
+      "author": "staff@bgr.com (Briley Kenney)",
+      "image_url": "https://www.bgr.com/img/gallery/does-tsas-digital-id-system-actually-work-heres-what-users-say/l-intro-1760557721.jpg",
+      "content": "It's now possible to use your digital ID at about 250 airports in the United States, which should, theoretically, get you through checkpoints faster. If you're not familiar, digital IDs are a new for… [+1307 chars]"
+    },
+    {
+      "title": "VSORA Launches Europe’s Most Powerful AI Inference Chip",
+      "description": "PARIS, Oct. 22, 2025 (GLOBE NEWSWIRE) --  VSORA, a French semiconductor innovator, today announced the production launch of Jotunn8, an artificial intelligence (AI) inference chip engineered to power next-generation data center applications delivering breakth…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/22/3171091/0/en/VSORA-Launches-Europe-s-Most-Powerful-AI-Inference-Chip.html",
+      "published_at": "2025-10-22T12:17:00Z",
+      "author": "VSORA Inc",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/45e6e7fe-aa15-461f-8ad0-bd63d68c5f21",
+      "content": "<ul><li>Production of ultra-high-performance AI chip called Jotunn8 begins</li><li>Redefining cost-effective, high-performance AI inference deployment at scale</li><li>Semiconductor Manufacturing Par… [+3191 chars]"
+    },
+    {
+      "title": "University of Economics: Memorandum of Understanding with two research centers for the development of artificial intelligence in Greece",
+      "description": "The SynAI network aims to create a framework of mutual understanding to enhance innovation, technology transfer and the use of artificial intelligence in Greek society and economy\nThe post University of Economics: Memorandum of Understanding with two research…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2025/10/22/university-of-economics-memorandum-of-understanding-with-two-research-centers-for-the-development-of-artificial-intelligence-in-greece/",
+      "published_at": "2025-10-22T12:17:00Z",
+      "author": "admin",
+      "image_url": "https://en.protothema.gr/wp-content/uploads/2025/10/asoee-1.jpg-1.jpg",
+      "content": "An initiative to advance Artificial Intelligence (AI) in Greece has been formalized through a Memorandum of Understanding (MoU) co-signed by the Athens University of Economics and Business (AUEB), th… [+3664 chars]"
+    },
+    {
+      "title": "One startup’s quest to store electricity in the ocean",
+      "description": "Sizable Energy has a plan to store excess renewable energy in flexible reservoirs out at sea. The startup has raised $8 million to test prototypes.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/",
+      "published_at": "2025-10-22T12:16:39Z",
+      "author": "Tim De Chant",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Sizable-floating-reservoir-prototype.jpg?resize=1200,675",
+      "content": "When Manuele Aufiero was a child, his parents would take him hiking along a reservoir in northern Italy. It wasnt a typical reservoir, though. This one drained and refilled constantly, with pumps rai… [+3742 chars]"
+    },
+    {
+      "title": "India's envoy rejects Anand's claim that Ottawa can fully staff its embassy",
+      "description": "India's new envoy to Canada rejected Foreign Minister Anita Anand's claim that New Delhi has agreed to restore Canada's full complement of diplomats.",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2025/10/22/news/indias-envoy-rejects-anands-claim-ottawa-can-fully-staff-its-embassy",
+      "published_at": "2025-10-22T12:16:26Z",
+      "author": "Dylan Robertson",
+      "image_url": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/fdf76abe9364185d8cb6ada052d7c09dc468201ad5c23660cbf0fc6bfb4f9708.jpg",
+      "content": "India's new envoy to Canada rejected Foreign Minister Anita Anand's claim that New Delhi has agreed to restore Canada's full complement of diplomats.\r\nIndian High Commissioner Dinesh Patnaik said Ott… [+3909 chars]"
+    },
+    {
+      "title": "New Ecommerce Tools: October 22, 2025",
+      "description": "This week's rundown includes updates on GEO, agentic commerce, cryptocurrencies, embedded payments, website builders, customer data tools, and more.\nThe post New Ecommerce Tools: October 22, 2025 appeared first on Practical Ecommerce.",
+      "source": "Practical Ecommerce",
+      "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-22-2025",
+      "published_at": "2025-10-22T12:16:05Z",
+      "author": "Sig Ueland",
+      "image_url": "https://www.practicalecommerce.com/wp-content/uploads/2025/10/thumb.jpg",
+      "content": "Every week we handpick a list of new products and services for ecommerce merchants. This installment includes updates on generative engine optimization, agentic commerce, cryptocurrencies, embedded p… [+6795 chars]"
+    },
+    {
+      "title": "Can AI keep students motivated, or does it do the opposite?",
+      "description": "A meta-analysis of AI chatbots’ impact on student learning finds benefits when used properly, but risks of diminishing student motivation and confidence.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/can-ai-keep-students-motivated-or-does-it-do-the-opposite-264728",
+      "published_at": "2025-10-22T12:15:54Z",
+      "author": "Yurou Wang, Associate Professor of Educational Psychology, University of Alabama",
+      "image_url": "https://images.theconversation.com/files/695715/original/file-20251010-56-apy4xu.jpg?ixlib=rb-4.1.0&rect=0%2C398%2C5262%2C2631&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "AI-based tools can be effective in motivating students but require proper design and thoughtful implementation. Associated Press\r\nImagine a student using a writing assistant powered by a generative A… [+8077 chars]"
+    },
+    {
+      "title": "This Old Disney Concept Could Be Revived Sooner Than You Think",
+      "description": "Disney may be cooking up something big behind the scenes. On top of massive land expansions and high-profile attraction overhauls, there’s growing buzz that the company could be quietly working on bringing back an iconic fan-favorite. This isn’t just any attr…",
+      "source": "Inside the Magic",
+      "url": "https://insidethemagic.net/2025/10/this-old-disney-concept-could-be-revived-sooner-than-you-think-sb1/",
+      "published_at": "2025-10-22T12:14:00Z",
+      "author": "Sarah Larson",
+      "image_url": "https://insidethemagic.net/wp-content/uploads/2025/07/Untitled-design-70-1.jpg",
+      "content": "Disney may be cooking up something big behind the scenes. On top of massive land expansions and high-profile attraction overhauls, theres growing buzz that the company could be quietly working on bri… [+6659 chars]"
+    },
+    {
+      "title": "AI can help the environment, even though it uses tremendous energy. Here are 5 ways how",
+      "description": "Artificial intelligence has caused concern for its tremendous consumption of water and power.  Data centers needed to fuel AI accounted for about 1.5% of the...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/articles/ai-help-environment-even-though-121349798.html",
+      "published_at": "2025-10-22T12:13:49Z",
+      "author": "ALEXA ST. JOHN and JENNIFER McDERMOTT",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/y0HNuWqdlE_aIxF7kySvjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/4563f3e2ae6e224c36dbb147eba28adc",
+      "content": "Artificial intelligence has caused concern for its tremendous consumption of water and power. But scientists are also experimenting with ways that AI can help people and businesses use energy more ef… [+6767 chars]"
+    },
+    {
+      "title": "EXL and Schneider streamline trucking logistics with AI-powered digital transformation",
+      "description": "Innovation delivers over 50% faster scheduling and 24% lower cost, delivering superior experience for drivers and customers Innovation delivers over 50% faster scheduling and 24% lower cost, delivering superior experience for drivers and customers",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/22/3171085/9060/en/EXL-and-Schneider-streamline-trucking-logistics-with-AI-powered-digital-transformation.html",
+      "published_at": "2025-10-22T12:13:00Z",
+      "author": "ExlService Holdings, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/e97f61d3-2aeb-461f-8bf5-d683ac2b82db",
+      "content": "NEW YORK, Oct. 22, 2025 (GLOBE NEWSWIRE) -- EXL [NASDAQ: EXLS], a global data and AI company, announced a major digital transformation initiative with Schneider National, Inc. [NYSE: SNDR], a premier… [+5475 chars]"
+    },
+    {
+      "title": "How to Use New ChatGPT Atlas AI Browser : Say Goodbye to Boring Browsing",
+      "description": "What if your browser didn’t just help you search, but actively worked alongside you, summarizing articles, drafting emails, or even automating repetitive tasks? Enter ChatGPT Atlas, OpenAI’s ambitious leap into the browser market. Built on Google’s Chromium p…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/ai-browser-chatgpt-atlas-tutorial/",
+      "published_at": "2025-10-22T12:12:40Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/chatgpt-atlas-browser-interface_optimized.jpg",
+      "content": "What if your browser didnt just help you search, but actively worked alongside you, summarizing articles, drafting emails, or even automating repetitive tasks? Enter ChatGPT Atlas, OpenAIs ambitious … [+7618 chars]"
+    },
+    {
+      "title": "Pierrakakis: Integrate AI into every aspect of the economy and the state",
+      "description": "Technology and technological changes are the catalyst for economic progress, Kyriakos Pierrakakis stressed\nThe post Pierrakakis: Integrate AI into every aspect of the economy and the state appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2025/10/22/pierrakakis-integrate-ai-into-every-aspect-of-the-economy-and-the-state/",
+      "published_at": "2025-10-22T12:12:31Z",
+      "author": "admin",
+      "image_url": "https://en.protothema.gr/wp-content/uploads/2025/10/whatsapp-image-20-19.jpeg-1.jpg",
+      "content": "“The next step in our digital strategy is to integrate AI into every aspect of the economy and the state,” Minister of National Economy and Finance Kyriakos Pierrakakis stressed at the conference on … [+9807 chars]"
+    },
+    {
+      "title": "Aura Launches a New E-Paper Photo Frame For Those Who Hate Cords",
+      "description": "Aura has launched the Ink Frame cordless e-paper photo frame at $499.99. This features a 13.3-inch Spectra 6 display and a type-C port.",
+      "source": "Android Headlines",
+      "url": "https://www.androidheadlines.com/2025/10/aura-launches-a-new-e-paper-photo-frame-for-those-who-hate-cords.html",
+      "published_at": "2025-10-22T12:12:02Z",
+      "author": "Sai Krishna",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2025/10/Aura-E-Paper-photo-frame.jpg",
+      "content": "Known for its digital photo frames, Aura has launched a new model, the Ink frame. This brings a color e-paper display, compared to Auras other LCD-based photo frames. The technology is similar to the… [+2009 chars]"
+    },
+    {
+      "title": "Auditor locates gaps in federal government's cybersecurity shield as threats multiply",
+      "description": "The federal auditor found \"significant gaps\" in the government's cybersecurity services, monitoring efforts and responses to active attacks on information systems.",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2025/10/22/news/auditor-locates-gaps-federal-governments-cybersecurity-shield-threats-multiply",
+      "published_at": "2025-10-22T12:11:48Z",
+      "author": "Jim Bronskill",
+      "image_url": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/9601f24f855f560d4b23f6585a748a83248151eda1a1c23778cabacf2981446a.jpg",
+      "content": "The federal auditor found \"significant gaps\" in the government's cybersecurity services, monitoring efforts and responses to active attacks on information systems.\r\nIn a report tabled in Parliament o… [+5250 chars]"
+    },
+    {
+      "title": "McKinsey: CMOs and CFOs must unite to solve marketing tech ROI gap — with help from AI",
+      "description": "Companies may be spending millions on marketing campaigns without understanding their direct business impact.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/10/22/mckinsey-cmo-cfo-unite-solve-marketing-tech-roi-gap-ai/",
+      "published_at": "2025-10-22T12:11:46Z",
+      "author": "Sheryl Estrada",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2015507439.jpg?resize=1200%2C630",
+      "content": "Good morning. Marketing technology, or martech, promises smarter customer engagementbut without clear ROI, it risks becoming a digital money pit. Chief marketing officers and chief financial officers… [+7501 chars]"
+    },
+    {
+      "title": "Introducing: the body issue",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the body issue We’re thrilled to share the latest edition of MIT Technology Review magazine, digging into th…",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/10/22/1126376/introducing-the-body-issue/",
+      "published_at": "2025-10-22T12:10:00Z",
+      "author": "Rhiannon Williams",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MITTR-ND25_TOC-Social-Thumbnail.png?resize=1200,600",
+      "content": "This is one of the least visited places on planet Earth and I got to open the door, Matty Jordan, a construction specialist at New Zealands Scott Base in Antarctica, wrote in the caption to the video… [+1375 chars]"
+    },
+    {
+      "title": "Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html",
+      "published_at": "2025-10-22T12:09:48Z",
+      "author": "Yahoo Finance",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/B9HfuPBxaG3VX9NNkVNeMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/fc805080-1a32-11f0-bfae-4c9609602955",
+      "content": "Earnings season is ramping up as Tesla (TSLA), Netflix (NFLX), General Motors (GM), and Ford Motor Company (F), among others, report results this week.\r\nAs of Oct. 17, 12% of S&amp;P 500 companies ha… [+14908 chars]"
+    },
+    {
+      "title": "Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html",
+      "published_at": "2025-10-22T12:09:48Z",
+      "author": "Yahoo Finance",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/B9HfuPBxaG3VX9NNkVNeMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/fc805080-1a32-11f0-bfae-4c9609602955",
+      "content": "Earnings season is ramping up as Tesla (TSLA), Netflix (NFLX), General Motors (GM), and Ford Motor Company (F), among others, report results this week.\r\nAs of Oct. 17, 12% of S&amp;P 500 companies ha… [+15689 chars]"
+    },
+    {
+      "title": "KBR Awarded $98.7M U.S. Space Force Task Order for Collaborative Engineering, Digital Development",
+      "description": "KBR Inc. (NYSE:KBR) is one of the best infrastructure stocks to buy with huge upside. On October 16, KBR announced that it had been awarded a cost-plus...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/kbr-awarded-98-7m-u-120935765.html",
+      "published_at": "2025-10-22T12:09:35Z",
+      "author": "Maham Fatima",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/wlnmGRXM_GBDukqbtw_B2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d31fe4141423e3429ef34c439c2685ce",
+      "content": "KBR Inc. (NYSE:KBR) is one of the best infrastructure stocks to buy with huge upside. On October 16, KBR announced that it had been awarded a cost-plus-incentive-fee task order from the United States… [+1724 chars]"
+    },
+    {
+      "title": "Using AI-Powered Analysis, Mammogram Can Predict 5-Year Risk for Breast Cancer",
+      "description": "Taking mammograms a step further, Clairity Breast uses AI-powered analysis to predict your chances of developing breast cancer in the next five years.",
+      "source": "TODAY",
+      "url": "https://www.today.com/health/breast-cancer/ai-mammogram-clairity-breast-cancer-risk-rcna238968",
+      "published_at": "2025-10-22T12:09:17Z",
+      "author": "Sarah Jacoby",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2022-03/mammogram-mc-220330-73abe8.jpg",
+      "content": "Routine mammograms are the mainstay of breast cancer screening. But, with a new type of analysis powered by artificial intelligence, doctors may be able to also predict whether or not you'll develop … [+3252 chars]"
+    },
+    {
+      "title": "'Most economically damaging cyber event': Jaguar Land Rover hack costs UK economy $2.5 billion, says report",
+      "description": "Jaguar Land Rover's cyberattack is estimated to have cost the UK economy $2.5 billion, with recovery to full production expected by January 2026. The attack affected over 5,000 organisations and prompted government support for struggling suppliers.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/most-economically-damaging-cyber-event-jaguar-land-rover-hack-costs-uk-economy-2-5-billion-says-report-11761129528402.html",
+      "published_at": "2025-10-22T12:08:20Z",
+      "author": "Eshita Gain",
+      "image_url": "https://www.livemint.com/lm-img/img/2025/10/22/1600x900/JLR_1761130575877_1761130576121.jpg",
+      "content": "The cyberattack on Jaguar Land Rover (JLR), owned by India's Tata Motors, has cost the British economy an estimated 1.9 billion pounds ($2.55 billion), said an independent cybersecurity body in a rep… [+2385 chars]"
+    },
+    {
+      "title": "WTW integrates Radar with Snowflake",
+      "description": "WTW (Willis Towers Watson, NASDAQ: WTW) today announced the introduction of the Radar Connector for Snowflake, enhancing WTW’s market-leading, end-to-end insurance analytics and pricing platform.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/107615/wtw-integrates-radar-with-snowflake",
+      "published_at": "2025-10-22T12:07:32Z",
+      "author": "Editorial Team",
+      "image_url": "https://www.finextra.com/about/finextra-logo.png",
+      "content": "WTW (Willis Towers Watson, NASDAQ: WTW) today announced the introduction of the Radar Connector for Snowflake, enhancing WTWs market-leading, end-to-end insurance analytics and pricing platform.This … [+2982 chars]"
+    },
+    {
+      "title": "Forbes Daily: How Chatbots Respond To Concerns About An AI Bubble",
+      "description": "Today’s Forbes Daily newsletter covers America’s Most Powerful Women In Sports, OpenAI's new browser, potential tariff checks, investors retreat from gold and more.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/daniellechemtob/2025/10/22/forbes-daily-how-chatbots-respond-to-concerns-about-an-ai-bubble/",
+      "published_at": "2025-10-22T12:06:01Z",
+      "author": "Danielle Chemtob, Forbes Staff, \n Danielle Chemtob, Forbes Staff\n https://www.forbes.com/sites/daniellechemtob/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/68f8c802e78a67e34a78e3d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "As the collective footprint of women in sports grows, for the first time, Forbes is tracking the power players.\r\nForbes inaugural list of Americas Most Powerful Women In Sports features 25 game-chang… [+7802 chars]"
+    },
+    {
+      "title": "Ultra-Slim, Industry-First Transparent Momcozy Air 1 Breast Pump Takes Center Stage in Brand Video \"She Moves the World”",
+      "description": "The global mother-and-baby brand spotlights their groundbreaking Air 1 breast pump with sleek design, smart technology, and emotional storytelling to empower modern moms The global mother-and-baby brand spotlights their groundbreaking Air 1 breast pump with s…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/22/3171082/0/en/Ultra-Slim-Industry-First-Transparent-Momcozy-Air-1-Breast-Pump-Takes-Center-Stage-in-Brand-Video-She-Moves-the-World.html",
+      "published_at": "2025-10-22T12:05:00Z",
+      "author": "Momcozy",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/29e94f11-15a2-4766-9684-739576b7f7e7",
+      "content": "NEW YORK, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Momcozy, a global leader in maternal and infant innovation, announced today the nationwide Target launch of its groundbreaking Momcozy Air 1\r\n, the slimmes… [+4416 chars]"
+    },
+    {
+      "title": "Phunware Announces Appointment of Jeremy Krol to Board of Directors",
+      "description": "Phunware Announces Appointment of Jeremy Krol to Board of Directors......",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/22/3171080/0/en/Phunware-Announces-Appointment-of-Jeremy-Krol-to-Board-of-Directors.html",
+      "published_at": "2025-10-22T12:05:00Z",
+      "author": "Phunware, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d2830e4e-45b0-4782-b70d-acdc02c20531",
+      "content": "Appointment Fills Vacant Position on Board of Directors\r\nAUSTIN, Texas, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Phunware, Inc. (Phunware or the Company) (NASDAQ: PHUN), the enterprise cloud platform for mo… [+4031 chars]"
+    },
+    {
+      "title": "Jaguar Land Rover attack to cost UK £1.9bn, say cyber monitors",
+      "description": "The UK's Cyber Monitoring Centre calculates the overall cost of the Jaguar Land Rover cyber attack will be almost two billion pounds",
+      "source": "ComputerWeekly.com",
+      "url": "https://www.computerweekly.com/news/366633395/Jaguar-Land-Rover-attack-to-cost-UK-19bn-say-cyber-monitors",
+      "published_at": "2025-10-22T12:05:00Z",
+      "author": "Alex Scroxton",
+      "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Jaguar-Land-Rover-Range-Rover-PR-hero.jpg",
+      "content": "Britains Cyber Monitoring Centre (CMC) a non-profit dedicated to analysing and categorising cyber incidents in the UK has declared the Jaguar Land Rover (JLR) cyber attack a Category 3 Systemic Event… [+3361 chars]"
+    },
+    {
+      "title": "Samsung Galaxy XR: Apple Vision Pro rival costs $1,799.99",
+      "description": "Built on an open, scalable platform with multimodal AI at its core, Galaxy XR marks the beginning of the Android XR ecosystem, unleashing a future of discovery, play, and work. But controllers will cost you $250 more… Samsung revealed its Galaxy XR, then stil…",
+      "source": "Provideocoalition.com",
+      "url": "https://www.provideocoalition.com/samsung-galaxy-xr-apple-vision-pro-rival-costs-1799-99/",
+      "published_at": "2025-10-22T12:04:47Z",
+      "author": "Jose Antunes",
+      "image_url": "https://www.provideocoalition.com/wp-content/uploads/samsunggalaxyxr001.jpg",
+      "content": "Built on an open, scalable platform with multimodal AI at its core, Galaxy XR marks the beginning of the Android XR ecosystem, unleashing a future of discovery, play, and work. But controllers will c… [+6661 chars]"
+    },
+    {
+      "title": "Real’s September Agent Survey: Optimism Improves as Transaction Activity Rebounds; Agents Highlight Value of Access to Capital",
+      "description": "MIAMI — The Real Brokerage Inc. (NASDAQ: REAX, “Real”), a leading real estate technology platform redefining the industry through innovation and culture, today released results from its September 2025 Agent Survey. The findings show that both agent optimism a…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/reals-september-agent-survey-optimism-improves-as-transaction-activity-rebounds-agents-highlight-value-of-access-to-capital",
+      "published_at": "2025-10-22T12:04:36Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "MIAMI The Real Brokerage Inc. (NASDAQ: REAX, Real), a leading real estate technology platform redefining the industry through innovation and culture, today released results from its September 2025 Ag… [+8087 chars]"
+    },
+    {
+      "title": "Mako Financial Technologies and Trulioo Partner to Streamline KYC for Wealth Advisors Across the U.S. and Canada",
+      "description": "Integration Delivers Instant, Compliant Onboarding That Cuts Manual Work, Boosts Accuracy and Accelerates Growth. MONTRÉAL — Mako Financial Technologies, the industry-leading workflow platform for financial services, today announced a strategic partnership wi…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mako-financial-technologies-and-trulioo-partner-to-streamline-kyc-for-wealth-advisors-across-the-u-s-and-canada",
+      "published_at": "2025-10-22T12:04:29Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "Integration Delivers Instant, Compliant Onboarding That Cuts Manual Work, Boosts Accuracy and Accelerates Growth.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news… [+6238 chars]"
+    },
+    {
+      "title": "Ten-Oh tugboat pack more than 4,400 hydrogen fueled horsepower",
+      "description": "Under the hood of the new “Ten-Oh” Japanese tugboat is the key is a novel marine engine system churning out more than 4,400 hp (!) from its dual, dual-fuel hydrogen-burning V12 engines. Is this – finally! – a great use case for hydrogen?\n\n\n\n more…",
+      "source": "Electrek",
+      "url": "http://electrek.co/2025/10/22/ten-oh-tugboat-pack-more-than-4400-hydrogen-fueled-horsepower/",
+      "published_at": "2025-10-22T12:04:24Z",
+      "author": "Jo Borrás",
+      "image_url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/10/japan-welcomes-its-first-hydrogen-dual-fuel-tugboat_2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "content": "Under the hood of the new “Ten-Oh” Japanese tugboat is the key is a novel marine engine system churning out more than 4,400 hp (!) from its dual, dual-fuel hydrogen-burning V12 engines. Is this  fina… [+4662 chars]"
+    },
+    {
+      "title": "International Battery Metals Secures Second Follow-On Investment From EV Metals, Adding USD $2.0 Million Under Existing LOI",
+      "description": "VANCOUVER, British Columbia & HOUSTON — International Battery Metals Ltd. (“IBAT”) (TSXV: IBAT) & (OTCQB: IBATF), an advanced technology provider of modular direct lithium extraction (DLE) systems, today announced a non-brokered private placement financing, m…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/international-battery-metals-secures-second-follow-on-investment-from-ev-metals-adding-usd-2-0-million-under-existing-loi",
+      "published_at": "2025-10-22T12:04:23Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "VANCOUVER, British Columbia &amp; HOUSTON International Battery Metals Ltd. (IBAT) (TSXV: IBAT) &amp; (OTCQB: IBATF), an advanced technology provider of modular direct lithium extraction (DLE) system… [+10245 chars]"
+    },
+    {
+      "title": "Swelect’s new CEO shelves cell project, plans BESS foray",
+      "description": "The supply contract is expected to be finalised in a few months, he said, but did not name the cell supplier because of a non-disclosure agreement",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/swelects-new-ceo-shelves-cell-project-plans-bess-foray/article70189702.ece",
+      "published_at": "2025-10-22T12:04:06Z",
+      "author": "M  Ramesh",
+      "image_url": "https://bl-i.thgim.com/public/incoming/ea9yu6/article69950179.ece/alternates/LANDSCAPE_1200/PTI10_19_2024_000157B.jpg",
+      "content": "Dr Arul Shanmugasundaram, the new CEO of Swelect Energy Systems Ltd, has charted a new course for the company, a major feature of which is shelving the proposed solar cell project. The company will n… [+2746 chars]"
+    },
+    {
+      "title": "Catalyst Pharmaceuticals to Report Third Quarter 2025 Financial Results on November 5, 2025",
+      "description": "The Company will Host a Conference Call and Webcast on Thursday, November 6, 2025, at 8:30 AM ET The Company will Host a Conference Call and Webcast on Thursday, November 6, 2025, at 8:30 AM ET",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/22/3171078/13009/en/Catalyst-Pharmaceuticals-to-Report-Third-Quarter-2025-Financial-Results-on-November-5-2025.html",
+      "published_at": "2025-10-22T12:03:00Z",
+      "author": "Catalyst Pharmaceuticals, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/960a6989-9f9c-4ad2-91cf-be10cebd6655",
+      "content": "CORAL GABLES, Fla., Oct. 22, 2025 (GLOBE NEWSWIRE) -- Catalyst Pharmaceuticals, Inc. (\"Catalyst\" or \"Company\") (Nasdaq: CPRX), a commercial-stage biopharmaceutical company focused on in-licensing, de… [+2944 chars]"
+    },
+    {
+      "title": "Gimlet Labs Emerges from Stealth with 8-Figure Revenues, Fundamentally Shifting the Paradigm in How Agentic AI Workloads Are Run and Opening Up New Compute Capacity",
+      "description": "SAN FRANCISCO, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Today Gimlet Labs, the Applied AI research and product company, launched with its platform that is the first to seamlessly decouple agentic AI workloads from underlying hardware, slice each workload into compon…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/22/3171079/0/en/Gimlet-Labs-Emerges-from-Stealth-with-8-Figure-Revenues-Fundamentally-Shifting-the-Paradigm-in-How-Agentic-AI-Workloads-Are-Run-and-Opening-Up-New-Compute-Capacity.html",
+      "published_at": "2025-10-22T12:03:00Z",
+      "author": "Gimlet Labs",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f7cc37b8-6d2d-4b70-910a-4b4ecec76e47",
+      "content": "SAN FRANCISCO, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Today Gimlet Labs, the Applied AI research and product company, launched with its platform that is the first to seamlessly decouple agentic AI workloa… [+5639 chars]"
+    },
+    {
+      "title": "Volatility Isn’t The Enemy: Inefficiency Is",
+      "description": "October 10, 2025, will be remembered as the day crypto markets experienced their largest liquidation event in history.",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/volatility-isnt-the-enemy-inefficiency-is/",
+      "published_at": "2025-10-22T12:02:30Z",
+      "author": "Federico Variola , CEO of Phemex",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/otlQ70EprEygMelNCNO88w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/06e034fc0a7b21bbfd8e0c64aff1b583",
+      "content": "Volatility Isn't The Enemy: Inefficiency Is. Photo by BeInCrypto\r\nBy Federico Variola, CEO of Phemex\r\nOctober 10, 2025, will be remembered as the day crypto markets experienced their largest liquidat… [+10421 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 46031,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Red-gate.com"
+        },
+        "author": "Rodrigo Ribeiro Gomes",
+        "title": "How to Build an AI-Powered T-SQL Assistant with Python & SQL Server",
+        "description": "Discover how to build an AI-powered T-SQL assistant using Python, embeddings, vector search and SQL Server’s new AI features. Step-by-step for DBAs & developers.…\nThe post How to Build an AI-Powered T-SQL Assistant with Python & SQL Server appeared first on S…",
+        "url": "https://www.red-gate.com/simple-talk/databases/sql-server/an-ai-powered-t-sql-assistant-built-with-python-and-sql-server/",
+        "urlToImage": "https://www.red-gate.com/simple-talk/wp-content/uploads/2025/06/Python_SimpleTalk1-scaled.jpg",
+        "publishedAt": "2025-10-22T12:25:31Z",
+        "content": "If youre a SQL Server DBA or developer looking to harness AI for your everyday scripting workflows, this article will walk you through building an AI-powered T-SQL assistant using Python and SQL Serv… [+64347 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Detroit Free Press"
+        },
+        "author": "JC Reindl, Detroit Free Press",
+        "title": "Detroit glass factory to open in late 2026 on former site of Southwestern High School",
+        "description": "LuxWall plans to begin manufacturing its advanced insulated glass on the site that could eventually employ 277.",
+        "url": "https://www.freep.com/story/money/business/michigan/2025/10/22/detroit-glass-factory-luxwall-southwestern/86820208007/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EDnufVemo1nqb39XiSlrjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/detroit_free_press_natl_articles_245/697487f46efde677c03b398e10eff760",
+        "publishedAt": "2025-10-22T12:25:13Z",
+        "content": "The former site of Southwestern High School in Detroit is set to become home to an advanced glass manufacturing plant next year that could eventually employ 277 workers.\r\nYpsilanti-based startup LuxW… [+3767 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Week Magazine"
+        },
+        "author": "theweekonlineeditorsuk@futurenet.com (The Week UK) , The Week UK",
+        "title": "How the online world relies on AWS cloud servers",
+        "description": "Chaos caused by Monday’s online outage shows that ‘when AWS sneezes, half the internet catches the flu’",
+        "url": "https://theweek.com/tech/how-the-online-world-relies-on-aws-cloud-servers",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/4vY7pbSwVtVWJhQrCVpmq-2000-80.jpg",
+        "publishedAt": "2025-10-22T12:24:52Z",
+        "content": "Amazon Web Services (AWS) has “returned to normal operations”, the company has said, following an outage that caused widespread chaos and again exposed the fragile foundations that today’s digital wo… [+4181 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "benzinga.com",
+        "title": "Senior Care Gets An Upgrade: How LogicMark's Patented Token & Privacy Technology Helps It Better Manage Customer Data Security",
+        "description": "When it comes to monitoring an elderly person in the home or on the go, keeping their health data private and secure is of the utmost importance. After all, if it falls into the wrong hands, it can lead to identity theft, stigmatization, discrimination, elder…",
+        "url": "https://biztoc.com/x/1f3fc5b7b0832f7d",
+        "urlToImage": "https://biztoc.com/cdn/1f3fc5b7b0832f7d_s.webp",
+        "publishedAt": "2025-10-22T12:24:44Z",
+        "content": "When it comes to monitoring an elderly person in the home or on the go, keeping their health data private and secure is of the utmost importance. After all, if it falls into the wrong hands, it can l… [+147 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "fortune.com",
+        "title": "McKinsey: CMOs and CFOs must unite to solve marketing tech ROI gap — with help from AI",
+        "description": "Good morning. Marketing technology, or “martech,” promises smarter customer engagement—but without clear ROI, it risks becoming a digital money pit. Chief marketing officers and chief financial officers play a major role in preventing that.\nEmail marketing to…",
+        "url": "https://biztoc.com/x/112aaf429b8b05e5",
+        "urlToImage": "https://biztoc.com/cdn/112aaf429b8b05e5_s.webp",
+        "publishedAt": "2025-10-22T12:24:37Z",
+        "content": "Good morning. Marketing technology, or martech, promises smarter customer engagementbut without clear ROI, it risks becoming a digital money pit. Chief marketing officers and chief financial officers… [+135 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": "PATRICK SEITZ, Investor's Business Daily",
+        "title": "Vertiv Crushes Q3 Estimates On Strong AI Data Center Business",
+        "description": "Data center infrastructure firm Vertiv beat expectations for Q3 and guided above views for the current period. Vertiv stock rose.",
+        "url": "https://www.investors.com/news/technology/vertiv-stock-vrt-q3-2025-earnings/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-Vertiv-CoolChipCDU-company.jpg",
+        "publishedAt": "2025-10-22T12:24:19Z",
+        "content": "Data center infrastructure firm Vertiv (VRT) on Wednesday beat expectations for the third quarter and guided above views for the current period, thanks to strong AI data center business. Vertiv stock… [+2081 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Catherine Brock, Contributor, \n Catherine Brock, Contributor\n https://www.forbes.com/sites/wealth-planning-insights/people/catherinebrock/",
+        "title": "Investors Pause To Wait For Magnificent 7 Earnings",
+        "description": "Stocks were mixed on Tuesday ahead of Tesla earnings, scheduled for Wednesday after market close. Also: what is a bubble in investing?",
+        "url": "https://www.forbes.com/sites/catherinebrock/2025/10/22/investors-pause-to-wait-for-magnificent-7-earnings/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67e31f7682a4c312170ecd53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-22T12:23:01Z",
+        "content": "U.S. stocks were mixed Tuesday as investors await earnings results from the Magnificent Seven stocks, starting with Tesla (TSLA) after the market closes on Wednesday.\r\ngetty\r\nU.S. stocks were mixed T… [+2967 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Toys"
+        },
+        "author": "Karthik Iyer",
+        "title": "Get ASUS’ ROG Strix 25-inch Fast IPS FHD 310Hz gaming monitor for your battlestation while it’s down at $199 low",
+        "description": "We just spotted a deal at Amazon that drops ASUS’ ROG Strix 25-inch FHD 310Hz gaming monitor down to $199 shipped. This already affordable monitor typically goes for $299, and it’s now seeing a straight-up $100 markdown to land $30 below its previous all-time…",
+        "url": "http://9to5toys.com/2025/10/22/asus-rog-strix-25-inch-fast-ips-fhd-310hz-gaming-monitor-199-low/",
+        "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/02/ASUS-ROG-Strix-FHD-gaming-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-10-22T12:22:51Z",
+        "content": "We just spotted a deal at Amazon that drops ASUS’ ROG Strix 25-inch FHD 310Hz gaming monitor down to $199 shipped. This already affordable monitor typically goes for $299, and it’s now seeing a strai… [+1940 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investopedia"
+        },
+        "author": "Terry Lane",
+        "title": "5 Things to Know Before the Stock Market Opens",
+        "description": "News of the day for Oct. 22, 2025",
+        "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-october-22-2025-11834499",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7yL0G896Nx8fcuwP2_MFlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/c31868a1a5b87e40603f264044f9134b",
+        "publishedAt": "2025-10-22T12:22:49Z",
+        "content": "Joe Lamberti / Bloomberg / Getty Images\r\n Tesla will be the first of the Magnificent Seven major tech companies to release its quarterly results.\r\nStock futures are holding steady this morning as qua… [+4223 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Bloomberg News",
+        "title": "Intel CEO-Backed Startup Seeks Role as AI Chip Matchmaker",
+        "description": "Gimlet is building software that will chop up AI tasks and send them to the most cost-effective chips",
+        "url": "https://financialpost.com/pmn/business-pmn/intel-ceo-backed-startup-seeks-role-as-ai-chip-matchmaker",
+        "urlToImage": null,
+        "publishedAt": "2025-10-22T12:21:08Z",
+        "content": "(Bloomberg) A startup backed by Intel Corp.s CEO is building software that can carve up artificial intelligence tasks and send them to different kinds of chips, aiming to streamline an expensive and … [+5503 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ALAN SUDERMAN AP business writer",
+        "title": "Money-losing companies with colorful histories have pivoted to crypto",
+        "description": "So far this year, billions of dollars have flowed into companies that have reinvented themselves by making the buying and holding of cryptocurrency their main focus",
+        "url": "https://abcnews.go.com/Business/wireStory/money-losing-companies-colorful-histories-pivoted-crypto-126749813",
+        "urlToImage": "https://i.abcnewsfe.com/a/73c65275-e3ef-4b7f-988d-05513ded870d/wirestory_f288fa3040cb48486f2f8a0c1886f7d0_16x9.jpg?w=1600",
+        "publishedAt": "2025-10-22T12:20:53Z",
+        "content": "A marketer of shark-repellant sunscreen. A maker of chocolate-flavored whiskey. A seller of a drink that promises to quickly lower blood-alcohol levels.\r\nUntil recently, these businesses had signific… [+8317 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "MICHAEL CANTU EDMUNDS Associated Press",
+        "title": "Five 2026 vehicles you should absolutely wait for",
+        "description": "Have you ever bought a new car then realized that a redesigned version of the car you just purchased just came out",
+        "url": "https://abcnews.go.com/Business/wireStory/2026-vehicles-absolutely-wait-126750575",
+        "urlToImage": "https://i.abcnewsfe.com/a/c0640048-9cf2-4ff2-9248-6d7704f0cd54/wirestory_fc27bb38f6d4075e07be1998f5b3703e_16x9.jpg?w=1600",
+        "publishedAt": "2025-10-22T12:20:27Z",
+        "content": "Dont buy that new car yet. If you can wait, youll have new 2026 model year options that arent out yet. Although some models barely change, others are completely redesigned and often get the latest fe… [+4168 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "Jackson Trager, Ph.D. Candidate in Psychology, USC Dornsife College of Letters, Arts and Sciences",
+        "title": "Is it wrong to have too much money? Your answer may depend on deep-seated values – and your country’s economy",
+        "description": "People who highly value equality and purity are most likely to see excessive wealth as wrong, a new study suggests.",
+        "url": "https://theconversation.com/is-it-wrong-to-have-too-much-money-your-answer-may-depend-on-deep-seated-values-and-your-countrys-economy-265247",
+        "urlToImage": "https://images.theconversation.com/files/697609/original/file-20251021-56-arp74n.jpg?ixlib=rb-4.1.0&rect=0%2C1536%2C9202%2C4601&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2025-10-22T12:18:42Z",
+        "content": "Demonstrators arrive for a protest ahead of the World Economic Forum in Davos, Switzerland, on Jan. 19, 2025. AP Photo/Markus Schreiber\r\nAcross cultures, people often wrestle with whether having lots… [+4853 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hospitality Net"
+        },
+        "author": "AH&LA",
+        "title": "New Report: Hotels are a $7 Billion Economic Engine in Denver",
+        "description": "According to a new ⁠economic impact report conducted by Oxford Economics, Denver’s hospitality industry continues to serve as a powerful engine for growth and opportunity. The report details the Denver hotel industry’s far-reaching economic impact, finding th…",
+        "url": "https://www.hospitalitynet.org/news/4129438.html",
+        "urlToImage": "https://www.hospitalitynet.org/HN-icon.jpg",
+        "publishedAt": "2025-10-22T12:18:00Z",
+        "content": "DENVER, Colo. - According to a new economic impact report conducted by Oxford Economics, Denver's hospitality industry continues to serve as a powerful engine for growth and opportunity. The report d… [+3582 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BGR"
+        },
+        "author": "staff@bgr.com (Briley Kenney)",
+        "title": "Does TSA's Digital ID System Actually Work? Here's What Users Say",
+        "description": "It's now possible to use your digital ID at about 250 airports, which should, theoretically, get you through checkpoints faster. But does it actually work?",
+        "url": "https://www.bgr.com/1998079/does-tsa-digital-id-system-work-common-problems-2025/",
+        "urlToImage": "https://www.bgr.com/img/gallery/does-tsas-digital-id-system-actually-work-heres-what-users-say/l-intro-1760557721.jpg",
+        "publishedAt": "2025-10-22T12:17:00Z",
+        "content": "It's now possible to use your digital ID at about 250 airports in the United States, which should, theoretically, get you through checkpoints faster. If you're not familiar, digital IDs are a new for… [+1307 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "VSORA Inc",
+        "title": "VSORA Launches Europe’s Most Powerful AI Inference Chip",
+        "description": "PARIS, Oct. 22, 2025 (GLOBE NEWSWIRE) --  VSORA, a French semiconductor innovator, today announced the production launch of Jotunn8, an artificial intelligence (AI) inference chip engineered to power next-generation data center applications delivering breakth…",
+        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171091/0/en/VSORA-Launches-Europe-s-Most-Powerful-AI-Inference-Chip.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/45e6e7fe-aa15-461f-8ad0-bd63d68c5f21",
+        "publishedAt": "2025-10-22T12:17:00Z",
+        "content": "<ul><li>Production of ultra-high-performance AI chip called Jotunn8 begins</li><li>Redefining cost-effective, high-performance AI inference deployment at scale</li><li>Semiconductor Manufacturing Par… [+3191 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Protothema.gr"
+        },
+        "author": "admin",
+        "title": "University of Economics: Memorandum of Understanding with two research centers for the development of artificial intelligence in Greece",
+        "description": "The SynAI network aims to create a framework of mutual understanding to enhance innovation, technology transfer and the use of artificial intelligence in Greek society and economy\nThe post University of Economics: Memorandum of Understanding with two research…",
+        "url": "https://en.protothema.gr/2025/10/22/university-of-economics-memorandum-of-understanding-with-two-research-centers-for-the-development-of-artificial-intelligence-in-greece/",
+        "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/10/asoee-1.jpg-1.jpg",
+        "publishedAt": "2025-10-22T12:17:00Z",
+        "content": "An initiative to advance Artificial Intelligence (AI) in Greece has been formalized through a Memorandum of Understanding (MoU) co-signed by the Athens University of Economics and Business (AUEB), th… [+3664 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Tim De Chant",
+        "title": "One startup’s quest to store electricity in the ocean",
+        "description": "Sizable Energy has a plan to store excess renewable energy in flexible reservoirs out at sea. The startup has raised $8 million to test prototypes.",
+        "url": "https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Sizable-floating-reservoir-prototype.jpg?resize=1200,675",
+        "publishedAt": "2025-10-22T12:16:39Z",
+        "content": "When Manuele Aufiero was a child, his parents would take him hiking along a reservoir in northern Italy. It wasnt a typical reservoir, though. This one drained and refilled constantly, with pumps rai… [+3742 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "National Observer"
+        },
+        "author": "Dylan Robertson",
+        "title": "India's envoy rejects Anand's claim that Ottawa can fully staff its embassy",
+        "description": "India's new envoy to Canada rejected Foreign Minister Anita Anand's claim that New Delhi has agreed to restore Canada's full complement of diplomats.",
+        "url": "https://www.nationalobserver.com/2025/10/22/news/indias-envoy-rejects-anands-claim-ottawa-can-fully-staff-its-embassy",
+        "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/fdf76abe9364185d8cb6ada052d7c09dc468201ad5c23660cbf0fc6bfb4f9708.jpg",
+        "publishedAt": "2025-10-22T12:16:26Z",
+        "content": "India's new envoy to Canada rejected Foreign Minister Anita Anand's claim that New Delhi has agreed to restore Canada's full complement of diplomats.\r\nIndian High Commissioner Dinesh Patnaik said Ott… [+3909 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Practical Ecommerce"
+        },
+        "author": "Sig Ueland",
+        "title": "New Ecommerce Tools: October 22, 2025",
+        "description": "This week's rundown includes updates on GEO, agentic commerce, cryptocurrencies, embedded payments, website builders, customer data tools, and more.\nThe post New Ecommerce Tools: October 22, 2025 appeared first on Practical Ecommerce.",
+        "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-22-2025",
+        "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2025/10/thumb.jpg",
+        "publishedAt": "2025-10-22T12:16:05Z",
+        "content": "Every week we handpick a list of new products and services for ecommerce merchants. This installment includes updates on generative engine optimization, agentic commerce, cryptocurrencies, embedded p… [+6795 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "Yurou Wang, Associate Professor of Educational Psychology, University of Alabama",
+        "title": "Can AI keep students motivated, or does it do the opposite?",
+        "description": "A meta-analysis of AI chatbots’ impact on student learning finds benefits when used properly, but risks of diminishing student motivation and confidence.",
+        "url": "https://theconversation.com/can-ai-keep-students-motivated-or-does-it-do-the-opposite-264728",
+        "urlToImage": "https://images.theconversation.com/files/695715/original/file-20251010-56-apy4xu.jpg?ixlib=rb-4.1.0&rect=0%2C398%2C5262%2C2631&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2025-10-22T12:15:54Z",
+        "content": "AI-based tools can be effective in motivating students but require proper design and thoughtful implementation. Associated Press\r\nImagine a student using a writing assistant powered by a generative A… [+8077 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Inside the Magic"
+        },
+        "author": "Sarah Larson",
+        "title": "This Old Disney Concept Could Be Revived Sooner Than You Think",
+        "description": "Disney may be cooking up something big behind the scenes. On top of massive land expansions and high-profile attraction overhauls, there’s growing buzz that the company could be quietly working on bringing back an iconic fan-favorite. This isn’t just any attr…",
+        "url": "https://insidethemagic.net/2025/10/this-old-disney-concept-could-be-revived-sooner-than-you-think-sb1/",
+        "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/07/Untitled-design-70-1.jpg",
+        "publishedAt": "2025-10-22T12:14:00Z",
+        "content": "Disney may be cooking up something big behind the scenes. On top of massive land expansions and high-profile attraction overhauls, theres growing buzz that the company could be quietly working on bri… [+6659 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "ALEXA ST. JOHN and JENNIFER McDERMOTT",
+        "title": "AI can help the environment, even though it uses tremendous energy. Here are 5 ways how",
+        "description": "Artificial intelligence has caused concern for its tremendous consumption of water and power.  Data centers needed to fuel AI accounted for about 1.5% of the...",
+        "url": "https://www.yahoo.com/news/articles/ai-help-environment-even-though-121349798.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/y0HNuWqdlE_aIxF7kySvjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/4563f3e2ae6e224c36dbb147eba28adc",
+        "publishedAt": "2025-10-22T12:13:49Z",
+        "content": "Artificial intelligence has caused concern for its tremendous consumption of water and power. But scientists are also experimenting with ways that AI can help people and businesses use energy more ef… [+6767 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "ExlService Holdings, Inc.",
+        "title": "EXL and Schneider streamline trucking logistics with AI-powered digital transformation",
+        "description": "Innovation delivers over 50% faster scheduling and 24% lower cost, delivering superior experience for drivers and customers Innovation delivers over 50% faster scheduling and 24% lower cost, delivering superior experience for drivers and customers",
+        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171085/9060/en/EXL-and-Schneider-streamline-trucking-logistics-with-AI-powered-digital-transformation.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/e97f61d3-2aeb-461f-8bf5-d683ac2b82db",
+        "publishedAt": "2025-10-22T12:13:00Z",
+        "content": "NEW YORK, Oct. 22, 2025 (GLOBE NEWSWIRE) -- EXL [NASDAQ: EXLS], a global data and AI company, announced a major digital transformation initiative with Schneider National, Inc. [NYSE: SNDR], a premier… [+5475 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "How to Use New ChatGPT Atlas AI Browser : Say Goodbye to Boring Browsing",
+        "description": "What if your browser didn’t just help you search, but actively worked alongside you, summarizing articles, drafting emails, or even automating repetitive tasks? Enter ChatGPT Atlas, OpenAI’s ambitious leap into the browser market. Built on Google’s Chromium p…",
+        "url": "https://www.geeky-gadgets.com/ai-browser-chatgpt-atlas-tutorial/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/10/chatgpt-atlas-browser-interface_optimized.jpg",
+        "publishedAt": "2025-10-22T12:12:40Z",
+        "content": "What if your browser didnt just help you search, but actively worked alongside you, summarizing articles, drafting emails, or even automating repetitive tasks? Enter ChatGPT Atlas, OpenAIs ambitious … [+7618 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Protothema.gr"
+        },
+        "author": "admin",
+        "title": "Pierrakakis: Integrate AI into every aspect of the economy and the state",
+        "description": "Technology and technological changes are the catalyst for economic progress, Kyriakos Pierrakakis stressed\nThe post Pierrakakis: Integrate AI into every aspect of the economy and the state appeared first on ProtoThema English.",
+        "url": "https://en.protothema.gr/2025/10/22/pierrakakis-integrate-ai-into-every-aspect-of-the-economy-and-the-state/",
+        "urlToImage": "https://en.protothema.gr/wp-content/uploads/2025/10/whatsapp-image-20-19.jpeg-1.jpg",
+        "publishedAt": "2025-10-22T12:12:31Z",
+        "content": "“The next step in our digital strategy is to integrate AI into every aspect of the economy and the state,” Minister of National Economy and Finance Kyriakos Pierrakakis stressed at the conference on … [+9807 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Headlines"
+        },
+        "author": "Sai Krishna",
+        "title": "Aura Launches a New E-Paper Photo Frame For Those Who Hate Cords",
+        "description": "Aura has launched the Ink Frame cordless e-paper photo frame at $499.99. This features a 13.3-inch Spectra 6 display and a type-C port.",
+        "url": "https://www.androidheadlines.com/2025/10/aura-launches-a-new-e-paper-photo-frame-for-those-who-hate-cords.html",
+        "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/10/Aura-E-Paper-photo-frame.jpg",
+        "publishedAt": "2025-10-22T12:12:02Z",
+        "content": "Known for its digital photo frames, Aura has launched a new model, the Ink frame. This brings a color e-paper display, compared to Auras other LCD-based photo frames. The technology is similar to the… [+2009 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "National Observer"
+        },
+        "author": "Jim Bronskill",
+        "title": "Auditor locates gaps in federal government's cybersecurity shield as threats multiply",
+        "description": "The federal auditor found \"significant gaps\" in the government's cybersecurity services, monitoring efforts and responses to active attacks on information systems.",
+        "url": "https://www.nationalobserver.com/2025/10/22/news/auditor-locates-gaps-federal-governments-cybersecurity-shield-threats-multiply",
+        "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2025/10/22/9601f24f855f560d4b23f6585a748a83248151eda1a1c23778cabacf2981446a.jpg",
+        "publishedAt": "2025-10-22T12:11:48Z",
+        "content": "The federal auditor found \"significant gaps\" in the government's cybersecurity services, monitoring efforts and responses to active attacks on information systems.\r\nIn a report tabled in Parliament o… [+5250 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "McKinsey: CMOs and CFOs must unite to solve marketing tech ROI gap — with help from AI",
+        "description": "Companies may be spending millions on marketing campaigns without understanding their direct business impact.",
+        "url": "https://fortune.com/2025/10/22/mckinsey-cmo-cfo-unite-solve-marketing-tech-roi-gap-ai/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2015507439.jpg?resize=1200%2C630",
+        "publishedAt": "2025-10-22T12:11:46Z",
+        "content": "Good morning. Marketing technology, or martech, promises smarter customer engagementbut without clear ROI, it risks becoming a digital money pit. Chief marketing officers and chief financial officers… [+7501 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MIT Technology Review"
+        },
+        "author": "Rhiannon Williams",
+        "title": "Introducing: the body issue",
+        "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the body issue We’re thrilled to share the latest edition of MIT Technology Review magazine, digging into th…",
+        "url": "https://www.technologyreview.com/2025/10/22/1126376/introducing-the-body-issue/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MITTR-ND25_TOC-Social-Thumbnail.png?resize=1200,600",
+        "publishedAt": "2025-10-22T12:10:00Z",
+        "content": "This is one of the least visited places on planet Earth and I got to open the door, Matty Jordan, a construction specialist at New Zealands Scott Base in Antarctica, wrote in the caption to the video… [+1375 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Yahoo Finance",
+        "title": "Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom",
+        "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+        "url": "https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/B9HfuPBxaG3VX9NNkVNeMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/fc805080-1a32-11f0-bfae-4c9609602955",
+        "publishedAt": "2025-10-22T12:09:48Z",
+        "content": "Earnings season is ramping up as Tesla (TSLA), Netflix (NFLX), General Motors (GM), and Ford Motor Company (F), among others, report results this week.\r\nAs of Oct. 17, 12% of S&amp;P 500 companies ha… [+14908 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Yahoo Finance",
+        "title": "Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom",
+        "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+        "url": "https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/B9HfuPBxaG3VX9NNkVNeMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/fc805080-1a32-11f0-bfae-4c9609602955",
+        "publishedAt": "2025-10-22T12:09:48Z",
+        "content": "Earnings season is ramping up as Tesla (TSLA), Netflix (NFLX), General Motors (GM), and Ford Motor Company (F), among others, report results this week.\r\nAs of Oct. 17, 12% of S&amp;P 500 companies ha… [+15689 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Maham Fatima",
+        "title": "KBR Awarded $98.7M U.S. Space Force Task Order for Collaborative Engineering, Digital Development",
+        "description": "KBR Inc. (NYSE:KBR) is one of the best infrastructure stocks to buy with huge upside. On October 16, KBR announced that it had been awarded a cost-plus...",
+        "url": "https://finance.yahoo.com/news/kbr-awarded-98-7m-u-120935765.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wlnmGRXM_GBDukqbtw_B2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d31fe4141423e3429ef34c439c2685ce",
+        "publishedAt": "2025-10-22T12:09:35Z",
+        "content": "KBR Inc. (NYSE:KBR) is one of the best infrastructure stocks to buy with huge upside. On October 16, KBR announced that it had been awarded a cost-plus-incentive-fee task order from the United States… [+1724 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "TODAY"
+        },
+        "author": "Sarah Jacoby",
+        "title": "Using AI-Powered Analysis, Mammogram Can Predict 5-Year Risk for Breast Cancer",
+        "description": "Taking mammograms a step further, Clairity Breast uses AI-powered analysis to predict your chances of developing breast cancer in the next five years.",
+        "url": "https://www.today.com/health/breast-cancer/ai-mammogram-clairity-breast-cancer-risk-rcna238968",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2022-03/mammogram-mc-220330-73abe8.jpg",
+        "publishedAt": "2025-10-22T12:09:17Z",
+        "content": "Routine mammograms are the mainstay of breast cancer screening. But, with a new type of analysis powered by artificial intelligence, doctors may be able to also predict whether or not you'll develop … [+3252 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Eshita Gain",
+        "title": "'Most economically damaging cyber event': Jaguar Land Rover hack costs UK economy $2.5 billion, says report",
+        "description": "Jaguar Land Rover's cyberattack is estimated to have cost the UK economy $2.5 billion, with recovery to full production expected by January 2026. The attack affected over 5,000 organisations and prompted government support for struggling suppliers.",
+        "url": "https://www.livemint.com/companies/news/most-economically-damaging-cyber-event-jaguar-land-rover-hack-costs-uk-economy-2-5-billion-says-report-11761129528402.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2025/10/22/1600x900/JLR_1761130575877_1761130576121.jpg",
+        "publishedAt": "2025-10-22T12:08:20Z",
+        "content": "The cyberattack on Jaguar Land Rover (JLR), owned by India's Tata Motors, has cost the British economy an estimated 1.9 billion pounds ($2.55 billion), said an independent cybersecurity body in a rep… [+2385 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Finextra"
+        },
+        "author": "Editorial Team",
+        "title": "WTW integrates Radar with Snowflake",
+        "description": "WTW (Willis Towers Watson, NASDAQ: WTW) today announced the introduction of the Radar Connector for Snowflake, enhancing WTW’s market-leading, end-to-end insurance analytics and pricing platform.",
+        "url": "https://www.finextra.com/pressarticle/107615/wtw-integrates-radar-with-snowflake",
+        "urlToImage": "https://www.finextra.com/about/finextra-logo.png",
+        "publishedAt": "2025-10-22T12:07:32Z",
+        "content": "WTW (Willis Towers Watson, NASDAQ: WTW) today announced the introduction of the Radar Connector for Snowflake, enhancing WTWs market-leading, end-to-end insurance analytics and pricing platform.This … [+2982 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Danielle Chemtob, Forbes Staff, \n Danielle Chemtob, Forbes Staff\n https://www.forbes.com/sites/daniellechemtob/",
+        "title": "Forbes Daily: How Chatbots Respond To Concerns About An AI Bubble",
+        "description": "Today’s Forbes Daily newsletter covers America’s Most Powerful Women In Sports, OpenAI's new browser, potential tariff checks, investors retreat from gold and more.",
+        "url": "https://www.forbes.com/sites/daniellechemtob/2025/10/22/forbes-daily-how-chatbots-respond-to-concerns-about-an-ai-bubble/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68f8c802e78a67e34a78e3d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-22T12:06:01Z",
+        "content": "As the collective footprint of women in sports grows, for the first time, Forbes is tracking the power players.\r\nForbes inaugural list of Americas Most Powerful Women In Sports features 25 game-chang… [+7802 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Momcozy",
+        "title": "Ultra-Slim, Industry-First Transparent Momcozy Air 1 Breast Pump Takes Center Stage in Brand Video \"She Moves the World”",
+        "description": "The global mother-and-baby brand spotlights their groundbreaking Air 1 breast pump with sleek design, smart technology, and emotional storytelling to empower modern moms The global mother-and-baby brand spotlights their groundbreaking Air 1 breast pump with s…",
+        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171082/0/en/Ultra-Slim-Industry-First-Transparent-Momcozy-Air-1-Breast-Pump-Takes-Center-Stage-in-Brand-Video-She-Moves-the-World.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/29e94f11-15a2-4766-9684-739576b7f7e7",
+        "publishedAt": "2025-10-22T12:05:00Z",
+        "content": "NEW YORK, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Momcozy, a global leader in maternal and infant innovation, announced today the nationwide Target launch of its groundbreaking Momcozy Air 1\r\n, the slimmes… [+4416 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Phunware, Inc.",
+        "title": "Phunware Announces Appointment of Jeremy Krol to Board of Directors",
+        "description": "Phunware Announces Appointment of Jeremy Krol to Board of Directors......",
+        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171080/0/en/Phunware-Announces-Appointment-of-Jeremy-Krol-to-Board-of-Directors.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/d2830e4e-45b0-4782-b70d-acdc02c20531",
+        "publishedAt": "2025-10-22T12:05:00Z",
+        "content": "Appointment Fills Vacant Position on Board of Directors\r\nAUSTIN, Texas, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Phunware, Inc. (Phunware or the Company) (NASDAQ: PHUN), the enterprise cloud platform for mo… [+4031 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ComputerWeekly.com"
+        },
+        "author": "Alex Scroxton",
+        "title": "Jaguar Land Rover attack to cost UK £1.9bn, say cyber monitors",
+        "description": "The UK's Cyber Monitoring Centre calculates the overall cost of the Jaguar Land Rover cyber attack will be almost two billion pounds",
+        "url": "https://www.computerweekly.com/news/366633395/Jaguar-Land-Rover-attack-to-cost-UK-19bn-say-cyber-monitors",
+        "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Jaguar-Land-Rover-Range-Rover-PR-hero.jpg",
+        "publishedAt": "2025-10-22T12:05:00Z",
+        "content": "Britains Cyber Monitoring Centre (CMC) a non-profit dedicated to analysing and categorising cyber incidents in the UK has declared the Jaguar Land Rover (JLR) cyber attack a Category 3 Systemic Event… [+3361 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Provideocoalition.com"
+        },
+        "author": "Jose Antunes",
+        "title": "Samsung Galaxy XR: Apple Vision Pro rival costs $1,799.99",
+        "description": "Built on an open, scalable platform with multimodal AI at its core, Galaxy XR marks the beginning of the Android XR ecosystem, unleashing a future of discovery, play, and work. But controllers will cost you $250 more… Samsung revealed its Galaxy XR, then stil…",
+        "url": "https://www.provideocoalition.com/samsung-galaxy-xr-apple-vision-pro-rival-costs-1799-99/",
+        "urlToImage": "https://www.provideocoalition.com/wp-content/uploads/samsunggalaxyxr001.jpg",
+        "publishedAt": "2025-10-22T12:04:47Z",
+        "content": "Built on an open, scalable platform with multimodal AI at its core, Galaxy XR marks the beginning of the Android XR ecosystem, unleashing a future of discovery, play, and work. But controllers will c… [+6661 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Real’s September Agent Survey: Optimism Improves as Transaction Activity Rebounds; Agents Highlight Value of Access to Capital",
+        "description": "MIAMI — The Real Brokerage Inc. (NASDAQ: REAX, “Real”), a leading real estate technology platform redefining the industry through innovation and culture, today released results from its September 2025 Agent Survey. The findings show that both agent optimism a…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/reals-september-agent-survey-optimism-improves-as-transaction-activity-rebounds-agents-highlight-value-of-access-to-capital",
+        "urlToImage": null,
+        "publishedAt": "2025-10-22T12:04:36Z",
+        "content": "MIAMI The Real Brokerage Inc. (NASDAQ: REAX, Real), a leading real estate technology platform redefining the industry through innovation and culture, today released results from its September 2025 Ag… [+8087 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Mako Financial Technologies and Trulioo Partner to Streamline KYC for Wealth Advisors Across the U.S. and Canada",
+        "description": "Integration Delivers Instant, Compliant Onboarding That Cuts Manual Work, Boosts Accuracy and Accelerates Growth. MONTRÉAL — Mako Financial Technologies, the industry-leading workflow platform for financial services, today announced a strategic partnership wi…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mako-financial-technologies-and-trulioo-partner-to-streamline-kyc-for-wealth-advisors-across-the-u-s-and-canada",
+        "urlToImage": null,
+        "publishedAt": "2025-10-22T12:04:29Z",
+        "content": "Integration Delivers Instant, Compliant Onboarding That Cuts Manual Work, Boosts Accuracy and Accelerates Growth.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news… [+6238 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Electrek"
+        },
+        "author": "Jo Borrás",
+        "title": "Ten-Oh tugboat pack more than 4,400 hydrogen fueled horsepower",
+        "description": "Under the hood of the new “Ten-Oh” Japanese tugboat is the key is a novel marine engine system churning out more than 4,400 hp (!) from its dual, dual-fuel hydrogen-burning V12 engines. Is this – finally! – a great use case for hydrogen?\n\n\n\n more…",
+        "url": "http://electrek.co/2025/10/22/ten-oh-tugboat-pack-more-than-4400-hydrogen-fueled-horsepower/",
+        "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/10/japan-welcomes-its-first-hydrogen-dual-fuel-tugboat_2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-10-22T12:04:24Z",
+        "content": "Under the hood of the new “Ten-Oh” Japanese tugboat is the key is a novel marine engine system churning out more than 4,400 hp (!) from its dual, dual-fuel hydrogen-burning V12 engines. Is this  fina… [+4662 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "International Battery Metals Secures Second Follow-On Investment From EV Metals, Adding USD $2.0 Million Under Existing LOI",
+        "description": "VANCOUVER, British Columbia & HOUSTON — International Battery Metals Ltd. (“IBAT”) (TSXV: IBAT) & (OTCQB: IBATF), an advanced technology provider of modular direct lithium extraction (DLE) systems, today announced a non-brokered private placement financing, m…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/international-battery-metals-secures-second-follow-on-investment-from-ev-metals-adding-usd-2-0-million-under-existing-loi",
+        "urlToImage": null,
+        "publishedAt": "2025-10-22T12:04:23Z",
+        "content": "VANCOUVER, British Columbia &amp; HOUSTON International Battery Metals Ltd. (IBAT) (TSXV: IBAT) &amp; (OTCQB: IBATF), an advanced technology provider of modular direct lithium extraction (DLE) system… [+10245 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "M  Ramesh",
+        "title": "Swelect’s new CEO shelves cell project, plans BESS foray",
+        "description": "The supply contract is expected to be finalised in a few months, he said, but did not name the cell supplier because of a non-disclosure agreement",
+        "url": "https://www.thehindubusinessline.com/companies/swelects-new-ceo-shelves-cell-project-plans-bess-foray/article70189702.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/ea9yu6/article69950179.ece/alternates/LANDSCAPE_1200/PTI10_19_2024_000157B.jpg",
+        "publishedAt": "2025-10-22T12:04:06Z",
+        "content": "Dr Arul Shanmugasundaram, the new CEO of Swelect Energy Systems Ltd, has charted a new course for the company, a major feature of which is shelving the proposed solar cell project. The company will n… [+2746 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Catalyst Pharmaceuticals, Inc.",
+        "title": "Catalyst Pharmaceuticals to Report Third Quarter 2025 Financial Results on November 5, 2025",
+        "description": "The Company will Host a Conference Call and Webcast on Thursday, November 6, 2025, at 8:30 AM ET The Company will Host a Conference Call and Webcast on Thursday, November 6, 2025, at 8:30 AM ET",
+        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171078/13009/en/Catalyst-Pharmaceuticals-to-Report-Third-Quarter-2025-Financial-Results-on-November-5-2025.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/960a6989-9f9c-4ad2-91cf-be10cebd6655",
+        "publishedAt": "2025-10-22T12:03:00Z",
+        "content": "CORAL GABLES, Fla., Oct. 22, 2025 (GLOBE NEWSWIRE) -- Catalyst Pharmaceuticals, Inc. (\"Catalyst\" or \"Company\") (Nasdaq: CPRX), a commercial-stage biopharmaceutical company focused on in-licensing, de… [+2944 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Gimlet Labs",
+        "title": "Gimlet Labs Emerges from Stealth with 8-Figure Revenues, Fundamentally Shifting the Paradigm in How Agentic AI Workloads Are Run and Opening Up New Compute Capacity",
+        "description": "SAN FRANCISCO, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Today Gimlet Labs, the Applied AI research and product company, launched with its platform that is the first to seamlessly decouple agentic AI workloads from underlying hardware, slice each workload into compon…",
+        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171079/0/en/Gimlet-Labs-Emerges-from-Stealth-with-8-Figure-Revenues-Fundamentally-Shifting-the-Paradigm-in-How-Agentic-AI-Workloads-Are-Run-and-Opening-Up-New-Compute-Capacity.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/f7cc37b8-6d2d-4b70-910a-4b4ecec76e47",
+        "publishedAt": "2025-10-22T12:03:00Z",
+        "content": "SAN FRANCISCO, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Today Gimlet Labs, the Applied AI research and product company, launched with its platform that is the first to seamlessly decouple agentic AI workloa… [+5639 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BeInCrypto"
+        },
+        "author": "Federico Variola , CEO of Phemex",
+        "title": "Volatility Isn’t The Enemy: Inefficiency Is",
+        "description": "October 10, 2025, will be remembered as the day crypto markets experienced their largest liquidation event in history.",
+        "url": "https://beincrypto.com/volatility-isnt-the-enemy-inefficiency-is/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/otlQ70EprEygMelNCNO88w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/06e034fc0a7b21bbfd8e0c64aff1b583",
+        "publishedAt": "2025-10-22T12:02:30Z",
+        "content": "Volatility Isn't The Enemy: Inefficiency Is. Photo by BeInCrypto\r\nBy Federico Variola, CEO of Phemex\r\nOctober 10, 2025, will be remembered as the day crypto markets experienced their largest liquidat… [+10421 chars]"
+      }
+    ]
+  }
+}

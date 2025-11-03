@@ -43,9 +43,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Add news data $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
-          # захист від гонок: оновимо локальну гілку перед пушем
           git pull --rebase || true
           for i in 1 2 3; do git push && exit 0 || (echo "Retry $i..." && sleep 2); done
-          # якщо після 3 спроб не вийшло — нехай фейлиться
           git push
         fi

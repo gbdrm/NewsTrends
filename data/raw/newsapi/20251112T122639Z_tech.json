@@ -1,0 +1,1140 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 43797,
+  "articles": [
+    {
+      "title": "BRIN pushes cross-sector collaboration to bolster research ecosystem",
+      "description": "The National Research and Innovation Agency (BRIN) Chief Arif Satria is calling for a stronger public-private partnership (PPP) to bolster Indonesia&rsquo;s ...",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/391249/brin-pushes-cross-sector-collaboration-to-bolster-research-ecosystem",
+      "published_at": "2025-11-11T12:24:47Z",
+      "author": "Sean, Kenzu",
+      "image_url": "https://cdn.antaranews.com/cache/1200x800/2025/11/11/1000230979.jpg",
+      "content": "Jakarta (ANTARA) - The National Research and Innovation Agency (BRIN) Chief Arif Satria is calling for a stronger public-private partnership (PPP) to bolster Indonesia’s research ecosystem.Met after … [+1913 chars]"
+    },
+    {
+      "title": "Nvidia, CoreWeave Revive AI Jitters; US Gov't Shutdown End In Sight | Bloomberg Brief 11/11/2025",
+      "description": "US stock futures retreated as traders backed away from high-priced technology companies after SoftBank sold its entire Nvidia ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/cc3af326338200b1",
+      "published_at": "2025-11-11T12:23:33Z",
+      "author": "youtube.com",
+      "image_url": "https://biztoc.com/cdn/cc3af326338200b1_s.webp",
+      "content": "US stock futures retreated as traders backed away from high-priced technology companies after SoftBank sold its entire Nvidia ...\r\nThis story appeared on youtube.com, 2025-11-11 12:03:07."
+    },
+    {
+      "title": "Trump says 'we've had a lot of problems' with France",
+      "description": "WASHINGTON: President Donald Trump took a sudden swipe at France on Monday (Nov 10) during an interview with US broadcaster Fox News, saying \"we've had a lot of problems with the French\".Fox News presenter Laura Ingraham questioned the US president on the enr…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/trump-france-alot-problems-fox-news-interview-5460356",
+      "published_at": "2025-11-11T12:23:25Z",
+      "author": null,
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--bITMaiKE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/11/11/000_78me23h.jpg?itok=DVDntLgC",
+      "content": "WASHINGTON: President Donald Trump took a sudden swipe at France on Monday (Nov 10) during an interview with US broadcaster Fox News, saying \"we've had a lot of problems with the French\".\r\nFox News p… [+1868 chars]"
+    },
+    {
+      "title": "Delivering Future Advantage Through Testing and Evaluation: New £1 Million Themed Competition Launched",
+      "description": "Do you have an innovation that could support the development of deployable Testing and Evaluation capability and regulatory solutions?",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/news/delivering-future-advantage-through-testing-and-evaluation-new-1-million-themed-competition-launched",
+      "published_at": "2025-11-11T12:23:09Z",
+      "author": "Defence and Security Accelerator",
+      "image_url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "content": "<ul><li>UKDI-DASA has launched a new Themed Competition called Delivering Future Advantage Through Testing and Evaluation (Phase 1)</li><li>Funded by the Ministry of Defence (MOD) Test and Evaluation… [+3992 chars]"
+    },
+    {
+      "title": "POET Technologies and Quantum Computing Inc. to Co-Develop 3.2Tbps Optical Engines for CPO and Next-Gen AI Connectivity",
+      "description": "400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing SAN JOSE, Calif. and HOBOKEN, N.J., Nov. 11, 2025 (GLOBE NEWSWIRE) — POET Technologies Inc. (“POET” or the “Company”) (NASDAQ: POET), a leader in the design and implement…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/poet-technologies-and-quantum-computing-inc-to-co-develop-3-2tbps-optical-engines-for-cpo-and-next-gen-ai-connectivity",
+      "published_at": "2025-11-11T12:23:03Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across … [+5205 chars]"
+    },
+    {
+      "title": "OpenAI may have just handed Microsoft the keys to the AI kingdom — CEO Mustafa Suleyman wants to \"be self-sufficient\"",
+      "description": "Microsoft was seemingly restricted from pursuing AGI on its own through 2030. But under the new definitive agreement, the tech giant is going after the company's wildest dreams.",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/openai-microsoft-ceo-mustafa-suleyman-wants-to-be-self-sufficient",
+      "published_at": "2025-11-11T12:22:55Z",
+      "author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/VKS7AL3cDQ3uhiw36DDm7C-1920-80.jpg",
+      "content": "Microsoft is OpenAI's largest backer with an approximate $13 billion stake in the business. Investors have raised concerns about the partnership, highlighting their doubts about generating profit ami… [+5559 chars]"
+    },
+    {
+      "title": "Show HN: Chess960^2 is now open source",
+      "description": "Chess960v2 is an innovative approach to Fischer Random Chess with double randomization of starting positions. You can run tournaments using the chess engine with different starting positions, explo...",
+      "source": "Github.com",
+      "url": "https://github.com/lavren1974/chess960v2",
+      "published_at": "2025-11-11T12:22:39Z",
+      "author": "lavren1974",
+      "image_url": "https://opengraph.githubassets.com/75b05d9288c113c2232cbc6c0fa57d1cbbb91c3f93d28199713f175a7b26b87e/lavren1974/chess960v2",
+      "content": "Languages: English | | Español | Français | Deutsch\r\nChess960v2 is an innovative approach to Fischer Random Chess with double randomization of starting positions. You can run tournaments using the ch… [+9433 chars]"
+    },
+    {
+      "title": "A typology of labour agency in the gig economy: gig drivers' experiences of struggle in Indonesia during the COVID‐19 pandemic",
+      "description": "Permana, Muhammad Yorga (2025) A typology of labour agency in the gig economy: gig drivers' experiences of struggle in Indonesia during the COVID‐19 pandemic. New Technology, Work and Employment. ISSN 0268-1072",
+      "source": "Lse.ac.uk",
+      "url": "https://eprints.lse.ac.uk/130109/",
+      "published_at": "2025-11-11T12:21:05Z",
+      "author": null,
+      "image_url": null,
+      "content": "Permana, Muhammad Yorga \r\n(2025)\r\nA typology of labour agency in the gig economy: gig drivers' experiences of struggle in Indonesia during the COVID19 pandemic.\r\nNew Technology, Work and Employment.\r… [+1166 chars]"
+    },
+    {
+      "title": "Russian Scientists Develop Eco-Friendly Concrete Using Recycled Glass Waste",
+      "description": "Researchers from the Don State Technical University (DSTU) have proposed using glass powder as a partial replacement for cement in construction mixes.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20251111/russian-scientists-develop-eco-friendly-concrete-using-recycled-glass-waste-1123098869.html",
+      "published_at": "2025-11-11T12:20:53Z",
+      "author": "Sputnik International",
+      "image_url": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123098869.jpg?10474872931762863654",
+      "content": "Check out all the latest trending news and stories from across the globe and the Internet! Lifestyle, cultural stories, social media hits, latest science and technology news, photos, videos, and much… [+5419 chars]"
+    },
+    {
+      "title": "Aerospace tech startup lets you design your own personal aircraft",
+      "description": "The AltoVolo Sigma hybrid-electric aircraft flies 500 miles at 220 mph while operating 80% quieter than helicopters, featuring safety systems and compact design.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/aerospace-tech-startup-lets-you-design-your-own-personal-aircraft",
+      "published_at": "2025-11-11T12:20:24Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/1-aerospace-tech-startup-lets-you-design-your-own-personal-aircraft.jpg",
+      "content": "The dream of personal flight has always felt just out of reach, until now. A company called AltoVolo has unveiled something that might make it real: the world's first eVTOL configurator.\r\nThat might … [+6891 chars]"
+    },
+    {
+      "title": "The Rise of Latino America",
+      "description": "In a recent focus group we held with 11 U.S. and foreign-born Latinos in Riverside, California, most of the participants expressed grave concerns about the breakup of hard-working and law-abiding",
+      "source": "Realclearinvestigations.com",
+      "url": "https://www.realclearinvestigations.com/articles/2025/11/11/the_rise_of_latino_america_1146585.html",
+      "published_at": "2025-11-11T12:18:34Z",
+      "author": "Kotkin & Hernandez, RealClearInvestigations",
+      "image_url": "https://assets.realclear.com/images/70/701966_6_.jpg",
+      "content": "In a recent focus group we held with 11 U.S. and foreign-born Latinos in Riverside, California, most of the participants expressed grave concerns about the breakup of hard-working and law-abiding fam… [+14968 chars]"
+    },
+    {
+      "title": "A drawn knife, an escape by train, a decorated military figure and Georgia Tech's first win",
+      "description": "Dr. Leonard Wood occupies a rare and colorful place in college football and U.S. military history.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/46852321/college-football-georgia-tech-leonard-wood-teddy-roosevelt",
+      "published_at": "2025-11-11T12:18:01Z",
+      "author": "Andy Demetra",
+      "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1109%2Fcfb_leonard%2Dwood_lede%2D16x9.jpg",
+      "content": "Nov 11, 2025, 07:00 AM ET\r\nFRECKLED AND BROAD-CHESTED, with fading white-blond hair and a robust mustache, \"in first-rate health\" from years of navigating the austere conditions of the desert Southwe… [+19798 chars]"
+    },
+    {
+      "title": "POET Technologies and Quantum Computing Inc. to Co-Develop 3.2Tbps Optical Engines for CPO and Next-Gen AI Connectivity",
+      "description": "400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing 400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/11/3185320/0/en/POET-Technologies-and-Quantum-Computing-Inc-to-Co-Develop-3-2Tbps-Optical-Engines-for-CPO-and-Next-Gen-AI-Connectivity.html",
+      "published_at": "2025-11-11T12:18:00Z",
+      "author": "POET Technologies Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/c90ecc6e-9475-47bb-9baa-b92e4d296625",
+      "content": "SAN JOSE, Calif. and HOBOKEN, N.J., Nov. 11, 2025 (GLOBE NEWSWIRE) -- POET Technologies Inc. (\"POET\" or the \"Company\") (NASDAQ: POET), a leader in the design and implementation of highly-integrated o… [+5719 chars]"
+    },
+    {
+      "title": "Aptera Motors Initiates Validation Line as Next Step Toward Scaled Manufacturing",
+      "description": "Aptera Motors (NASDAQ: SEV), a solar mobility company, has begun building its validation vehicle assembly line in Southern California.......",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/11/3185319/0/en/Aptera-Motors-Initiates-Validation-Line-as-Next-Step-Toward-Scaled-Manufacturing.html",
+      "published_at": "2025-11-11T12:18:00Z",
+      "author": "Aptera Motors Corp",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/40c78431-ad9d-4eda-a043-e403d10ca6a4",
+      "content": "CARLSBAD, Calif., Nov. 11, 2025 (GLOBE NEWSWIRE) -- Aptera Motors Corp. (NASDAQ: SEV), a solar mobility company pioneering ultra-efficient transportation, has begun building out its validation vehicl… [+4890 chars]"
+    },
+    {
+      "title": "CorVel Earns Spot on TIME’s America’s Growth Leaders 2026 List — the Only Company in Its Industry Recognized",
+      "description": "CorVel named to TIME’s America’s Growth Leaders 2026 ranking, recognized for sustained growth, financial strength, and market performance.......",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/11/3185318/34735/en/CorVel-Earns-Spot-on-TIME-s-America-s-Growth-Leaders-2026-List-the-Only-Company-in-Its-Industry-Recognized.html",
+      "published_at": "2025-11-11T12:18:00Z",
+      "author": "CorVel Corp.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/dc150059-2d36-47de-9f10-e6f5990ba046",
+      "content": "FORT WORTH, Texas, Nov. 11, 2025 (GLOBE NEWSWIRE) -- Today, CorVel Corporation (NASDAQ: CRVL), a national provider of risk management solutions, is proud to announce its inclusion on TIMEs Americas G… [+4382 chars]"
+    },
+    {
+      "title": "SoftBank sells Nvidia stake for $5.8 billion to fund AI investments — What does it mean for shareholders?",
+      "description": "Tokyo-based SoftBank Group's sale of the Nvidia stake not only reflects a shift of focus on OpenAI but also highlights its positive outlook on AI investments at a time when investors are questioning the sheer amounts of capital chasing a technology with uncer…",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/softbank-sells-nvidia-stake-for-5-8-billion-to-fund-ai-investments-what-does-it-mean-for-shareholders-11762861139365.html",
+      "published_at": "2025-11-11T12:17:50Z",
+      "author": "Swastika Das Sharma",
+      "image_url": "https://www.livemint.com/lm-img/img/2025/11/11/1600x900/logo/AUTOS-SOFTBANK-CUBIC-INVESTMENT-1_1707785377436_1762863138924.JPG",
+      "content": "Japan's SoftBank Group Corp. on Tuesday said it had sold all its stake in Jensen Huang's Nvidia, pocketing a massive $5.83 billion with the sale, as the Masayoshi Son-led company looks to increase it… [+2669 chars]"
+    },
+    {
+      "title": "As younger generations consume more sports through streaming, location has less impact on fandom",
+      "description": "A Pistons fan from South Korea went viral for his gleeful social media posts from Detroit last month. The Pittsburgh Steelers had to use a silent count at home. The NFL is sending its Washington and Miami franchises to play in Madrid. All MLS games have been …",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/article/younger-generations-consume-more-sports-121607317.html",
+      "published_at": "2025-11-11T12:16:07Z",
+      "author": "Jordy Fee-Platt",
+      "image_url": "https://media.zenfs.com/en/the_athletic_articles_169/93275844b17be7aa164fc6bdacd72a52",
+      "content": "A Pistons fan from South Korea went viral for his gleeful social media posts from Detroit last month. The Pittsburgh Steelers had to use a silent count at home. The NFL is sending its Washington and … [+7874 chars]"
+    },
+    {
+      "title": "Carmine Salute joins Pirum as head of commercial development, Americas",
+      "description": "Pirum, the trusted technology partner for securities finance automation and collateral management, announced today that Carmine Salute has joined the firm’s New York office as Head of Commercial Development, Americas.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/107892/carmine-salute-joins-pirum-as-head-of-commercial-development-americas",
+      "published_at": "2025-11-11T12:16:00Z",
+      "author": "Editorial Team",
+      "image_url": "https://www.finextra.com/about/finextra-logo.png",
+      "content": "Pirum, the trusted technology partner for securities finance automation and collateral management, announced today that Carmine Salute has joined the firms New York office as Head of Commercial Devel… [+2461 chars]"
+    },
+    {
+      "title": "Is There Any Hope for Star Wars: Rise of the Resistance?",
+      "description": "When it works, Star Wars: Rise of the Resistance is truly one of – if not the best – attractions Disney has ever built. It’s immersive, thrilling, and a borderline technical marvel. Emphasis on when it works. Since opening, the star attraction of Star Wars: G…",
+      "source": "Inside the Magic",
+      "url": "https://insidethemagic.net/2025/11/star-wars-rise-of-the-resistance-issues-cj1/",
+      "published_at": "2025-11-11T12:15:31Z",
+      "author": "Chloe James",
+      "image_url": "https://insidethemagic.net/wp-content/uploads/2023/07/Rise-Resistance.jpg",
+      "content": "When it works, Star Wars: Rise of the Resistance is truly one of if not the best attractions Disney has ever built. It’s immersive, thrilling, and a borderline technical marvel.\r\nEmphasis on when it … [+4581 chars]"
+    },
+    {
+      "title": "Same Day, Different Rules – VAR’s Inconsistency Exposed",
+      "description": "VAR has been around in football for a number of years now, and each year it seems to cause more confusion. Even though it has its benefits, the calls are becoming more inconsistent every week, sometimes even on the same day. Take last Tuesday, for example, du…",
+      "source": "World Football Index",
+      "url": "https://worldfootballindex.com/2025/11/same-day-different-rules-vars-inconsistency-exposed/",
+      "published_at": "2025-11-11T12:15:00Z",
+      "author": "Louis Smith",
+      "image_url": "https://worldfootballindex.com/wp-content/uploads/2025/11/palacbhapl-2.jpg",
+      "content": "VAR has been around in football for a number of years now, and each year it seems to cause more confusion. Even though it has its benefits, the calls are becoming more inconsistent every week, someti… [+3821 chars]"
+    },
+    {
+      "title": "Basarnas proposes national emergency fund to speed up SAR operations",
+      "description": "The National Search and Rescue Agency (Basarnas) has proposed the establishment of a national emergency fund for search and rescue (SAR) operations that can ...",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/391241/basarnas-proposes-national-emergency-fund-to-speed-up-sar-operations",
+      "published_at": "2025-11-11T12:14:31Z",
+      "author": "Prasetyo, Kenzu",
+      "image_url": "https://cdn.antaranews.com/cache/1200x800/2025/11/11/1762846901855_copy_2564x1710.jpg",
+      "content": "Jakarta (ANTARA) - The National Search and Rescue Agency (Basarnas) has proposed the establishment of a national emergency fund for search and rescue (SAR) operations that can be accessed within 24 h… [+2290 chars]"
+    },
+    {
+      "title": "AIRO Advances Air Collision Avoidance Technologies Through MACADA Initiative With Subsidiary Jaunt Air Mobility Canada",
+      "description": "MCLEAN, Va. & MIRABEL, Quebec — AIRO Group Holdings (Nasdaq: AIRO) (AIRO) is pleased to announce its active role in the MACADA (MAturity of Collaborative Avoidance Development Approach) initiative, a strategic research and development effort focused on enhanc…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/airo-advances-air-collision-avoidance-technologies-through-macada-initiative-with-subsidiary-jaunt-air-mobility-canada",
+      "published_at": "2025-11-11T12:14:29Z",
+      "author": "Business Wire",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/bw20251111977943_airo_jaunt_cargo_drone.jpeg",
+      "content": "MCLEAN, Va. &amp; MIRABEL, Quebec AIRO Group Holdings (Nasdaq: AIRO) (AIRO) is pleased to announce its active role in the MACADA (MAturity of Collaborative Avoidance Development Approach) initiative,… [+8923 chars]"
+    },
+    {
+      "title": "Analyst Report: ServiceNow Inc",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3664_AnalystReport_1762863251000/",
+      "published_at": "2025-11-11T12:14:11Z",
+      "author": null,
+      "image_url": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "content": "Joseph F. Bonner, CFA \r\nSenior Analyst: Communication Services &amp; Technology \r\nJoe covers the Communication Services sector and selected software technology stocks for Argus. In 2010, he was named… [+763 chars]"
+    },
+    {
+      "title": "(PR) EIZO Releases FlexScan EV2400R 23.8-inch Business Monitor",
+      "description": "EIZO Corporation (TSE: 6737) today announced the release of the FlexScan EV2400R - a 23.8-inch Full HD (1920 x 1080) resolution monitor developed to support energy-conscious use in everyday workspaces. As the successor to the FlexScan EV2460, it introduces pr…",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/342808/eizo-releases-flexscan-ev2400r-23-8-inch-business-monitor",
+      "published_at": "2025-11-11T12:14:08Z",
+      "author": "Nomad76",
+      "image_url": "https://www.techpowerup.com/img/iOpFk2wwPA7X2dw2.jpg",
+      "content": "EIZO Corporation (TSE: 6737) today announced the release of the FlexScan EV2400R - a 23.8-inch Full HD (1920 x 1080) resolution monitor developed to support energy-conscious use in everyday workspace… [+3415 chars]"
+    },
+    {
+      "title": "OnePlus 15 Launching Nov. 13 - Check Early Access Sale, Price, Specs, Features",
+      "description": "OnePlus’s latest flagship — the OnePlus 15 — is set to arrive in the Indian market on Nov. 13. The OnePlus 15 debuted in China on Oct. 27, and the majority of specifications for the Indian version are anticipated to align closely with those of the Chinese edi…",
+      "source": "Ndtvprofit.com",
+      "url": "https://www.ndtvprofit.com/technology/oneplus-15-launch-date-and-time-early-access-sale-price-camera-battery-specs-features",
+      "published_at": "2025-11-11T12:12:16Z",
+      "author": "NDTV Profit Tech",
+      "image_url": "https://media.assettype.com/bloombergquint%2F2025-11-11%2Fyx6gpn96%2FOnePlus-15.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "content": "The OnePlus 15 features an updated design relative to the OnePlus 13, featuring a small, square-shaped camera module with rounded edges reminiscent of the OnePlus 13s. Inside this island, a vertical … [+1145 chars]"
+    },
+    {
+      "title": "Digital Commerce Stays Duty-Free",
+      "description": "The World Trade Organization's tariff moratorium on electronic transmissions is at the heart of modern digital trade.\nThe post Digital Commerce Stays Duty-Free appeared first on Practical Ecommerce.",
+      "source": "Practical Ecommerce",
+      "url": "https://www.practicalecommerce.com/digital-commerce-stays-duty-free",
+      "published_at": "2025-11-11T12:11:27Z",
+      "author": "Armando Roggio",
+      "image_url": "https://www.practicalecommerce.com/wp-content/uploads/2025/11/110825-trump-featured.jpg",
+      "content": "Unlike physical goods, software and digital downloads have long been exempt from duties and tariffs. Many nations, including the United States, want to keep it that way.\r\nIn October, the Trump admini… [+5591 chars]"
+    },
+    {
+      "title": "Stock investors are buoying the economy. A labor market breakdown could end that",
+      "description": "Government labor data could paint a darker economic picture, leading to a market slide that would throw cold water on the outlook of those who are well off.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/11/11/stocks-are-buoying-wealthy-sentiment-a-labor-market-break-could-end-that.html",
+      "published_at": "2025-11-11T12:11:24Z",
+      "author": null,
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108221450-1762295496498-gettyimages-2245032022-_dsc0784.jpeg?v=1762295602&w=1920&h=1080",
+      "content": "As stock market investors support economic sentiment, some economists wonder if a looser labor market could pull the rug out.\r\nThe University of Michigan's widely-followed consumer sentiment index sl… [+4367 chars]"
+    },
+    {
+      "title": "Has Noah's Ark Finally Been Found? Radar Sparks Biblical Buzz",
+      "description": "Ground Penetrating Radar (GPR) tchnology may have discovered the location of the remnants of Noah's Ark.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/has-noahs-ark-finally-been-found-radar-sparks-biblical-buzz-3790101",
+      "published_at": "2025-11-11T12:11:08Z",
+      "author": "Shiena Iane B Enerio",
+      "image_url": "https://d.ibtimes.com/en/full/4633764/noahs-ark-replica.jpg",
+      "content": "American researchers have reignited global curiosity with a potentially groundbreaking discovery near Mount Ararat in eastern Turkey. Using advanced Ground Penetrating Radar (GPR) technology, a team … [+3088 chars]"
+    },
+    {
+      "title": "Trump says ‘we’ve had a lot of problems’ with France",
+      "description": "President Donald Trump took a sudden swipe at France on Monday during an interview with US broadcaster Fox News, saying “we’ve had a lot of problems with the French.” Fox News presenter Laura Ingraham questioned the US president on the enrolment of Chinese st…",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/world/trump-says-weve-had-a-lot-of-problems-with-france/article",
+      "published_at": "2025-11-11T12:07:20Z",
+      "author": "AFP",
+      "image_url": "https://www.digitaljournal.com/wp-content/uploads/2025/11/13b790371a92dd0217c905a3828f706374af6b01.jpg",
+      "content": "US President Donald Trump, shown here with France's Emmanuel Macron in Egypt in October 2025, voiced his suspicions of the French in a new Fox News interview - Copyright POOL/AFP Yoan VALAT\r\nPresiden… [+2041 chars]"
+    },
+    {
+      "title": "Notice: Delivering Future Advantage through Testing and Evaluation (Phase 1)",
+      "description": "DASA competition for the MOD Test and Evaluation (T&E) Transformation Programme to develop deployable T&E capabilities and regulatory solutions.",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/publications/delivering-future-advantage-through-testing-and-evaluation-phase-1",
+      "published_at": "2025-11-11T12:06:00Z",
+      "author": "Defence and Security Accelerator",
+      "image_url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "content": "This Defence and Security Accelerator, part of UK Defence Innovation (UKDI-DASA) competition is run on behalf of the MOD Test and Evaluation (T&amp;E) Transformation Programme. It is seeking proposal… [+1387 chars]"
+    },
+    {
+      "title": "Can bonds build steady secondary income? Jiraaf’s Vineet Agarwal explains",
+      "description": "Secondary income is crucial for evolving lifestyles and financial security. Amidst inflation and volatility, fixed-income instruments like bonds offer predictable cash flows, acting as a reliable alternative to traditional assets. Vineet Agarwal explains how …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/can-bonds-build-steady-secondary-income-jiraafs-vineet-agarwal-explains/articleshow/125248608.cms",
+      "published_at": "2025-11-11T12:04:22Z",
+      "author": "Neha Vashishth",
+      "image_url": "https://img.etimg.com/thumb/msid-125248983,width-1200,height-630,imgsize-524513,overlay-etmarkets/articleshow.jpg",
+      "content": "Want your money to work for you even when youre sleeping? Well, the good news is, you can. Vineet Agarwal, Co-founder of Giraffe, spoke to ET Markets about how bonds are emerging as a reliable tool f… [+5408 chars]"
+    },
+    {
+      "title": "FDA Approves Promega OncoMate® MSI Dx Analysis System as Companion Diagnostic for KEYTRUDA® in Combination with LENVIMA® In Advanced Endometrial Carcinoma",
+      "description": "Promega MSI technology will aid in the identification of patients with microsatellite stable (MSS) endometrial carcinoma MADISON, Wis. — The U.S. Food and Drug Administration (FDA) has approved the Promega OncoMate® MSI Dx Analysis System as a companion diagn…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fda-approves-promega-oncomate-msi-dx-analysis-system-as-companion-diagnostic-for-keytruda-in-combination-with-lenvima-in-advanced-endometrial-carcinoma",
+      "published_at": "2025-11-11T12:04:12Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "Promega MSI technology will aid in the identification of patients with microsatellite stable (MSS) endometrial carcinoma\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the late… [+5075 chars]"
+    },
+    {
+      "title": "Telecommunications: 5G Standalone network an opportunity for Greece",
+      "description": "The acceleration of the development of 5G Standalone (5G SA) creates a significant opportunity for Greece to position itself at the forefront of new technologies and digital innovation.\nThe above…\nTelecommunications: 5G Standalone network an opportunity for G…",
+      "source": "Naftemporiki.gr",
+      "url": "https://www.naftemporiki.gr/english/2032127/telecommunications-5g-standalone-network-an-opportunity-for-greece/",
+      "published_at": "2025-11-11T12:03:45Z",
+      "author": "Μιχάλης Ματσίγκος",
+      "image_url": "https://www.naftemporiki.gr/wp-content/uploads/2025/11/5g.jpg",
+      "content": "The acceleration of the development of 5G Standalone (5G SA) creates a significant opportunity for Greece to position itself at the forefront of new technologies and digital innovation.\r\nThe above wa… [+2766 chars]"
+    },
+    {
+      "title": "PJ Masks Animal Power Charge and Roar Power Cat Toy $41.41 (Was $102.78) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "description": "Great sale on for this PJ Masks toy, good timing for Christmas shopping. Amazon's Choice item with 4.8/5 stars from 530 reviews. Big W is listing it for $114.75, so this is a great price. Get …",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/932647",
+      "published_at": "2025-11-11T12:03:34Z",
+      "author": "Jaymac",
+      "image_url": "https://files.ozbargain.com.au/n/47/932647l.jpg?h=e58c128f",
+      "content": "Great sale on for this PJ Masks toy, good timing for Christmas shopping. Amazon's Choice item with 4.8/5 stars from 530 reviews.Big W is listing it for $114.75, so this is a great price. Get in while… [+1010 chars]"
+    },
+    {
+      "title": "SDLG Unveils Electric Wheel Loader in Nepal",
+      "description": "Introducing the SDLG L936HEV: A Revolutionary Electric Wheel Loader for a Greener Nepal Panchakanya Group’s Explore Earth Movers Pvt. Ltd. has unveiled the groundbreaking SDLG L936HEV, a new addition to their line of heavy machinery. This cutting-edge machine…",
+      "source": "Nep123.com",
+      "url": "https://nep123.com/sdlg-unveils-electric-wheel-loader-in-nepal/",
+      "published_at": "2025-11-11T12:03:16Z",
+      "author": "Editor",
+      "image_url": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "content": "Introducing the SDLG L936HEV: A Revolutionary Electric Wheel Loader for a Greener Nepal\r\nPanchakanya Group’s Explore Earth Movers Pvt. Ltd. has unveiled the groundbreaking SDLG L936HEV, a new additio… [+1557 chars]"
+    },
+    {
+      "title": "Calian Group Announces Governance Changes to Support Strategic Operations Following Agreement with Plantro Ltd.",
+      "description": "–  Enters co-operation agreement with Plantro Ltd.–  Accelerates ongoing board renewal process– Forms special committee to oversee the execution of actions related to non-core assets, to include participation by special advisor recommended by Plantro OTTAWA, …",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/calian-group-announces-governance-changes-to-support-strategic-operations-following-agreement-with-plantro-ltd",
+      "published_at": "2025-11-11T12:03:04Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "Co-Operation Agreement\r\nCalian also announced that it has entered into a co-operation agreement with Plantro. The agreement includes, among other terms, the Companys commitment to accelerate its ongo… [+5795 chars]"
+    },
+    {
+      "title": "Bandai Namco leads the way in game and entertainment patents in Japan, taking the crown from Sony Interactive Entertainment",
+      "description": "The Dark Souls of rankings.",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/gaming-industry/bandai-namco-leads-the-way-in-game-and-entertainment-patents-in-japan-taking-the-crown-from-sony-interactive-entertainment/",
+      "published_at": "2025-11-11T12:03:01Z",
+      "author": "Emma Withington",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/K8ifFi3M6vGWXPucFZWYga-2560-80.png",
+      "content": "A Japanese analytics agency, Patent Result, has published this year's rankings of domestic game and entertainment companies by the 'strength' of patents they hold, via Automaton. Patent Result values… [+1874 chars]"
+    },
+    {
+      "title": "Intelligent Network Market Set to Reach USD 42.2 Billion by 2032, Growing at a CAGR of 27.49% | Research by SNS Insider",
+      "description": "The report explores the Intelligent Network Market’s robust growth fueled by AI-driven automation, rising connectivity needs, and increasing adoption across sectors like BFSI, healthcare, and telecom. The report explores the Intelligent Network Market’s robus…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/11/3185311/0/en/Intelligent-Network-Market-Set-to-Reach-USD-42-2-Billion-by-2032-Growing-at-a-CAGR-of-27-49-Research-by-SNS-Insider.html",
+      "published_at": "2025-11-11T12:03:00Z",
+      "author": "SNS Insider pvt ltd",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "content": "Austin, Nov. 11, 2025 (GLOBE NEWSWIRE) -- The Intelligent Network Market\r\n size was valued at USD 4.7 billion in 2023 and is expected to reach USD 42.2 billion by 2032, growing at a CAGR of 27.49% ov… [+6685 chars]"
+    },
+    {
+      "title": "Jasmine Crockett Makes Her Own Dominion Voting Claim In Conspiracy Shocker",
+      "description": "The Texas congresswoman courted controversy with her eyebrow-raising remarks about the voting technology company.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/jasmine-crockett-dominion-2026-elections_n_69130c31e4b0ff332f7d3af0",
+      "published_at": "2025-11-11T12:02:58Z",
+      "author": "Ron Dicker",
+      "image_url": "https://img.huffingtonpost.com/asset/6913206a150000de669c2d74.png?cache=YGEj5hhk9S&ops=1200_630",
+      "content": "Rep. Jasmine Crockett (D-Texas) said Monday that Dominion Voting Systems yes, the same company that Donald Trump and conservatives falsely accused of stealing votes from him in 2020 could potentially… [+3501 chars]"
+    },
+    {
+      "title": "Deepspatial Inc. Appoints New Auditors to Complete Outstanding Filings and Advance Toward CTO Revocation",
+      "description": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) — Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (“Deepspatial” or the “Company”), is pleased to announce the appointment of Bassi & Karimjee LLP Chartered Accountants who have commenced work to complete the Company’s outsta…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/deepspatial-inc-appoints-new-auditors-to-complete-outstanding-filings-and-advance-toward-cto-revocation",
+      "published_at": "2025-11-11T12:02:42Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (Deepspatial or the Company), is pleased to announce the appointment of Bassi &amp; Karimjee LLP Chartered Accountant… [+4327 chars]"
+    },
+    {
+      "title": "Deepspatial Inc. Appoints New Auditors to Complete Outstanding Filings and Advance Toward CTO Revocation",
+      "description": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) -- Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (\"Deepspatial\" or the \"Company\"), is pleased to announce the appointment of Bassi & Karimjee LLP Chartered Accountants who have commenced work to complete the Company’s outst…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/11/3185309/0/en/Deepspatial-Inc-Appoints-New-Auditors-to-Complete-Outstanding-Filings-and-Advance-Toward-CTO-Revocation.html",
+      "published_at": "2025-11-11T12:01:00Z",
+      "author": "Deepspatial Inc.",
+      "image_url": null,
+      "content": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) -- Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (\"Deepspatial\" or the \"Company\"), is pleased to announce the appointment of Bassi &amp; Karimjee LLP Chartered Acc… [+2122 chars]"
+    },
+    {
+      "title": "The Ways New York Office Owners Are Doubling Down on Building Security",
+      "description": "The deadly shooting at 345 Park Avenue in July rattled Manhattan’s office world, and also caused owners to think twice about their current security protocols. On July 28, a gunman killed four people and critically wounded a fifth inside the Rudin-owned office…",
+      "source": "Commercial Observer",
+      "url": "http://commercialobserver.com/2025/11/new-york-office-security-2026-technology/",
+      "published_at": "2025-11-11T12:00:58Z",
+      "author": "Tacitelli",
+      "image_url": "https://commercialobserver.com/wp-content/uploads/sites/3/2025/10/AI-crowd-GettyImages-1080200066-WEB.jpg?quality=80&w=1200&h=630&crop=1",
+      "content": "The deadly shooting at 345 Park Avenue in July rattled Manhattans office world, and also caused owners to think twice about their current security protocols.\r\nOn July 28, a gunman killed four people … [+10557 chars]"
+    },
+    {
+      "title": "I'm quietly optimistic about Intel Arc series GPUs",
+      "description": "Intel graphics may become a popular choice soon",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/im-quietly-optimistic-about-intel-arc-series-gpus/",
+      "published_at": "2025-11-11T12:00:20Z",
+      "author": "Abhinav Raj",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/12/intel-arc-b580-installed.jpg?w=1600&h=900&fit=crop",
+      "content": "Among enthusiasts, journalists and tech YouTubers alike, the Intel Arc Series has garnered a substantial following, scripting what is shaping to be Team Blue's comeback story. Intel might be poised t… [+5052 chars]"
+    },
+    {
+      "title": "Trump Orders Pentagon to Resume Nuclear Weapons Testing",
+      "description": "Meanwhile, Senate Democrats are fighting the restart of American nuclear weapons testing, which may be focused on the delivery system rather than detonation.\nThe post Trump Orders Pentagon to Resume Nuclear Weapons Testing first appeared on Le·gal In·sur·rec·…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2025/11/trump-orders-pentagon-to-resume-nuclear-weapons-testing/",
+      "published_at": "2025-11-11T12:00:19Z",
+      "author": "Leslie Eastman",
+      "image_url": "https://legalinsurrection.com/wp-content/uploads/2025/11/Trump-CBS-ICE.png",
+      "content": "President Donald Trump has recently ordered the resumption of U.S. nuclear weapons testing, marking the move to end the moratorium on such activities since they began in 1992.\r\nTrump asserted this mo… [+4129 chars]"
+    },
+    {
+      "title": "The biggest controversy in maths could be settled by a computer",
+      "description": "For over a decade, mathematicians have failed to agree whether a 500-page proof is actually correct. Now, translating the proof into a computer-readable form may finally settle the matter",
+      "source": "New Scientist",
+      "url": "https://www.newscientist.com/article/2503500-the-biggest-controversy-in-maths-could-be-settled-by-a-computer/",
+      "published_at": "2025-11-11T12:00:12Z",
+      "author": "Alex Wilkins",
+      "image_url": "https://images.newscientist.com/wp-content/uploads/2025/11/10093201/SEI_273280996.jpg",
+      "content": "Computers can verify mathematical proofs\r\nmonsitj/Getty Images\r\nOne of the most controversial debates in mathematics could be settled with the aid of a computer, potentially ending a bitter argument … [+5508 chars]"
+    },
+    {
+      "title": "Illinois’ new AI therapy ban has a loophole",
+      "description": "As a psychiatry resident, I have been closely monitoring developments in the proliferation of AI chatbots for therapy. The moment feels like the ground shifting below my feet, and I have just started my career. In my clinical practice I feel unprepared to dis…",
+      "source": "Kevinmd.com",
+      "url": "https://kevinmd.com/2025/11/illinois-new-ai-therapy-ban-has-a-loophole.html",
+      "published_at": "2025-11-11T12:00:11Z",
+      "author": "Davis Chambers, DO",
+      "image_url": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_ym2os6ym2os6ym2o.png",
+      "content": "As a psychiatry resident, I have been closely monitoring developments in the proliferation of AI chatbots for therapy. The moment feels like the ground shifting below my feet, and I have just started… [+5133 chars]"
+    },
+    {
+      "title": "Why AI matters for every veteran",
+      "description": "OpenAI launches free ChatGPT Plus program for transitioning veterans and active-duty service members, helping translate military skills into civilian careers.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/why-ai-matters-every-veteran",
+      "published_at": "2025-11-11T12:00:05Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/ai-training-keyboard.jpg",
+      "content": "For more than three decades, I had the honor of serving our country in uniform. I led soldiers at home and abroad. I commanded U.S. Cyber Command and the National Security Agency through some of the … [+4857 chars]"
+    },
+    {
+      "title": "Full WhatsApp Messaging on Apple Watch is Finally HERE!",
+      "description": "WhatsApp has launched its first native app for the Apple Watch, offering a new way to stay connected directly from your wrist. This advancement allows you to manage chats, send voice messages, and view media without needing to reach for your phone. While the …",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/whatsapp-on-apple-watch-2/",
+      "published_at": "2025-11-11T12:00:03Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/whatsapp-on-apple-watch-features-overview_optimized.jpg",
+      "content": "WhatsApp has launched its first native app for the Apple Watch, offering a new way to stay connected directly from your wrist. This advancement allows you to manage chats, send voice messages, and vi… [+4551 chars]"
+    },
+    {
+      "title": "‘SNL’ Is Fixing Live Screw-Ups in Their Online Videos Now",
+      "description": "By\n JM McNab\n Published: November 11th, 2025",
+      "source": "Cracked.com",
+      "url": "https://www.cracked.com/article_49074_snl-is-fixing-live-screw-ups-in-their-online-videos-now.html",
+      "published_at": "2025-11-11T12:00:00Z",
+      "author": "JM McNab",
+      "image_url": "https://s3.crackedcdn.com/phpimages/article/9/3/9/1403939.jpg",
+      "content": "Part of the fun of watching Saturday Night Live is knowing that things might not go exactly as planned. Cast members may inadvertently drop F-bombs, certain musical guests could be caught lip-syncing… [+2368 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 43797,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Antaranews.com"
+        },
+        "author": "Sean, Kenzu",
+        "title": "BRIN pushes cross-sector collaboration to bolster research ecosystem",
+        "description": "The National Research and Innovation Agency (BRIN) Chief Arif Satria is calling for a stronger public-private partnership (PPP) to bolster Indonesia&rsquo;s ...",
+        "url": "https://en.antaranews.com/news/391249/brin-pushes-cross-sector-collaboration-to-bolster-research-ecosystem",
+        "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/11/11/1000230979.jpg",
+        "publishedAt": "2025-11-11T12:24:47Z",
+        "content": "Jakarta (ANTARA) - The National Research and Innovation Agency (BRIN) Chief Arif Satria is calling for a stronger public-private partnership (PPP) to bolster Indonesia’s research ecosystem.Met after … [+1913 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "youtube.com",
+        "title": "Nvidia, CoreWeave Revive AI Jitters; US Gov't Shutdown End In Sight | Bloomberg Brief 11/11/2025",
+        "description": "US stock futures retreated as traders backed away from high-priced technology companies after SoftBank sold its entire Nvidia ...",
+        "url": "https://biztoc.com/x/cc3af326338200b1",
+        "urlToImage": "https://biztoc.com/cdn/cc3af326338200b1_s.webp",
+        "publishedAt": "2025-11-11T12:23:33Z",
+        "content": "US stock futures retreated as traders backed away from high-priced technology companies after SoftBank sold its entire Nvidia ...\r\nThis story appeared on youtube.com, 2025-11-11 12:03:07."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Trump says 'we've had a lot of problems' with France",
+        "description": "WASHINGTON: President Donald Trump took a sudden swipe at France on Monday (Nov 10) during an interview with US broadcaster Fox News, saying \"we've had a lot of problems with the French\".Fox News presenter Laura Ingraham questioned the US president on the enr…",
+        "url": "https://www.channelnewsasia.com/world/trump-france-alot-problems-fox-news-interview-5460356",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--bITMaiKE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/11/11/000_78me23h.jpg?itok=DVDntLgC",
+        "publishedAt": "2025-11-11T12:23:25Z",
+        "content": "WASHINGTON: President Donald Trump took a sudden swipe at France on Monday (Nov 10) during an interview with US broadcaster Fox News, saying \"we've had a lot of problems with the French\".\r\nFox News p… [+1868 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.gov.uk"
+        },
+        "author": "Defence and Security Accelerator",
+        "title": "Delivering Future Advantage Through Testing and Evaluation: New £1 Million Themed Competition Launched",
+        "description": "Do you have an innovation that could support the development of deployable Testing and Evaluation capability and regulatory solutions?",
+        "url": "https://www.gov.uk/government/news/delivering-future-advantage-through-testing-and-evaluation-new-1-million-themed-competition-launched",
+        "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+        "publishedAt": "2025-11-11T12:23:09Z",
+        "content": "<ul><li>UKDI-DASA has launched a new Themed Competition called Delivering Future Advantage Through Testing and Evaluation (Phase 1)</li><li>Funded by the Ministry of Defence (MOD) Test and Evaluation… [+3992 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "POET Technologies and Quantum Computing Inc. to Co-Develop 3.2Tbps Optical Engines for CPO and Next-Gen AI Connectivity",
+        "description": "400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing SAN JOSE, Calif. and HOBOKEN, N.J., Nov. 11, 2025 (GLOBE NEWSWIRE) — POET Technologies Inc. (“POET” or the “Company”) (NASDAQ: POET), a leader in the design and implement…",
+        "url": "https://financialpost.com/globe-newswire/poet-technologies-and-quantum-computing-inc-to-co-develop-3-2tbps-optical-engines-for-cpo-and-next-gen-ai-connectivity",
+        "urlToImage": null,
+        "publishedAt": "2025-11-11T12:23:03Z",
+        "content": "400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across … [+5205 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Windows Central"
+        },
+        "author": "kevinokemwa@outlook.com (Kevin Okemwa) , Kevin Okemwa",
+        "title": "OpenAI may have just handed Microsoft the keys to the AI kingdom — CEO Mustafa Suleyman wants to \"be self-sufficient\"",
+        "description": "Microsoft was seemingly restricted from pursuing AGI on its own through 2030. But under the new definitive agreement, the tech giant is going after the company's wildest dreams.",
+        "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/openai-microsoft-ceo-mustafa-suleyman-wants-to-be-self-sufficient",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/VKS7AL3cDQ3uhiw36DDm7C-1920-80.jpg",
+        "publishedAt": "2025-11-11T12:22:55Z",
+        "content": "Microsoft is OpenAI's largest backer with an approximate $13 billion stake in the business. Investors have raised concerns about the partnership, highlighting their doubts about generating profit ami… [+5559 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Github.com"
+        },
+        "author": "lavren1974",
+        "title": "Show HN: Chess960^2 is now open source",
+        "description": "Chess960v2 is an innovative approach to Fischer Random Chess with double randomization of starting positions. You can run tournaments using the chess engine with different starting positions, explo...",
+        "url": "https://github.com/lavren1974/chess960v2",
+        "urlToImage": "https://opengraph.githubassets.com/75b05d9288c113c2232cbc6c0fa57d1cbbb91c3f93d28199713f175a7b26b87e/lavren1974/chess960v2",
+        "publishedAt": "2025-11-11T12:22:39Z",
+        "content": "Languages: English | | Español | Français | Deutsch\r\nChess960v2 is an innovative approach to Fischer Random Chess with double randomization of starting positions. You can run tournaments using the ch… [+9433 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Lse.ac.uk"
+        },
+        "author": null,
+        "title": "A typology of labour agency in the gig economy: gig drivers' experiences of struggle in Indonesia during the COVID‐19 pandemic",
+        "description": "Permana, Muhammad Yorga (2025) A typology of labour agency in the gig economy: gig drivers' experiences of struggle in Indonesia during the COVID‐19 pandemic. New Technology, Work and Employment. ISSN 0268-1072",
+        "url": "https://eprints.lse.ac.uk/130109/",
+        "urlToImage": null,
+        "publishedAt": "2025-11-11T12:21:05Z",
+        "content": "Permana, Muhammad Yorga \r\n(2025)\r\nA typology of labour agency in the gig economy: gig drivers' experiences of struggle in Indonesia during the COVID19 pandemic.\r\nNew Technology, Work and Employment.\r… [+1166 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sputnikglobe.com"
+        },
+        "author": "Sputnik International",
+        "title": "Russian Scientists Develop Eco-Friendly Concrete Using Recycled Glass Waste",
+        "description": "Researchers from the Don State Technical University (DSTU) have proposed using glass powder as a partial replacement for cement in construction mixes.",
+        "url": "https://sputnikglobe.com/20251111/russian-scientists-develop-eco-friendly-concrete-using-recycled-glass-waste-1123098869.html",
+        "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123098869.jpg?10474872931762863654",
+        "publishedAt": "2025-11-11T12:20:53Z",
+        "content": "Check out all the latest trending news and stories from across the globe and the Internet! Lifestyle, cultural stories, social media hits, latest science and technology news, photos, videos, and much… [+5419 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Aerospace tech startup lets you design your own personal aircraft",
+        "description": "The AltoVolo Sigma hybrid-electric aircraft flies 500 miles at 220 mph while operating 80% quieter than helicopters, featuring safety systems and compact design.",
+        "url": "https://www.foxnews.com/tech/aerospace-tech-startup-lets-you-design-your-own-personal-aircraft",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/1-aerospace-tech-startup-lets-you-design-your-own-personal-aircraft.jpg",
+        "publishedAt": "2025-11-11T12:20:24Z",
+        "content": "The dream of personal flight has always felt just out of reach, until now. A company called AltoVolo has unveiled something that might make it real: the world's first eVTOL configurator.\r\nThat might … [+6891 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Realclearinvestigations.com"
+        },
+        "author": "Kotkin & Hernandez, RealClearInvestigations",
+        "title": "The Rise of Latino America",
+        "description": "In a recent focus group we held with 11 U.S. and foreign-born Latinos in Riverside, California, most of the participants expressed grave concerns about the breakup of hard-working and law-abiding",
+        "url": "https://www.realclearinvestigations.com/articles/2025/11/11/the_rise_of_latino_america_1146585.html",
+        "urlToImage": "https://assets.realclear.com/images/70/701966_6_.jpg",
+        "publishedAt": "2025-11-11T12:18:34Z",
+        "content": "In a recent focus group we held with 11 U.S. and foreign-born Latinos in Riverside, California, most of the participants expressed grave concerns about the breakup of hard-working and law-abiding fam… [+14968 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Andy Demetra",
+        "title": "A drawn knife, an escape by train, a decorated military figure and Georgia Tech's first win",
+        "description": "Dr. Leonard Wood occupies a rare and colorful place in college football and U.S. military history.",
+        "url": "https://www.espn.com/college-football/story/_/id/46852321/college-football-georgia-tech-leonard-wood-teddy-roosevelt",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1109%2Fcfb_leonard%2Dwood_lede%2D16x9.jpg",
+        "publishedAt": "2025-11-11T12:18:01Z",
+        "content": "Nov 11, 2025, 07:00 AM ET\r\nFRECKLED AND BROAD-CHESTED, with fading white-blond hair and a robust mustache, \"in first-rate health\" from years of navigating the austere conditions of the desert Southwe… [+19798 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "POET Technologies Inc.",
+        "title": "POET Technologies and Quantum Computing Inc. to Co-Develop 3.2Tbps Optical Engines for CPO and Next-Gen AI Connectivity",
+        "description": "400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing 400G/Lane, TFLN modulator-based innovation to play a key role in the future of computing",
+        "url": "https://www.globenewswire.com/news-release/2025/11/11/3185320/0/en/POET-Technologies-and-Quantum-Computing-Inc-to-Co-Develop-3-2Tbps-Optical-Engines-for-CPO-and-Next-Gen-AI-Connectivity.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/c90ecc6e-9475-47bb-9baa-b92e4d296625",
+        "publishedAt": "2025-11-11T12:18:00Z",
+        "content": "SAN JOSE, Calif. and HOBOKEN, N.J., Nov. 11, 2025 (GLOBE NEWSWIRE) -- POET Technologies Inc. (\"POET\" or the \"Company\") (NASDAQ: POET), a leader in the design and implementation of highly-integrated o… [+5719 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Aptera Motors Corp",
+        "title": "Aptera Motors Initiates Validation Line as Next Step Toward Scaled Manufacturing",
+        "description": "Aptera Motors (NASDAQ: SEV), a solar mobility company, has begun building its validation vehicle assembly line in Southern California.......",
+        "url": "https://www.globenewswire.com/news-release/2025/11/11/3185319/0/en/Aptera-Motors-Initiates-Validation-Line-as-Next-Step-Toward-Scaled-Manufacturing.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/40c78431-ad9d-4eda-a043-e403d10ca6a4",
+        "publishedAt": "2025-11-11T12:18:00Z",
+        "content": "CARLSBAD, Calif., Nov. 11, 2025 (GLOBE NEWSWIRE) -- Aptera Motors Corp. (NASDAQ: SEV), a solar mobility company pioneering ultra-efficient transportation, has begun building out its validation vehicl… [+4890 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "CorVel Corp.",
+        "title": "CorVel Earns Spot on TIME’s America’s Growth Leaders 2026 List — the Only Company in Its Industry Recognized",
+        "description": "CorVel named to TIME’s America’s Growth Leaders 2026 ranking, recognized for sustained growth, financial strength, and market performance.......",
+        "url": "https://www.globenewswire.com/news-release/2025/11/11/3185318/34735/en/CorVel-Earns-Spot-on-TIME-s-America-s-Growth-Leaders-2026-List-the-Only-Company-in-Its-Industry-Recognized.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/dc150059-2d36-47de-9f10-e6f5990ba046",
+        "publishedAt": "2025-11-11T12:18:00Z",
+        "content": "FORT WORTH, Texas, Nov. 11, 2025 (GLOBE NEWSWIRE) -- Today, CorVel Corporation (NASDAQ: CRVL), a national provider of risk management solutions, is proud to announce its inclusion on TIMEs Americas G… [+4382 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Swastika Das Sharma",
+        "title": "SoftBank sells Nvidia stake for $5.8 billion to fund AI investments — What does it mean for shareholders?",
+        "description": "Tokyo-based SoftBank Group's sale of the Nvidia stake not only reflects a shift of focus on OpenAI but also highlights its positive outlook on AI investments at a time when investors are questioning the sheer amounts of capital chasing a technology with uncer…",
+        "url": "https://www.livemint.com/companies/news/softbank-sells-nvidia-stake-for-5-8-billion-to-fund-ai-investments-what-does-it-mean-for-shareholders-11762861139365.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/11/1600x900/logo/AUTOS-SOFTBANK-CUBIC-INVESTMENT-1_1707785377436_1762863138924.JPG",
+        "publishedAt": "2025-11-11T12:17:50Z",
+        "content": "Japan's SoftBank Group Corp. on Tuesday said it had sold all its stake in Jensen Huang's Nvidia, pocketing a massive $5.83 billion with the sale, as the Masayoshi Son-led company looks to increase it… [+2669 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jordy Fee-Platt",
+        "title": "As younger generations consume more sports through streaming, location has less impact on fandom",
+        "description": "A Pistons fan from South Korea went viral for his gleeful social media posts from Detroit last month. The Pittsburgh Steelers had to use a silent count at home. The NFL is sending its Washington and Miami franchises to play in Madrid. All MLS games have been …",
+        "url": "https://sports.yahoo.com/article/younger-generations-consume-more-sports-121607317.html",
+        "urlToImage": "https://media.zenfs.com/en/the_athletic_articles_169/93275844b17be7aa164fc6bdacd72a52",
+        "publishedAt": "2025-11-11T12:16:07Z",
+        "content": "A Pistons fan from South Korea went viral for his gleeful social media posts from Detroit last month. The Pittsburgh Steelers had to use a silent count at home. The NFL is sending its Washington and … [+7874 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Finextra"
+        },
+        "author": "Editorial Team",
+        "title": "Carmine Salute joins Pirum as head of commercial development, Americas",
+        "description": "Pirum, the trusted technology partner for securities finance automation and collateral management, announced today that Carmine Salute has joined the firm’s New York office as Head of Commercial Development, Americas.",
+        "url": "https://www.finextra.com/pressarticle/107892/carmine-salute-joins-pirum-as-head-of-commercial-development-americas",
+        "urlToImage": "https://www.finextra.com/about/finextra-logo.png",
+        "publishedAt": "2025-11-11T12:16:00Z",
+        "content": "Pirum, the trusted technology partner for securities finance automation and collateral management, announced today that Carmine Salute has joined the firms New York office as Head of Commercial Devel… [+2461 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Inside the Magic"
+        },
+        "author": "Chloe James",
+        "title": "Is There Any Hope for Star Wars: Rise of the Resistance?",
+        "description": "When it works, Star Wars: Rise of the Resistance is truly one of – if not the best – attractions Disney has ever built. It’s immersive, thrilling, and a borderline technical marvel. Emphasis on when it works. Since opening, the star attraction of Star Wars: G…",
+        "url": "https://insidethemagic.net/2025/11/star-wars-rise-of-the-resistance-issues-cj1/",
+        "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/07/Rise-Resistance.jpg",
+        "publishedAt": "2025-11-11T12:15:31Z",
+        "content": "When it works, Star Wars: Rise of the Resistance is truly one of if not the best attractions Disney has ever built. It’s immersive, thrilling, and a borderline technical marvel.\r\nEmphasis on when it … [+4581 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "World Football Index"
+        },
+        "author": "Louis Smith",
+        "title": "Same Day, Different Rules – VAR’s Inconsistency Exposed",
+        "description": "VAR has been around in football for a number of years now, and each year it seems to cause more confusion. Even though it has its benefits, the calls are becoming more inconsistent every week, sometimes even on the same day. Take last Tuesday, for example, du…",
+        "url": "https://worldfootballindex.com/2025/11/same-day-different-rules-vars-inconsistency-exposed/",
+        "urlToImage": "https://worldfootballindex.com/wp-content/uploads/2025/11/palacbhapl-2.jpg",
+        "publishedAt": "2025-11-11T12:15:00Z",
+        "content": "VAR has been around in football for a number of years now, and each year it seems to cause more confusion. Even though it has its benefits, the calls are becoming more inconsistent every week, someti… [+3821 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Antaranews.com"
+        },
+        "author": "Prasetyo, Kenzu",
+        "title": "Basarnas proposes national emergency fund to speed up SAR operations",
+        "description": "The National Search and Rescue Agency (Basarnas) has proposed the establishment of a national emergency fund for search and rescue (SAR) operations that can ...",
+        "url": "https://en.antaranews.com/news/391241/basarnas-proposes-national-emergency-fund-to-speed-up-sar-operations",
+        "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/11/11/1762846901855_copy_2564x1710.jpg",
+        "publishedAt": "2025-11-11T12:14:31Z",
+        "content": "Jakarta (ANTARA) - The National Search and Rescue Agency (Basarnas) has proposed the establishment of a national emergency fund for search and rescue (SAR) operations that can be accessed within 24 h… [+2290 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "AIRO Advances Air Collision Avoidance Technologies Through MACADA Initiative With Subsidiary Jaunt Air Mobility Canada",
+        "description": "MCLEAN, Va. & MIRABEL, Quebec — AIRO Group Holdings (Nasdaq: AIRO) (AIRO) is pleased to announce its active role in the MACADA (MAturity of Collaborative Avoidance Development Approach) initiative, a strategic research and development effort focused on enhanc…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/airo-advances-air-collision-avoidance-technologies-through-macada-initiative-with-subsidiary-jaunt-air-mobility-canada",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/bw20251111977943_airo_jaunt_cargo_drone.jpeg",
+        "publishedAt": "2025-11-11T12:14:29Z",
+        "content": "MCLEAN, Va. &amp; MIRABEL, Quebec AIRO Group Holdings (Nasdaq: AIRO) (AIRO) is pleased to announce its active role in the MACADA (MAturity of Collaborative Avoidance Development Approach) initiative,… [+8923 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Analyst Report: ServiceNow Inc",
+        "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
+        "url": "https://finance.yahoo.com/research/reports/ARGUS_3664_AnalystReport_1762863251000/",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+        "publishedAt": "2025-11-11T12:14:11Z",
+        "content": "Joseph F. Bonner, CFA \r\nSenior Analyst: Communication Services &amp; Technology \r\nJoe covers the Communication Services sector and selected software technology stocks for Argus. In 2010, he was named… [+763 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techpowerup.com"
+        },
+        "author": "Nomad76",
+        "title": "(PR) EIZO Releases FlexScan EV2400R 23.8-inch Business Monitor",
+        "description": "EIZO Corporation (TSE: 6737) today announced the release of the FlexScan EV2400R - a 23.8-inch Full HD (1920 x 1080) resolution monitor developed to support energy-conscious use in everyday workspaces. As the successor to the FlexScan EV2460, it introduces pr…",
+        "url": "https://www.techpowerup.com/342808/eizo-releases-flexscan-ev2400r-23-8-inch-business-monitor",
+        "urlToImage": "https://www.techpowerup.com/img/iOpFk2wwPA7X2dw2.jpg",
+        "publishedAt": "2025-11-11T12:14:08Z",
+        "content": "EIZO Corporation (TSE: 6737) today announced the release of the FlexScan EV2400R - a 23.8-inch Full HD (1920 x 1080) resolution monitor developed to support energy-conscious use in everyday workspace… [+3415 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ndtvprofit.com"
+        },
+        "author": "NDTV Profit Tech",
+        "title": "OnePlus 15 Launching Nov. 13 - Check Early Access Sale, Price, Specs, Features",
+        "description": "OnePlus’s latest flagship — the OnePlus 15 — is set to arrive in the Indian market on Nov. 13. The OnePlus 15 debuted in China on Oct. 27, and the majority of specifications for the Indian version are anticipated to align closely with those of the Chinese edi…",
+        "url": "https://www.ndtvprofit.com/technology/oneplus-15-launch-date-and-time-early-access-sale-price-camera-battery-specs-features",
+        "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-11%2Fyx6gpn96%2FOnePlus-15.jpeg?w=1200&auto=format%2Ccompress&ogImage=true",
+        "publishedAt": "2025-11-11T12:12:16Z",
+        "content": "The OnePlus 15 features an updated design relative to the OnePlus 13, featuring a small, square-shaped camera module with rounded edges reminiscent of the OnePlus 13s. Inside this island, a vertical … [+1145 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Practical Ecommerce"
+        },
+        "author": "Armando Roggio",
+        "title": "Digital Commerce Stays Duty-Free",
+        "description": "The World Trade Organization's tariff moratorium on electronic transmissions is at the heart of modern digital trade.\nThe post Digital Commerce Stays Duty-Free appeared first on Practical Ecommerce.",
+        "url": "https://www.practicalecommerce.com/digital-commerce-stays-duty-free",
+        "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2025/11/110825-trump-featured.jpg",
+        "publishedAt": "2025-11-11T12:11:27Z",
+        "content": "Unlike physical goods, software and digital downloads have long been exempt from duties and tariffs. Many nations, including the United States, want to keep it that way.\r\nIn October, the Trump admini… [+5591 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": null,
+        "title": "Stock investors are buoying the economy. A labor market breakdown could end that",
+        "description": "Government labor data could paint a darker economic picture, leading to a market slide that would throw cold water on the outlook of those who are well off.",
+        "url": "https://www.cnbc.com/2025/11/11/stocks-are-buoying-wealthy-sentiment-a-labor-market-break-could-end-that.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221450-1762295496498-gettyimages-2245032022-_dsc0784.jpeg?v=1762295602&w=1920&h=1080",
+        "publishedAt": "2025-11-11T12:11:24Z",
+        "content": "As stock market investors support economic sentiment, some economists wonder if a looser labor market could pull the rug out.\r\nThe University of Michigan's widely-followed consumer sentiment index sl… [+4367 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Shiena Iane B Enerio",
+        "title": "Has Noah's Ark Finally Been Found? Radar Sparks Biblical Buzz",
+        "description": "Ground Penetrating Radar (GPR) tchnology may have discovered the location of the remnants of Noah's Ark.",
+        "url": "https://www.ibtimes.com/has-noahs-ark-finally-been-found-radar-sparks-biblical-buzz-3790101",
+        "urlToImage": "https://d.ibtimes.com/en/full/4633764/noahs-ark-replica.jpg",
+        "publishedAt": "2025-11-11T12:11:08Z",
+        "content": "American researchers have reignited global curiosity with a potentially groundbreaking discovery near Mount Ararat in eastern Turkey. Using advanced Ground Penetrating Radar (GPR) technology, a team … [+3088 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Journal"
+        },
+        "author": "AFP",
+        "title": "Trump says ‘we’ve had a lot of problems’ with France",
+        "description": "President Donald Trump took a sudden swipe at France on Monday during an interview with US broadcaster Fox News, saying “we’ve had a lot of problems with the French.” Fox News presenter Laura Ingraham questioned the US president on the enrolment of Chinese st…",
+        "url": "https://www.digitaljournal.com/world/trump-says-weve-had-a-lot-of-problems-with-france/article",
+        "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/11/13b790371a92dd0217c905a3828f706374af6b01.jpg",
+        "publishedAt": "2025-11-11T12:07:20Z",
+        "content": "US President Donald Trump, shown here with France's Emmanuel Macron in Egypt in October 2025, voiced his suspicions of the French in a new Fox News interview - Copyright POOL/AFP Yoan VALAT\r\nPresiden… [+2041 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.gov.uk"
+        },
+        "author": "Defence and Security Accelerator",
+        "title": "Notice: Delivering Future Advantage through Testing and Evaluation (Phase 1)",
+        "description": "DASA competition for the MOD Test and Evaluation (T&E) Transformation Programme to develop deployable T&E capabilities and regulatory solutions.",
+        "url": "https://www.gov.uk/government/publications/delivering-future-advantage-through-testing-and-evaluation-phase-1",
+        "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+        "publishedAt": "2025-11-11T12:06:00Z",
+        "content": "This Defence and Security Accelerator, part of UK Defence Innovation (UKDI-DASA) competition is run on behalf of the MOD Test and Evaluation (T&amp;E) Transformation Programme. It is seeking proposal… [+1387 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Neha Vashishth",
+        "title": "Can bonds build steady secondary income? Jiraaf’s Vineet Agarwal explains",
+        "description": "Secondary income is crucial for evolving lifestyles and financial security. Amidst inflation and volatility, fixed-income instruments like bonds offer predictable cash flows, acting as a reliable alternative to traditional assets. Vineet Agarwal explains how …",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/can-bonds-build-steady-secondary-income-jiraafs-vineet-agarwal-explains/articleshow/125248608.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125248983,width-1200,height-630,imgsize-524513,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-11-11T12:04:22Z",
+        "content": "Want your money to work for you even when youre sleeping? Well, the good news is, you can. Vineet Agarwal, Co-founder of Giraffe, spoke to ET Markets about how bonds are emerging as a reliable tool f… [+5408 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "FDA Approves Promega OncoMate® MSI Dx Analysis System as Companion Diagnostic for KEYTRUDA® in Combination with LENVIMA® In Advanced Endometrial Carcinoma",
+        "description": "Promega MSI technology will aid in the identification of patients with microsatellite stable (MSS) endometrial carcinoma MADISON, Wis. — The U.S. Food and Drug Administration (FDA) has approved the Promega OncoMate® MSI Dx Analysis System as a companion diagn…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fda-approves-promega-oncomate-msi-dx-analysis-system-as-companion-diagnostic-for-keytruda-in-combination-with-lenvima-in-advanced-endometrial-carcinoma",
+        "urlToImage": null,
+        "publishedAt": "2025-11-11T12:04:12Z",
+        "content": "Promega MSI technology will aid in the identification of patients with microsatellite stable (MSS) endometrial carcinoma\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the late… [+5075 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Naftemporiki.gr"
+        },
+        "author": "Μιχάλης Ματσίγκος",
+        "title": "Telecommunications: 5G Standalone network an opportunity for Greece",
+        "description": "The acceleration of the development of 5G Standalone (5G SA) creates a significant opportunity for Greece to position itself at the forefront of new technologies and digital innovation.\nThe above…\nTelecommunications: 5G Standalone network an opportunity for G…",
+        "url": "https://www.naftemporiki.gr/english/2032127/telecommunications-5g-standalone-network-an-opportunity-for-greece/",
+        "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2025/11/5g.jpg",
+        "publishedAt": "2025-11-11T12:03:45Z",
+        "content": "The acceleration of the development of 5G Standalone (5G SA) creates a significant opportunity for Greece to position itself at the forefront of new technologies and digital innovation.\r\nThe above wa… [+2766 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ozbargain.com.au"
+        },
+        "author": "Jaymac",
+        "title": "PJ Masks Animal Power Charge and Roar Power Cat Toy $41.41 (Was $102.78) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+        "description": "Great sale on for this PJ Masks toy, good timing for Christmas shopping. Amazon's Choice item with 4.8/5 stars from 530 reviews. Big W is listing it for $114.75, so this is a great price. Get …",
+        "url": "https://www.ozbargain.com.au/node/932647",
+        "urlToImage": "https://files.ozbargain.com.au/n/47/932647l.jpg?h=e58c128f",
+        "publishedAt": "2025-11-11T12:03:34Z",
+        "content": "Great sale on for this PJ Masks toy, good timing for Christmas shopping. Amazon's Choice item with 4.8/5 stars from 530 reviews.Big W is listing it for $114.75, so this is a great price. Get in while… [+1010 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nep123.com"
+        },
+        "author": "Editor",
+        "title": "SDLG Unveils Electric Wheel Loader in Nepal",
+        "description": "Introducing the SDLG L936HEV: A Revolutionary Electric Wheel Loader for a Greener Nepal Panchakanya Group’s Explore Earth Movers Pvt. Ltd. has unveiled the groundbreaking SDLG L936HEV, a new addition to their line of heavy machinery. This cutting-edge machine…",
+        "url": "https://nep123.com/sdlg-unveils-electric-wheel-loader-in-nepal/",
+        "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+        "publishedAt": "2025-11-11T12:03:16Z",
+        "content": "Introducing the SDLG L936HEV: A Revolutionary Electric Wheel Loader for a Greener Nepal\r\nPanchakanya Group’s Explore Earth Movers Pvt. Ltd. has unveiled the groundbreaking SDLG L936HEV, a new additio… [+1557 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Calian Group Announces Governance Changes to Support Strategic Operations Following Agreement with Plantro Ltd.",
+        "description": "–  Enters co-operation agreement with Plantro Ltd.–  Accelerates ongoing board renewal process– Forms special committee to oversee the execution of actions related to non-core assets, to include participation by special advisor recommended by Plantro OTTAWA, …",
+        "url": "https://financialpost.com/globe-newswire/calian-group-announces-governance-changes-to-support-strategic-operations-following-agreement-with-plantro-ltd",
+        "urlToImage": null,
+        "publishedAt": "2025-11-11T12:03:04Z",
+        "content": "Co-Operation Agreement\r\nCalian also announced that it has entered into a co-operation agreement with Plantro. The agreement includes, among other terms, the Companys commitment to accelerate its ongo… [+5795 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PC Gamer"
+        },
+        "author": "Emma Withington",
+        "title": "Bandai Namco leads the way in game and entertainment patents in Japan, taking the crown from Sony Interactive Entertainment",
+        "description": "The Dark Souls of rankings.",
+        "url": "https://www.pcgamer.com/gaming-industry/bandai-namco-leads-the-way-in-game-and-entertainment-patents-in-japan-taking-the-crown-from-sony-interactive-entertainment/",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/K8ifFi3M6vGWXPucFZWYga-2560-80.png",
+        "publishedAt": "2025-11-11T12:03:01Z",
+        "content": "A Japanese analytics agency, Patent Result, has published this year's rankings of domestic game and entertainment companies by the 'strength' of patents they hold, via Automaton. Patent Result values… [+1874 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SNS Insider pvt ltd",
+        "title": "Intelligent Network Market Set to Reach USD 42.2 Billion by 2032, Growing at a CAGR of 27.49% | Research by SNS Insider",
+        "description": "The report explores the Intelligent Network Market’s robust growth fueled by AI-driven automation, rising connectivity needs, and increasing adoption across sectors like BFSI, healthcare, and telecom. The report explores the Intelligent Network Market’s robus…",
+        "url": "https://www.globenewswire.com/news-release/2025/11/11/3185311/0/en/Intelligent-Network-Market-Set-to-Reach-USD-42-2-Billion-by-2032-Growing-at-a-CAGR-of-27-49-Research-by-SNS-Insider.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+        "publishedAt": "2025-11-11T12:03:00Z",
+        "content": "Austin, Nov. 11, 2025 (GLOBE NEWSWIRE) -- The Intelligent Network Market\r\n size was valued at USD 4.7 billion in 2023 and is expected to reach USD 42.2 billion by 2032, growing at a CAGR of 27.49% ov… [+6685 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "Ron Dicker",
+        "title": "Jasmine Crockett Makes Her Own Dominion Voting Claim In Conspiracy Shocker",
+        "description": "The Texas congresswoman courted controversy with her eyebrow-raising remarks about the voting technology company.",
+        "url": "https://www.huffpost.com/entry/jasmine-crockett-dominion-2026-elections_n_69130c31e4b0ff332f7d3af0",
+        "urlToImage": "https://img.huffingtonpost.com/asset/6913206a150000de669c2d74.png?cache=YGEj5hhk9S&ops=1200_630",
+        "publishedAt": "2025-11-11T12:02:58Z",
+        "content": "Rep. Jasmine Crockett (D-Texas) said Monday that Dominion Voting Systems yes, the same company that Donald Trump and conservatives falsely accused of stealing votes from him in 2020 could potentially… [+3501 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Deepspatial Inc. Appoints New Auditors to Complete Outstanding Filings and Advance Toward CTO Revocation",
+        "description": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) — Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (“Deepspatial” or the “Company”), is pleased to announce the appointment of Bassi & Karimjee LLP Chartered Accountants who have commenced work to complete the Company’s outsta…",
+        "url": "https://financialpost.com/globe-newswire/deepspatial-inc-appoints-new-auditors-to-complete-outstanding-filings-and-advance-toward-cto-revocation",
+        "urlToImage": null,
+        "publishedAt": "2025-11-11T12:02:42Z",
+        "content": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (Deepspatial or the Company), is pleased to announce the appointment of Bassi &amp; Karimjee LLP Chartered Accountant… [+4327 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Deepspatial Inc.",
+        "title": "Deepspatial Inc. Appoints New Auditors to Complete Outstanding Filings and Advance Toward CTO Revocation",
+        "description": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) -- Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (\"Deepspatial\" or the \"Company\"), is pleased to announce the appointment of Bassi & Karimjee LLP Chartered Accountants who have commenced work to complete the Company’s outst…",
+        "url": "https://www.globenewswire.com/news-release/2025/11/11/3185309/0/en/Deepspatial-Inc-Appoints-New-Auditors-to-Complete-Outstanding-Filings-and-Advance-Toward-CTO-Revocation.html",
+        "urlToImage": null,
+        "publishedAt": "2025-11-11T12:01:00Z",
+        "content": "TORONTO, Nov. 11, 2025 (GLOBE NEWSWIRE) -- Deepspatial Inc. (CSE: DSAI) (OTC: DSAIF) (\"Deepspatial\" or the \"Company\"), is pleased to announce the appointment of Bassi &amp; Karimjee LLP Chartered Acc… [+2122 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Commercial Observer"
+        },
+        "author": "Tacitelli",
+        "title": "The Ways New York Office Owners Are Doubling Down on Building Security",
+        "description": "The deadly shooting at 345 Park Avenue in July rattled Manhattan’s office world, and also caused owners to think twice about their current security protocols. On July 28, a gunman killed four people and critically wounded a fifth inside the Rudin-owned office…",
+        "url": "http://commercialobserver.com/2025/11/new-york-office-security-2026-technology/",
+        "urlToImage": "https://commercialobserver.com/wp-content/uploads/sites/3/2025/10/AI-crowd-GettyImages-1080200066-WEB.jpg?quality=80&w=1200&h=630&crop=1",
+        "publishedAt": "2025-11-11T12:00:58Z",
+        "content": "The deadly shooting at 345 Park Avenue in July rattled Manhattans office world, and also caused owners to think twice about their current security protocols.\r\nOn July 28, a gunman killed four people … [+10557 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "XDA Developers"
+        },
+        "author": "Abhinav Raj",
+        "title": "I'm quietly optimistic about Intel Arc series GPUs",
+        "description": "Intel graphics may become a popular choice soon",
+        "url": "https://www.xda-developers.com/im-quietly-optimistic-about-intel-arc-series-gpus/",
+        "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/12/intel-arc-b580-installed.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2025-11-11T12:00:20Z",
+        "content": "Among enthusiasts, journalists and tech YouTubers alike, the Intel Arc Series has garnered a substantial following, scripting what is shaping to be Team Blue's comeback story. Intel might be poised t… [+5052 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Legalinsurrection.com"
+        },
+        "author": "Leslie Eastman",
+        "title": "Trump Orders Pentagon to Resume Nuclear Weapons Testing",
+        "description": "Meanwhile, Senate Democrats are fighting the restart of American nuclear weapons testing, which may be focused on the delivery system rather than detonation.\nThe post Trump Orders Pentagon to Resume Nuclear Weapons Testing first appeared on Le·gal In·sur·rec·…",
+        "url": "https://legalinsurrection.com/2025/11/trump-orders-pentagon-to-resume-nuclear-weapons-testing/",
+        "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/11/Trump-CBS-ICE.png",
+        "publishedAt": "2025-11-11T12:00:19Z",
+        "content": "President Donald Trump has recently ordered the resumption of U.S. nuclear weapons testing, marking the move to end the moratorium on such activities since they began in 1992.\r\nTrump asserted this mo… [+4129 chars]"
+      },
+      {
+        "source": {
+          "id": "new-scientist",
+          "name": "New Scientist"
+        },
+        "author": "Alex Wilkins",
+        "title": "The biggest controversy in maths could be settled by a computer",
+        "description": "For over a decade, mathematicians have failed to agree whether a 500-page proof is actually correct. Now, translating the proof into a computer-readable form may finally settle the matter",
+        "url": "https://www.newscientist.com/article/2503500-the-biggest-controversy-in-maths-could-be-settled-by-a-computer/",
+        "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/11/10093201/SEI_273280996.jpg",
+        "publishedAt": "2025-11-11T12:00:12Z",
+        "content": "Computers can verify mathematical proofs\r\nmonsitj/Getty Images\r\nOne of the most controversial debates in mathematics could be settled with the aid of a computer, potentially ending a bitter argument … [+5508 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kevinmd.com"
+        },
+        "author": "Davis Chambers, DO",
+        "title": "Illinois’ new AI therapy ban has a loophole",
+        "description": "As a psychiatry resident, I have been closely monitoring developments in the proliferation of AI chatbots for therapy. The moment feels like the ground shifting below my feet, and I have just started my career. In my clinical practice I feel unprepared to dis…",
+        "url": "https://kevinmd.com/2025/11/illinois-new-ai-therapy-ban-has-a-loophole.html",
+        "urlToImage": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_ym2os6ym2os6ym2o.png",
+        "publishedAt": "2025-11-11T12:00:11Z",
+        "content": "As a psychiatry resident, I have been closely monitoring developments in the proliferation of AI chatbots for therapy. The moment feels like the ground shifting below my feet, and I have just started… [+5133 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Why AI matters for every veteran",
+        "description": "OpenAI launches free ChatGPT Plus program for transitioning veterans and active-duty service members, helping translate military skills into civilian careers.",
+        "url": "https://www.foxnews.com/opinion/why-ai-matters-every-veteran",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/ai-training-keyboard.jpg",
+        "publishedAt": "2025-11-11T12:00:05Z",
+        "content": "For more than three decades, I had the honor of serving our country in uniform. I led soldiers at home and abroad. I commanded U.S. Cyber Command and the National Security Agency through some of the … [+4857 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Full WhatsApp Messaging on Apple Watch is Finally HERE!",
+        "description": "WhatsApp has launched its first native app for the Apple Watch, offering a new way to stay connected directly from your wrist. This advancement allows you to manage chats, send voice messages, and view media without needing to reach for your phone. While the …",
+        "url": "https://www.geeky-gadgets.com/whatsapp-on-apple-watch-2/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/whatsapp-on-apple-watch-features-overview_optimized.jpg",
+        "publishedAt": "2025-11-11T12:00:03Z",
+        "content": "WhatsApp has launched its first native app for the Apple Watch, offering a new way to stay connected directly from your wrist. This advancement allows you to manage chats, send voice messages, and vi… [+4551 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cracked.com"
+        },
+        "author": "JM McNab",
+        "title": "‘SNL’ Is Fixing Live Screw-Ups in Their Online Videos Now",
+        "description": "By\n JM McNab\n Published: November 11th, 2025",
+        "url": "https://www.cracked.com/article_49074_snl-is-fixing-live-screw-ups-in-their-online-videos-now.html",
+        "urlToImage": "https://s3.crackedcdn.com/phpimages/article/9/3/9/1403939.jpg",
+        "publishedAt": "2025-11-11T12:00:00Z",
+        "content": "Part of the fun of watching Saturday Night Live is knowing that things might not go exactly as planned. Cast members may inadvertently drop F-bombs, certain musical guests could be caught lip-syncing… [+2368 chars]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1163 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 44533,
+  "articles": [
+    {
+      "title": "Global internet outage caused by ‘software crash’ at Cloudflare",
+      "description": "The online infrastructure firm Cloudflare blamed a software crash on an outage that took out large parts of the internet for up to three hours on Tuesday.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/business/technology/global-internet-outage-caused-by-software-crash-at-cloudflare/a252160853.html",
+      "published_at": "2025-11-18T12:26:11Z",
+      "author": "Adrian Weckler",
+      "image_url": "https://focus.independent.ie/thumbor/kJFkKN2K-Ia-vNOa0v_3Q86wW24=/629x460/smart/prod-mh-ireland/465e3f36-7a64-47bc-b558-0f52cb9cb7e5/f410aa1d-189c-49a5-8b3c-ebd015377130/465e3f36-7a64-47bc-b558-0f52cb9cb7e5.jpg",
+      "content": "An outage at the online infrastructure firm Cloudflare knocked out services from X to ChatGPT on Tuesday\r\nThe online infrastructure firm Cloudflare blamed a software crash on an outage that took out … [+2659 chars]"
+    },
+    {
+      "title": "Android dreams",
+      "description": "A prediction essay for the next 20 years of intelligent robotics.",
+      "source": "Android-dreams.ai",
+      "url": "https://android-dreams.ai/",
+      "published_at": "2025-11-18T12:25:57Z",
+      "author": null,
+      "image_url": null,
+      "content": "At the convergence of frontier research breakthroughs, billions in capital, and rising geopolitical tensions lies a dream for a new physical world. After the LLM wave, robotics is seen as the next ex… [+56332 chars]"
+    },
+    {
+      "title": "One of Apple's long-running legal battles just ended – and the result could surprise you",
+      "description": "After years of litigation, Apple comes out on top in a camera patent dispute.",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/one-of-apples-long-running-legal-battles-just-ended-and-the-result-could-surprise-you_id175837",
+      "published_at": "2025-11-18T12:25:01Z",
+      "author": "Iskra Petrova",
+      "image_url": "https://m-cdn.phonearena.com/images/article/175837-wide-two_1200/One-of-Apples-long-running-legal-battles-just-ended--and-the-result-could-surprise-you.jpg",
+      "content": "Patent disputes are not a rarity in the tech world. These legal fights can continue for ages while companies battle to prove who invented which feature first. Rarely do these end quickly, and compani… [+3531 chars]"
+    },
+    {
+      "title": "If technology breaks, can you keep your business running?",
+      "description": "Business leaders must prepare for technology failures by implementing resilient architecture, incident-response plans and strategies to maintain operations and minimize the impact.",
+      "source": "Techtarget.com",
+      "url": "https://www.techtarget.com/searchcio/feature/If-technology-breaks-can-you-keep-your-business-running",
+      "published_at": "2025-11-18T12:25:00Z",
+      "author": "Alison Roller",
+      "image_url": "https://www.techtarget.com/rms/onlineimages/cloud_g1265279914.jpg",
+      "content": "Recent outages from major vendors Amazon Web Services (AWS), Cloudflare and Microsoft Azure have put the spotlight on the business impacts of vendor outages.\r\nThe outages impacted millions globally a… [+11028 chars]"
+    },
+    {
+      "title": "HCW Biologics Announces Initiation of First-In-Human Clinical Trial to Evaluate HCW9302 in an Autoimmune Disease",
+      "description": "First Patient Dosed at The Ohio State University Wexner Medical Center in this Multi-Center Trial  Active component of HCW9302 is interleukin-2 --...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189881/0/en/HCW-Biologics-Announces-Initiation-of-First-In-Human-Clinical-Trial-to-Evaluate-HCW9302-in-an-Autoimmune-Disease.html",
+      "published_at": "2025-11-18T12:25:00Z",
+      "author": "HCW Biologics, Inc",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5689edc3-6997-43a0-a20c-b34dc5f99b0f",
+      "content": "First Patient Dosed at The Ohio State UniversityWexner Medical Center in this Multi-Center Trial\r\nActive component of HCW9302 is interleukin-2 -- cytokine that maintains proper numbers and functions … [+10599 chars]"
+    },
+    {
+      "title": "Trump Media Stock Hits Record Low as President Faces Mounting Political Woes",
+      "description": "Shares in Donald Trump’s media company tumbled to a new low on Monday, extending a weeks-long slide, amid a period of political turmoil for the president.\nTrump Media & Technology Group (TMTG) stock closed at $10.85 per share on November 17, marking a 32 perc…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a24a05eec14b9754",
+      "published_at": "2025-11-18T12:22:51Z",
+      "author": "newsweek.com",
+      "image_url": "https://biztoc.com/cdn/a24a05eec14b9754_s.webp",
+      "content": "Shares in Donald Trumps media company tumbled to a new low on Monday, extending a weeks-long slide, amid a period of political turmoil for the president.Trump Media &amp; Technology Group (TMTG) stoc… [+148 chars]"
+    },
+    {
+      "title": "X goes dark as Cloudflare crash sparks major outage",
+      "description": "Elon Musk’s social media platform X suffered a significant outage on Tuesday morning, leaving thousands of users across the United States unable to access the service. The disruption affected more than 11,500 people who reported problems through DownDetector,…",
+      "source": "Rolling Out",
+      "url": "https://rollingout.com/2025/11/18/elon-musk-x-outage-downdetector-2025/",
+      "published_at": "2025-11-18T12:21:43Z",
+      "author": "David Kesiena",
+      "image_url": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2358222803-scaled.jpg",
+      "content": "Elon Musk’s social media platform X suffered a significant outage on Tuesday morning, leaving thousands of users across the United States unable to access the service. The disruption affected more th… [+6290 chars]"
+    },
+    {
+      "title": "Governor, Uttar Pradesh Inaugurates Ultra-Modern Hostel Complex & NARI Initiative at Chandigarh University Uttar Pradesh campus",
+      "description": "Governor, Uttar Pradesh Inaugurates Ultra-Modern Hostel Complex & NARI Initiative at Chandigarh University Uttar Pradesh campus",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/governor-uttar-pradesh-inaugurates-ultra-modern-hostel-complex-nari-initiative-at-chandigarh-university-uttar-pradesh-campus/article70294549.ece",
+      "published_at": "2025-11-18T12:20:44Z",
+      "author": null,
+      "image_url": "https://th-i.thgim.com/public/incoming/94dfk9/article70294534.ece/alternates/LANDSCAPE_1200/SynHergy_Unnao_Initiatives.jpg",
+      "content": "LUCKNOW, India, Nov. 18, 2025 /PRNewswire/ -- Indias first private AI-augmented multidisciplinary university, Chandigarh University Uttar Pradesh, took a significant step toward women empowerment in … [+9773 chars]"
+    },
+    {
+      "title": "NVIDIA & Arm Partner To Bring NVLink Fusion Support On Neoverse Platforms, Hi-Bandwidth Interconnect For AI Data Centers",
+      "description": "NVIDIA & Arm have strengthened their partnership with the announcement of NVLink Fusion support for Neoverse AI data center platforms. NVIDIA NVLink Fusion Now Available on Arm Neoverse AI Data Centers, Accelerating AI With More Bandwidth & Inter-Chip Coheren…",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-arm-partner-nvlink-fusion-support-on-neoverse-platforms-ai-data-centers/",
+      "published_at": "2025-11-18T12:20:24Z",
+      "author": "Hassan Mujtaba",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/11/NVIDIA-NVLink-Fusion-_F.jpg",
+      "content": "NVIDIA &amp; Arm have strengthened their partnership with the announcement of NVLink Fusion support for Neoverse AI data center platforms.\r\nNVIDIA Press Release: AI is reshaping data centers in a onc… [+3088 chars]"
+    },
+    {
+      "title": "Vulkan-to-DirectX 12 translation tool used in Valve's Proton now supports AMD's FSR4 and Anti-Lag, while Nvidia's DLSS4 remains unsupported — FSR4 now also works on older GPUs, VKD3D-Proton v3.0 brings other performance improvements",
+      "description": "Version 3.0 of Proton gets released, featuring a variety of bug fixes and performance improvements for DX12 games, and also adds support for big features such as FSR 4, Anti-Lag, and Work Graphs.",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/vulkan-to-directx-12-translation-tool-used-in-valves-proton-now-supports-amds-fsr4-and-anti-lag-while-nvidias-dlss4-remains-unsupported-fsr4-now-also-works-on-older-gpus-vkd3d-proton-v3-0-brings-other-performance-improvements",
+      "published_at": "2025-11-18T12:20:00Z",
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BzGDjrpRM4RfbzmWDLM6nH-2400-80.jpg",
+      "content": "The Vulkan-to-DirectX 12 translation tool used in Valve's Proton has reached version 3.0, marking one of the tool's largest updates yet. The VKD3D-Proton project's GitHub page highlights a plethora o… [+2996 chars]"
+    },
+    {
+      "title": "Omada positioned as a Leader and Emerging Innovator in the SPARK Matrix™: Identity Governance and Administration, 2025 by QKS Group",
+      "description": "Pune, India, Nov. 18, 2025 (GLOBE NEWSWIRE) -- QKS Group announced that it has named Omada a Technology Leader and Emerging Innovator in the analysis of the global SPARK MatrixTM: Identity Governance and Administration (IGA), Q4 2025. The QKS Group SPARK Matr…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189878/0/en/Omada-positioned-as-a-Leader-and-Emerging-Innovator-in-the-SPARK-Matrix-Identity-Governance-and-Administration-2025-by-QKS-Group.html",
+      "published_at": "2025-11-18T12:19:00Z",
+      "author": "QKS Group",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0c7f2ca9-2c83-4ecc-882d-38dab5dadbb2",
+      "content": "Pune, India, Nov. 18, 2025 (GLOBE NEWSWIRE) -- \r\n<ul><li>TheQKS GroupSPARK Matrix provides competitive analysis &amp; ranking of the leading Identity Governance and Administration (IGA) vendors. </li… [+3974 chars]"
+    },
+    {
+      "title": "Jeff Bezos is putting $6.2 billion—and himself as co-CEO—behind a new AI startup. Bubble? That’s no trouble",
+      "description": "AI bubble talk continues to fizz, but Amazon founder Jeff Bezos—one of the world’s richest people—doesn’t seem bothered by the mounting foam.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/11/18/jeff-bezos-is-putting-6-2-billion-and-himself-as-co-ceo-behind-a-new-ai-startup-bubble-thats-no-trouble/",
+      "published_at": "2025-11-18T12:18:45Z",
+      "author": "Sharon Goldman",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2238966987_7ac709-e1761577037395.jpg?resize=1200,600",
+      "content": "AI bubble talk continues to fizz, but Amazon founder Jeff Bezosone of the worlds richest peopledoesnt seem bothered by the mounting foam.As the New York Times reported yesterday, Bezos has helped fun… [+7852 chars]"
+    },
+    {
+      "title": "Why have deaths and serious injuries in collisions involving HGVs being driven in London halved since 2019?",
+      "description": "The number of people walking, cycling or motorcycling who were killed or seriously injured in a collision with an HGV driver in London has fallen from an average of 71 people per year to 35 since last decade — why?",
+      "source": "road.cc",
+      "url": "https://road.cc/content/news/casualties-london-hgv-driver-collisions-halved-316883",
+      "published_at": "2025-11-18T12:17:50Z",
+      "author": "Dan Alexander",
+      "image_url": "https://cdn.road.cc/sites/default/files/styles/main_width/public/tfl-direct-vision-standard.jpg",
+      "content": "Transport for London has proudly explained how since 2019, an average of six fewer people have been killed each year and 21 fewer people seriously injured in collisions with Heavy Goods Vehicles (HGV… [+4035 chars]"
+    },
+    {
+      "title": "Institutions Buying Bitcoin Are Fueling a Scalability Arms Race, And One L2 Is Leading the Pack",
+      "description": "Quick Facts: ➡️ The market is seeing a major institutional rotation as long-term Bitcoin holders sell to new institutional players like traditional finance funds and ETFs. ➡️ Institutional buying is driving the demand for a faster Bitcoin execution layer, pro…",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/institutions-buying-bitcoin-fuel-demand-for-bitcoin-hyper-l2/",
+      "published_at": "2025-11-18T12:17:49Z",
+      "author": "Bogdan Patru",
+      "image_url": "https://bitcoinist.com/wp-content/uploads/2025/11/institutions-buying-bitcoin-fuel-demand-for-bitcoin-hyper-l2.jpg",
+      "content": "Quick Facts:\r\n<ul><li> The market is seeing a major institutional rotation as long-term Bitcoin holders sell to new institutional players like traditional finance funds and ETFs.</li><li> Institution… [+5397 chars]"
+    },
+    {
+      "title": "Ree Automotive, Mitsubishi Fuso Truck sign MOU for vehicle technology",
+      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "source": "Thefly.com",
+      "url": "https://thefly.com/permalinks/entry.php/id4241836/REE-Ree-Automotive-Mitsubishi-Fuso-Truck-sign-MOU-for-vehicle-technology",
+      "published_at": "2025-11-18T12:17:04Z",
+      "author": null,
+      "image_url": "https://thefly.com/images/meta/hotstocks.jpg",
+      "content": "Earnings calls, analyst events, roadshows and more"
+    },
+    {
+      "title": "After years away from Washington, Saudi crown prince to get warm embrace from Trump, US business",
+      "description": "Trump sees the crown prince as an indispensable player in shaping the Middle East in the decades to come.",
+      "source": "Boston Herald",
+      "url": "https://www.bostonherald.com/2025/11/18/saudi-prince-visits-white-house/",
+      "published_at": "2025-11-18T12:15:47Z",
+      "author": "Associated Press",
+      "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/Trump_Saudi_Arabia_93789_326f67.jpg?w=1024&h=682",
+      "content": "By AAMER MADHANI, Associated Press\r\nWASHINGTON (AP) President Donald Trump is set to fete Crown Prince Mohammed bin Salman on Tuesday when the de facto leader of Saudi Arabia makes his first White Ho… [+4977 chars]"
+    },
+    {
+      "title": "Bonds Hint at Rebound: Crypto Daybook Americas",
+      "description": "The day ahead in crypto: Nov. 18, 2025",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2025/11/18/bonds-hint-at-rebound-crypto-daybook-americas",
+      "published_at": "2025-11-18T12:15:00Z",
+      "author": "Omkar Godbole, Jamie Crawley",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/04bb284dafb567a5389139a916007de0edb520e3-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "content": "By Omkar Godbole (All times ET unless indicated otherwise)\r\nRisk-off sentiment deepened in Asian trading as the price of bitcoin BTC\r\n$90,470.56 briefly fell below $90,000 for the first time in seven… [+7063 chars]"
+    },
+    {
+      "title": "Capital City Bank Rises in American Banker’s “Best Banks to Work For” List",
+      "description": "Now No. 37 Nationwide and No. 8 Among Banks With $3–10 Billion in Assets Now No. 37 Nationwide and No. 8 Among Banks With $3–10 Billion in Assets",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189874/9284/en/Capital-City-Bank-Rises-in-American-Banker-s-Best-Banks-to-Work-For-List.html",
+      "published_at": "2025-11-18T12:15:00Z",
+      "author": "Capital City Bank Group",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/03cc8fe5-9ccb-437f-ab4d-be828c2cd051",
+      "content": "TALLAHASSEE, Fla., Nov. 18, 2025 (GLOBE NEWSWIRE) -- For the 13th consecutive year, Capital City Bank has been named one of American Bankers Best Banks to Work For. In the 2025 rankings, the Bank pla… [+4525 chars]"
+    },
+    {
+      "title": "ChatGPT 5.1 Picks the Right Agents for Your Toughest Questions",
+      "description": "What if your AI could not only respond faster but also think deeper? With the release of ChatGPT 5.1, OpenAI has taken a bold step toward redefining what’s possible in conversational AI. Imagine an assistant that can seamlessly switch between lightning-fast a…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/openai-gpt-5-1-instant-and-thinking-modes/",
+      "published_at": "2025-11-18T12:14:52Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/openai-gpt-5-1-instant-vs-thinking-mode-comparison_optimized.jpg",
+      "content": "What if your AI could not only respond faster but also think deeper? With the release of ChatGPT 5.1, OpenAI has taken a bold step toward redefining whats possible in conversational AI. Imagine an as… [+8279 chars]"
+    },
+    {
+      "title": "Apple, Broadcom, and Qualcomm May Tap Intel Advanced Packaging",
+      "description": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which could allow Intel to significantly increase its foundry reve…",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/343014/apple-broadcom-and-qualcomm-may-tap-intel-advanced-packaging",
+      "published_at": "2025-11-18T12:14:50Z",
+      "author": "AleksandarK",
+      "image_url": "https://www.techpowerup.com/img/5XlIenuB9GtyRlVg.jpg",
+      "content": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which … [+2058 chars]"
+    },
+    {
+      "title": "Apple, Broadcom, and Qualcomm Could Tap Intel Advanced Packaging for Next-Generation Chips",
+      "description": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which could allow Intel to significantly increase its foundry reve…",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/343014/apple-broadcom-and-qualcomm-could-tap-intel-advanced-packaging-for-next-generation-chips",
+      "published_at": "2025-11-18T12:14:50Z",
+      "author": "AleksandarK",
+      "image_url": "https://www.techpowerup.com/img/5XlIenuB9GtyRlVg.jpg",
+      "content": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which … [+2058 chars]"
+    },
+    {
+      "title": "Mathematicians say Google's AI tools are supercharging their research",
+      "description": "AlphaEvolve, an AI system created by Google DeepMind, is helping mathematicians do research at a scale that was previously impossible - even if it does occasionally \"cheat\" to find a solution",
+      "source": "New Scientist",
+      "url": "https://www.newscientist.com/article/2504763-mathematicians-say-googles-ai-tools-are-supercharging-their-research/",
+      "published_at": "2025-11-18T12:14:09Z",
+      "author": "Alex Wilkins",
+      "image_url": "https://images.newscientist.com/wp-content/uploads/2025/11/18115936/SEI_274772807.jpg",
+      "content": "AI can help mathematicians tackle a range of problems\r\nAndresr/ Getty Images\r\nAI tools developed by Google DeepMind are surprisingly effective at assisting mathematical research and could usher in a … [+4457 chars]"
+    },
+    {
+      "title": "Flying Wedge to build India’s first full-spectrum autonomous combat aircraft hub in AP",
+      "description": "The project is expected to create over 1,000 jobs and bolster India’s indigenous defence manufacturing capabilities, including AI-led defence systems and unmanned aerial platforms.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/flying-wedge-to-build-indias-first-full-spectrum-autonomous-combat-aircraft-hub-in-ap/article70294443.ece",
+      "published_at": "2025-11-18T12:13:53Z",
+      "author": "BL Hyderabad Bureau",
+      "image_url": "https://bl-i.thgim.com/public/incoming/3x3ryr/article70294532.ece/alternates/LANDSCAPE_1200/_KMK7181.JPG",
+      "content": "Flying Wedge Defence &amp; Aerospace (FWDA), a defence technology and AI warfare company, signed a Memorandum of Understanding (MoU) with the Andhra Pradesh Government to establish a 500-acre state-o… [+1831 chars]"
+    },
+    {
+      "title": "is a Buy at Needham Amid Deals with Tech Giants",
+      "description": "Stagwell Inc. (NASDAQ:STGW) is a must-buy penny stock to buy now. On November 4, Needham analyst Laura Martin reiterated a Buy rating on Stagwell Inc. (NASDAQ:STGW) and lifted the price target from $6.36 to $7.25, impressed by the strategic partnership the co…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e7e85bfc239b8742",
+      "published_at": "2025-11-18T12:12:38Z",
+      "author": "finance.yahoo.com",
+      "image_url": "https://biztoc.com/cdn/e7e85bfc239b8742_s.webp",
+      "content": "Stagwell Inc. (NASDAQ:STGW) is a must-buy penny stock to buy now. On November 4, Needham analyst Laura Martin reiterated a Buy rating on Stagwell Inc. (NASDAQ:STGW) and lifted the price target from $… [+143 chars]"
+    },
+    {
+      "title": "UK targets touts with ban on ticket resale for profit",
+      "description": "LONDON (Reuters) -Britain will ban the resale of tickets for music concerts, shows and sporting events at inflated prices, tackling the scourge of ticket...",
+      "source": "Yahoo Entertainment",
+      "url": "https://uk.finance.yahoo.com/news/britain-outlaw-tickets-touts-minister-080025004.html",
+      "published_at": "2025-11-18T12:12:30Z",
+      "author": "By Paul Sandle",
+      "image_url": "https://media.zenfs.com/en/reuters.com/4c384c4632b6ec89ef9d027ba06e933f",
+      "content": "By Paul Sandle\r\nLONDON (Reuters) -Britain will ban the resale of tickets for music concerts, shows and sporting events at inflated prices, tackling the scourge of ticket touts who use technology to s… [+2266 chars]"
+    },
+    {
+      "title": "Helping Decision‑Makers Say Yes to Kotlin",
+      "description": "Guest post by Urs Peter, Senior Software Engineer and JetBrains-certified Kotlin Trainer. For readers who’d like a more structured way to build Kotlin skills, Urs also leads the Kotlin Upskill Program at Xebia Academy. This is the fourth post in The Ultimate …",
+      "source": "Jetbrains.com",
+      "url": "https://blog.jetbrains.com/kotlin/2025/11/helping-decision-makers-say-yes-to-kotlin/",
+      "published_at": "2025-11-18T12:11:19Z",
+      "author": "Alyona Chernyaeva",
+      "image_url": "https://blog.jetbrains.com/wp-content/uploads/2025/11/Blog-Social-share-1280x720-3.png",
+      "content": "Guest post by Urs Peter, Senior Software Engineer and JetBrains-certified Kotlin Trainer. For readers whod like a more structured way to build Kotlin skills, Urs also leads the Kotlin Upskill Program… [+7673 chars]"
+    },
+    {
+      "title": "Moomoo’s Parent Company Futu Releases Q3 2025 Results: Net Income Up 137% YoY to US$425.7 Million",
+      "description": "Moomoo's Parent Company Futu Releases Q3 2025 Results: Net Income Up 137% YoY to US$425.7 Million",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/moomoos-parent-company-futu-releases-q3-2025-results-net-income-up-137-yoy-to-us4257-million/article70294456.ece",
+      "published_at": "2025-11-18T12:11:02Z",
+      "author": null,
+      "image_url": "https://th-i.thgim.com/public/incoming/itctw8/article70294447.ece/alternates/LANDSCAPE_1200/Screenshot%202025-11-18%20172254.png",
+      "content": "JERSEY CITY, N.J., Nov. 18, 2025 /PRNewswire/ -- Moomoos parent company Futu Holdings Ltd. (Futu or the Company) (Nasdaq: FUTU), a leading global tech-driven online brokerage and wealth management pl… [+7045 chars]"
+    },
+    {
+      "title": "EDC supports first loan in South Korea with $200 million in financing for Lotte Shopping",
+      "description": "EDC supports first loan in South Korea with $200 million in financing for Lotte Shopping",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/edc-supports-first-loan-in-south-korea-with-200-million-in-financing-for-lotte-shopping/article70294402.ece",
+      "published_at": "2025-11-18T12:10:16Z",
+      "author": null,
+      "image_url": "https://th-i.thgim.com/public/incoming/30ysho/article70294353.ece/alternates/LANDSCAPE_1200/Export_Development_Canada_EDC_supports_first_loan_in_South_Korea.jpg",
+      "content": "This marks the inaugural deal under the EDC-Lotte Market Leader Partnership (MLP) program\r\nOTTAWA, ON, Nov. 18, 2025 /PRNewswire/ -- Today, Export Development Canada (EDC) is announcing a $200 millio… [+5984 chars]"
+    },
+    {
+      "title": "Visionary CIOs Showcases Derek Bryson Park’s Journey of Purpose and Precision",
+      "description": "From U.S. Open Operations to Finance Strategy: Derek Bryson Park’s Visionary Blueprint for Mastering Organizational Chaos From U.S. Open Operations to Finance Strategy: Derek Bryson Park’s Visionary Blueprint for Mastering Organizational Chaos",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189871/0/en/Visionary-CIOs-Showcases-Derek-Bryson-Park-s-Journey-of-Purpose-and-Precision.html",
+      "published_at": "2025-11-18T12:10:00Z",
+      "author": "Visionary CIOs",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/aaa4b592-2bb3-4169-938f-ca3901cd53c4",
+      "content": "New York, Nov. 18, 2025 (GLOBE NEWSWIRE) -- In its latest issue, Visionary CIOs Magazine presents an important part from the life of Derek Bryson Parka story of audacious vision, trans-industry maste… [+2460 chars]"
+    },
+    {
+      "title": "Correction: Amundi announces new 2025-2028 strategic plan to drive continued value creation and invest in long-term leadership",
+      "description": "Correction : In the section - Earnings trajectory in page 3: “in all market, forex scenarios” has been replaced by “under a constant market and forex scenario ». Other information remains unchanged.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189870/0/en/Correction-Amundi-announces-new-2025-2028-strategic-plan-to-drive-continued-value-creation-and-invest-in-long-term-leadership.html",
+      "published_at": "2025-11-18T12:10:00Z",
+      "author": "Amundi",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/5857ecda-9884-48cb-934e-af39201aebd4",
+      "content": "Correction : In the section - Earnings trajectory in page 3: in all market, forex scenarios has been replaced by under a constant market and forex scenario ». Other information remains unchanged.\r\nAm… [+13128 chars]"
+    },
+    {
+      "title": "Newsom wants more battery plants. This agricultural town has had enough.",
+      "description": "Residents of Vacaville are opposing the Corby Battery Energy Storage System Project, the second a lithium ion power plant that has been proposed in the city.",
+      "source": "SFGate",
+      "url": "https://www.sfgate.com/politics/article/vacaville-residents-oppose-corby-battery-plant-21171342.php",
+      "published_at": "2025-11-18T12:09:49Z",
+      "author": "Anabel Sosa",
+      "image_url": "https://s.hdnux.com/photos/01/55/20/30/28640804/3/rawImage.jpg",
+      "content": "In early January, the massive Moss Landing Power Plant just north of Monterey caught fire, leaving an entire community mired in noxious air as the blaze burned for days. The plant, home to lithium io… [+15360 chars]"
+    },
+    {
+      "title": "CIBC Innovation Banking and Information Venture Partners Provide $20 Million in Financing to DealMaker",
+      "description": "NEW YORK — CIBC Innovation Banking announced today that, together with Information Venture Partners (IVP), it has provided a $20 million financing facility to DealMaker, a New York-based capital-raising technology platform. This transaction builds on CIBC Inn…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cibc-innovation-banking-and-information-venture-partners-provide-20-million-in-financing-to-dealmaker",
+      "published_at": "2025-11-18T12:08:25Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "NEW YORK CIBC Innovation Banking announced today that, together with Information Venture Partners (IVP), it has provided a $20 million financing facility to DealMaker, a New York-based capital-raisin… [+4802 chars]"
+    },
+    {
+      "title": "Loyalty Upgraded: Hilton Honors Introduces Faster Path to Elite Status and Reveals New Premium Tier – Diamond Reserve",
+      "description": "Benefits include best-in-industry room upgrades, guaranteed late check-out and exclusive member support Evolution of the award-winning Hilton Honors loyalty program makes earning status even more achievable and more rewarding. New Diamond Reserve tier represe…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/loyalty-upgraded-hilton-honors-introduces-faster-path-to-elite-status-and-reveals-new-premium-tier-diamond-reserve",
+      "published_at": "2025-11-18T12:08:11Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "Favored, Flexible Benefits, Remain\r\nAt its core, Hilton Honors remains committed to giving travelers more choice in how and when they redeem their Points. Members will continue to benefit from no bla… [+3543 chars]"
+    },
+    {
+      "title": "Staples Vegetables Announces Strategic Partnership with Solum Partners",
+      "description": "Leading UK food and renewable-energy producer joins forces with global agribusiness investment firm to fuel growth, innovation, and sustainability initiatives. BOSTON, England — Staples Vegetables, one of the United Kingdom’s leading suppliers of fresh and or…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/staples-vegetables-announces-strategic-partnership-with-solum-partners",
+      "published_at": "2025-11-18T12:08:07Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "Leading UK food and renewable-energy producer joins forces with global agribusiness investment firm to fuel growth, innovation, and sustainability initiatives.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBE… [+6009 chars]"
+    },
+    {
+      "title": "Canopy Growth Expands Spectrum Therapeutics Portfolio in Australia with New Softgels",
+      "description": "Expanded formats strengthen Canopy Growth’s medical offering as patient demand rises SMITHS FALLS, Ontario — Canopy Growth Corporation (“Canopy Growth” or the “Company”) (TSX: WEED) (Nasdaq: CGC), a world-leading cannabis company dedicated to unleashing the p…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/canopy-growth-expands-spectrum-therapeutics-portfolio-in-australia-with-new-softgels",
+      "published_at": "2025-11-18T12:08:03Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "Expanded formats strengthen\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe… [+5531 chars]"
+    },
+    {
+      "title": "Open Source in Focus: Projects We’re Proud to Support",
+      "description": "At JetBrains, we love seeing the developer community grow and thrive. That’s why we support open-source projects that make a real difference — the ones that help developers learn, build, and create better software together. We’re proud to back open-source mai…",
+      "source": "Jetbrains.com",
+      "url": "https://blog.jetbrains.com/blog/2025/11/18/open-source-in-focus-projects-we-re-proud-to-support/",
+      "published_at": "2025-11-18T12:07:29Z",
+      "author": "Lena Morozova",
+      "image_url": "https://blog.jetbrains.com/wp-content/uploads/2025/11/IDEs-social-BlogSocialShare-1280x720-1-1.png",
+      "content": "CommunityRustRover\r\nAt JetBrains, we love seeing the developer community grow and thrive. Thats why we support open-source projects that make a real difference the ones that help developers learn, bu… [+7009 chars]"
+    },
+    {
+      "title": "Donald Trump says US will sell advanced fighter jets to Saudis, despite Pentagon concerns",
+      "description": "US president to meet Saudi Crown Prince at White House on Tuesday",
+      "source": "Irishtimes.comhttps",
+      "url": "https://www.irishtimes.comhttps://www.nytimes.com/2025/11/17/us/politics/trump-f35-jets-saudi-arabia.html",
+      "published_at": "2025-11-18T12:07:29Z",
+      "author": "Karoun Demirjian",
+      "image_url": "https://www.irishtimes.com/resizer/v2/C6DGYFMJT4FFJJ7F2VQZRHCINU.jpg?smart=true&auth=17d4257a013a0e8808b43d3e6be4663b21f3513fde59f59d93e53da8aa20db82&width=1200&height=630",
+      "content": "US president Donald Trump said on Monday that he planned to sell F-35 fighter jets to Saudi Arabia, despite concerns from national security officials in his administration that a sale could create an… [+2540 chars]"
+    },
+    {
+      "title": "What are ESG mutual funds and should you invest in them? It's more than helping save the planet",
+      "description": "ESG funds – not yet widely popular – tend to invest in companies based on their performance in environmental, social, and governance criteria. We share reasons for investing in them.&nbsp;",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/what-are-esg-mutual-funds-should-you-invest-in-them-for-financial-reasons-as-well-11763402933711.html",
+      "published_at": "2025-11-18T12:06:43Z",
+      "author": "Vimal Chander Joshi",
+      "image_url": "https://www.livemint.com/lm-img/img/2025/11/17/1600x900/logo/mutual_funds_3_1763403190570_1763403195320.jpg",
+      "content": "Investing is primarily driven by the desire to earn profits. Some investors, meanwhile, choose investments for reasons different from profitability. They consider the company's environmental stance, … [+2302 chars]"
+    },
+    {
+      "title": "Kimpton Reveals the Trending Tastes of 2026",
+      "description": "Kimpton’s hotly anticipated annual Culinary + Cocktail Trend Forecast returns this year to unveil the unique dining styles, bold ingredients and expert techniques set to shape the global hospitality scene in 2026. From heritage and third-culture cuisine to fr…",
+      "source": "Hospitality Net",
+      "url": "https://www.hospitalitynet.org/news/4129840.html",
+      "published_at": "2025-11-18T12:06:36Z",
+      "author": "IHG",
+      "image_url": "https://www.hospitalitynet.org/picture/social_153191438.jpg?t=1763467327",
+      "content": "Kimptons hotly anticipated annual Culinary + Cocktail Trend Forecast returns this year to unveil the unique dining styles, bold ingredients and expert techniques set to shape the global hospitality s… [+11251 chars]"
+    },
+    {
+      "title": "AI posing problems for applicants and employers in recruitment arms race",
+      "description": "Applicants are using AI to frame CVs and apply for roles while employers are using it to spot those who have used the technology",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2025/11/18/ai-posing-problems-for-both-sides-in-recruitment-arms-race/",
+      "published_at": "2025-11-18T12:05:00Z",
+      "author": "Richard Cantillon",
+      "image_url": "https://www.irishtimes.com/resizer/v2/INF2RMMYZVD73OYNHBRCY2KC4U.jpg?smart=true&auth=5c32771658d07718748ee366f067063d67f7478f0000bbe9e3aca3b48e328d4f&width=1200&height=630",
+      "content": "Like academia, it seems, recruitment finds itself in something of a nuclear arms race between its two main constituent groups.\r\nJob applicants are increasingly using AI to more easily tailor job appl… [+1968 chars]"
+    },
+    {
+      "title": "24/7 Market News- Kraig Biocraft Laboratories Receives Spider Silk Order from Global Performance Sports Brand, Marking Several Major Milestones",
+      "description": "Kraig Labs (OTCQB: KBLB) is now fulfilling the world’s order for customized high-performance spider silk yarns from a globally recognized performance sport",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189869/0/en/24-7-Market-News-Kraig-Biocraft-Laboratories-Receives-Spider-Silk-Order-from-Global-Performance-Sports-Brand-Marking-Several-Major-Milestones.html",
+      "published_at": "2025-11-18T12:05:00Z",
+      "author": "24/7 Market News and Kraig Labs",
+      "image_url": null,
+      "content": "DENVER, Nov. 18, 2025 (GLOBE NEWSWIRE) -- Kraig Biocraft Laboratories (OTCQB: KBLB) (Kraig Labs or the Company) announced a major milestone in the commercialization of its recombinant spider silk pla… [+9186 chars]"
+    },
+    {
+      "title": "3 ways schools can teach students to shape AI — not just survive it, Oxford professor says",
+      "description": "Oxford professor Rebecca Eynon says schools must move beyond coding lessons to teach students how to question, design, and shape AI's impact.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/oxford-professor-3-ways-schools-can-teach-students-shape-ai-2025-11",
+      "published_at": "2025-11-18T12:04:51Z",
+      "author": "tspirlet@insider.com (Thibault Spirlet)",
+      "image_url": "https://i.insider.com/691c49ef89026fbb4d0dd676?width=1200&format=jpeg",
+      "content": "As artificial intelligence transforms classrooms, workplaces, and daily life, one Oxford academic says schools are at risk of teaching the wrong lessons.\r\nProfessor Rebecca Eynon, from the Oxford Int… [+2857 chars]"
+    },
+    {
+      "title": "HGTV’s Ben & Erin Napier Share How Neighborsgiving Is Bringing Communities Closer on YourUpdateTV",
+      "description": "From the Oven to the Heart: Celebrating Neighborsgiving and the Spirit of Connection This Holiday Season From the Oven to the Heart: Celebrating Neighborsgiving and the Spirit of Connection This Holiday Season",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189867/0/en/HGTV-s-Ben-Erin-Napier-Share-How-Neighborsgiving-Is-Bringing-Communities-Closer-on-YourUpdateTV.html",
+      "published_at": "2025-11-18T12:04:00Z",
+      "author": "D S Simon",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5115f449-412d-4a05-bbcb-add09b3f2838",
+      "content": "NEW YORK, Nov. 18, 2025 (GLOBE NEWSWIRE) -- More people are rediscovering the joy of connecting close to home by baking for neighbors, sharing meals, and building real friendships. Among them are HGT… [+4829 chars]"
+    },
+    {
+      "title": "AI Success Isn’t Magic, It’s Built on Data Strategy",
+      "description": "AI Data Strategy AI has moved far beyond the experimental stage. Across industries, organizations are proving that AI can deliver measurable business value, when it’s built on a strong foundation of data strategy. Recent research from AllCloud shows that 92 p…",
+      "source": "Cloudtweaks.com",
+      "url": "https://cloudtweaks.com/2025/11/ai-data-strategy/",
+      "published_at": "2025-11-18T12:03:45Z",
+      "author": "Peter Nebel",
+      "image_url": "https://cloudtweaks.com/wp-content/uploads/2025/09/Peter-Nebel.jpeg",
+      "content": "AI has moved far beyond the experimental stage. Across industries, organizations are proving that AI can deliver measurable business value, when its built on a strong foundation of data strategy. Rec… [+7024 chars]"
+    },
+    {
+      "title": "Bridge by Bastion Names Fat Mermaid as First Partner in Bold New Initiative Redefining Growth for Female-Led Startups",
+      "description": "Bridge by Bastion selects Fat Mermaid as its first partner, providing strategic marketing support to elevate this innovative female-led wellness brand.......",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189864/0/en/Bridge-by-Bastion-Names-Fat-Mermaid-as-First-Partner-in-Bold-New-Initiative-Redefining-Growth-for-Female-Led-Startups.html",
+      "published_at": "2025-11-18T12:03:00Z",
+      "author": "Bastion Agency",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5bf302af-0d0f-49f6-ba2a-d991d8a7c249",
+      "content": "COSTA MESA, Calif., Nov. 18, 2025 (GLOBE NEWSWIRE) -- Bridge By Bastion, the flagship strategic marketing initiative from global, integrated full-service marketing agency Bastion, is redefining how f… [+3544 chars]"
+    },
+    {
+      "title": "6G Market Research and Forecast Report 2025-2036: North America Emerges As a Leading Hub, Propelled by Substantial Investments and International Collaborations",
+      "description": "The 6G market is poised for significant growth, expected to expand from USD 11.40 billion in 2030 to USD 110.46 billion by 2036, driven by a CAGR of 46.0%. Key sectors such as manufacturing, healthcare, and finance will benefit from faster connectivity and ad…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189865/28124/en/6G-Market-Research-and-Forecast-Report-2025-2036-North-America-Emerges-As-a-Leading-Hub-Propelled-by-Substantial-Investments-and-International-Collaborations.html",
+      "published_at": "2025-11-18T12:02:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Nov. 18, 2025 (GLOBE NEWSWIRE) -- The \"6G Market by Enterprise Application, Usage Scenario, and Region - Global Forecast to 2036\" report has been added to ResearchAndMarkets.com's offering.\r\n… [+11124 chars]"
+    },
+    {
+      "title": "First Atlantic Nickel Attends Benchmark Week 2025 Conference, Highlighting Awaruite – A Naturally Magnetic Nickel-Cobalt Alloy as a Smelter-Free Source For North America's Critical Minerals Supply Chain",
+      "description": "First Atlantic Nickel showcases its Pipestone XL awaruite project at Benchmark Week 2025, promoting smelter-free North American nickel-cobalt supply.......",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189863/0/en/First-Atlantic-Nickel-Attends-Benchmark-Week-2025-Conference-Highlighting-Awaruite-A-Naturally-Magnetic-Nickel-Cobalt-Alloy-as-a-Smelter-Free-Source-For-North-America-s-Critical-Mi.html",
+      "published_at": "2025-11-18T12:01:00Z",
+      "author": "First Atlantic Nickel Corp.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/ff06a8fa-834c-4880-b688-21a72b1fe103",
+      "content": "LOS ANGELES, Nov. 18, 2025 (GLOBE NEWSWIRE) -- First Atlantic Nickel Corp. (\"First Atlantic or the \"Company\") (TSXV: FAN) (OTCQB: FANCF) (FSE: P21) is pleased to announce its participation at Benchma… [+20192 chars]"
+    },
+    {
+      "title": "Disney, ESPN and the NBA Team Up to Present Second \"Dunk the Halls\" - The Real-Time, Animated NBA Game: Cleveland Cavaliers vs. New York Knicks on Christmas Day - Live from Main Street, U.S.A.",
+      "description": "The innovative alternate presentation will be available on ESPN2, Disney+, Disney Channel, Disney XD and the new ESPN App via ESPN DTC or pay TV authentication.",
+      "source": "Thefutoncritic.com",
+      "url": "http://www.thefutoncritic.com/news/2025/11/18/disney-espn-and-the-nba-team-up-to-present-second-dunk-the-halls-the-real-time-animated-nba-game-cleveland-cavaliers-vs-new-york-knicks-on-christmas-day-live-from-main-street-usa-868411/20251118espn01/",
+      "published_at": "2025-11-18T12:01:00Z",
+      "author": null,
+      "image_url": null,
+      "content": "Disney, ESPN and the NBA team up to present second Dunk the Halls - the real-time, animated NBA game: Cleveland Cavaliers vs. New York Knicks on Christmas Day - live from Main Street, U.S.A.\r\n·Animat… [+8378 chars]"
+    },
+    {
+      "title": "Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology for Manufacturing Synthetic Aviation Fuels and Critical Chemicals",
+      "description": "Funding led by Azolla Ventures with Chevron Technology Ventures and Freeflow positions Erg Bio to advance its cost-competitive bioindustrial platform as the U.S. prioritizes energy security, supply chain resilience, and domestic manufacturing Funding led by A…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/11/18/3189862/0/en/Erg-Bio-Closes-6-5-Million-Seed-Round-to-Scale-Flexible-Feedstock-Technology-for-Manufacturing-Synthetic-Aviation-Fuels-and-Critical-Chemicals.html",
+      "published_at": "2025-11-18T12:01:00Z",
+      "author": "Erg Bio",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d08fea33-fb5e-4d30-836c-9a3e11448926",
+      "content": "DUBLIN, Calif., Nov. 18, 2025 (GLOBE NEWSWIRE) -- Erg Bio\r\n, an innovator in biomass valorization and advanced bioindustrial technology, today announced it has closed a $6.5 million seed round led by… [+3433 chars]"
+    },
+    {
+      "title": "UCSD’s Freshmen Apply with 4.0 GPAs, But Fail Basic Math as Academic Standards Collapse",
+      "description": "Realities cannot be jettisoned simply because they do not align with social justice goals.\nThe post UCSD’s Freshmen Apply with 4.0 GPAs, But Fail Basic Math as Academic Standards Collapse first appeared on Le·gal In·sur·rec·tion.",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2025/11/ucsds-freshmen-apply-with-4-0-gpas-but-fail-basic-math-as-academic-standards-collapse/",
+      "published_at": "2025-11-18T12:00:55Z",
+      "author": "Leslie Eastman",
+      "image_url": "https://legalinsurrection.com/wp-content/uploads/2025/11/LI-100-UC-San-Diego.png",
+      "content": "I am not sure exactly what the exact count is for Professor Jacobson’s reasons that academia cannot be reformed. Perhaps we are on 16 million?\r\nI am going to add another item to this count, sadly, fr… [+6148 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 44533,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Independent.ie"
+        },
+        "author": "Adrian Weckler",
+        "title": "Global internet outage caused by ‘software crash’ at Cloudflare",
+        "description": "The online infrastructure firm Cloudflare blamed a software crash on an outage that took out large parts of the internet for up to three hours on Tuesday.",
+        "url": "https://www.independent.ie/business/technology/global-internet-outage-caused-by-software-crash-at-cloudflare/a252160853.html",
+        "urlToImage": "https://focus.independent.ie/thumbor/kJFkKN2K-Ia-vNOa0v_3Q86wW24=/629x460/smart/prod-mh-ireland/465e3f36-7a64-47bc-b558-0f52cb9cb7e5/f410aa1d-189c-49a5-8b3c-ebd015377130/465e3f36-7a64-47bc-b558-0f52cb9cb7e5.jpg",
+        "publishedAt": "2025-11-18T12:26:11Z",
+        "content": "An outage at the online infrastructure firm Cloudflare knocked out services from X to ChatGPT on Tuesday\r\nThe online infrastructure firm Cloudflare blamed a software crash on an outage that took out … [+2659 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android-dreams.ai"
+        },
+        "author": null,
+        "title": "Android dreams",
+        "description": "A prediction essay for the next 20 years of intelligent robotics.",
+        "url": "https://android-dreams.ai/",
+        "urlToImage": null,
+        "publishedAt": "2025-11-18T12:25:57Z",
+        "content": "At the convergence of frontier research breakthroughs, billions in capital, and rising geopolitical tensions lies a dream for a new physical world. After the LLM wave, robotics is seen as the next ex… [+56332 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PhoneArena"
+        },
+        "author": "Iskra Petrova",
+        "title": "One of Apple's long-running legal battles just ended – and the result could surprise you",
+        "description": "After years of litigation, Apple comes out on top in a camera patent dispute.",
+        "url": "https://www.phonearena.com/news/one-of-apples-long-running-legal-battles-just-ended-and-the-result-could-surprise-you_id175837",
+        "urlToImage": "https://m-cdn.phonearena.com/images/article/175837-wide-two_1200/One-of-Apples-long-running-legal-battles-just-ended--and-the-result-could-surprise-you.jpg",
+        "publishedAt": "2025-11-18T12:25:01Z",
+        "content": "Patent disputes are not a rarity in the tech world. These legal fights can continue for ages while companies battle to prove who invented which feature first. Rarely do these end quickly, and compani… [+3531 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techtarget.com"
+        },
+        "author": "Alison Roller",
+        "title": "If technology breaks, can you keep your business running?",
+        "description": "Business leaders must prepare for technology failures by implementing resilient architecture, incident-response plans and strategies to maintain operations and minimize the impact.",
+        "url": "https://www.techtarget.com/searchcio/feature/If-technology-breaks-can-you-keep-your-business-running",
+        "urlToImage": "https://www.techtarget.com/rms/onlineimages/cloud_g1265279914.jpg",
+        "publishedAt": "2025-11-18T12:25:00Z",
+        "content": "Recent outages from major vendors Amazon Web Services (AWS), Cloudflare and Microsoft Azure have put the spotlight on the business impacts of vendor outages.\r\nThe outages impacted millions globally a… [+11028 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "HCW Biologics, Inc",
+        "title": "HCW Biologics Announces Initiation of First-In-Human Clinical Trial to Evaluate HCW9302 in an Autoimmune Disease",
+        "description": "First Patient Dosed at The Ohio State University Wexner Medical Center in this Multi-Center Trial  Active component of HCW9302 is interleukin-2 --...",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189881/0/en/HCW-Biologics-Announces-Initiation-of-First-In-Human-Clinical-Trial-to-Evaluate-HCW9302-in-an-Autoimmune-Disease.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/5689edc3-6997-43a0-a20c-b34dc5f99b0f",
+        "publishedAt": "2025-11-18T12:25:00Z",
+        "content": "First Patient Dosed at The Ohio State UniversityWexner Medical Center in this Multi-Center Trial\r\nActive component of HCW9302 is interleukin-2 -- cytokine that maintains proper numbers and functions … [+10599 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "newsweek.com",
+        "title": "Trump Media Stock Hits Record Low as President Faces Mounting Political Woes",
+        "description": "Shares in Donald Trump’s media company tumbled to a new low on Monday, extending a weeks-long slide, amid a period of political turmoil for the president.\nTrump Media & Technology Group (TMTG) stock closed at $10.85 per share on November 17, marking a 32 perc…",
+        "url": "https://biztoc.com/x/a24a05eec14b9754",
+        "urlToImage": "https://biztoc.com/cdn/a24a05eec14b9754_s.webp",
+        "publishedAt": "2025-11-18T12:22:51Z",
+        "content": "Shares in Donald Trumps media company tumbled to a new low on Monday, extending a weeks-long slide, amid a period of political turmoil for the president.Trump Media &amp; Technology Group (TMTG) stoc… [+148 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rolling Out"
+        },
+        "author": "David Kesiena",
+        "title": "X goes dark as Cloudflare crash sparks major outage",
+        "description": "Elon Musk’s social media platform X suffered a significant outage on Tuesday morning, leaving thousands of users across the United States unable to access the service. The disruption affected more than 11,500 people who reported problems through DownDetector,…",
+        "url": "https://rollingout.com/2025/11/18/elon-musk-x-outage-downdetector-2025/",
+        "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2358222803-scaled.jpg",
+        "publishedAt": "2025-11-18T12:21:43Z",
+        "content": "Elon Musk’s social media platform X suffered a significant outage on Tuesday morning, leaving thousands of users across the United States unable to access the service. The disruption affected more th… [+6290 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "Governor, Uttar Pradesh Inaugurates Ultra-Modern Hostel Complex & NARI Initiative at Chandigarh University Uttar Pradesh campus",
+        "description": "Governor, Uttar Pradesh Inaugurates Ultra-Modern Hostel Complex & NARI Initiative at Chandigarh University Uttar Pradesh campus",
+        "url": "https://www.thehindubusinessline.com/brandhub/governor-uttar-pradesh-inaugurates-ultra-modern-hostel-complex-nari-initiative-at-chandigarh-university-uttar-pradesh-campus/article70294549.ece",
+        "urlToImage": "https://th-i.thgim.com/public/incoming/94dfk9/article70294534.ece/alternates/LANDSCAPE_1200/SynHergy_Unnao_Initiatives.jpg",
+        "publishedAt": "2025-11-18T12:20:44Z",
+        "content": "LUCKNOW, India, Nov. 18, 2025 /PRNewswire/ -- Indias first private AI-augmented multidisciplinary university, Chandigarh University Uttar Pradesh, took a significant step toward women empowerment in … [+9773 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Hassan Mujtaba",
+        "title": "NVIDIA & Arm Partner To Bring NVLink Fusion Support On Neoverse Platforms, Hi-Bandwidth Interconnect For AI Data Centers",
+        "description": "NVIDIA & Arm have strengthened their partnership with the announcement of NVLink Fusion support for Neoverse AI data center platforms. NVIDIA NVLink Fusion Now Available on Arm Neoverse AI Data Centers, Accelerating AI With More Bandwidth & Inter-Chip Coheren…",
+        "url": "https://wccftech.com/nvidia-arm-partner-nvlink-fusion-support-on-neoverse-platforms-ai-data-centers/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/NVIDIA-NVLink-Fusion-_F.jpg",
+        "publishedAt": "2025-11-18T12:20:24Z",
+        "content": "NVIDIA &amp; Arm have strengthened their partnership with the announcement of NVLink Fusion support for Neoverse AI data center platforms.\r\nNVIDIA Press Release: AI is reshaping data centers in a onc… [+3088 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tom's Hardware UK"
+        },
+        "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+        "title": "Vulkan-to-DirectX 12 translation tool used in Valve's Proton now supports AMD's FSR4 and Anti-Lag, while Nvidia's DLSS4 remains unsupported — FSR4 now also works on older GPUs, VKD3D-Proton v3.0 brings other performance improvements",
+        "description": "Version 3.0 of Proton gets released, featuring a variety of bug fixes and performance improvements for DX12 games, and also adds support for big features such as FSR 4, Anti-Lag, and Work Graphs.",
+        "url": "https://www.tomshardware.com/video-games/pc-gaming/vulkan-to-directx-12-translation-tool-used-in-valves-proton-now-supports-amds-fsr4-and-anti-lag-while-nvidias-dlss4-remains-unsupported-fsr4-now-also-works-on-older-gpus-vkd3d-proton-v3-0-brings-other-performance-improvements",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/BzGDjrpRM4RfbzmWDLM6nH-2400-80.jpg",
+        "publishedAt": "2025-11-18T12:20:00Z",
+        "content": "The Vulkan-to-DirectX 12 translation tool used in Valve's Proton has reached version 3.0, marking one of the tool's largest updates yet. The VKD3D-Proton project's GitHub page highlights a plethora o… [+2996 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "QKS Group",
+        "title": "Omada positioned as a Leader and Emerging Innovator in the SPARK Matrix™: Identity Governance and Administration, 2025 by QKS Group",
+        "description": "Pune, India, Nov. 18, 2025 (GLOBE NEWSWIRE) -- QKS Group announced that it has named Omada a Technology Leader and Emerging Innovator in the analysis of the global SPARK MatrixTM: Identity Governance and Administration (IGA), Q4 2025. The QKS Group SPARK Matr…",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189878/0/en/Omada-positioned-as-a-Leader-and-Emerging-Innovator-in-the-SPARK-Matrix-Identity-Governance-and-Administration-2025-by-QKS-Group.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/0c7f2ca9-2c83-4ecc-882d-38dab5dadbb2",
+        "publishedAt": "2025-11-18T12:19:00Z",
+        "content": "Pune, India, Nov. 18, 2025 (GLOBE NEWSWIRE) -- \r\n<ul><li>TheQKS GroupSPARK Matrix provides competitive analysis &amp; ranking of the leading Identity Governance and Administration (IGA) vendors. </li… [+3974 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Sharon Goldman",
+        "title": "Jeff Bezos is putting $6.2 billion—and himself as co-CEO—behind a new AI startup. Bubble? That’s no trouble",
+        "description": "AI bubble talk continues to fizz, but Amazon founder Jeff Bezos—one of the world’s richest people—doesn’t seem bothered by the mounting foam.",
+        "url": "https://fortune.com/2025/11/18/jeff-bezos-is-putting-6-2-billion-and-himself-as-co-ceo-behind-a-new-ai-startup-bubble-thats-no-trouble/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2238966987_7ac709-e1761577037395.jpg?resize=1200,600",
+        "publishedAt": "2025-11-18T12:18:45Z",
+        "content": "AI bubble talk continues to fizz, but Amazon founder Jeff Bezosone of the worlds richest peopledoesnt seem bothered by the mounting foam.As the New York Times reported yesterday, Bezos has helped fun… [+7852 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "road.cc"
+        },
+        "author": "Dan Alexander",
+        "title": "Why have deaths and serious injuries in collisions involving HGVs being driven in London halved since 2019?",
+        "description": "The number of people walking, cycling or motorcycling who were killed or seriously injured in a collision with an HGV driver in London has fallen from an average of 71 people per year to 35 since last decade — why?",
+        "url": "https://road.cc/content/news/casualties-london-hgv-driver-collisions-halved-316883",
+        "urlToImage": "https://cdn.road.cc/sites/default/files/styles/main_width/public/tfl-direct-vision-standard.jpg",
+        "publishedAt": "2025-11-18T12:17:50Z",
+        "content": "Transport for London has proudly explained how since 2019, an average of six fewer people have been killed each year and 21 fewer people seriously injured in collisions with Heavy Goods Vehicles (HGV… [+4035 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bitcoinist"
+        },
+        "author": "Bogdan Patru",
+        "title": "Institutions Buying Bitcoin Are Fueling a Scalability Arms Race, And One L2 Is Leading the Pack",
+        "description": "Quick Facts: ➡️ The market is seeing a major institutional rotation as long-term Bitcoin holders sell to new institutional players like traditional finance funds and ETFs. ➡️ Institutional buying is driving the demand for a faster Bitcoin execution layer, pro…",
+        "url": "https://bitcoinist.com/institutions-buying-bitcoin-fuel-demand-for-bitcoin-hyper-l2/",
+        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2025/11/institutions-buying-bitcoin-fuel-demand-for-bitcoin-hyper-l2.jpg",
+        "publishedAt": "2025-11-18T12:17:49Z",
+        "content": "Quick Facts:\r\n<ul><li> The market is seeing a major institutional rotation as long-term Bitcoin holders sell to new institutional players like traditional finance funds and ETFs.</li><li> Institution… [+5397 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thefly.com"
+        },
+        "author": null,
+        "title": "Ree Automotive, Mitsubishi Fuso Truck sign MOU for vehicle technology",
+        "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+        "url": "https://thefly.com/permalinks/entry.php/id4241836/REE-Ree-Automotive-Mitsubishi-Fuso-Truck-sign-MOU-for-vehicle-technology",
+        "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+        "publishedAt": "2025-11-18T12:17:04Z",
+        "content": "Earnings calls, analyst events, roadshows and more"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Boston Herald"
+        },
+        "author": "Associated Press",
+        "title": "After years away from Washington, Saudi crown prince to get warm embrace from Trump, US business",
+        "description": "Trump sees the crown prince as an indispensable player in shaping the Middle East in the decades to come.",
+        "url": "https://www.bostonherald.com/2025/11/18/saudi-prince-visits-white-house/",
+        "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/Trump_Saudi_Arabia_93789_326f67.jpg?w=1024&h=682",
+        "publishedAt": "2025-11-18T12:15:47Z",
+        "content": "By AAMER MADHANI, Associated Press\r\nWASHINGTON (AP) President Donald Trump is set to fete Crown Prince Mohammed bin Salman on Tuesday when the de facto leader of Saudi Arabia makes his first White Ho… [+4977 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole, Jamie Crawley",
+        "title": "Bonds Hint at Rebound: Crypto Daybook Americas",
+        "description": "The day ahead in crypto: Nov. 18, 2025",
+        "url": "https://www.coindesk.com/daybook-us/2025/11/18/bonds-hint-at-rebound-crypto-daybook-americas",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/04bb284dafb567a5389139a916007de0edb520e3-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2025-11-18T12:15:00Z",
+        "content": "By Omkar Godbole (All times ET unless indicated otherwise)\r\nRisk-off sentiment deepened in Asian trading as the price of bitcoin BTC\r\n$90,470.56 briefly fell below $90,000 for the first time in seven… [+7063 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Capital City Bank Group",
+        "title": "Capital City Bank Rises in American Banker’s “Best Banks to Work For” List",
+        "description": "Now No. 37 Nationwide and No. 8 Among Banks With $3–10 Billion in Assets Now No. 37 Nationwide and No. 8 Among Banks With $3–10 Billion in Assets",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189874/9284/en/Capital-City-Bank-Rises-in-American-Banker-s-Best-Banks-to-Work-For-List.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/03cc8fe5-9ccb-437f-ab4d-be828c2cd051",
+        "publishedAt": "2025-11-18T12:15:00Z",
+        "content": "TALLAHASSEE, Fla., Nov. 18, 2025 (GLOBE NEWSWIRE) -- For the 13th consecutive year, Capital City Bank has been named one of American Bankers Best Banks to Work For. In the 2025 rankings, the Bank pla… [+4525 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "ChatGPT 5.1 Picks the Right Agents for Your Toughest Questions",
+        "description": "What if your AI could not only respond faster but also think deeper? With the release of ChatGPT 5.1, OpenAI has taken a bold step toward redefining what’s possible in conversational AI. Imagine an assistant that can seamlessly switch between lightning-fast a…",
+        "url": "https://www.geeky-gadgets.com/openai-gpt-5-1-instant-and-thinking-modes/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/openai-gpt-5-1-instant-vs-thinking-mode-comparison_optimized.jpg",
+        "publishedAt": "2025-11-18T12:14:52Z",
+        "content": "What if your AI could not only respond faster but also think deeper? With the release of ChatGPT 5.1, OpenAI has taken a bold step toward redefining whats possible in conversational AI. Imagine an as… [+8279 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techpowerup.com"
+        },
+        "author": "AleksandarK",
+        "title": "Apple, Broadcom, and Qualcomm May Tap Intel Advanced Packaging",
+        "description": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which could allow Intel to significantly increase its foundry reve…",
+        "url": "https://www.techpowerup.com/343014/apple-broadcom-and-qualcomm-may-tap-intel-advanced-packaging",
+        "urlToImage": "https://www.techpowerup.com/img/5XlIenuB9GtyRlVg.jpg",
+        "publishedAt": "2025-11-18T12:14:50Z",
+        "content": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which … [+2058 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techpowerup.com"
+        },
+        "author": "AleksandarK",
+        "title": "Apple, Broadcom, and Qualcomm Could Tap Intel Advanced Packaging for Next-Generation Chips",
+        "description": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which could allow Intel to significantly increase its foundry reve…",
+        "url": "https://www.techpowerup.com/343014/apple-broadcom-and-qualcomm-could-tap-intel-advanced-packaging-for-next-generation-chips",
+        "urlToImage": "https://www.techpowerup.com/img/5XlIenuB9GtyRlVg.jpg",
+        "publishedAt": "2025-11-18T12:14:50Z",
+        "content": "Apple, Broadcom, and Qualcomm might soon become customers of Intel Foundry, but not for the typical reasons. These giants are considering Intel Foundry for its advanced packaging technologies, which … [+2058 chars]"
+      },
+      {
+        "source": {
+          "id": "new-scientist",
+          "name": "New Scientist"
+        },
+        "author": "Alex Wilkins",
+        "title": "Mathematicians say Google's AI tools are supercharging their research",
+        "description": "AlphaEvolve, an AI system created by Google DeepMind, is helping mathematicians do research at a scale that was previously impossible - even if it does occasionally \"cheat\" to find a solution",
+        "url": "https://www.newscientist.com/article/2504763-mathematicians-say-googles-ai-tools-are-supercharging-their-research/",
+        "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/11/18115936/SEI_274772807.jpg",
+        "publishedAt": "2025-11-18T12:14:09Z",
+        "content": "AI can help mathematicians tackle a range of problems\r\nAndresr/ Getty Images\r\nAI tools developed by Google DeepMind are surprisingly effective at assisting mathematical research and could usher in a … [+4457 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "BL Hyderabad Bureau",
+        "title": "Flying Wedge to build India’s first full-spectrum autonomous combat aircraft hub in AP",
+        "description": "The project is expected to create over 1,000 jobs and bolster India’s indigenous defence manufacturing capabilities, including AI-led defence systems and unmanned aerial platforms.",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/flying-wedge-to-build-indias-first-full-spectrum-autonomous-combat-aircraft-hub-in-ap/article70294443.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/3x3ryr/article70294532.ece/alternates/LANDSCAPE_1200/_KMK7181.JPG",
+        "publishedAt": "2025-11-18T12:13:53Z",
+        "content": "Flying Wedge Defence &amp; Aerospace (FWDA), a defence technology and AI warfare company, signed a Memorandum of Understanding (MoU) with the Andhra Pradesh Government to establish a 500-acre state-o… [+1831 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "is a Buy at Needham Amid Deals with Tech Giants",
+        "description": "Stagwell Inc. (NASDAQ:STGW) is a must-buy penny stock to buy now. On November 4, Needham analyst Laura Martin reiterated a Buy rating on Stagwell Inc. (NASDAQ:STGW) and lifted the price target from $6.36 to $7.25, impressed by the strategic partnership the co…",
+        "url": "https://biztoc.com/x/e7e85bfc239b8742",
+        "urlToImage": "https://biztoc.com/cdn/e7e85bfc239b8742_s.webp",
+        "publishedAt": "2025-11-18T12:12:38Z",
+        "content": "Stagwell Inc. (NASDAQ:STGW) is a must-buy penny stock to buy now. On November 4, Needham analyst Laura Martin reiterated a Buy rating on Stagwell Inc. (NASDAQ:STGW) and lifted the price target from $… [+143 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "By Paul Sandle",
+        "title": "UK targets touts with ban on ticket resale for profit",
+        "description": "LONDON (Reuters) -Britain will ban the resale of tickets for music concerts, shows and sporting events at inflated prices, tackling the scourge of ticket...",
+        "url": "https://uk.finance.yahoo.com/news/britain-outlaw-tickets-touts-minister-080025004.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters.com/4c384c4632b6ec89ef9d027ba06e933f",
+        "publishedAt": "2025-11-18T12:12:30Z",
+        "content": "By Paul Sandle\r\nLONDON (Reuters) -Britain will ban the resale of tickets for music concerts, shows and sporting events at inflated prices, tackling the scourge of ticket touts who use technology to s… [+2266 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Jetbrains.com"
+        },
+        "author": "Alyona Chernyaeva",
+        "title": "Helping Decision‑Makers Say Yes to Kotlin",
+        "description": "Guest post by Urs Peter, Senior Software Engineer and JetBrains-certified Kotlin Trainer. For readers who’d like a more structured way to build Kotlin skills, Urs also leads the Kotlin Upskill Program at Xebia Academy. This is the fourth post in The Ultimate …",
+        "url": "https://blog.jetbrains.com/kotlin/2025/11/helping-decision-makers-say-yes-to-kotlin/",
+        "urlToImage": "https://blog.jetbrains.com/wp-content/uploads/2025/11/Blog-Social-share-1280x720-3.png",
+        "publishedAt": "2025-11-18T12:11:19Z",
+        "content": "Guest post by Urs Peter, Senior Software Engineer and JetBrains-certified Kotlin Trainer. For readers whod like a more structured way to build Kotlin skills, Urs also leads the Kotlin Upskill Program… [+7673 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "Moomoo’s Parent Company Futu Releases Q3 2025 Results: Net Income Up 137% YoY to US$425.7 Million",
+        "description": "Moomoo's Parent Company Futu Releases Q3 2025 Results: Net Income Up 137% YoY to US$425.7 Million",
+        "url": "https://www.thehindubusinessline.com/brandhub/moomoos-parent-company-futu-releases-q3-2025-results-net-income-up-137-yoy-to-us4257-million/article70294456.ece",
+        "urlToImage": "https://th-i.thgim.com/public/incoming/itctw8/article70294447.ece/alternates/LANDSCAPE_1200/Screenshot%202025-11-18%20172254.png",
+        "publishedAt": "2025-11-18T12:11:02Z",
+        "content": "JERSEY CITY, N.J., Nov. 18, 2025 /PRNewswire/ -- Moomoos parent company Futu Holdings Ltd. (Futu or the Company) (Nasdaq: FUTU), a leading global tech-driven online brokerage and wealth management pl… [+7045 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "EDC supports first loan in South Korea with $200 million in financing for Lotte Shopping",
+        "description": "EDC supports first loan in South Korea with $200 million in financing for Lotte Shopping",
+        "url": "https://www.thehindubusinessline.com/brandhub/edc-supports-first-loan-in-south-korea-with-200-million-in-financing-for-lotte-shopping/article70294402.ece",
+        "urlToImage": "https://th-i.thgim.com/public/incoming/30ysho/article70294353.ece/alternates/LANDSCAPE_1200/Export_Development_Canada_EDC_supports_first_loan_in_South_Korea.jpg",
+        "publishedAt": "2025-11-18T12:10:16Z",
+        "content": "This marks the inaugural deal under the EDC-Lotte Market Leader Partnership (MLP) program\r\nOTTAWA, ON, Nov. 18, 2025 /PRNewswire/ -- Today, Export Development Canada (EDC) is announcing a $200 millio… [+5984 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Visionary CIOs",
+        "title": "Visionary CIOs Showcases Derek Bryson Park’s Journey of Purpose and Precision",
+        "description": "From U.S. Open Operations to Finance Strategy: Derek Bryson Park’s Visionary Blueprint for Mastering Organizational Chaos From U.S. Open Operations to Finance Strategy: Derek Bryson Park’s Visionary Blueprint for Mastering Organizational Chaos",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189871/0/en/Visionary-CIOs-Showcases-Derek-Bryson-Park-s-Journey-of-Purpose-and-Precision.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/aaa4b592-2bb3-4169-938f-ca3901cd53c4",
+        "publishedAt": "2025-11-18T12:10:00Z",
+        "content": "New York, Nov. 18, 2025 (GLOBE NEWSWIRE) -- In its latest issue, Visionary CIOs Magazine presents an important part from the life of Derek Bryson Parka story of audacious vision, trans-industry maste… [+2460 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Amundi",
+        "title": "Correction: Amundi announces new 2025-2028 strategic plan to drive continued value creation and invest in long-term leadership",
+        "description": "Correction : In the section - Earnings trajectory in page 3: “in all market, forex scenarios” has been replaced by “under a constant market and forex scenario ». Other information remains unchanged.",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189870/0/en/Correction-Amundi-announces-new-2025-2028-strategic-plan-to-drive-continued-value-creation-and-invest-in-long-term-leadership.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/5857ecda-9884-48cb-934e-af39201aebd4",
+        "publishedAt": "2025-11-18T12:10:00Z",
+        "content": "Correction : In the section - Earnings trajectory in page 3: in all market, forex scenarios has been replaced by under a constant market and forex scenario ». Other information remains unchanged.\r\nAm… [+13128 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SFGate"
+        },
+        "author": "Anabel Sosa",
+        "title": "Newsom wants more battery plants. This agricultural town has had enough.",
+        "description": "Residents of Vacaville are opposing the Corby Battery Energy Storage System Project, the second a lithium ion power plant that has been proposed in the city.",
+        "url": "https://www.sfgate.com/politics/article/vacaville-residents-oppose-corby-battery-plant-21171342.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/55/20/30/28640804/3/rawImage.jpg",
+        "publishedAt": "2025-11-18T12:09:49Z",
+        "content": "In early January, the massive Moss Landing Power Plant just north of Monterey caught fire, leaving an entire community mired in noxious air as the blaze burned for days. The plant, home to lithium io… [+15360 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "CIBC Innovation Banking and Information Venture Partners Provide $20 Million in Financing to DealMaker",
+        "description": "NEW YORK — CIBC Innovation Banking announced today that, together with Information Venture Partners (IVP), it has provided a $20 million financing facility to DealMaker, a New York-based capital-raising technology platform. This transaction builds on CIBC Inn…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/cibc-innovation-banking-and-information-venture-partners-provide-20-million-in-financing-to-dealmaker",
+        "urlToImage": null,
+        "publishedAt": "2025-11-18T12:08:25Z",
+        "content": "NEW YORK CIBC Innovation Banking announced today that, together with Information Venture Partners (IVP), it has provided a $20 million financing facility to DealMaker, a New York-based capital-raisin… [+4802 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Loyalty Upgraded: Hilton Honors Introduces Faster Path to Elite Status and Reveals New Premium Tier – Diamond Reserve",
+        "description": "Benefits include best-in-industry room upgrades, guaranteed late check-out and exclusive member support Evolution of the award-winning Hilton Honors loyalty program makes earning status even more achievable and more rewarding. New Diamond Reserve tier represe…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/loyalty-upgraded-hilton-honors-introduces-faster-path-to-elite-status-and-reveals-new-premium-tier-diamond-reserve",
+        "urlToImage": null,
+        "publishedAt": "2025-11-18T12:08:11Z",
+        "content": "Favored, Flexible Benefits, Remain\r\nAt its core, Hilton Honors remains committed to giving travelers more choice in how and when they redeem their Points. Members will continue to benefit from no bla… [+3543 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Staples Vegetables Announces Strategic Partnership with Solum Partners",
+        "description": "Leading UK food and renewable-energy producer joins forces with global agribusiness investment firm to fuel growth, innovation, and sustainability initiatives. BOSTON, England — Staples Vegetables, one of the United Kingdom’s leading suppliers of fresh and or…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/staples-vegetables-announces-strategic-partnership-with-solum-partners",
+        "urlToImage": null,
+        "publishedAt": "2025-11-18T12:08:07Z",
+        "content": "Leading UK food and renewable-energy producer joins forces with global agribusiness investment firm to fuel growth, innovation, and sustainability initiatives.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBE… [+6009 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Canopy Growth Expands Spectrum Therapeutics Portfolio in Australia with New Softgels",
+        "description": "Expanded formats strengthen Canopy Growth’s medical offering as patient demand rises SMITHS FALLS, Ontario — Canopy Growth Corporation (“Canopy Growth” or the “Company”) (TSX: WEED) (Nasdaq: CGC), a world-leading cannabis company dedicated to unleashing the p…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/canopy-growth-expands-spectrum-therapeutics-portfolio-in-australia-with-new-softgels",
+        "urlToImage": null,
+        "publishedAt": "2025-11-18T12:08:03Z",
+        "content": "Expanded formats strengthen\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe… [+5531 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Jetbrains.com"
+        },
+        "author": "Lena Morozova",
+        "title": "Open Source in Focus: Projects We’re Proud to Support",
+        "description": "At JetBrains, we love seeing the developer community grow and thrive. That’s why we support open-source projects that make a real difference — the ones that help developers learn, build, and create better software together. We’re proud to back open-source mai…",
+        "url": "https://blog.jetbrains.com/blog/2025/11/18/open-source-in-focus-projects-we-re-proud-to-support/",
+        "urlToImage": "https://blog.jetbrains.com/wp-content/uploads/2025/11/IDEs-social-BlogSocialShare-1280x720-1-1.png",
+        "publishedAt": "2025-11-18T12:07:29Z",
+        "content": "CommunityRustRover\r\nAt JetBrains, we love seeing the developer community grow and thrive. Thats why we support open-source projects that make a real difference the ones that help developers learn, bu… [+7009 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Irishtimes.comhttps"
+        },
+        "author": "Karoun Demirjian",
+        "title": "Donald Trump says US will sell advanced fighter jets to Saudis, despite Pentagon concerns",
+        "description": "US president to meet Saudi Crown Prince at White House on Tuesday",
+        "url": "https://www.irishtimes.comhttps://www.nytimes.com/2025/11/17/us/politics/trump-f35-jets-saudi-arabia.html",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/C6DGYFMJT4FFJJ7F2VQZRHCINU.jpg?smart=true&auth=17d4257a013a0e8808b43d3e6be4663b21f3513fde59f59d93e53da8aa20db82&width=1200&height=630",
+        "publishedAt": "2025-11-18T12:07:29Z",
+        "content": "US president Donald Trump said on Monday that he planned to sell F-35 fighter jets to Saudi Arabia, despite concerns from national security officials in his administration that a sale could create an… [+2540 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Vimal Chander Joshi",
+        "title": "What are ESG mutual funds and should you invest in them? It's more than helping save the planet",
+        "description": "ESG funds – not yet widely popular – tend to invest in companies based on their performance in environmental, social, and governance criteria. We share reasons for investing in them.&nbsp;",
+        "url": "https://www.livemint.com/money/personal-finance/what-are-esg-mutual-funds-should-you-invest-in-them-for-financial-reasons-as-well-11763402933711.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/17/1600x900/logo/mutual_funds_3_1763403190570_1763403195320.jpg",
+        "publishedAt": "2025-11-18T12:06:43Z",
+        "content": "Investing is primarily driven by the desire to earn profits. Some investors, meanwhile, choose investments for reasons different from profitability. They consider the company's environmental stance, … [+2302 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hospitality Net"
+        },
+        "author": "IHG",
+        "title": "Kimpton Reveals the Trending Tastes of 2026",
+        "description": "Kimpton’s hotly anticipated annual Culinary + Cocktail Trend Forecast returns this year to unveil the unique dining styles, bold ingredients and expert techniques set to shape the global hospitality scene in 2026. From heritage and third-culture cuisine to fr…",
+        "url": "https://www.hospitalitynet.org/news/4129840.html",
+        "urlToImage": "https://www.hospitalitynet.org/picture/social_153191438.jpg?t=1763467327",
+        "publishedAt": "2025-11-18T12:06:36Z",
+        "content": "Kimptons hotly anticipated annual Culinary + Cocktail Trend Forecast returns this year to unveil the unique dining styles, bold ingredients and expert techniques set to shape the global hospitality s… [+11251 chars]"
+      },
+      {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Richard Cantillon",
+        "title": "AI posing problems for applicants and employers in recruitment arms race",
+        "description": "Applicants are using AI to frame CVs and apply for roles while employers are using it to spot those who have used the technology",
+        "url": "https://www.irishtimes.com/business/2025/11/18/ai-posing-problems-for-both-sides-in-recruitment-arms-race/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/INF2RMMYZVD73OYNHBRCY2KC4U.jpg?smart=true&auth=5c32771658d07718748ee366f067063d67f7478f0000bbe9e3aca3b48e328d4f&width=1200&height=630",
+        "publishedAt": "2025-11-18T12:05:00Z",
+        "content": "Like academia, it seems, recruitment finds itself in something of a nuclear arms race between its two main constituent groups.\r\nJob applicants are increasingly using AI to more easily tailor job appl… [+1968 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "24/7 Market News and Kraig Labs",
+        "title": "24/7 Market News- Kraig Biocraft Laboratories Receives Spider Silk Order from Global Performance Sports Brand, Marking Several Major Milestones",
+        "description": "Kraig Labs (OTCQB: KBLB) is now fulfilling the world’s order for customized high-performance spider silk yarns from a globally recognized performance sport",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189869/0/en/24-7-Market-News-Kraig-Biocraft-Laboratories-Receives-Spider-Silk-Order-from-Global-Performance-Sports-Brand-Marking-Several-Major-Milestones.html",
+        "urlToImage": null,
+        "publishedAt": "2025-11-18T12:05:00Z",
+        "content": "DENVER, Nov. 18, 2025 (GLOBE NEWSWIRE) -- Kraig Biocraft Laboratories (OTCQB: KBLB) (Kraig Labs or the Company) announced a major milestone in the commercialization of its recombinant spider silk pla… [+9186 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "tspirlet@insider.com (Thibault Spirlet)",
+        "title": "3 ways schools can teach students to shape AI — not just survive it, Oxford professor says",
+        "description": "Oxford professor Rebecca Eynon says schools must move beyond coding lessons to teach students how to question, design, and shape AI's impact.",
+        "url": "https://www.businessinsider.com/oxford-professor-3-ways-schools-can-teach-students-shape-ai-2025-11",
+        "urlToImage": "https://i.insider.com/691c49ef89026fbb4d0dd676?width=1200&format=jpeg",
+        "publishedAt": "2025-11-18T12:04:51Z",
+        "content": "As artificial intelligence transforms classrooms, workplaces, and daily life, one Oxford academic says schools are at risk of teaching the wrong lessons.\r\nProfessor Rebecca Eynon, from the Oxford Int… [+2857 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "D S Simon",
+        "title": "HGTV’s Ben & Erin Napier Share How Neighborsgiving Is Bringing Communities Closer on YourUpdateTV",
+        "description": "From the Oven to the Heart: Celebrating Neighborsgiving and the Spirit of Connection This Holiday Season From the Oven to the Heart: Celebrating Neighborsgiving and the Spirit of Connection This Holiday Season",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189867/0/en/HGTV-s-Ben-Erin-Napier-Share-How-Neighborsgiving-Is-Bringing-Communities-Closer-on-YourUpdateTV.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/5115f449-412d-4a05-bbcb-add09b3f2838",
+        "publishedAt": "2025-11-18T12:04:00Z",
+        "content": "NEW YORK, Nov. 18, 2025 (GLOBE NEWSWIRE) -- More people are rediscovering the joy of connecting close to home by baking for neighbors, sharing meals, and building real friendships. Among them are HGT… [+4829 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cloudtweaks.com"
+        },
+        "author": "Peter Nebel",
+        "title": "AI Success Isn’t Magic, It’s Built on Data Strategy",
+        "description": "AI Data Strategy AI has moved far beyond the experimental stage. Across industries, organizations are proving that AI can deliver measurable business value, when it’s built on a strong foundation of data strategy. Recent research from AllCloud shows that 92 p…",
+        "url": "https://cloudtweaks.com/2025/11/ai-data-strategy/",
+        "urlToImage": "https://cloudtweaks.com/wp-content/uploads/2025/09/Peter-Nebel.jpeg",
+        "publishedAt": "2025-11-18T12:03:45Z",
+        "content": "AI has moved far beyond the experimental stage. Across industries, organizations are proving that AI can deliver measurable business value, when its built on a strong foundation of data strategy. Rec… [+7024 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Bastion Agency",
+        "title": "Bridge by Bastion Names Fat Mermaid as First Partner in Bold New Initiative Redefining Growth for Female-Led Startups",
+        "description": "Bridge by Bastion selects Fat Mermaid as its first partner, providing strategic marketing support to elevate this innovative female-led wellness brand.......",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189864/0/en/Bridge-by-Bastion-Names-Fat-Mermaid-as-First-Partner-in-Bold-New-Initiative-Redefining-Growth-for-Female-Led-Startups.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/5bf302af-0d0f-49f6-ba2a-d991d8a7c249",
+        "publishedAt": "2025-11-18T12:03:00Z",
+        "content": "COSTA MESA, Calif., Nov. 18, 2025 (GLOBE NEWSWIRE) -- Bridge By Bastion, the flagship strategic marketing initiative from global, integrated full-service marketing agency Bastion, is redefining how f… [+3544 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "6G Market Research and Forecast Report 2025-2036: North America Emerges As a Leading Hub, Propelled by Substantial Investments and International Collaborations",
+        "description": "The 6G market is poised for significant growth, expected to expand from USD 11.40 billion in 2030 to USD 110.46 billion by 2036, driven by a CAGR of 46.0%. Key sectors such as manufacturing, healthcare, and finance will benefit from faster connectivity and ad…",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189865/28124/en/6G-Market-Research-and-Forecast-Report-2025-2036-North-America-Emerges-As-a-Leading-Hub-Propelled-by-Substantial-Investments-and-International-Collaborations.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2025-11-18T12:02:00Z",
+        "content": "Dublin, Nov. 18, 2025 (GLOBE NEWSWIRE) -- The \"6G Market by Enterprise Application, Usage Scenario, and Region - Global Forecast to 2036\" report has been added to ResearchAndMarkets.com's offering.\r\n… [+11124 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "First Atlantic Nickel Corp.",
+        "title": "First Atlantic Nickel Attends Benchmark Week 2025 Conference, Highlighting Awaruite – A Naturally Magnetic Nickel-Cobalt Alloy as a Smelter-Free Source For North America's Critical Minerals Supply Chain",
+        "description": "First Atlantic Nickel showcases its Pipestone XL awaruite project at Benchmark Week 2025, promoting smelter-free North American nickel-cobalt supply.......",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189863/0/en/First-Atlantic-Nickel-Attends-Benchmark-Week-2025-Conference-Highlighting-Awaruite-A-Naturally-Magnetic-Nickel-Cobalt-Alloy-as-a-Smelter-Free-Source-For-North-America-s-Critical-Mi.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/ff06a8fa-834c-4880-b688-21a72b1fe103",
+        "publishedAt": "2025-11-18T12:01:00Z",
+        "content": "LOS ANGELES, Nov. 18, 2025 (GLOBE NEWSWIRE) -- First Atlantic Nickel Corp. (\"First Atlantic or the \"Company\") (TSXV: FAN) (OTCQB: FANCF) (FSE: P21) is pleased to announce its participation at Benchma… [+20192 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thefutoncritic.com"
+        },
+        "author": null,
+        "title": "Disney, ESPN and the NBA Team Up to Present Second \"Dunk the Halls\" - The Real-Time, Animated NBA Game: Cleveland Cavaliers vs. New York Knicks on Christmas Day - Live from Main Street, U.S.A.",
+        "description": "The innovative alternate presentation will be available on ESPN2, Disney+, Disney Channel, Disney XD and the new ESPN App via ESPN DTC or pay TV authentication.",
+        "url": "http://www.thefutoncritic.com/news/2025/11/18/disney-espn-and-the-nba-team-up-to-present-second-dunk-the-halls-the-real-time-animated-nba-game-cleveland-cavaliers-vs-new-york-knicks-on-christmas-day-live-from-main-street-usa-868411/20251118espn01/",
+        "urlToImage": null,
+        "publishedAt": "2025-11-18T12:01:00Z",
+        "content": "Disney, ESPN and the NBA team up to present second Dunk the Halls - the real-time, animated NBA game: Cleveland Cavaliers vs. New York Knicks on Christmas Day - live from Main Street, U.S.A.\r\n·Animat… [+8378 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Erg Bio",
+        "title": "Erg Bio Closes $6.5 Million Seed Round to Scale Flexible Feedstock Technology for Manufacturing Synthetic Aviation Fuels and Critical Chemicals",
+        "description": "Funding led by Azolla Ventures with Chevron Technology Ventures and Freeflow positions Erg Bio to advance its cost-competitive bioindustrial platform as the U.S. prioritizes energy security, supply chain resilience, and domestic manufacturing Funding led by A…",
+        "url": "https://www.globenewswire.com/news-release/2025/11/18/3189862/0/en/Erg-Bio-Closes-6-5-Million-Seed-Round-to-Scale-Flexible-Feedstock-Technology-for-Manufacturing-Synthetic-Aviation-Fuels-and-Critical-Chemicals.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/d08fea33-fb5e-4d30-836c-9a3e11448926",
+        "publishedAt": "2025-11-18T12:01:00Z",
+        "content": "DUBLIN, Calif., Nov. 18, 2025 (GLOBE NEWSWIRE) -- Erg Bio\r\n, an innovator in biomass valorization and advanced bioindustrial technology, today announced it has closed a $6.5 million seed round led by… [+3433 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Legalinsurrection.com"
+        },
+        "author": "Leslie Eastman",
+        "title": "UCSD’s Freshmen Apply with 4.0 GPAs, But Fail Basic Math as Academic Standards Collapse",
+        "description": "Realities cannot be jettisoned simply because they do not align with social justice goals.\nThe post UCSD’s Freshmen Apply with 4.0 GPAs, But Fail Basic Math as Academic Standards Collapse first appeared on Le·gal In·sur·rec·tion.",
+        "url": "https://legalinsurrection.com/2025/11/ucsds-freshmen-apply-with-4-0-gpas-but-fail-basic-math-as-academic-standards-collapse/",
+        "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/11/LI-100-UC-San-Diego.png",
+        "publishedAt": "2025-11-18T12:00:55Z",
+        "content": "I am not sure exactly what the exact count is for Professor Jacobson’s reasons that academia cannot be reformed. Perhaps we are on 16 million?\r\nI am going to add another item to this count, sadly, fr… [+6148 chars]"
+      }
+    ]
+  }
+}

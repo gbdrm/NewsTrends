@@ -1,0 +1,1117 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 45577,
+  "articles": [
+    {
+      "title": "Small Business Technology News: Intuit And OpenAI Strike A Deal, Microsoft’s New Agent Console, Google’s New Gemini Version",
+      "description": "ChatGPT can search your accounting data, Microsoft wants to better manage the growing number of agents in organizations, Google's new Gemini is great for developers, Yelp rolls out new AI tools.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/quickerbettertech/2025/11/23/small-business-technology-news-intuit-and-openai-strike-a-deal-microsofts-new-agent-console-googles-new-gemini-version/",
+      "published_at": "2025-11-23T12:10:34Z",
+      "author": "Gene Marks",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/6920dad6e8a683a438db7349/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "(Photo Illustration by Cheng Xin/Getty Images)\r\nGetty Images\r\nHere are five things in small business technology news that happened this week and how they affect your business. Did you miss them?\r\nMic… [+5259 chars]"
+    },
+    {
+      "title": "Google vs. OpenAI: How the search giant sprang into action to combat an existential threat",
+      "description": "When OpenAI unleashed ChatGPT, it awoke Google from its slumber. As Google now reimagines its business in the age of AI, big questions lie ahead.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/google-openai-gemini-chatgpt-ai-search-future-web-2025-11",
+      "published_at": "2025-11-23T12:10:01Z",
+      "author": "Hugh Langley",
+      "image_url": "https://i.insider.com/6920978289026fbb4d0e29b4?width=1200&format=jpeg",
+      "content": "Getty Images; Tyler Le/BI\r\n<ul><li>Since OpenAI shook Google awake, the search giant has made a big turnaround.</li><li>Google has spent three years reshaping itself and leaning into its advantages o… [+9992 chars]"
+    },
+    {
+      "title": "dockai-cli added to PyPI",
+      "description": "A Two-Stage LLM Pipeline for generating optimized Dockerfiles",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/dockai-cli/",
+      "published_at": "2025-11-23T12:09:39Z",
+      "author": "desilvabethmin@gmail.com",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "content": "The End of Manual Dockerfiles: Automated, Intelligent, Production-Ready.\r\nDockAI is a robust, enterprise-grade Python CLI tool designed to intelligently analyze a software repository and generate a p… [+7681 chars]"
+    },
+    {
+      "title": "Redrob raises $10 million in funding led by Korea Investment Partners",
+      "description": "AI research startup Redrob has secured USD 10 million in Series A funding, bringing its total raised to USD 14 million. The company plans to use the capital to enhance its machine learning architecture for cost reduction and develop Indian language models. Re…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/redrob-raises-10-million-in-funding-led-by-korea-investment-partners/articleshow/125519693.cms",
+      "published_at": "2025-11-23T12:09:16Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-125519713,width-1200,height-630,imgsize-80578,overlay-economictimes/articleshow.jpg",
+      "content": "AI research startup Redrob on Friday said it has raised USD 10 million (Rs 88.7 crore) in a Series A financing round led by Korea Investment Partners.This brings Redrob's total funds raised to date t… [+1075 chars]"
+    },
+    {
+      "title": "Exclusive-DOGE 'doesn't exist' with eight months left on its charter",
+      "description": "WASHINGTON (Reuters) -U.S. President Donald Trump's Department of Government Efficiency has disbanded with eight months left to its mandate, ending an initiative launched with fanfare as a symbol of Trump's pledge to slash the government's size but which crit…",
+      "source": "The Star Online",
+      "url": "https://www.thestar.com.my/news/world/2025/11/23/exclusive-doge-039doesn039t-exist039-with-eight-months-left-on-its-charter",
+      "published_at": "2025-11-23T12:09:00Z",
+      "author": "Courtney Rozen",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2025/11/23/3636322.jpg",
+      "content": "WASHINGTON (Reuters) -U.S. President Donald Trump's Department of Government Efficiency has disbanded with eight months left to its mandate, ending an initiative launched with fanfare as a symbol of … [+5418 chars]"
+    },
+    {
+      "title": "Exclusive-DOGE 'doesn't exist' with eight months left on its charter",
+      "description": "By Courtney Rozen WASHINGTON (Reuters) -U.S.",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/articles/exclusive-doge-doesnt-exist-eight-120606242.html",
+      "published_at": "2025-11-23T12:06:06Z",
+      "author": "By Courtney Rozen",
+      "image_url": "https://media.zenfs.com/en/reuters.com/4d891fadd30240bd9c399357bf7251aa",
+      "content": "By Courtney Rozen\r\nWASHINGTON (Reuters) -U.S. President Donald Trump's Department of Government Efficiency has disbanded with eight months left to its mandate, ending an initiative launched with fanf… [+5438 chars]"
+    },
+    {
+      "title": "H-1B visa: Canada's new program to poach foreign talent from Silicon Valley",
+      "description": "It’s not the first time Canada has sought to capitalize on America’s divisions over immigration.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/11/23/canada-h1b-visa-poach-foreign-talent-silicon-valley/",
+      "published_at": "2025-11-23T12:03:26Z",
+      "author": "Ethan Baron",
+      "image_url": "https://www.mercurynews.com/wp-content/uploads/2025/05/Canada_Trump_Carney_58223-1.jpg?w=1024&h=617",
+      "content": "As vicious infighting in President Donald Trump’s Make America Great Again movement over the controversial H-1B visa magnifies uncertainty for foreign workers in the U.S., Canada last week approved a… [+3745 chars]"
+    },
+    {
+      "title": "Shoei launches world's first helmet with fully integrated AR",
+      "description": "Helmet tech has been advancing rather quickly of late. We’ve seen helmets that promise 100% blind-spot elimination, others that filter the air you breathe in, and even the likes of Sena and Cardo jumping in with their respective “smart” helmets.Continue Readi…",
+      "source": "New Atlas",
+      "url": "https://newatlas.com/motorcycles/shoei-eyelights-ai-helmet/",
+      "published_at": "2025-11-23T12:03:00Z",
+      "author": "Utkarsh Sood",
+      "image_url": "https://assets.newatlas.com/dims4/default/61b77b3/2147483647/strip/true/crop/1920x1008+0+136/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F64%2F8f%2F5d20e77b4f4394ad95f4014ca943%2Feyelights-shoei-gtair-3-01.jpg&na.image_optimisation=0",
+      "content": "Helmet tech has been advancing rather quickly of late. Weve seen helmets that promise 100% blind-spot elimination, others that filter the air you breathe in, and even the likes of Sena and Cardo jump… [+3307 chars]"
+    },
+    {
+      "title": "Samsung Galaxy Z Tri-Fold: 10-Inch Beast Incoming!",
+      "description": "Samsung is set to make waves in the foldable smartphone market with the highly anticipated launch of its Galaxy Trifold on December 5, 2025. This innovative device introduces a unique tri-fold mechanism, allowing users to seamlessly switch between a compact s…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/samsungs-tri-fold-launch/",
+      "published_at": "2025-11-23T12:00:58Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/samsung-galaxy-trifold-foldable-design_optimized.jpg",
+      "content": "Samsung is set to make waves in the foldable smartphone market with the highly anticipated launch of its Galaxy Trifold on December 5, 2025. This innovative device introduces a unique tri-fold mechan… [+6827 chars]"
+    },
+    {
+      "title": "This smart QD-OLED monitor doesn't know if it's a TV or not (and that's part of its charm)",
+      "description": "Remind me why we have TVs again?",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/review-samsung-smart-monitor-m9/",
+      "published_at": "2025-11-23T12:00:18Z",
+      "author": "Joe Rice-Jones",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/11/samsung-smart-monitor-m9-home.jpg?w=1600&h=900&fit=crop",
+      "content": "If you've ever used your TV as a computer monitor, you know that it's not the best idea in the world. The optimization that's done to the panel for TVs compared to that for close-use monitors often m… [+6911 chars]"
+    },
+    {
+      "title": "Deep Fission Wants to put Nuclear Reactors Deep Underground",
+      "description": "Today’s pressurized water reactors (PWRs) are marvels of nuclear fission technology that enable gigawatt-scale power stations in a very compact space. Though they are extremely safe, with only the TMI-2 …read more",
+      "source": "Hackaday",
+      "url": "https://hackaday.com/2025/11/23/deep-fission-wants-to-put-nuclear-reactors-deep-underground/",
+      "published_at": "2025-11-23T12:00:00Z",
+      "author": "Maya Posch",
+      "image_url": "https://hackaday.com/wp-content/uploads/2025/11/deep_fission_dfbr-1_pwr_suggested_installation.jpg",
+      "content": "Today’s pressurized water reactors (PWRs) are marvels of nuclear fission technology that enable gigawatt-scale power stations in a very compact space. Though they are extremely safe, with only the TM… [+1903 chars]"
+    },
+    {
+      "title": "I tested Samsung’s Dolby Atmos soundbar and sub combo, and it’s still the best mid-range model on the market",
+      "description": "I tested Samsung’s new Dolby Atmos soundbar and sub combo, and the South Korean giant is still king of the home theater world.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/televisions/soundbars/samsung-hw-q800f-review",
+      "published_at": "2025-11-23T12:00:00Z",
+      "author": "harry.padoan@futurenet.com (Harry Padoan) , Harry Padoan",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RWds4aGpLS5U5pj3UCoZNB-1920-80.jpg",
+      "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you're buying the best. Find out more about how we test.Samsung HW-Q800F: two-minute review\r… [+19704 chars]"
+    },
+    {
+      "title": "AI must translate into global good: PM Modi",
+      "description": "During the G20 discussions, Prime Minister Modi stands highlighted the imperative of equitable AI access, comprehensive skill-building across populations, and careful application, pushing for a transformative leap into the 'Capabilities of Tomorrow'.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-must-translate-into-global-good-pm-modi/articleshow/125519540.cms",
+      "published_at": "2025-11-23T11:57:59Z",
+      "author": "IANS",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10058,resizemode-75,msid-125519540/tech/artificial-intelligence/ai-must-translate-into-global-good-pm-modi.jpg",
+      "content": "Underlining that AI must translate into global good, Prime Minister Narendra Modi on Sunday called for a global compact based on the principles of transparency, human oversight, safety-by-design and … [+1778 chars]"
+    },
+    {
+      "title": "US major Fluence mulls battery energy storage system manufacturing base in India",
+      "description": "Fluence Energy is setting its sights on India as a key player in the global energy storage market. With plans to localize manufacturing and expand operations, the company aims to transform India into an export hub for battery components.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/fluence-battery-energy-storage-system-india-export-manufacturing-hub-11763884037214.html",
+      "published_at": "2025-11-23T11:46:10Z",
+      "author": "Rituraj Baruah",
+      "image_url": "https://www.livemint.com/lm-img/img/2025/11/23/1600x900/logo/john_zahurancik-22_1763898233706_1763898253862.jpg",
+      "content": "New Delhi: Energy storage technology and service provider Fluence Energy is preparing to make India a strategic manufacturing and export base as it diversifies its global supply chain, senior vice-pr… [+6648 chars]"
+    },
+    {
+      "title": "[S&S, AC] $1.10: 3-Oz DOVE MEN + CARE Refreshing Extra Fresh with 24-Hour Nourishing Micromoisture Technology Body Wash at Amazon",
+      "description": "Amazon [amazon.com] has *3-Oz DOVE MEN + CARE Refreshing Extra Fresh with 24-Hour Nourishing Micromoisture Technology Body Wash* for $1.38 - 10% when you 'clip' the coupon on product page - 10% when...",
+      "source": "Slickdeals.net",
+      "url": "https://slickdeals.net/f/18856783-s-s-ac-1-10-3-oz-dove-men-care-refreshing-extra-fresh-with-24-hour-nourishing-micromoisture-technology-body-wash-at-amazon",
+      "published_at": "2025-11-23T11:40:14Z",
+      "author": "phoinix",
+      "image_url": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/18831493.thumb",
+      "content": "Amazon[amazon.com] has 3-Oz DOVE MEN + CARE Refreshing Extra Fresh with 24-Hour Nourishing Micromoisture Technology Body Wash for $1.38 - 10% when you 'clip' the coupon on product page - 10% when you… [+524 chars]"
+    },
+    {
+      "title": "iPhone 17e: Upgraded Selfie Camera!",
+      "description": "Apple‘s iPhone 17e to Get a Camera Upgrade! Exciting news for Apple enthusiasts! The upcoming iPhone 17e is rumored to be receiving a significant camera upgrade. Sources indicate that the iPhone 17e will boast an 18-megapixel selfie camera, bringing it in lin…",
+      "source": "Nep123.com",
+      "url": "https://nep123.com/iphone-17e-upgraded-selfie-camera/",
+      "published_at": "2025-11-23T11:34:23Z",
+      "author": "Editor",
+      "image_url": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+      "content": "Apple‘s iPhone 17e to Get a Camera Upgrade!\r\nExciting news for Apple enthusiasts! The upcoming iPhone 17e is rumored to be receiving a significant camera upgrade. Sources indicate that the iPhone 17e… [+1139 chars]"
+    },
+    {
+      "title": "PM Modi calls for global compact on AI to prevent misuse",
+      "description": "In a call for collective responsibility, Prime Minister Narendra Modi highlighted the necessity of an international pact to curb the potential harms of artificial intelligence. He articulated the vision that groundbreaking technologies should serve humanity, …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/pm-modi-calls-for-global-compact-on-ai-to-prevent-misuse/articleshow/125519210.cms",
+      "published_at": "2025-11-23T11:32:28Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-125519231,width-1200,height-630,imgsize-685975,overlay-economictimes/articleshow.jpg",
+      "content": "Prime Minister Narendra Modi on Sunday called for a global compact to prevent misuse of artificial intelligence and made a strong pitch for critical technologies to be human-centric, instead of finan… [+1547 chars]"
+    },
+    {
+      "title": "Do Galaxy Watch owners actually use Gemini? Survey reveals surprising results",
+      "description": "A poll of Galaxy Watch users shows that nearly half do not regularly use Gemini, but the other half does, giving us a split verdict.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-on-galaxy-watch-poll-results-3618483/",
+      "published_at": "2025-11-23T11:30:26Z",
+      "author": "Aamir Siddiqui",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2025/11/Gemini-Galaxy-Watch-8-3-scaled.jpg",
+      "content": "Smartwatches are the perfect use case for a voice assistant the small screen makes touch-based navigation and typing cumbersome, and users also have lower expectations and needs for the tasks they ca… [+2141 chars]"
+    },
+    {
+      "title": "Official Bose Black Friday week now live: New QuietComfort Ultra buds and headphones, more (Up to $160 off)",
+      "description": "The official Bose Black Friday Week sale is $160 off QuietComfort headphones, loads of speakers deals (including its 2025 releases), and more. The real headliners here are, perhaps, the new 2nd gen QuietComfort Ultra Earbuds and Ultra Headphones, both of whic…",
+      "source": "9to5Toys",
+      "url": "http://9to5toys.com/2025/11/23/official-bose-black-friday-week-quietcomfort-ultra-buds-headphones/",
+      "published_at": "2025-11-23T11:24:41Z",
+      "author": "Justin Kahn",
+      "image_url": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Bose-Black-Friday-Week-sale-now-live.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "content": "The official Bose Black Friday Week sale is now live with up to 45% in savings. Youll find these deals live on both the official Bose site and over at Amazon with as much as $160 off QuietComfort hea… [+2135 chars]"
+    },
+    {
+      "title": "IBM Simon: “The world's first smartphone” and the bulky device that started the smartphone revolution you never knew about",
+      "description": "On November 23, 1992, a bulky brick-shaped device debuted at a Las Vegas tech trade show, merging your calendar, email, and phone into one gadget. It was weird. It was expensive. And it sparked the revolution we carry in our pockets today. It was IBM Simon/ H…",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/news/india/ibm-simon-the-worlds-first-smartphone-and-the-bulky-device-that-started-the-smartphone-revolution-you-never-knew-about/how-one-gadget-rewired-the-future/slideshow/125519168.cms",
+      "published_at": "2025-11-23T11:24:15Z",
+      "author": "Others",
+      "image_url": "https://img.etimg.com/thumb/msid-125519168,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "content": "Nov 23, 2025, 04:54:43 PM IST\r\nOn November 23, 1992, a bulky brick-shaped device debuted at a Las Vegas tech trade show, merging your calendar, email, and phone into one gadget. It was weird. It was … [+2106 chars]"
+    },
+    {
+      "title": "VanEck CEO Concerned About Bitcoin's Encryption and Privacy, Says Firm Could Walk Away",
+      "description": "Jan van Eck questioned whether Bitcoin offers enough encryption and privacy, saying some longtime holders are examining Zcash as the market reassesses long-term assumptions.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2025/11/23/vaneck-ceo-concerned-about-bitcoin-s-encryption-and-privacy-says-firm-could-walk-away",
+      "published_at": "2025-11-23T11:18:20Z",
+      "author": "Siamak Masnavi, AI Boost",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/ed442dd3e6f0386354a2bbfb6b164960ce56422f-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "content": "Bitcoins long-term design came under renewed scrutiny on Friday after VanEck CEO Jan van Eck questioned whether the network provides sufficient encryption and privacy during an appearance on CNBCs Po… [+3912 chars]"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+      "description": "The Indian market ended lower on Friday as profit-taking weighed on indices near record highs. The Sensex fell 400.76 points to 85,231.92, while the Nifty dropped 124 points to 26,068.15. Banking stocks, led by ICICI Bank and HDFC Bank, dragged the market ami…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/125518810.cms",
+      "published_at": "2025-11-23T11:16:54Z",
+      "author": "Riya Sharma",
+      "image_url": "https://img.etimg.com/thumb/msid-125518810,width-1200,height-630,imgsize-38566,overlay-etmarkets/articleshow.jpg",
+      "content": "The Indian market ended lower on Friday as a wave of profit-taking set in, with the Sensex and Nifty hovering near record highs. Banking heavyweights ICICI Bank and HDFC Bank led the decline, while i… [+4002 chars]"
+    },
+    {
+      "title": "OTT platforms rush to build legal teams as digital data privacy rules kick in",
+      "description": "The implementation of the Digital Personal Data Protection Act, 2023, mandates significant compliance efforts from OTT platforms, particularly in data management and privacy. This may disrupt existing revenue models and impose heavier burdens on smaller platf…",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/media/streaming-platforms-prep-legal-compliance-teams-brace-for-additional-costs-post-data-privacy-law-11763881527038.html",
+      "published_at": "2025-11-23T11:16:04Z",
+      "author": "Lata Jha",
+      "image_url": "https://www.livemint.com/lm-img/img/2025/11/23/1600x900/logo/Apple_TV_4K_vs_Google_TV_1755597959638_1755597959863_1763881580313.jpg",
+      "content": "Video-streaming platforms have begun putting in place legal teams in order to comply with the personal data-privacy regime that formally kicked in last week.\r\nMore than two years after the Digital Pe… [+7619 chars]"
+    },
+    {
+      "title": "Unstructured clinical data opens fresh market for AI firms",
+      "description": "Unstructured clinical data, comprising 80% of health information, presents a significant market opportunity for AI-driven solutions. Experts highlight that technologies like NLP and LLMs can now unlock this 'dark data' from free-text notes, revolutionizing di…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/unstructured-clinical-data-opens-fresh-market-for-ai-firms/articleshow/125519092.cms",
+      "published_at": "2025-11-23T11:15:17Z",
+      "author": "ANI",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-86858,resizemode-75,msid-125519092/tech/artificial-intelligence/unstructured-clinical-data-opens-fresh-market-for-ai-firms.jpg",
+      "content": "The healthcare industry's vast pool of unstructured clinical data is fast emerging as a major market opportunity for companies building Artificial Intelligence (AI)-driven solutions, say experts and … [+4170 chars]"
+    },
+    {
+      "title": "How Apple M4 Max redefines laptop performance now",
+      "description": "Apple’s approach to chip design has undergone a fundamental transformation since the debut of the M1 processor in 2020. The M4 Max reveals how dramatically the company has shifted power allocation away from the CPU toward graphics processing and memory system…",
+      "source": "Rolling Out",
+      "url": "https://rollingout.com/2025/11/23/apple-m4-max-cpu-power-consumption-gpu/",
+      "published_at": "2025-11-23T11:10:30Z",
+      "author": "David Kesiena",
+      "image_url": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2459299085-scaled.jpg",
+      "content": "Apple’s approach to chip design has undergone a fundamental transformation since the debut of the M1 processor in 2020. The M4 Max reveals how dramatically the company has shifted power allocation aw… [+6726 chars]"
+    },
+    {
+      "title": "Analysis:Investors eye holiday season turbulence amid AI and rate cut doubts",
+      "description": "NEW YORK :Stock market investors are preparing for a turbulent year-end sparked by uncertainty over near-term Federal Reserve interest rate cuts and mounting worries that artificial intelligence companies, which have propelled the market to new records this y…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/analysisinvestors-eye-holiday-season-turbulence-amid-ai-and-rate-cut-doubts-5485501",
+      "published_at": "2025-11-23T11:06:32Z",
+      "author": null,
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Jjk2MAYN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-11-23T110949Z_1_LYNXMPELAM06Q_RTROPTP_3_TECH-AI.JPG?itok=ULLnZeRK",
+      "content": "NEW YORK :Stock market investors are preparing for a turbulent year-end sparked by uncertainty over near-term Federal Reserve interest rate cuts and mounting worries that artificial intelligence comp… [+5488 chars]"
+    },
+    {
+      "title": "‘Not the MAHA that we signed up for’: Robert F. Kennedy Jr. learns the perils of power and keeping his grassroots movement together",
+      "description": "Robert F. Kennedy Jr. spent a recent Wednesday showered in praise from the vice president and health technology CEOs at a glitzy “Make America Healthy Again” event in Washington, designed to celebrate the health secretary’s successes and the movement he has b…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d286e64d8382ddaa",
+      "published_at": "2025-11-23T11:05:15Z",
+      "author": "fortune.com",
+      "image_url": "https://biztoc.com/cdn/d286e64d8382ddaa_s.webp",
+      "content": "Robert F. Kennedy Jr. spent a recent Wednesday showered in praise from the vice president and health technology CEOs at a glitzy Make America Healthy Again event in Washington, designed to celebrate … [+142 chars]"
+    },
+    {
+      "title": "South Korea, Türkiye are 'brotherly nations bound by blood,' says Lee",
+      "description": "South Korean President Lee Jae Myung has said that his country and Türkiye \"are brotherly nations bound by blood, having fought side by side to defend freedom and democracy.\"",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/south-korea-turkiye-are-brotherly-nations-bound-by-blood-says-lee-216035",
+      "published_at": "2025-11-23T11:04:28Z",
+      "author": "hurriyetdailynews.com",
+      "image_url": "https://image.hurimg.com/i/hurriyet/75/200x200/6922ea36cf579f4e5063e1dc.jpg",
+      "content": "ANKARA\r\nSouth Korean President Lee Jae Myung has said that his country and Türkiye \"are brotherly nations bound by blood, having fought side by side to defend freedom and democracy.\"\r\n\"Türkiye is a s… [+2108 chars]"
+    },
+    {
+      "title": "124 border villages being developed under Vibrant Villages Programme-II in J&K",
+      "description": "Jammu and Kashmir is set to develop 124 strategic border villages. The Vibrant Villages Programme-II focuses on improving road and telecom connectivity. Electrification is also a key priority. Efforts are underway to bridge information gaps and promote financ…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/124-border-villages-being-developed-under-vibrant-villages-programme-ii-in-jk/articleshow/125518979.cms",
+      "published_at": "2025-11-23T11:04:17Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-125519043,width-1200,height-630,imgsize-748774,overlay-economictimes/articleshow.jpg",
+      "content": "A comprehensive roadmap has been prepared for the focused development of 124 strategic villages across 43 border blocks in eight districts under the second phase of the Vibrant Villages Programme in … [+2821 chars]"
+    },
+    {
+      "title": "Investors eye holiday season turbulence amid AI and rate cut doubts",
+      "description": "As of Friday'​s close, the benchmark S&P 500 index and Nasdaq Composite were down 4% and 7% respectively from their late October record highs.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/analysis-investors-eye-holiday-season-110335615.html",
+      "published_at": "2025-11-23T11:03:35Z",
+      "author": "Lewis Krauskopf and Saqib Iqbal Ahmed",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/jlvLAn3ha6s_Q43vBL2clg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/dcb23080-af29-11ef-bbb2-c65c667723f4",
+      "content": "By Lewis Krauskopf and Saqib Iqbal Ahmed\r\nNEW YORK (Reuters) -Stock market investors are preparing for a turbulent year-end sparked by uncertainty over near-term Federal Reserve interest rate cuts an… [+5457 chars]"
+    },
+    {
+      "title": "Black Friday Car Deal of the Day: This Polestar 3 offers 483bhp for £485 a month",
+      "description": "The Polestar 3 proves you can have style and substance in an electric SUV - it’s our Deal of the Day for Sunday 23 November",
+      "source": "AutoExpress",
+      "url": "https://www.autoexpress.co.uk/polestar/3/368376/black-friday-car-deal-day-polestar-3-offers-483bhp-ps485-month",
+      "published_at": "2025-11-23T11:03:34Z",
+      "author": "Alastair Crooks",
+      "image_url": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1733938061/autoexpress/2024/12/Polestar 3-16.jpg",
+      "content": "<ul><li>Excellent ride on motorway</li><li>Impressive range</li><li>£485 a month</li></ul>Tired of the same old premium German brands? Well, if youre after an all-electric car that majors on quality,… [+1783 chars]"
+    },
+    {
+      "title": "Social innovations need to be tech-led, require patient funding: Infosys Foundation trustee Dhareshwar",
+      "description": "Social innovators require consistent funding to address societal challenges. Infosys Foundation trustee Sunil Kumar Dhareshwar highlights that current support is often insufficient. Technology plays a crucial role in these solutions. Projects need long-term c…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/technology/social-innovations-need-to-be-tech-led-require-patient-funding-infosys-foundation-trustee-dhareshwar/articleshow/125518815.cms",
+      "published_at": "2025-11-23T11:02:04Z",
+      "author": "Puran Choudhary",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22386,resizemode-75,msid-125518815/tech/technology/social-innovations-need-to-be-tech-led-require-patient-funding-infosys-foundation-trustee-dhareshwar.jpg",
+      "content": "Technology is no longer optional in addressing social problems; it sits at the heart of solutions. However, innovators need sustained support to reach the last mile, Infosys Foundation trustee Sunil … [+2979 chars]"
+    },
+    {
+      "title": "Are holiday scammers targeting you right now?",
+      "description": "The holiday season brings joy and celebration, but it also creates prime opportunities for fraudsters seeking to exploit busy consumers. Between shopping for gifts, planning travel and making charitable donations, people often overlook potential threats hidin…",
+      "source": "Rolling Out",
+      "url": "https://rollingout.com/2025/11/23/are-holiday-scammers-targeting-you-now/",
+      "published_at": "2025-11-23T11:00:17Z",
+      "author": "Tega Egwabor",
+      "image_url": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2375019855-scaled.jpg",
+      "content": "The holiday season brings joy and celebration, but it also creates prime opportunities for fraudsters seeking to exploit busy consumers. Between shopping for gifts, planning travel and making charita… [+5134 chars]"
+    },
+    {
+      "title": "Meet Antic, the Retro Electric Minibike That Brings 1970s Fun Back to 2025",
+      "description": "What if your daily commute could feel less like a chore and more like a joyride? Imagine zipping through city streets or winding suburban paths on a minibike that’s as stylish as it is innovative. Enter the Antic by Future Motion, a retro-futuristic marvel th…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/future-motion-antic-electric-minibike/",
+      "published_at": "2025-11-23T11:00:08Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/1-aluminum-frame-antic-compact-comfort-taller-riders_optimized.jpg",
+      "content": "What if your daily commute could feel less like a chore and more like a joyride? Imagine zipping through city streets or winding suburban paths on a minibike thats as stylish as it is innovative. Ent… [+6697 chars]"
+    },
+    {
+      "title": "Slack cofounder says embarrassment can be motivating — but it can also lead to employees papering the office",
+      "description": "Slack cofounder Stewart Butterfield said that employees should have a \"perpetual desire to improve.\"",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/slack-stewart-butterfield-value-embarrassment-direct-criticism-employee-motivation-2025-11",
+      "published_at": "2025-11-23T11:00:01Z",
+      "author": "Henry Chandonnet",
+      "image_url": "https://i.insider.com/6920922489026fbb4d0e28c6?width=1200&format=jpeg",
+      "content": "Slack cofounder Stewart Butterfield said, for many employees, \"really direct criticism is actually motivational.\"Phillip Faraone/Getty Images for WIRED\r\n<ul><li>Slack cofounder Stewart Butterfield sa… [+2872 chars]"
+    },
+    {
+      "title": "Baker Hughes Books 1.3 GW Gas Turbine Order from Dynamis",
+      "description": "The turbines include a new offering that represents 'the oil and gas industry's highest reported mobile power density (MW per square foot) to date'.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/baker_hughes_books_13_gw_gas_turbine_order_from_dynamis-23-nov-2025-182364-article/",
+      "published_at": "2025-11-23T11:00:01Z",
+      "author": "Jov Onsat",
+      "image_url": "https://images.rigzone.com/images/news/articles/Baker-Hughes-Books-13-GW-Gas-Turbine-Order-from-Dynamis-182364-1200x628.png",
+      "content": "Dynamis Power Solutions LLC has awarded Baker Hughes Co a contract for the supply of 25 aeroderivative gas turbines with a combined capacity of 1.3 gigawatts (GW).\r\nThe turbines, including LM2500, LM… [+3114 chars]"
+    },
+    {
+      "title": "The Full-Frame Sensor That Could Have Changed Camera History—But Didn’t",
+      "description": "The early 2000s were a great time for digital phtoography, where the nascent technology was finding its footing through new innovations. There was, however, one sensor design that had the potential to change everything: A 6MP full-frame CCD sensor made by Phi…",
+      "source": "Thephoblographer.com",
+      "url": "https://www.thephoblographer.com/2025/11/23/the-full-frame-sensor-that-could-have-changed-camera-history-but-didnt/",
+      "published_at": "2025-11-23T11:00:00Z",
+      "author": "Nilofer Khan",
+      "image_url": "https://www.thephoblographer.com/wp-content/uploads/2025/11/New-Project-2.jpg",
+      "content": "The early 2000s were a great time for digital phtoography, where the nascent technology was finding its footing through new innovations. There was, however, one sensor design that had the potential t… [+3305 chars]"
+    },
+    {
+      "title": "The Fate of Google’s Ad Tech Monopoly Is Now in a Judge’s Hands",
+      "description": "",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/99fa571c2eae7ee9",
+      "published_at": "2025-11-23T10:54:25Z",
+      "author": "nytimes.com",
+      "image_url": "https://biztoc.com/cdn/955/og.png",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Teslas sales plunging in China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will UKs tax-raising budget im… [+713 chars]"
+    },
+    {
+      "title": "Elon Musk & Jensen Huang: Shaping AI and Tech’s Future",
+      "description": "Elon Musk emphasizes that his approach is more about creation than disruption. With SpaceX, he introduced reusable rockets, revolutionizing space travel by...\nThe post Elon Musk & Jensen Huang: Shaping AI and Tech’s Future appeared first on NextBigWhat.",
+      "source": "Nextbigwhat.com",
+      "url": "https://nextbigwhat.com/elon-musk-jensen-huang-shaping-ai-and-techs-future/",
+      "published_at": "2025-11-23T10:52:03Z",
+      "author": "Tom",
+      "image_url": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "content": "Elon’s Disruption Philosophy\r\nElon Musk emphasizes that his approach is more about creation than disruption. With SpaceX, he introduced reusable rockets, revolutionizing space travel by reducing cost… [+6138 chars]"
+    },
+    {
+      "title": "Bettany Hughes Treasures of the World S04 720p ALL4 WEB-DL H264-RAWR",
+      "description": "With unique access and state-of-the-art technology, Bettany lifts the lid on the most remarkable treasures of civilisation to investigate the story of humanity. She examines household-name treasures and new finds from across the world. Links: HOMEPAGE – iMDBB…",
+      "source": "Rlsbb.to",
+      "url": "https://post.rlsbb.to/bettany-hughes-treasures-of-the-world-s04-720p-all4-web-dl-h264-rawr/",
+      "published_at": "2025-11-23T10:47:07Z",
+      "author": "Lisa",
+      "image_url": null,
+      "content": "With unique access and state-of-the-art technology, Bettany lifts the lid on the most remarkable treasures of civilisation to investigate the story of humanity. She examines household-name treasures … [+200 chars]"
+    },
+    {
+      "title": "This Cute Lounge Set Feels Like Pajamas — And It’s Less Than $40 For Black Friday",
+      "description": "This sweatsuit made my last cross-country flight the coziest yet without sacrificing style.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/travel-lounge-set-amazon-black-friday-deal_l_6920a006e4b0536e01acd96a",
+      "published_at": "2025-11-23T10:45:17Z",
+      "author": "Erica Kam",
+      "image_url": "https://img.huffingtonpost.com/asset/67a662f61600001800aff32c.png?cache=jfjG7WE6eS&ops=500_281%2Cscalefit_1200_630",
+      "content": "As someone who used to roll up to the gate in my boxiest sweatshirt and a pair of old leggings, I was always envious of travelers who looked put-together, like they could go straight from the airport… [+19398 chars]"
+    },
+    {
+      "title": "Key milestone, will mark new growth chapter amid online, qcomm boom: Shiprocket CEO on upcoming IPO",
+      "description": "Goel told PTI in an interview said the IPO will be an important milestone as it \"institutionalises\" the company that has evolved from being a shipping partner to an end-to-end e-commerce enablement platform for Indian merchants",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/startups/key-milestone-will-mark-new-growth-chapter-amid-online-qcomm-boom-shiprocket-ceo-on-upcoming-ipo/articleshow/125519097.cms",
+      "published_at": "2025-11-23T10:42:35Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49928,resizemode-75,msid-125519097/tech/startups/key-milestone-will-mark-new-growth-chapter-amid-online-qcomm-boom-shiprocket-ceo-on-upcoming-ipo.jpg",
+      "content": "Shiprocket Co-Founder and CEO Saahil Goel sees the upcoming IPO as a key milestone reflecting internal discipline, scale and governance, and believes it will set the logistics tech company on a new g… [+5869 chars]"
+    },
+    {
+      "title": "Key milestone, will mark new growth chapter amid online, qcomm boom: Shiprocket CEO on upcoming IPO",
+      "description": "Goel told PTI in an interview said the IPO will be an important milestone as it \"institutionalises\" the company that has evolved from being a shipping partner to an end-to-end e-commerce enablement platform for Indian merchants",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/key-milestone-will-mark-new-growth-chapter-amid-online-qcomm-boom-shiprocket-ceo-on-upcoming-ipo/articleshow/125518706.cms",
+      "published_at": "2025-11-23T10:42:35Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-125518706,width-1200,height-630,imgsize-49928,overlay-etmarkets/articleshow.jpg",
+      "content": "Shiprocket Co-Founder and CEO Saahil Goel sees the upcoming IPO as a key milestone reflecting internal discipline, scale and governance, and believes it will set the logistics tech company on a new g… [+5874 chars]"
+    },
+    {
+      "title": "India's Space Economy Set To Soar To USD 45 Billion, Says Minister Jitendra Singh",
+      "description": "India’s space economy aims for USD 44-45 billion, driven by reforms and collaborations at IISC 2025 in New Delhi.",
+      "source": "News18",
+      "url": "https://www.news18.com/business/indias-space-economy-set-to-soar-to-usd-45-billion-says-minister-jitendra-singh-ws-l-9726401.html",
+      "published_at": "2025-11-23T10:39:39Z",
+      "author": "News18",
+      "image_url": "https://images.news18.com/ibnlive/uploads/2025/08/Jitendra-Singh-2025-08-027a0cc4f5e46596ff662605fb096b8b-16x9.jpg",
+      "content": "Last Updated:November 23, 2025, 15:29 IST\r\nIndias space economy is projected to touch USD 44-45 billion from USD 8 billion today in the coming decades. Speaking at the 4th edition of the India Intern… [+3318 chars]"
+    },
+    {
+      "title": "Saudi Prince Faces Big Task Turning Trump Pledges Into Real Wins",
+      "description": "Saudi Arabia’s Crown Prince Mohammed bin Salman was greeted at the White House last week with considerable pageantry and a series of pledges from US President Donald Trump, a mutual love-in that appeared to deepen the relationship between the two countries.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/saudi-prince-faces-big-task-turning-trump-pledges-into-real-wins",
+      "published_at": "2025-11-23T10:37:14Z",
+      "author": "Bloomberg News",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/776418797.jpg",
+      "content": "From the report I received on the meeting, he didnt exactly get everything he wanted and I wont elaborate further, Netanyahu said in an interview on Thursday with Abu Ali Express, a Hebrew-language T… [+3362 chars]"
+    },
+    {
+      "title": "Toy Story’s first ever premiere and how Steve Job’s ”Pixar” revolutionized the Animation industry with CGI",
+      "description": "On November 22, 1995, Toy Story arrived as cinema's first fully computer-animated feature, disrupting a century of hand-drawn tradition.Pre 1995, animation meant hand-drawn frames by thousands of artists annually. Pixar's audacious gamble paid off spectacular…",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/news/india/toy-storys-first-ever-premiere-and-how-steve-jobs-pixar-revolutionized-the-animation-industry-with-cgi/november-22-1995-toy-storys-30th-year-anniversary/slideshow/125518627.cms",
+      "published_at": "2025-11-23T10:35:19Z",
+      "author": "Others",
+      "image_url": "https://img.etimg.com/thumb/msid-125518627,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "content": "Nov 23, 2025, 04:06:08 PM IST\r\nOn November 22, 1995, Toy Story arrived as cinema's first fully computer-animated feature, disrupting a century of hand-drawn tradition.Pre 1995, animation meant hand-d… [+2626 chars]"
+    },
+    {
+      "title": "Cloudflare Says Piracy Liability Ruling Has Global Implications; Publishers Disagree",
+      "description": "A ruling by a Tokyo court which holds Cloudflare liable for manga piracy is serious and could have global implications, the company says. Filed by manga publishers in 2022, the lawsuit criticized Cloudflare for providing services to the sites, despite the pub…",
+      "source": "Torrentfreak.com",
+      "url": "https://torrentfreak.com/cloudflare-says-piracy-liability-ruling-sets-a-dangerous-precedent-the-publishers-disagree-251123/",
+      "published_at": "2025-11-23T10:08:29Z",
+      "author": "Andy Maxwell",
+      "image_url": "https://torrentfreak.com/images/cloud-mesh-f.png",
+      "content": "Services offered by U.S tech giant Cloudflare improve the performance and security of millions of websites, amounting to a significant contribution towards the health of today’s internet.\r\nThose hopi… [+5922 chars]"
+    },
+    {
+      "title": "Berkshire's unusually modern bet on Alphabet forces a fresh look at Warren Buffett’s playbook",
+      "description": "Berkshire Hathaway’s Alphabet stake has surged $415 million in just a week, reaching nearly $5.35 billion as shares climbed 8.4%. The move has reignited debate over whether the traditionally cautious firm is warming to high-risk, AI-driven growth. Alphabet’s …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/berkshires-unusually-modern-bet-on-alphabet-forces-a-fresh-look-at-warren-buffetts-playbook/articleshow/125518300.cms",
+      "published_at": "2025-11-23T10:08:01Z",
+      "author": "Riya Sharma",
+      "image_url": "https://img.etimg.com/thumb/msid-125518300,width-1200,height-630,imgsize-51352,overlay-etmarkets/articleshow.jpg",
+      "content": "Just one week after Berkshire Hathaway revealed it had bought 17.8 million Class A shares of Alphabet in the third quarter, the position is already up about $415 million, swelling to nearly $5.35 bil… [+2699 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 45577,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Gene Marks",
+        "title": "Small Business Technology News: Intuit And OpenAI Strike A Deal, Microsoft’s New Agent Console, Google’s New Gemini Version",
+        "description": "ChatGPT can search your accounting data, Microsoft wants to better manage the growing number of agents in organizations, Google's new Gemini is great for developers, Yelp rolls out new AI tools.",
+        "url": "https://www.forbes.com/sites/quickerbettertech/2025/11/23/small-business-technology-news-intuit-and-openai-strike-a-deal-microsofts-new-agent-console-googles-new-gemini-version/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6920dad6e8a683a438db7349/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-11-23T12:10:34Z",
+        "content": "(Photo Illustration by Cheng Xin/Getty Images)\r\nGetty Images\r\nHere are five things in small business technology news that happened this week and how they affect your business. Did you miss them?\r\nMic… [+5259 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Hugh Langley",
+        "title": "Google vs. OpenAI: How the search giant sprang into action to combat an existential threat",
+        "description": "When OpenAI unleashed ChatGPT, it awoke Google from its slumber. As Google now reimagines its business in the age of AI, big questions lie ahead.",
+        "url": "https://www.businessinsider.com/google-openai-gemini-chatgpt-ai-search-future-web-2025-11",
+        "urlToImage": "https://i.insider.com/6920978289026fbb4d0e29b4?width=1200&format=jpeg",
+        "publishedAt": "2025-11-23T12:10:01Z",
+        "content": "Getty Images; Tyler Le/BI\r\n<ul><li>Since OpenAI shook Google awake, the search giant has made a big turnaround.</li><li>Google has spent three years reshaping itself and leaning into its advantages o… [+9992 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "desilvabethmin@gmail.com",
+        "title": "dockai-cli added to PyPI",
+        "description": "A Two-Stage LLM Pipeline for generating optimized Dockerfiles",
+        "url": "https://pypi.org/project/dockai-cli/",
+        "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "publishedAt": "2025-11-23T12:09:39Z",
+        "content": "The End of Manual Dockerfiles: Automated, Intelligent, Production-Ready.\r\nDockAI is a robust, enterprise-grade Python CLI tool designed to intelligently analyze a software repository and generate a p… [+7681 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Redrob raises $10 million in funding led by Korea Investment Partners",
+        "description": "AI research startup Redrob has secured USD 10 million in Series A funding, bringing its total raised to USD 14 million. The company plans to use the capital to enhance its machine learning architecture for cost reduction and develop Indian language models. Re…",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/redrob-raises-10-million-in-funding-led-by-korea-investment-partners/articleshow/125519693.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125519713,width-1200,height-630,imgsize-80578,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-11-23T12:09:16Z",
+        "content": "AI research startup Redrob on Friday said it has raised USD 10 million (Rs 88.7 crore) in a Series A financing round led by Korea Investment Partners.This brings Redrob's total funds raised to date t… [+1075 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Star Online"
+        },
+        "author": "Courtney Rozen",
+        "title": "Exclusive-DOGE 'doesn't exist' with eight months left on its charter",
+        "description": "WASHINGTON (Reuters) -U.S. President Donald Trump's Department of Government Efficiency has disbanded with eight months left to its mandate, ending an initiative launched with fanfare as a symbol of Trump's pledge to slash the government's size but which crit…",
+        "url": "https://www.thestar.com.my/news/world/2025/11/23/exclusive-doge-039doesn039t-exist039-with-eight-months-left-on-its-charter",
+        "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/11/23/3636322.jpg",
+        "publishedAt": "2025-11-23T12:09:00Z",
+        "content": "WASHINGTON (Reuters) -U.S. President Donald Trump's Department of Government Efficiency has disbanded with eight months left to its mandate, ending an initiative launched with fanfare as a symbol of … [+5418 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "By Courtney Rozen",
+        "title": "Exclusive-DOGE 'doesn't exist' with eight months left on its charter",
+        "description": "By Courtney Rozen WASHINGTON (Reuters) -U.S.",
+        "url": "https://www.yahoo.com/news/articles/exclusive-doge-doesnt-exist-eight-120606242.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters.com/4d891fadd30240bd9c399357bf7251aa",
+        "publishedAt": "2025-11-23T12:06:06Z",
+        "content": "By Courtney Rozen\r\nWASHINGTON (Reuters) -U.S. President Donald Trump's Department of Government Efficiency has disbanded with eight months left to its mandate, ending an initiative launched with fanf… [+5438 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Mercury News"
+        },
+        "author": "Ethan Baron",
+        "title": "H-1B visa: Canada's new program to poach foreign talent from Silicon Valley",
+        "description": "It’s not the first time Canada has sought to capitalize on America’s divisions over immigration.",
+        "url": "https://www.mercurynews.com/2025/11/23/canada-h1b-visa-poach-foreign-talent-silicon-valley/",
+        "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/05/Canada_Trump_Carney_58223-1.jpg?w=1024&h=617",
+        "publishedAt": "2025-11-23T12:03:26Z",
+        "content": "As vicious infighting in President Donald Trump’s Make America Great Again movement over the controversial H-1B visa magnifies uncertainty for foreign workers in the U.S., Canada last week approved a… [+3745 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New Atlas"
+        },
+        "author": "Utkarsh Sood",
+        "title": "Shoei launches world's first helmet with fully integrated AR",
+        "description": "Helmet tech has been advancing rather quickly of late. We’ve seen helmets that promise 100% blind-spot elimination, others that filter the air you breathe in, and even the likes of Sena and Cardo jumping in with their respective “smart” helmets.Continue Readi…",
+        "url": "https://newatlas.com/motorcycles/shoei-eyelights-ai-helmet/",
+        "urlToImage": "https://assets.newatlas.com/dims4/default/61b77b3/2147483647/strip/true/crop/1920x1008+0+136/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F64%2F8f%2F5d20e77b4f4394ad95f4014ca943%2Feyelights-shoei-gtair-3-01.jpg&na.image_optimisation=0",
+        "publishedAt": "2025-11-23T12:03:00Z",
+        "content": "Helmet tech has been advancing rather quickly of late. Weve seen helmets that promise 100% blind-spot elimination, others that filter the air you breathe in, and even the likes of Sena and Cardo jump… [+3307 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Samsung Galaxy Z Tri-Fold: 10-Inch Beast Incoming!",
+        "description": "Samsung is set to make waves in the foldable smartphone market with the highly anticipated launch of its Galaxy Trifold on December 5, 2025. This innovative device introduces a unique tri-fold mechanism, allowing users to seamlessly switch between a compact s…",
+        "url": "https://www.geeky-gadgets.com/samsungs-tri-fold-launch/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/samsung-galaxy-trifold-foldable-design_optimized.jpg",
+        "publishedAt": "2025-11-23T12:00:58Z",
+        "content": "Samsung is set to make waves in the foldable smartphone market with the highly anticipated launch of its Galaxy Trifold on December 5, 2025. This innovative device introduces a unique tri-fold mechan… [+6827 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "XDA Developers"
+        },
+        "author": "Joe Rice-Jones",
+        "title": "This smart QD-OLED monitor doesn't know if it's a TV or not (and that's part of its charm)",
+        "description": "Remind me why we have TVs again?",
+        "url": "https://www.xda-developers.com/review-samsung-smart-monitor-m9/",
+        "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/11/samsung-smart-monitor-m9-home.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2025-11-23T12:00:18Z",
+        "content": "If you've ever used your TV as a computer monitor, you know that it's not the best idea in the world. The optimization that's done to the panel for TVs compared to that for close-use monitors often m… [+6911 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Maya Posch",
+        "title": "Deep Fission Wants to put Nuclear Reactors Deep Underground",
+        "description": "Today’s pressurized water reactors (PWRs) are marvels of nuclear fission technology that enable gigawatt-scale power stations in a very compact space. Though they are extremely safe, with only the TMI-2 …read more",
+        "url": "https://hackaday.com/2025/11/23/deep-fission-wants-to-put-nuclear-reactors-deep-underground/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/deep_fission_dfbr-1_pwr_suggested_installation.jpg",
+        "publishedAt": "2025-11-23T12:00:00Z",
+        "content": "Today’s pressurized water reactors (PWRs) are marvels of nuclear fission technology that enable gigawatt-scale power stations in a very compact space. Though they are extremely safe, with only the TM… [+1903 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "harry.padoan@futurenet.com (Harry Padoan) , Harry Padoan",
+        "title": "I tested Samsung’s Dolby Atmos soundbar and sub combo, and it’s still the best mid-range model on the market",
+        "description": "I tested Samsung’s new Dolby Atmos soundbar and sub combo, and the South Korean giant is still king of the home theater world.",
+        "url": "https://www.techradar.com/televisions/soundbars/samsung-hw-q800f-review",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/RWds4aGpLS5U5pj3UCoZNB-1920-80.jpg",
+        "publishedAt": "2025-11-23T12:00:00Z",
+        "content": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you're buying the best. Find out more about how we test.Samsung HW-Q800F: two-minute review\r… [+19704 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "IANS",
+        "title": "AI must translate into global good: PM Modi",
+        "description": "During the G20 discussions, Prime Minister Modi stands highlighted the imperative of equitable AI access, comprehensive skill-building across populations, and careful application, pushing for a transformative leap into the 'Capabilities of Tomorrow'.",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-must-translate-into-global-good-pm-modi/articleshow/125519540.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10058,resizemode-75,msid-125519540/tech/artificial-intelligence/ai-must-translate-into-global-good-pm-modi.jpg",
+        "publishedAt": "2025-11-23T11:57:59Z",
+        "content": "Underlining that AI must translate into global good, Prime Minister Narendra Modi on Sunday called for a global compact based on the principles of transparency, human oversight, safety-by-design and … [+1778 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Rituraj Baruah",
+        "title": "US major Fluence mulls battery energy storage system manufacturing base in India",
+        "description": "Fluence Energy is setting its sights on India as a key player in the global energy storage market. With plans to localize manufacturing and expand operations, the company aims to transform India into an export hub for battery components.",
+        "url": "https://www.livemint.com/companies/fluence-battery-energy-storage-system-india-export-manufacturing-hub-11763884037214.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/23/1600x900/logo/john_zahurancik-22_1763898233706_1763898253862.jpg",
+        "publishedAt": "2025-11-23T11:46:10Z",
+        "content": "New Delhi: Energy storage technology and service provider Fluence Energy is preparing to make India a strategic manufacturing and export base as it diversifies its global supply chain, senior vice-pr… [+6648 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slickdeals.net"
+        },
+        "author": "phoinix",
+        "title": "[S&S, AC] $1.10: 3-Oz DOVE MEN + CARE Refreshing Extra Fresh with 24-Hour Nourishing Micromoisture Technology Body Wash at Amazon",
+        "description": "Amazon [amazon.com] has *3-Oz DOVE MEN + CARE Refreshing Extra Fresh with 24-Hour Nourishing Micromoisture Technology Body Wash* for $1.38 - 10% when you 'clip' the coupon on product page - 10% when...",
+        "url": "https://slickdeals.net/f/18856783-s-s-ac-1-10-3-oz-dove-men-care-refreshing-extra-fresh-with-24-hour-nourishing-micromoisture-technology-body-wash-at-amazon",
+        "urlToImage": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/18831493.thumb",
+        "publishedAt": "2025-11-23T11:40:14Z",
+        "content": "Amazon[amazon.com] has 3-Oz DOVE MEN + CARE Refreshing Extra Fresh with 24-Hour Nourishing Micromoisture Technology Body Wash for $1.38 - 10% when you 'clip' the coupon on product page - 10% when you… [+524 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nep123.com"
+        },
+        "author": "Editor",
+        "title": "iPhone 17e: Upgraded Selfie Camera!",
+        "description": "Apple‘s iPhone 17e to Get a Camera Upgrade! Exciting news for Apple enthusiasts! The upcoming iPhone 17e is rumored to be receiving a significant camera upgrade. Sources indicate that the iPhone 17e will boast an 18-megapixel selfie camera, bringing it in lin…",
+        "url": "https://nep123.com/iphone-17e-upgraded-selfie-camera/",
+        "urlToImage": "https://nep123.com/wp-content/uploads/2025/09/basantapur_featured.jpg",
+        "publishedAt": "2025-11-23T11:34:23Z",
+        "content": "Apple‘s iPhone 17e to Get a Camera Upgrade!\r\nExciting news for Apple enthusiasts! The upcoming iPhone 17e is rumored to be receiving a significant camera upgrade. Sources indicate that the iPhone 17e… [+1139 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "PM Modi calls for global compact on AI to prevent misuse",
+        "description": "In a call for collective responsibility, Prime Minister Narendra Modi highlighted the necessity of an international pact to curb the potential harms of artificial intelligence. He articulated the vision that groundbreaking technologies should serve humanity, …",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-calls-for-global-compact-on-ai-to-prevent-misuse/articleshow/125519210.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125519231,width-1200,height-630,imgsize-685975,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-11-23T11:32:28Z",
+        "content": "Prime Minister Narendra Modi on Sunday called for a global compact to prevent misuse of artificial intelligence and made a strong pitch for critical technologies to be human-centric, instead of finan… [+1547 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": "Aamir Siddiqui",
+        "title": "Do Galaxy Watch owners actually use Gemini? Survey reveals surprising results",
+        "description": "A poll of Galaxy Watch users shows that nearly half do not regularly use Gemini, but the other half does, giving us a split verdict.",
+        "url": "https://www.androidauthority.com/gemini-on-galaxy-watch-poll-results-3618483/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Gemini-Galaxy-Watch-8-3-scaled.jpg",
+        "publishedAt": "2025-11-23T11:30:26Z",
+        "content": "Smartwatches are the perfect use case for a voice assistant the small screen makes touch-based navigation and typing cumbersome, and users also have lower expectations and needs for the tasks they ca… [+2141 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Toys"
+        },
+        "author": "Justin Kahn",
+        "title": "Official Bose Black Friday week now live: New QuietComfort Ultra buds and headphones, more (Up to $160 off)",
+        "description": "The official Bose Black Friday Week sale is $160 off QuietComfort headphones, loads of speakers deals (including its 2025 releases), and more. The real headliners here are, perhaps, the new 2nd gen QuietComfort Ultra Earbuds and Ultra Headphones, both of whic…",
+        "url": "http://9to5toys.com/2025/11/23/official-bose-black-friday-week-quietcomfort-ultra-buds-headphones/",
+        "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Bose-Black-Friday-Week-sale-now-live.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2025-11-23T11:24:41Z",
+        "content": "The official Bose Black Friday Week sale is now live with up to 45% in savings. Youll find these deals live on both the official Bose site and over at Amazon with as much as $160 off QuietComfort hea… [+2135 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Economictimes.com"
+        },
+        "author": "Others",
+        "title": "IBM Simon: “The world's first smartphone” and the bulky device that started the smartphone revolution you never knew about",
+        "description": "On November 23, 1992, a bulky brick-shaped device debuted at a Las Vegas tech trade show, merging your calendar, email, and phone into one gadget. It was weird. It was expensive. And it sparked the revolution we carry in our pockets today. It was IBM Simon/ H…",
+        "url": "https://m.economictimes.com/news/india/ibm-simon-the-worlds-first-smartphone-and-the-bulky-device-that-started-the-smartphone-revolution-you-never-knew-about/how-one-gadget-rewired-the-future/slideshow/125519168.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125519168,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+        "publishedAt": "2025-11-23T11:24:15Z",
+        "content": "Nov 23, 2025, 04:54:43 PM IST\r\nOn November 23, 1992, a bulky brick-shaped device debuted at a Las Vegas tech trade show, merging your calendar, email, and phone into one gadget. It was weird. It was … [+2106 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Siamak Masnavi, AI Boost",
+        "title": "VanEck CEO Concerned About Bitcoin's Encryption and Privacy, Says Firm Could Walk Away",
+        "description": "Jan van Eck questioned whether Bitcoin offers enough encryption and privacy, saying some longtime holders are examining Zcash as the market reassesses long-term assumptions.",
+        "url": "https://www.coindesk.com/markets/2025/11/23/vaneck-ceo-concerned-about-bitcoin-s-encryption-and-privacy-says-firm-could-walk-away",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/ed442dd3e6f0386354a2bbfb6b164960ce56422f-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2025-11-23T11:18:20Z",
+        "content": "Bitcoins long-term design came under renewed scrutiny on Friday after VanEck CEO Jan van Eck questioned whether the network provides sufficient encryption and privacy during an appearance on CNBCs Po… [+3912 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Riya Sharma",
+        "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+        "description": "The Indian market ended lower on Friday as profit-taking weighed on indices near record highs. The Sensex fell 400.76 points to 85,231.92, while the Nifty dropped 124 points to 26,068.15. Banking stocks, led by ICICI Bank and HDFC Bank, dragged the market ami…",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/125518810.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125518810,width-1200,height-630,imgsize-38566,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-11-23T11:16:54Z",
+        "content": "The Indian market ended lower on Friday as a wave of profit-taking set in, with the Sensex and Nifty hovering near record highs. Banking heavyweights ICICI Bank and HDFC Bank led the decline, while i… [+4002 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Lata Jha",
+        "title": "OTT platforms rush to build legal teams as digital data privacy rules kick in",
+        "description": "The implementation of the Digital Personal Data Protection Act, 2023, mandates significant compliance efforts from OTT platforms, particularly in data management and privacy. This may disrupt existing revenue models and impose heavier burdens on smaller platf…",
+        "url": "https://www.livemint.com/industry/media/streaming-platforms-prep-legal-compliance-teams-brace-for-additional-costs-post-data-privacy-law-11763881527038.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/23/1600x900/logo/Apple_TV_4K_vs_Google_TV_1755597959638_1755597959863_1763881580313.jpg",
+        "publishedAt": "2025-11-23T11:16:04Z",
+        "content": "Video-streaming platforms have begun putting in place legal teams in order to comply with the personal data-privacy regime that formally kicked in last week.\r\nMore than two years after the Digital Pe… [+7619 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "Unstructured clinical data opens fresh market for AI firms",
+        "description": "Unstructured clinical data, comprising 80% of health information, presents a significant market opportunity for AI-driven solutions. Experts highlight that technologies like NLP and LLMs can now unlock this 'dark data' from free-text notes, revolutionizing di…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/unstructured-clinical-data-opens-fresh-market-for-ai-firms/articleshow/125519092.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-86858,resizemode-75,msid-125519092/tech/artificial-intelligence/unstructured-clinical-data-opens-fresh-market-for-ai-firms.jpg",
+        "publishedAt": "2025-11-23T11:15:17Z",
+        "content": "The healthcare industry's vast pool of unstructured clinical data is fast emerging as a major market opportunity for companies building Artificial Intelligence (AI)-driven solutions, say experts and … [+4170 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rolling Out"
+        },
+        "author": "David Kesiena",
+        "title": "How Apple M4 Max redefines laptop performance now",
+        "description": "Apple’s approach to chip design has undergone a fundamental transformation since the debut of the M1 processor in 2020. The M4 Max reveals how dramatically the company has shifted power allocation away from the CPU toward graphics processing and memory system…",
+        "url": "https://rollingout.com/2025/11/23/apple-m4-max-cpu-power-consumption-gpu/",
+        "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2459299085-scaled.jpg",
+        "publishedAt": "2025-11-23T11:10:30Z",
+        "content": "Apple’s approach to chip design has undergone a fundamental transformation since the debut of the M1 processor in 2020. The M4 Max reveals how dramatically the company has shifted power allocation aw… [+6726 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Analysis:Investors eye holiday season turbulence amid AI and rate cut doubts",
+        "description": "NEW YORK :Stock market investors are preparing for a turbulent year-end sparked by uncertainty over near-term Federal Reserve interest rate cuts and mounting worries that artificial intelligence companies, which have propelled the market to new records this y…",
+        "url": "https://www.channelnewsasia.com/business/analysisinvestors-eye-holiday-season-turbulence-amid-ai-and-rate-cut-doubts-5485501",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Jjk2MAYN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-11-23T110949Z_1_LYNXMPELAM06Q_RTROPTP_3_TECH-AI.JPG?itok=ULLnZeRK",
+        "publishedAt": "2025-11-23T11:06:32Z",
+        "content": "NEW YORK :Stock market investors are preparing for a turbulent year-end sparked by uncertainty over near-term Federal Reserve interest rate cuts and mounting worries that artificial intelligence comp… [+5488 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "fortune.com",
+        "title": "‘Not the MAHA that we signed up for’: Robert F. Kennedy Jr. learns the perils of power and keeping his grassroots movement together",
+        "description": "Robert F. Kennedy Jr. spent a recent Wednesday showered in praise from the vice president and health technology CEOs at a glitzy “Make America Healthy Again” event in Washington, designed to celebrate the health secretary’s successes and the movement he has b…",
+        "url": "https://biztoc.com/x/d286e64d8382ddaa",
+        "urlToImage": "https://biztoc.com/cdn/d286e64d8382ddaa_s.webp",
+        "publishedAt": "2025-11-23T11:05:15Z",
+        "content": "Robert F. Kennedy Jr. spent a recent Wednesday showered in praise from the vice president and health technology CEOs at a glitzy Make America Healthy Again event in Washington, designed to celebrate … [+142 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hurriyet Daily News"
+        },
+        "author": "hurriyetdailynews.com",
+        "title": "South Korea, Türkiye are 'brotherly nations bound by blood,' says Lee",
+        "description": "South Korean President Lee Jae Myung has said that his country and Türkiye \"are brotherly nations bound by blood, having fought side by side to defend freedom and democracy.\"",
+        "url": "https://www.hurriyetdailynews.com/south-korea-turkiye-are-brotherly-nations-bound-by-blood-says-lee-216035",
+        "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6922ea36cf579f4e5063e1dc.jpg",
+        "publishedAt": "2025-11-23T11:04:28Z",
+        "content": "ANKARA\r\nSouth Korean President Lee Jae Myung has said that his country and Türkiye \"are brotherly nations bound by blood, having fought side by side to defend freedom and democracy.\"\r\n\"Türkiye is a s… [+2108 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "124 border villages being developed under Vibrant Villages Programme-II in J&K",
+        "description": "Jammu and Kashmir is set to develop 124 strategic border villages. The Vibrant Villages Programme-II focuses on improving road and telecom connectivity. Electrification is also a key priority. Efforts are underway to bridge information gaps and promote financ…",
+        "url": "https://economictimes.indiatimes.com/news/india/124-border-villages-being-developed-under-vibrant-villages-programme-ii-in-jk/articleshow/125518979.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125519043,width-1200,height-630,imgsize-748774,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-11-23T11:04:17Z",
+        "content": "A comprehensive roadmap has been prepared for the focused development of 124 strategic villages across 43 border blocks in eight districts under the second phase of the Vibrant Villages Programme in … [+2821 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Lewis Krauskopf and Saqib Iqbal Ahmed",
+        "title": "Investors eye holiday season turbulence amid AI and rate cut doubts",
+        "description": "As of Friday'​s close, the benchmark S&P 500 index and Nasdaq Composite were down 4% and 7% respectively from their late October record highs.",
+        "url": "https://finance.yahoo.com/news/analysis-investors-eye-holiday-season-110335615.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jlvLAn3ha6s_Q43vBL2clg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/dcb23080-af29-11ef-bbb2-c65c667723f4",
+        "publishedAt": "2025-11-23T11:03:35Z",
+        "content": "By Lewis Krauskopf and Saqib Iqbal Ahmed\r\nNEW YORK (Reuters) -Stock market investors are preparing for a turbulent year-end sparked by uncertainty over near-term Federal Reserve interest rate cuts an… [+5457 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AutoExpress"
+        },
+        "author": "Alastair Crooks",
+        "title": "Black Friday Car Deal of the Day: This Polestar 3 offers 483bhp for £485 a month",
+        "description": "The Polestar 3 proves you can have style and substance in an electric SUV - it’s our Deal of the Day for Sunday 23 November",
+        "url": "https://www.autoexpress.co.uk/polestar/3/368376/black-friday-car-deal-day-polestar-3-offers-483bhp-ps485-month",
+        "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1733938061/autoexpress/2024/12/Polestar 3-16.jpg",
+        "publishedAt": "2025-11-23T11:03:34Z",
+        "content": "<ul><li>Excellent ride on motorway</li><li>Impressive range</li><li>£485 a month</li></ul>Tired of the same old premium German brands? Well, if youre after an all-electric car that majors on quality,… [+1783 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Puran Choudhary",
+        "title": "Social innovations need to be tech-led, require patient funding: Infosys Foundation trustee Dhareshwar",
+        "description": "Social innovators require consistent funding to address societal challenges. Infosys Foundation trustee Sunil Kumar Dhareshwar highlights that current support is often insufficient. Technology plays a crucial role in these solutions. Projects need long-term c…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/social-innovations-need-to-be-tech-led-require-patient-funding-infosys-foundation-trustee-dhareshwar/articleshow/125518815.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22386,resizemode-75,msid-125518815/tech/technology/social-innovations-need-to-be-tech-led-require-patient-funding-infosys-foundation-trustee-dhareshwar.jpg",
+        "publishedAt": "2025-11-23T11:02:04Z",
+        "content": "Technology is no longer optional in addressing social problems; it sits at the heart of solutions. However, innovators need sustained support to reach the last mile, Infosys Foundation trustee Sunil … [+2979 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rolling Out"
+        },
+        "author": "Tega Egwabor",
+        "title": "Are holiday scammers targeting you right now?",
+        "description": "The holiday season brings joy and celebration, but it also creates prime opportunities for fraudsters seeking to exploit busy consumers. Between shopping for gifts, planning travel and making charitable donations, people often overlook potential threats hidin…",
+        "url": "https://rollingout.com/2025/11/23/are-holiday-scammers-targeting-you-now/",
+        "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/shutterstock_2375019855-scaled.jpg",
+        "publishedAt": "2025-11-23T11:00:17Z",
+        "content": "The holiday season brings joy and celebration, but it also creates prime opportunities for fraudsters seeking to exploit busy consumers. Between shopping for gifts, planning travel and making charita… [+5134 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "Meet Antic, the Retro Electric Minibike That Brings 1970s Fun Back to 2025",
+        "description": "What if your daily commute could feel less like a chore and more like a joyride? Imagine zipping through city streets or winding suburban paths on a minibike that’s as stylish as it is innovative. Enter the Antic by Future Motion, a retro-futuristic marvel th…",
+        "url": "https://www.geeky-gadgets.com/future-motion-antic-electric-minibike/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/11/1-aluminum-frame-antic-compact-comfort-taller-riders_optimized.jpg",
+        "publishedAt": "2025-11-23T11:00:08Z",
+        "content": "What if your daily commute could feel less like a chore and more like a joyride? Imagine zipping through city streets or winding suburban paths on a minibike thats as stylish as it is innovative. Ent… [+6697 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Henry Chandonnet",
+        "title": "Slack cofounder says embarrassment can be motivating — but it can also lead to employees papering the office",
+        "description": "Slack cofounder Stewart Butterfield said that employees should have a \"perpetual desire to improve.\"",
+        "url": "https://www.businessinsider.com/slack-stewart-butterfield-value-embarrassment-direct-criticism-employee-motivation-2025-11",
+        "urlToImage": "https://i.insider.com/6920922489026fbb4d0e28c6?width=1200&format=jpeg",
+        "publishedAt": "2025-11-23T11:00:01Z",
+        "content": "Slack cofounder Stewart Butterfield said, for many employees, \"really direct criticism is actually motivational.\"Phillip Faraone/Getty Images for WIRED\r\n<ul><li>Slack cofounder Stewart Butterfield sa… [+2872 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rigzone"
+        },
+        "author": "Jov Onsat",
+        "title": "Baker Hughes Books 1.3 GW Gas Turbine Order from Dynamis",
+        "description": "The turbines include a new offering that represents 'the oil and gas industry's highest reported mobile power density (MW per square foot) to date'.",
+        "url": "https://www.rigzone.com/news/baker_hughes_books_13_gw_gas_turbine_order_from_dynamis-23-nov-2025-182364-article/",
+        "urlToImage": "https://images.rigzone.com/images/news/articles/Baker-Hughes-Books-13-GW-Gas-Turbine-Order-from-Dynamis-182364-1200x628.png",
+        "publishedAt": "2025-11-23T11:00:01Z",
+        "content": "Dynamis Power Solutions LLC has awarded Baker Hughes Co a contract for the supply of 25 aeroderivative gas turbines with a combined capacity of 1.3 gigawatts (GW).\r\nThe turbines, including LM2500, LM… [+3114 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thephoblographer.com"
+        },
+        "author": "Nilofer Khan",
+        "title": "The Full-Frame Sensor That Could Have Changed Camera History—But Didn’t",
+        "description": "The early 2000s were a great time for digital phtoography, where the nascent technology was finding its footing through new innovations. There was, however, one sensor design that had the potential to change everything: A 6MP full-frame CCD sensor made by Phi…",
+        "url": "https://www.thephoblographer.com/2025/11/23/the-full-frame-sensor-that-could-have-changed-camera-history-but-didnt/",
+        "urlToImage": "https://www.thephoblographer.com/wp-content/uploads/2025/11/New-Project-2.jpg",
+        "publishedAt": "2025-11-23T11:00:00Z",
+        "content": "The early 2000s were a great time for digital phtoography, where the nascent technology was finding its footing through new innovations. There was, however, one sensor design that had the potential t… [+3305 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "nytimes.com",
+        "title": "The Fate of Google’s Ad Tech Monopoly Is Now in a Judge’s Hands",
+        "description": "",
+        "url": "https://biztoc.com/x/99fa571c2eae7ee9",
+        "urlToImage": "https://biztoc.com/cdn/955/og.png",
+        "publishedAt": "2025-11-23T10:54:25Z",
+        "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Teslas sales plunging in China? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will UKs tax-raising budget im… [+713 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nextbigwhat.com"
+        },
+        "author": "Tom",
+        "title": "Elon Musk & Jensen Huang: Shaping AI and Tech’s Future",
+        "description": "Elon Musk emphasizes that his approach is more about creation than disruption. With SpaceX, he introduced reusable rockets, revolutionizing space travel by...\nThe post Elon Musk & Jensen Huang: Shaping AI and Tech’s Future appeared first on NextBigWhat.",
+        "url": "https://nextbigwhat.com/elon-musk-jensen-huang-shaping-ai-and-techs-future/",
+        "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+        "publishedAt": "2025-11-23T10:52:03Z",
+        "content": "Elon’s Disruption Philosophy\r\nElon Musk emphasizes that his approach is more about creation than disruption. With SpaceX, he introduced reusable rockets, revolutionizing space travel by reducing cost… [+6138 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rlsbb.to"
+        },
+        "author": "Lisa",
+        "title": "Bettany Hughes Treasures of the World S04 720p ALL4 WEB-DL H264-RAWR",
+        "description": "With unique access and state-of-the-art technology, Bettany lifts the lid on the most remarkable treasures of civilisation to investigate the story of humanity. She examines household-name treasures and new finds from across the world. Links: HOMEPAGE – iMDBB…",
+        "url": "https://post.rlsbb.to/bettany-hughes-treasures-of-the-world-s04-720p-all4-web-dl-h264-rawr/",
+        "urlToImage": null,
+        "publishedAt": "2025-11-23T10:47:07Z",
+        "content": "With unique access and state-of-the-art technology, Bettany lifts the lid on the most remarkable treasures of civilisation to investigate the story of humanity. She examines household-name treasures … [+200 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "Erica Kam",
+        "title": "This Cute Lounge Set Feels Like Pajamas — And It’s Less Than $40 For Black Friday",
+        "description": "This sweatsuit made my last cross-country flight the coziest yet without sacrificing style.",
+        "url": "https://www.huffpost.com/entry/travel-lounge-set-amazon-black-friday-deal_l_6920a006e4b0536e01acd96a",
+        "urlToImage": "https://img.huffingtonpost.com/asset/67a662f61600001800aff32c.png?cache=jfjG7WE6eS&ops=500_281%2Cscalefit_1200_630",
+        "publishedAt": "2025-11-23T10:45:17Z",
+        "content": "As someone who used to roll up to the gate in my boxiest sweatshirt and a pair of old leggings, I was always envious of travelers who looked put-together, like they could go straight from the airport… [+19398 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Key milestone, will mark new growth chapter amid online, qcomm boom: Shiprocket CEO on upcoming IPO",
+        "description": "Goel told PTI in an interview said the IPO will be an important milestone as it \"institutionalises\" the company that has evolved from being a shipping partner to an end-to-end e-commerce enablement platform for Indian merchants",
+        "url": "https://economictimes.indiatimes.com/tech/startups/key-milestone-will-mark-new-growth-chapter-amid-online-qcomm-boom-shiprocket-ceo-on-upcoming-ipo/articleshow/125519097.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49928,resizemode-75,msid-125519097/tech/startups/key-milestone-will-mark-new-growth-chapter-amid-online-qcomm-boom-shiprocket-ceo-on-upcoming-ipo.jpg",
+        "publishedAt": "2025-11-23T10:42:35Z",
+        "content": "Shiprocket Co-Founder and CEO Saahil Goel sees the upcoming IPO as a key milestone reflecting internal discipline, scale and governance, and believes it will set the logistics tech company on a new g… [+5869 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Key milestone, will mark new growth chapter amid online, qcomm boom: Shiprocket CEO on upcoming IPO",
+        "description": "Goel told PTI in an interview said the IPO will be an important milestone as it \"institutionalises\" the company that has evolved from being a shipping partner to an end-to-end e-commerce enablement platform for Indian merchants",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/key-milestone-will-mark-new-growth-chapter-amid-online-qcomm-boom-shiprocket-ceo-on-upcoming-ipo/articleshow/125518706.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125518706,width-1200,height-630,imgsize-49928,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-11-23T10:42:35Z",
+        "content": "Shiprocket Co-Founder and CEO Saahil Goel sees the upcoming IPO as a key milestone reflecting internal discipline, scale and governance, and believes it will set the logistics tech company on a new g… [+5874 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News18"
+        },
+        "author": "News18",
+        "title": "India's Space Economy Set To Soar To USD 45 Billion, Says Minister Jitendra Singh",
+        "description": "India’s space economy aims for USD 44-45 billion, driven by reforms and collaborations at IISC 2025 in New Delhi.",
+        "url": "https://www.news18.com/business/indias-space-economy-set-to-soar-to-usd-45-billion-says-minister-jitendra-singh-ws-l-9726401.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/08/Jitendra-Singh-2025-08-027a0cc4f5e46596ff662605fb096b8b-16x9.jpg",
+        "publishedAt": "2025-11-23T10:39:39Z",
+        "content": "Last Updated:November 23, 2025, 15:29 IST\r\nIndias space economy is projected to touch USD 44-45 billion from USD 8 billion today in the coming decades. Speaking at the 4th edition of the India Intern… [+3318 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Bloomberg News",
+        "title": "Saudi Prince Faces Big Task Turning Trump Pledges Into Real Wins",
+        "description": "Saudi Arabia’s Crown Prince Mohammed bin Salman was greeted at the White House last week with considerable pageantry and a series of pledges from US President Donald Trump, a mutual love-in that appeared to deepen the relationship between the two countries.",
+        "url": "https://financialpost.com/pmn/business-pmn/saudi-prince-faces-big-task-turning-trump-pledges-into-real-wins",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/11/776418797.jpg",
+        "publishedAt": "2025-11-23T10:37:14Z",
+        "content": "From the report I received on the meeting, he didnt exactly get everything he wanted and I wont elaborate further, Netanyahu said in an interview on Thursday with Abu Ali Express, a Hebrew-language T… [+3362 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Economictimes.com"
+        },
+        "author": "Others",
+        "title": "Toy Story’s first ever premiere and how Steve Job’s ”Pixar” revolutionized the Animation industry with CGI",
+        "description": "On November 22, 1995, Toy Story arrived as cinema's first fully computer-animated feature, disrupting a century of hand-drawn tradition.Pre 1995, animation meant hand-drawn frames by thousands of artists annually. Pixar's audacious gamble paid off spectacular…",
+        "url": "https://m.economictimes.com/news/india/toy-storys-first-ever-premiere-and-how-steve-jobs-pixar-revolutionized-the-animation-industry-with-cgi/november-22-1995-toy-storys-30th-year-anniversary/slideshow/125518627.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125518627,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+        "publishedAt": "2025-11-23T10:35:19Z",
+        "content": "Nov 23, 2025, 04:06:08 PM IST\r\nOn November 22, 1995, Toy Story arrived as cinema's first fully computer-animated feature, disrupting a century of hand-drawn tradition.Pre 1995, animation meant hand-d… [+2626 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Torrentfreak.com"
+        },
+        "author": "Andy Maxwell",
+        "title": "Cloudflare Says Piracy Liability Ruling Has Global Implications; Publishers Disagree",
+        "description": "A ruling by a Tokyo court which holds Cloudflare liable for manga piracy is serious and could have global implications, the company says. Filed by manga publishers in 2022, the lawsuit criticized Cloudflare for providing services to the sites, despite the pub…",
+        "url": "https://torrentfreak.com/cloudflare-says-piracy-liability-ruling-sets-a-dangerous-precedent-the-publishers-disagree-251123/",
+        "urlToImage": "https://torrentfreak.com/images/cloud-mesh-f.png",
+        "publishedAt": "2025-11-23T10:08:29Z",
+        "content": "Services offered by U.S tech giant Cloudflare improve the performance and security of millions of websites, amounting to a significant contribution towards the health of today’s internet.\r\nThose hopi… [+5922 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Riya Sharma",
+        "title": "Berkshire's unusually modern bet on Alphabet forces a fresh look at Warren Buffett’s playbook",
+        "description": "Berkshire Hathaway’s Alphabet stake has surged $415 million in just a week, reaching nearly $5.35 billion as shares climbed 8.4%. The move has reignited debate over whether the traditionally cautious firm is warming to high-risk, AI-driven growth. Alphabet’s …",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/berkshires-unusually-modern-bet-on-alphabet-forces-a-fresh-look-at-warren-buffetts-playbook/articleshow/125518300.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-125518300,width-1200,height-630,imgsize-51352,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2025-11-23T10:08:01Z",
+        "content": "Just one week after Berkshire Hathaway revealed it had bought 17.8 million Class A shares of Alphabet in the third quarter, the position is already up about $415 million, swelling to nearly $5.35 bil… [+2699 chars]"
+      }
+    ]
+  }
+}

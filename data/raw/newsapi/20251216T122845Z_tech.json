@@ -1,0 +1,1163 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 41667,
+  "articles": [
+    {
+      "title": "Earnings calls citing ‘AI’ surge in 2025 as ‘uncertainty’ mentions fade",
+      "description": "AI talk hits a record high.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/12/15/earnings-calls-citing-ai-surge-2025-uncertainty-mentions-fade-cfo/",
+      "published_at": "2025-12-15T12:28:12Z",
+      "author": "Sheryl Estrada",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2241286143-e1765800559281.jpg?resize=1200,600",
+      "content": "Good morning. CEOs and CFOs are clearly focused on AIit is the most-used term in S&amp;P 500 earnings calls this year.FactSet examined conference call transcripts for all S&amp;P 500 companies that h… [+5185 chars]"
+    },
+    {
+      "title": "Doha Bank Completes $150M Instantly Settled Digital Bond Led by Standard Chartered",
+      "description": "Doha Bank has completed its first digitally native US dollar bond, issuing $150 million in floating-rate notes that settled instantly using distributed ledger technology.\nKey Takeaways:\n-\nDoha Bank completed a $150 million digital bond with instant T+0 settle…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7bfd33b10811c8fd",
+      "published_at": "2025-12-15T12:27:11Z",
+      "author": "finance.yahoo.com",
+      "image_url": "https://biztoc.com/cdn/7bfd33b10811c8fd_s.webp",
+      "content": "Doha Bank has completed its first digitally native US dollar bond, issuing $150 million in floating-rate notes that settled instantly using distributed ledger technology.Key Takeaways:-Doha Bank comp… [+144 chars]"
+    },
+    {
+      "title": "New AI and video tech is taking the danger and guesswork out of this punishing Air Force job that hasn't changed in 50 years",
+      "description": "Tanker maintenance workers spend their days crawling in and out of fuel tanks. New tech might make a hard job a little easier.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/behind-new-tech-making-dirty-hard-air-force-job-easier-2025-12",
+      "published_at": "2025-12-15T12:27:01Z",
+      "author": "Chris Panella",
+      "image_url": "https://i.insider.com/693c4e0f832e0ef1ead62459?width=1200&format=jpeg",
+      "content": "Aerial refueling tanker aircraft are the backbone of the Air Force's ability to fly combat jets further distances around the world.US Air Force photo by Airman 1st Class Aidan Martínez Rosiere\r\n<ul><… [+8084 chars]"
+    },
+    {
+      "title": "pyramecium-technology-models 1.1.0",
+      "description": "A toolbox to create multi-energy power time series for different technologies in steady-state simulations of energy systems.",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/pyramecium-technology-models/1.1.0/",
+      "published_at": "2025-12-15T12:26:59Z",
+      "author": "sasan_jacob.rasti@tu-dresden.de, felix.flatter@rptu.de",
+      "image_url": null,
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    },
+    {
+      "title": "Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams",
+      "description": "",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6510f558e02fb4fb",
+      "published_at": "2025-12-15T12:26:47Z",
+      "author": "washingtonpost.com",
+      "image_url": "https://biztoc.com/cdn/955/og.png",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did iRobot file for bankruptcy? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps economic policies aff… [+702 chars]"
+    },
+    {
+      "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+      "description": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even…",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+      "published_at": "2025-12-15T12:24:00Z",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s790-rw-e365/recapp.jpg",
+      "content": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and… [+27892 chars]"
+    },
+    {
+      "title": "I put GPT-5.2 through an 13-round test, and the AI model raised some serious questions",
+      "description": "After 10 text and 4 image tests, OpenAI's latest model barely beats GPT-5.1. What are Plus subscribers really getting?",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/text-image-tests-openai-gpt-5-2-mixed-results/",
+      "published_at": "2025-12-15T12:20:00Z",
+      "author": "David Gewirtz",
+      "image_url": "https://www.zdnet.com/a/img/resize/f7a02d7f0743cce38e3ab48550b073d4ee232ea6/2025/08/14/e6639e9a-cab6-4343-abe5-016d06d4246b/gpt-5-laptop.png?auto=webp&fit=crop&height=675&width=1200",
+      "content": "Yuichiro Chino/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>GPT-5.2 barely outperforms GPT-5.1 despite requiring a Plus subscription</li><l… [+13282 chars]"
+    },
+    {
+      "title": "Florida Sues Roblox, Accusing Gaming Platform of Creating a 'Paedophile Landscape'",
+      "description": "Florida has sued Roblox, accusing the gaming platform of failing to protect children and allowing what officials describe as a paedophile landscape to develop.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/florida-sues-roblox-accusing-gaming-platform-creating-paedophile-landscape-3792616",
+      "published_at": "2025-12-15T12:18:18Z",
+      "author": "Jonas Sunico",
+      "image_url": "https://d.ibtimes.com/en/full/4607519/online-gaming-platform-roblox-popular-children-teenagers.jpg",
+      "content": "Once promoted as a safe digital playground for children, Roblox is now facing mounting pressure from governments across the world.\r\nIn recent weeks, the popular gaming platform has become the target … [+3495 chars]"
+    },
+    {
+      "title": "Interstellar Comet 3I/ATLAS Is 7 Billion Years Old, Glowing Green, and Definitely Not Alien – Experts Weigh In",
+      "description": "Scientists say the colour shift in interstellar comet 3I/ATLAS is due to gases in the comet's coma reacting to solar heat.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/interstellar-comet-3i-atlas-7-billion-years-old-glowing-green-definitely-not-alien-experts-3792598",
+      "published_at": "2025-12-15T12:15:06Z",
+      "author": "Ria Pathak",
+      "image_url": "https://d.ibtimes.com/en/full/4632534/avi-loeb.png",
+      "content": "When astronomers confirmed that a fast-moving object detected on 1 July 2025 was racing through the Solar System on a one-way path, speculation followed almost instantly.\r\nSocial media lit up with fa… [+3678 chars]"
+    },
+    {
+      "title": "If you care about the security of your iPhone, go update right now",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nNew iOS and iPadOS updates don’t just add lots of new features to your iPhone. There are also updates to improve the security and reliability of your devices, and the latest release is no exception. There are 25 new security updates in iOS/iP…",
+      "source": "Macworld",
+      "url": "https://www.macworld.com/article/3009978/if-you-care-about-the-security-of-your-iphone-go-update-right-now.html",
+      "published_at": "2025-12-15T12:15:00Z",
+      "author": "Jason Cross",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2025/12/ios26-2-hero-8.jpg?quality=50&strip=all&w=1024",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nNew iOS and iPadOS u… [+2356 chars]"
+    },
+    {
+      "title": "EU yields to pressure from automakers as it rethinks 2035 combustion car ban",
+      "description": "BRUSSELS/LONDON/STOCKHOLM, Dec 15 () - The European Commission is expected on Tuesday to reverse the EU's effective ban on sales of new combustion-engine...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/eu-yields-pressure-automakers-rethinks-060730914.html",
+      "published_at": "2025-12-15T12:12:24Z",
+      "author": "Reuters",
+      "image_url": "https://media.zenfs.com/en/reuters.com/559b611c1c4079108f89dbf3f83dcd59",
+      "content": "BRUSSELS/LONDON/STOCKHOLM, Dec 15 (Reuters) - The European Commission is expected on Tuesday to reverse the EU's effective ban on sales of new combustion-engine cars from 2035, bowing to intense pres… [+4343 chars]"
+    },
+    {
+      "title": "Visa Unveils New Global Stablecoins Advisory Practice",
+      "description": "Visa Consulting & Analytics combines advanced payments strategy and expert crypto knowledge to help clients innovate and grow with stablecoins technology SAN FRANCISCO — Visa (NYSE: V), a global leader in digital payments, today announced the launch of its St…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/visa-unveils-new-global-stablecoins-advisory-practice",
+      "published_at": "2025-12-15T12:09:56Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "Visa Consulting &amp; Analytics combines advanced payments strategy and expert crypto knowledge to help clients innovate and grow with stablecoins technology\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS… [+6671 chars]"
+    },
+    {
+      "title": "Fiber Optic Preform Market Size to Surpass USD 37.50 Billion by 2033, at 20.39% CAGR | Report by SNS Insider",
+      "description": "Fiber Optic Preform Market Size, Share & Trends Analysis Report, By Process, Product Type, End User, Technology, and Region | Global Forecast 2026-2033...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205294/0/en/Fiber-Optic-Preform-Market-Size-to-Surpass-USD-37-50-Billion-by-2033-at-20-39-CAGR-Report-by-SNS-Insider.html",
+      "published_at": "2025-12-15T12:09:00Z",
+      "author": "SNS Insider pvt ltd",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "content": "Austin, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Fiber Optic Preform Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider,The Fiber Optic Preform Market size\r\n was valued at USD 8.50 Billion in … [+8248 chars]"
+    },
+    {
+      "title": "Amazon Founder Jeff Bezos' Shocking Secret Fantasy Revealed",
+      "description": "Amazon founder Jeff Bezos reveals a surprising secret fantasy far removed from boardrooms and billions, giving a rare glimpse into the personal dreams of the Amazon billionaire.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/amazon-founder-jeff-bezos-shocking-secret-fantasy-revealed-3792620",
+      "published_at": "2025-12-15T12:07:12Z",
+      "author": "Tanmay Puri",
+      "image_url": "https://d.ibtimes.com/en/full/4634326/amazons-founder-jeff-bezos.jpg",
+      "content": "Jeff Bezos, the founder of Amazon, has taken the company from an online bookstore in the 1990s into one of the world's most powerful technology and logistics giants. His business acumen has made him … [+3531 chars]"
+    },
+    {
+      "title": "MI6 Warns of Russian 'Chaos Export': Cyber Hits, Sabotage, and Proxies Target Britain",
+      "description": "MI6 chief Blaise Metreweli warns Russia is exporting chaos through cyber attacks, sabotage and influence operations in Britain, as Ukraine support and tech race intensify.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/mi6-warns-russian-chaos-export-cyber-hits-sabotage-proxies-target-britain-3792623",
+      "published_at": "2025-12-15T12:07:10Z",
+      "author": "Rohit David",
+      "image_url": "https://d.ibtimes.com/en/full/3582275/secret-intelligence-service-mi6-logo-seen-event-university-st-andrews-scotland-2018.jpg",
+      "content": "Britain's MI6 chief has warned that Russia is exporting chaos to the UK through a campaign of cyber attacks, sabotage, and proxy operations, declaring the frontline is everywhere in this age of uncer… [+3514 chars]"
+    },
+    {
+      "title": "Why is my USB port orange? I learned what every color really means, and it's wild",
+      "description": "Look closely - the colors on your USB ports are more than just aesthetics.",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/what-every-usb-port-color-means/",
+      "published_at": "2025-12-15T12:07:00Z",
+      "author": "Kyle Kucharski",
+      "image_url": "https://www.zdnet.com/a/img/resize/20f9100b21fd6d609b5a24a4bc1a2b7e7e2a7ff8/2025/11/03/09b0af49-0f3b-44e4-b349-501a8a9b8239/img-4374.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nHave a USB device near you? Look closely at the port -- do you see a color? It turns out that it actually means something.… [+4560 chars]"
+    },
+    {
+      "title": "Microsoft Founder Bill Gates Reveals How He Will Use His Billions in 2026",
+      "description": "Microsoft founder Bill Gates reveals how he plans to use his billions in 2026, will he spend all his money?",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/microsoft-founder-bill-gates-reveals-how-he-will-use-his-billions-2026-3792625",
+      "published_at": "2025-12-15T12:06:02Z",
+      "author": "Tanmay Puri",
+      "image_url": "https://d.ibtimes.com/en/full/4637041/bill-gates.jpg",
+      "content": "Bill Gates, the founder of Microsoft and one of the most famous philanthropists of the modern era, has given out his plans for how he intends to spend his gigantic fortune in 2026. This is coming whe… [+3467 chars]"
+    },
+    {
+      "title": "The 20th Anniversary iPhone Could Feature Apple's Most Futuristic Design Yet",
+      "description": "Latest leaks suggest the 20th anniversary iPhone could feature a first-in-the-industry design, with major display makers ramping up their production lines.",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2051983/apple-20th-anniversary-iphone-futuristic-design/",
+      "published_at": "2025-12-15T12:05:22Z",
+      "author": "staff@bgr.com (Chris Smith)",
+      "image_url": "https://www.bgr.com/img/gallery/the-20th-anniversary-iphone-could-feature-apples-most-futuristic-design-yet/l-intro-1765799914.jpg",
+      "content": "The new report says that Apple's \"monolithic\" four-sided display is a different concept than the Edge displays Samsung used in previous years. Samsung has been the main promoter of smartphones with c… [+1767 chars]"
+    },
+    {
+      "title": "Samsung SWA President & CEO JB Park’s Message on Completing 30 Years in India & the Launch of #PoweringInnovationforIndia",
+      "description": "What began with baby steps in the winter of 1995, with the opening of a small office in New Delhi, has grown into a three-decade-long journey of building,",
+      "source": "Samsung.com",
+      "url": "https://news.samsung.com/in/samsung-swa-president-ceo-jb-parks-message-on-completing-30-years-in-india-the-launch-of-poweringinnovationforindia",
+      "published_at": "2025-12-15T12:05:03Z",
+      "author": null,
+      "image_url": "https://img.global.news.samsung.com/in/wp-content/uploads/2025/12/JB-Park-still-new1.jpg",
+      "content": "What began with baby steps in the winter of 1995, with the opening of a small office in New Delhi, has grown into a three-decade-long journey of building, innovating and growing together with India. … [+2156 chars]"
+    },
+    {
+      "title": "Kraig Biocraft Laboratories Successfully Completes Production Cycle, Delivering Over One Million BAM-1 Alpha Hybrid Eggs for Deployment",
+      "description": "Kraig Labs (OTCQB: KBLB) produced more than one million BAM-1 Alpha hybrid eggs that will serve as the next wave of recombinant spider silk production...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205292/0/en/Kraig-Biocraft-Laboratories-Successfully-Completes-Production-Cycle-Delivering-Over-One-Million-BAM-1-Alpha-Hybrid-Eggs-for-Deployment.html",
+      "published_at": "2025-12-15T12:05:00Z",
+      "author": "Kraig Biocraft Laboratories",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/3cf5ab91-0822-460b-bb13-17447941c84a",
+      "content": "ANN ARBOR, Mich., Dec. 15, 2025 (GLOBE NEWSWIRE) -- Kraig Biocraft Laboratories, Inc. (OTCQB: KBLB) (\"Company\" or \"Kraig Labs\"), a world leader in spider silk technology*, today announced the success… [+3672 chars]"
+    },
+    {
+      "title": "Microsoft Cuts AI Targets: Is Copilot at Risk?",
+      "description": "Microsoft has cut sales targets for its Copilot AI due to low enterprise adoption and stiff competition. Find out why companies are hesitating to upgrade.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/microsoft-cuts-ai-targets-copilot-risk-3792630",
+      "published_at": "2025-12-15T12:04:53Z",
+      "author": "Jan Kevin Bautista",
+      "image_url": "https://d.ibtimes.com/en/full/4629954/microsoft.jpg",
+      "content": "Microsoft has reportedly slashed its sales targets for its artificial intelligence products, specifically the Copilot software suite, following a period of sluggish adoption among enterprise customer… [+3561 chars]"
+    },
+    {
+      "title": "Innoviti Receives ASK Private Hurun India Unicorn & Future Unicorn Award",
+      "description": "Innoviti Receives ASK Private Hurun India Unicorn & Future Unicorn Award",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/innoviti-receives-ask-private-hurun-india-unicorn-future-unicorn-award/article70398766.ece",
+      "published_at": "2025-12-15T12:04:19Z",
+      "author": null,
+      "image_url": "https://th-i.thgim.com/public/incoming/yoscrg/article70398757.ece/alternates/LANDSCAPE_1200/Screenshot%202025-12-15%20162625.png",
+      "content": "BENGALURU, India, Dec. 15, 2025 /PRNewswire/ -- Innoviti Technologies, Indias leading payments-centric retail SaaS platform, has been recognized by ASK Private Wealth and Hurun India as a Cheetah in … [+2447 chars]"
+    },
+    {
+      "title": "PyroGenesis Delivers 3.5 Tonnes of Titanium Powder Under New Powder Supply Agreement with U.S. Minerals and Metal Technology Company",
+      "description": "Contract signed after client’s successful testing and analysis of samples MONTREAL, Dec. 15, 2025 (GLOBE NEWSWIRE) — PyroGenesis Inc. (“PyroGenesis”) (TSX: PYR) (OTCQX: PYRGF) (FRA: 8PY1), the leader in ultra-high temperature processes & engineering innovatio…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/pyrogenesis-delivers-3-5-tonnes-of-titanium-powder-under-new-powder-supply-agreement-with-u-s-minerals-and-metal-technology-company",
+      "published_at": "2025-12-15T12:04:00Z",
+      "author": "GlobeNewswire",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/image-2.jpeg",
+      "content": "As the additive manufacturing market expands, the Company is well positioned to take advantage of emerging opportunities. Along with our fine and coarse cut titanium powders, we now have a market for… [+5131 chars]"
+    },
+    {
+      "title": "PHX Energy Services Corp. Announces Quarterly Dividend",
+      "description": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) — PHX Energy Services Corp. (“PHX Energy” or the “Corporation”) is pleased to announce that its Board of Directors has declared a quarterly cash dividend of $0.20 per common share designated as an “eligible div…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/phx-energy-services-corp-announces-quarterly-dividend-19",
+      "published_at": "2025-12-15T12:03:42Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) PHX Energy Services Corp. (PHX Energy or the Corporation) is pleased to announce that its Board of Directors has declared a quarterly cash dividend of… [+3261 chars]"
+    },
+    {
+      "title": "Mantel Capture Accelerates Toward Commercial-Scale Project With Strategic Industrial Partner",
+      "description": "New initiative to capture 60,000 tonnes of CO₂ per year through new boiler integration in Canada CAMBRIDGE, Mass., Dec. 15, 2025 (GLOBE NEWSWIRE) — Mantel Capture, the leading provider of energy-efficient and cost-effective carbon capture, today announced ini…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/mantel-capture-accelerates-toward-commercial-scale-project-with-strategic-industrial-partner",
+      "published_at": "2025-12-15T12:03:34Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "New initiative to capture 60,000 tonnes of CO per year through new boiler integration in Canada\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and … [+4926 chars]"
+    },
+    {
+      "title": "Grok Gets Bondi Beach Shooting Wrong — Why AI Fact-Checking Failed When It Mattered",
+      "description": "Bondi Beach, Australia faced a horrifying ordeal as news of gunfire and casualties broke. Grok faces scrutiny for spreading misinformation.",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/grok-gets-bondi-beach-shooting-wrong-why-ai-fact-checking-failed-when-it-mattered-3792634",
+      "published_at": "2025-12-15T12:03:24Z",
+      "author": "Anna Katrina Sevilla",
+      "image_url": "https://d.ibtimes.com/en/full/4634704/elon-musk-grok.jpg",
+      "content": "Bondi Beach, Australia, was shaken by a horrifying ordeal in December 2025, as news of gunfire and casualties broke, leaving the public anxious for details.\r\nAccording to a report by The Verge, when … [+3666 chars]"
+    },
+    {
+      "title": "My husband and I spend nearly $20,000 a year on childcare. I work two jobs and cut back on my lifestyle, but it's worth it for my kids.",
+      "description": "A 41-year-old Brooklyn mom juggles two jobs and cuts cost to afford  $20,000 annually for childcare for her two young kids.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/working-mom-spends-20k-year-childcare-nyc-makes-sacrifices-2025-12",
+      "published_at": "2025-12-15T12:02:50Z",
+      "author": "Brian Delk",
+      "image_url": "https://i.insider.com/693c643164858d02d216bc2a?width=1200&format=jpeg",
+      "content": "Clory Jackson and Mouhamadou Diaman, raise their 4-year-old and a 2-year-old while working full-timeClory Jackson\r\n<ul><li>Clory Jackson and her husband pay $20,000 a year on childcare for their two … [+4075 chars]"
+    },
+    {
+      "title": "Feeding the machine",
+      "description": "When he was 19 years old, Brendan Foody started Mercor with two of his high school friends as a way for his other friends, who also had startups, to hire software engineers overseas. It launched in 2023 as essentially a staffing agency, albeit a highly automa…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies",
+      "published_at": "2025-12-15T12:02:11Z",
+      "author": "Josh Dzieza, Hayden Field",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/lede.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "content": "When he was 19 years old, Brendan Foody started Mercor with two of his high school friends as a way for his other friends, who also had startups, to hire software engineers overseas. It launched in 2… [+27843 chars]"
+    },
+    {
+      "title": "OpenAI is the 2025 Yahoo Finance Company of the Year",
+      "description": "The ChatGPT maker sparked this generation's tech revolution. Can AI's biggest engine continue to drive its gold rush?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html",
+      "published_at": "2025-12-15T12:00:54Z",
+      "author": "Jennifer Wang",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/6ig2oG0VvxTUBGpPJW2rwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3876ee80-d6d2-11f0-bf1f-f90390151878",
+      "content": "Everywhere investors looked in 2025, there was OpenAI (OPAI.PVT).\r\nThe company struck megadeals with Microsoft (MSFT), Oracle (ORCL), Advanced Micro Devices (AMD), and Nvidia (NVDA). It amassed $1.4 … [+11385 chars]"
+    },
+    {
+      "title": "watchOS 26.2: The “Liquid Glass” Update is Finally Here",
+      "description": "Apple has officially released watchOS 26.2, a software update designed to refine your Apple Watch experience with meaningful enhancements and new features. This update focuses on improving daily usability, offering better health tracking, expanded fitness opt…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/watchos-26-2-liquid-glass/",
+      "published_at": "2025-12-15T12:00:51Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/watchos-26-2-update-features-overview_optimized.jpg",
+      "content": "Apple has officially released watchOS 26.2, a software update designed to refine your Apple Watch experience with meaningful enhancements and new features. This update focuses on improving daily usab… [+6277 chars]"
+    },
+    {
+      "title": "Microsoft's AI advantage isn't all about OpenAI — and Wall Street loves it",
+      "description": "Investors say Microsoft's real edge comes from its sprawling AI ecosystem and growing independence from any single model provider.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/microsofts-ai-advantage-isnt-all-about-openai--and-wall-street-loves-it-120048687.html",
+      "published_at": "2025-12-15T12:00:48Z",
+      "author": "Francisco Velasquez",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/XlIo3ZnwiADaDPfQHbe9rA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/e9530ea0-c3ef-11f0-9fff-2c19707e3a95",
+      "content": "Microsoft (MSFT) and Yahoo Finance 2025 Company of the Year award winner OpenAI (OPAI.PVT) may still be deeply intertwined, but Wall Street thinks the real story is how the former has begun to dance … [+10953 chars]"
+    },
+    {
+      "title": "Gen AI & LLMs Facilitate Rebuilding Bodies of Data from Scratch; Says Endeavor Health’s Shah",
+      "description": "AI-led policy redesign and a broader definition of return on investment are reshaping how Nirav Shah, MD, Associate CMIO, AI & Innovation, Endeavor Health, approaches digital transformation across the nine-hospital Chicago-area system. Endeavor Health, which …",
+      "source": "Healthsystemcio.com",
+      "url": "https://healthsystemcio.com/2025/12/15/gen-ai-says-endeavor-healths-shah/",
+      "published_at": "2025-12-15T12:00:29Z",
+      "author": "Anthony Guerra, Anthony Guerra",
+      "image_url": "https://healthsystemcio.com/wp-content/uploads/2025/12/shah_nirav.jpeg",
+      "content": "Nirav Shah, MD, Associate CMIO, AI &amp; Innovation, Endeavor Health\r\nAI-led policy redesign and a broader definition of return on investment are reshaping how Nirav Shah, MD, Associate CMIO, AI &amp… [+10130 chars]"
+    },
+    {
+      "title": "The Death—and Rebirth—of Science Diplomacy",
+      "description": "Once a vehicle for global cooperation, international science has become a high-stakes arena of geopolitical rivalry.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2025/12/15/science-diplomacy-soft-power-global-economic-security-competition/",
+      "published_at": "2025-12-15T12:00:26Z",
+      "author": "Jan Lüdert, Martin Wählisch and Tim Flink",
+      "image_url": "https://foreignpolicy.com/wp-content/uploads/2025/12/ScienceDiplomacy_GettyImages-2201693129.jpg?w=1000",
+      "content": "From Dec. 17-18, the Danish presidency of the Council of the European Union and the European Commission will convene the second European Science Diplomacy Conference, bringing 500 top-level policymak… [+11863 chars]"
+    },
+    {
+      "title": "Visa Launches Stablecoins Advisory Practice for Banks and Businesses",
+      "description": "Visa has announced the launch of its Stablecoins Advisory Practice that serves banks, FinTechs, merchants and businesses of all sizes. The global practice is a value-added service offering by Visa Consulting and Analytics (VCA) and provides actionable insight…",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/cryptocurrency/2025/visa-launches-stablecoins-advisory-practice-for-banks-and-businesses/",
+      "published_at": "2025-12-15T12:00:18Z",
+      "author": "PYMNTS",
+      "image_url": "https://www.pymnts.com/wp-content/uploads/2025/12/Visa-bitcoin-stablecoins1.jpg",
+      "content": "Visa has announced the launch of its Stablecoins Advisory Practicethat serves banks, FinTechs, merchants and businesses of all sizes.The global practice is a value-added service offering by Visa Cons… [+2288 chars]"
+    },
+    {
+      "title": "How the Phone Ban Saved High School",
+      "description": "Since the bell-to-bell device lockup, teens in New York have rediscovered the simple pleasures of conversation, board games, and poker.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/how-new-york-public-school-phone-ban-saved-high-school.html",
+      "published_at": "2025-12-15T12:00:16Z",
+      "author": "Anya Kamenetz",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/691/307/defa1537106de384962bbb96ca697a4ce6-kids-phone-ban.1x.rsocial.w1200.jpg",
+      "content": "When New York State banned phones in public schools from bell to bell this past September, the goal according to the bans champion, Governor Hochul was undistracted learning. But within weeks of the … [+5432 chars]"
+    },
+    {
+      "title": "Can Anyone Afford a Job Around Here?",
+      "description": "Since the pandemic, the cost of childcare centers in New York has risen twice as much as inflation and is four times the median family income. How did we get here?",
+      "source": "The Cut",
+      "url": "http://www.thecut.com/article/daycare-childcare-nanny-nyc-cost.html",
+      "published_at": "2025-12-15T12:00:16Z",
+      "author": "Beth Greenfield",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/c28/7b3/96af8fcb389c0f82c6cd653758edc52537-nyc-cost-childcare.1x.rsocial.w1200.jpg",
+      "content": "Recently, a Manhattan father-to-be dipped into a local Facebook parenting group for an opinion on the mind-boggling $2,400 a month he had been quoted from a nearby day-care center for his baby due in… [+16900 chars]"
+    },
+    {
+      "title": "Chinese Researchers Gene-Edit Fungus to Cook Up Chicken-Tasting “Meat Substitute”",
+      "description": "Perhaps a sounder business strategy for Chinese researchers than playing around with the genomes of highly infectious bat coronaviruses.\nThe post Chinese Researchers Gene-Edit Fungus to Cook Up Chicken-Tasting “Meat Substitute” first appeared on Le·gal In·sur…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2025/12/chinese-researchers-gene-edit-fungus-to-cook-up-chicken-tasting-meat-substitute/",
+      "published_at": "2025-12-15T12:00:14Z",
+      "author": "Leslie Eastman",
+      "image_url": "https://legalinsurrection.com/wp-content/uploads/2025/12/LI-010_Chinese-Researchers.png",
+      "content": "I had hoped that the collapse of “Beyond Meat” this fall signaled the end of attempts to find laboratory substitutes for perfectly delectable animal meat.\r\nReports indicate that Chinese scientists ha… [+4844 chars]"
+    },
+    {
+      "title": "15 Scientific Breakthroughs That Just Might Not Be Great For Humanity",
+      "description": "By\n Jay Wells L'Ecuyer\n Published: December 15th, 2025",
+      "source": "Cracked.com",
+      "url": "https://trivia.cracked.com/article_49463_15-scientific-breakthroughs-that-just-might-not-be-great-for-humanity.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "Jay Wells L'Ecuyer",
+      "image_url": "https://s3.crackedcdn.com/phpimages/article/3/5/8/1424358.jpg",
+      "content": "Were fully aware that there wouldn't be any cool tech or medical science without a never-ending quest for progress. Thats all well and good, but where do we draw the line here, folks?! How far is too… [+5457 chars]"
+    },
+    {
+      "title": "Radiopharm Theranostics Achieves Primary Endpoint in 92% of Patients at Interim Analysis of RAD 101 Phase 2b Imaging Trial in Brain Metastases",
+      "description": "92% of evaluable patients at interim analysis treated with RAD 101 achieved concordance¹ with MRI imaging (the primary endpoint) with significant and selective tumor uptake in suspected or recurrent brain metastases",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205269/0/en/Radiopharm-Theranostics-Achieves-Primary-Endpoint-in-92-of-Patients-at-Interim-Analysis-of-RAD-101-Phase-2b-Imaging-Trial-in-Brain-Metastases.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "Radiopharm Theranostics",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/8e246920-183e-46a4-b13c-a3c9ec50ada9",
+      "content": "92% of evaluable patients at interim analysis treated with RAD 101 achieved concordance¹ with MRI imaging (the primary endpoint) with significant and selective tumor uptake in suspected or recurrent … [+6412 chars]"
+    },
+    {
+      "title": "Soverli Raises $2.6M Pre-Seed to Bring Secure and Convenient Digital Freedom to Every Smartphone",
+      "description": "Soverli launches a sovereign OS layer for any commercial smartphone — independent of Android and iOS, yet fully compatible and requirin...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205270/0/en/Soverli-Raises-2-6M-Pre-Seed-to-Bring-Secure-and-Convenient-Digital-Freedom-to-Every-Smartphone.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "Soverli",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/74201473-dd04-45b8-861c-bba9d8433d06",
+      "content": "Zurich, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Digital sovereignty is rapidly becoming one of Europes defining geopolitical priorities, driving billions in investment across sovereign cloud, AI, national … [+7210 chars]"
+    },
+    {
+      "title": "PHX Energy Services Corp. Announces Quarterly Dividend",
+      "description": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) -- PHX Energy Services Corp. (\"PHX Energy\" or the \"Corporation\") is pleased to announce that its Board of Directors has declared a quarterly cash dividend of $0.20 per common share designated as an “eligible di…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205268/0/en/PHX-Energy-Services-Corp-Announces-Quarterly-Dividend.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "PHX Energy Services Corp.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/eff6df75-f2f8-4042-8291-c8c1f672b100",
+      "content": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) -- PHX Energy Services Corp. (\"PHX Energy\" or the \"Corporation\") is pleased to announce that its Board of Directors has declared a quarterly cash divi… [+1303 chars]"
+    },
+    {
+      "title": "Mantel Capture Accelerates Toward Commercial-Scale Project With Strategic Industrial Partner",
+      "description": "New initiative to capture 60,000 tonnes of CO₂ per year through new boiler integration in Canada New initiative to capture 60,000 tonnes of CO₂ per year through new boiler integration in Canada",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205266/0/en/Mantel-Capture-Accelerates-Toward-Commercial-Scale-Project-With-Strategic-Industrial-Partner.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "Mantel Capture, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/8c1f1ff6-0c6d-4cc2-a9a5-a6f7652e4e40",
+      "content": "CAMBRIDGE, Mass., Dec. 15, 2025 (GLOBE NEWSWIRE) -- Mantel Capture, the leading provider of energy-efficient and cost-effective carbon capture, today announced initiation of a front-end engineering d… [+2620 chars]"
+    },
+    {
+      "title": "XPO Announces Brad Jacobs to Step Down as Executive Chairman",
+      "description": "CEO Mario Harik to Become Chairman, while Continuing as CEO CEO Mario Harik to Become Chairman, while Continuing as CEO",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205279/0/en/XPO-Announces-Brad-Jacobs-to-Step-Down-as-Executive-Chairman.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "XPO, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/e7142759-c0ae-43aa-b25d-e3f2956c2651",
+      "content": "GREENWICH, Conn., Dec. 15, 2025 (GLOBE NEWSWIRE) -- XPO, Inc. (NYSE: XPO) announced today that Brad Jacobs will step down as Executive Chairman of the Board, effective December 31, 2025. Jacobs will … [+1652 chars]"
+    },
+    {
+      "title": "The Clear Communicator Awards Announces 2025 Winners",
+      "description": "The Clear Communicator Awards Announces 2025 Winners...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205274/0/en/The-Clear-Communicator-Awards-Announces-2025-Winners.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "The Devon Group",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f03e0a08-9203-43f1-be37-e85a0b49247b",
+      "content": "RED BANK, N.J., Dec. 15, 2025 (GLOBE NEWSWIRE) -- Dedicated to recognizing excellence in HR Tech marketing, the Clear Communicator Awards today announced the 2025 winners. Now in its second year, the… [+3662 chars]"
+    },
+    {
+      "title": "Guggenheim Launches New $50,000 Art Prize, With Catherine Telford Keogh as First Winner",
+      "description": "The Guggenheim Museum has launched a new $50,000 art prize, with Catherine Telford Keogh as its first winner.",
+      "source": "ARTnews",
+      "url": "https://www.artnews.com/art-news/news/guggenheim-new-art-prize-catherine-telford-keogh-winner-1234766496/",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "Alex Greenberger",
+      "image_url": null,
+      "content": "The Guggenheim Museum will this year new launch a new art prize. Titled the Jack Galef Visual Arts Award, the $50,000 prize is being endowed by the estate of Jack Galef and will be given out biennial… [+2016 chars]"
+    },
+    {
+      "title": "Why Modern Art Foundry Is the Art World’s Go-To Shop for Bronzes",
+      "description": "The foundry recently produced awards designed by artist María Magdalena Campos-Pons for ARTnews.",
+      "source": "ARTnews",
+      "url": "https://www.artnews.com/art-news/artists/what-is-modern-art-foundry-1234766161/",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "Maximilíano Durón",
+      "image_url": null,
+      "content": "Founded in 1932, Modern Art Foundry is one of the oldest foundries in the United States. Located in Astoria, Queens, since 1944, the foundry has a history in producing well-known sculptures, from Jos… [+17313 chars]"
+    },
+    {
+      "title": "Solid State Laser Market Size to Worth USD 5.65 Billion by 2033 | Research by SNS Insider",
+      "description": "Solid-State Laser Market Size, Share & Trends Analysis Report, By Type, By Application, By End User, By Power Range, and Region | Global Forecast 2026-2033",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205267/0/en/Solid-State-Laser-Market-Size-to-Worth-USD-5-65-Billion-by-2033-Research-by-SNS-Insider.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "SNS Insider pvt ltd",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "content": "Austin, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Solid State Laser Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider,The Solid-State Laser Market Size\r\n was valued at USD 3.38 Billion in 2025… [+8293 chars]"
+    },
+    {
+      "title": "Talen Energy Announces Strategic Realignment of Executive Management",
+      "description": "HOUSTON, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Talen Energy Corporation (“Talen,” the “Company,” “we,” or “our”) (NASDAQ: TLN), a leading independent power producer, announced today that its Board of Directors (the “Board”) approved several changes to Talen’s exe…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205273/0/en/Talen-Energy-Announces-Strategic-Realignment-of-Executive-Management.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "Talen Energy Corporation",
+      "image_url": null,
+      "content": "HOUSTON, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Talen Energy Corporation (Talen, the Company, we, or our) (NASDAQ: TLN), a leading independent power producer, announced today that its Board of Directors (… [+12318 chars]"
+    },
+    {
+      "title": "PyroGenesis Delivers 3.5 Tonnes of Titanium Powder Under New Powder Supply Agreement with U.S. Minerals and Metal Technology Company",
+      "description": "Contract signed after client’s successful testing and analysis of samples Contract signed after client’s successful testing and analysis of samples",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205281/0/en/PyroGenesis-Delivers-3-5-Tonnes-of-Titanium-Powder-Under-New-Powder-Supply-Agreement-with-U-S-Minerals-and-Metal-Technology-Company.html",
+      "published_at": "2025-12-15T12:00:00Z",
+      "author": "PyroGenesis Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/be715f43-295f-49b0-ae9a-5190ef3b76bf",
+      "content": "MONTREAL, Dec. 15, 2025 (GLOBE NEWSWIRE) -- PyroGenesis Inc. (PyroGenesis) (TSX: PYR) (OTCQX: PYRGF) (FRA: 8PY1), the leader in ultra-high temperature processes &amp; engineering innovation, and a pl… [+8725 chars]"
+    },
+    {
+      "title": "iRobot has been saved from oblivion by a mysterious Chinese robo-vac giant –here's what that means",
+      "description": "iRobot has filed for bankruptcy, but promises there won't be any immediate changes for product owners.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/home/robot-vacuums/irobot-has-been-saved-from-oblivion-by-a-mysterious-chinese-robo-vac-giant-heres-what-that-means",
+      "published_at": "2025-12-15T11:59:54Z",
+      "author": "David Nield",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HDe5cmAXKQWNnJ9ioYywGC-1920-80.jpg",
+      "content": "<ul><li>iRobot has filed for Chapter 11 bankruptcy</li><li>There should be no immediate disruption for Roomba owners</li><li>A new owner, Picea Robotics, is taking over</li></ul>\r\nWe knew iRobot was … [+2627 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 41667,
+    "articles": [
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Sheryl Estrada",
+        "title": "Earnings calls citing ‘AI’ surge in 2025 as ‘uncertainty’ mentions fade",
+        "description": "AI talk hits a record high.",
+        "url": "https://fortune.com/2025/12/15/earnings-calls-citing-ai-surge-2025-uncertainty-mentions-fade-cfo/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2241286143-e1765800559281.jpg?resize=1200,600",
+        "publishedAt": "2025-12-15T12:28:12Z",
+        "content": "Good morning. CEOs and CFOs are clearly focused on AIit is the most-used term in S&amp;P 500 earnings calls this year.FactSet examined conference call transcripts for all S&amp;P 500 companies that h… [+5185 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Doha Bank Completes $150M Instantly Settled Digital Bond Led by Standard Chartered",
+        "description": "Doha Bank has completed its first digitally native US dollar bond, issuing $150 million in floating-rate notes that settled instantly using distributed ledger technology.\nKey Takeaways:\n-\nDoha Bank completed a $150 million digital bond with instant T+0 settle…",
+        "url": "https://biztoc.com/x/7bfd33b10811c8fd",
+        "urlToImage": "https://biztoc.com/cdn/7bfd33b10811c8fd_s.webp",
+        "publishedAt": "2025-12-15T12:27:11Z",
+        "content": "Doha Bank has completed its first digitally native US dollar bond, issuing $150 million in floating-rate notes that settled instantly using distributed ledger technology.Key Takeaways:-Doha Bank comp… [+144 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Chris Panella",
+        "title": "New AI and video tech is taking the danger and guesswork out of this punishing Air Force job that hasn't changed in 50 years",
+        "description": "Tanker maintenance workers spend their days crawling in and out of fuel tanks. New tech might make a hard job a little easier.",
+        "url": "https://www.businessinsider.com/behind-new-tech-making-dirty-hard-air-force-job-easier-2025-12",
+        "urlToImage": "https://i.insider.com/693c4e0f832e0ef1ead62459?width=1200&format=jpeg",
+        "publishedAt": "2025-12-15T12:27:01Z",
+        "content": "Aerial refueling tanker aircraft are the backbone of the Air Force's ability to fly combat jets further distances around the world.US Air Force photo by Airman 1st Class Aidan Martínez Rosiere\r\n<ul><… [+8084 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "sasan_jacob.rasti@tu-dresden.de, felix.flatter@rptu.de",
+        "title": "pyramecium-technology-models 1.1.0",
+        "description": "A toolbox to create multi-energy power time series for different technologies in steady-state simulations of energy systems.",
+        "url": "https://pypi.org/project/pyramecium-technology-models/1.1.0/",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T12:26:59Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "washingtonpost.com",
+        "title": "Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams",
+        "description": "",
+        "url": "https://biztoc.com/x/6510f558e02fb4fb",
+        "urlToImage": "https://biztoc.com/cdn/955/og.png",
+        "publishedAt": "2025-12-15T12:26:47Z",
+        "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did iRobot file for bankruptcy? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps economic policies aff… [+702 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Internet"
+        },
+        "author": "info@thehackernews.com (The Hacker News)",
+        "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+        "description": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even…",
+        "url": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s790-rw-e365/recapp.jpg",
+        "publishedAt": "2025-12-15T12:24:00Z",
+        "content": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and… [+27892 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ZDNet"
+        },
+        "author": "David Gewirtz",
+        "title": "I put GPT-5.2 through an 13-round test, and the AI model raised some serious questions",
+        "description": "After 10 text and 4 image tests, OpenAI's latest model barely beats GPT-5.1. What are Plus subscribers really getting?",
+        "url": "https://www.zdnet.com/article/text-image-tests-openai-gpt-5-2-mixed-results/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/f7a02d7f0743cce38e3ab48550b073d4ee232ea6/2025/08/14/e6639e9a-cab6-4343-abe5-016d06d4246b/gpt-5-laptop.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-12-15T12:20:00Z",
+        "content": "Yuichiro Chino/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>GPT-5.2 barely outperforms GPT-5.1 despite requiring a Plus subscription</li><l… [+13282 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Jonas Sunico",
+        "title": "Florida Sues Roblox, Accusing Gaming Platform of Creating a 'Paedophile Landscape'",
+        "description": "Florida has sued Roblox, accusing the gaming platform of failing to protect children and allowing what officials describe as a paedophile landscape to develop.",
+        "url": "https://www.ibtimes.com/florida-sues-roblox-accusing-gaming-platform-creating-paedophile-landscape-3792616",
+        "urlToImage": "https://d.ibtimes.com/en/full/4607519/online-gaming-platform-roblox-popular-children-teenagers.jpg",
+        "publishedAt": "2025-12-15T12:18:18Z",
+        "content": "Once promoted as a safe digital playground for children, Roblox is now facing mounting pressure from governments across the world.\r\nIn recent weeks, the popular gaming platform has become the target … [+3495 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Ria Pathak",
+        "title": "Interstellar Comet 3I/ATLAS Is 7 Billion Years Old, Glowing Green, and Definitely Not Alien – Experts Weigh In",
+        "description": "Scientists say the colour shift in interstellar comet 3I/ATLAS is due to gases in the comet's coma reacting to solar heat.",
+        "url": "https://www.ibtimes.com/interstellar-comet-3i-atlas-7-billion-years-old-glowing-green-definitely-not-alien-experts-3792598",
+        "urlToImage": "https://d.ibtimes.com/en/full/4632534/avi-loeb.png",
+        "publishedAt": "2025-12-15T12:15:06Z",
+        "content": "When astronomers confirmed that a fast-moving object detected on 1 July 2025 was racing through the Solar System on a one-way path, speculation followed almost instantly.\r\nSocial media lit up with fa… [+3678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Macworld"
+        },
+        "author": "Jason Cross",
+        "title": "If you care about the security of your iPhone, go update right now",
+        "description": "Macworld\n\n\n\r\n\n\n\n\nNew iOS and iPadOS updates don’t just add lots of new features to your iPhone. There are also updates to improve the security and reliability of your devices, and the latest release is no exception. There are 25 new security updates in iOS/iP…",
+        "url": "https://www.macworld.com/article/3009978/if-you-care-about-the-security-of-your-iphone-go-update-right-now.html",
+        "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/12/ios26-2-hero-8.jpg?quality=50&strip=all&w=1024",
+        "publishedAt": "2025-12-15T12:15:00Z",
+        "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nNew iOS and iPadOS u… [+2356 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Reuters",
+        "title": "EU yields to pressure from automakers as it rethinks 2035 combustion car ban",
+        "description": "BRUSSELS/LONDON/STOCKHOLM, Dec 15 () - The European Commission is expected on Tuesday to reverse the EU's effective ban on sales of new combustion-engine...",
+        "url": "https://finance.yahoo.com/news/eu-yields-pressure-automakers-rethinks-060730914.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters.com/559b611c1c4079108f89dbf3f83dcd59",
+        "publishedAt": "2025-12-15T12:12:24Z",
+        "content": "BRUSSELS/LONDON/STOCKHOLM, Dec 15 (Reuters) - The European Commission is expected on Tuesday to reverse the EU's effective ban on sales of new combustion-engine cars from 2035, bowing to intense pres… [+4343 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Visa Unveils New Global Stablecoins Advisory Practice",
+        "description": "Visa Consulting & Analytics combines advanced payments strategy and expert crypto knowledge to help clients innovate and grow with stablecoins technology SAN FRANCISCO — Visa (NYSE: V), a global leader in digital payments, today announced the launch of its St…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/visa-unveils-new-global-stablecoins-advisory-practice",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T12:09:56Z",
+        "content": "Visa Consulting &amp; Analytics combines advanced payments strategy and expert crypto knowledge to help clients innovate and grow with stablecoins technology\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS… [+6671 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SNS Insider pvt ltd",
+        "title": "Fiber Optic Preform Market Size to Surpass USD 37.50 Billion by 2033, at 20.39% CAGR | Report by SNS Insider",
+        "description": "Fiber Optic Preform Market Size, Share & Trends Analysis Report, By Process, Product Type, End User, Technology, and Region | Global Forecast 2026-2033...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205294/0/en/Fiber-Optic-Preform-Market-Size-to-Surpass-USD-37-50-Billion-by-2033-at-20-39-CAGR-Report-by-SNS-Insider.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+        "publishedAt": "2025-12-15T12:09:00Z",
+        "content": "Austin, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Fiber Optic Preform Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider,The Fiber Optic Preform Market size\r\n was valued at USD 8.50 Billion in … [+8248 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Tanmay Puri",
+        "title": "Amazon Founder Jeff Bezos' Shocking Secret Fantasy Revealed",
+        "description": "Amazon founder Jeff Bezos reveals a surprising secret fantasy far removed from boardrooms and billions, giving a rare glimpse into the personal dreams of the Amazon billionaire.",
+        "url": "https://www.ibtimes.com/amazon-founder-jeff-bezos-shocking-secret-fantasy-revealed-3792620",
+        "urlToImage": "https://d.ibtimes.com/en/full/4634326/amazons-founder-jeff-bezos.jpg",
+        "publishedAt": "2025-12-15T12:07:12Z",
+        "content": "Jeff Bezos, the founder of Amazon, has taken the company from an online bookstore in the 1990s into one of the world's most powerful technology and logistics giants. His business acumen has made him … [+3531 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Rohit David",
+        "title": "MI6 Warns of Russian 'Chaos Export': Cyber Hits, Sabotage, and Proxies Target Britain",
+        "description": "MI6 chief Blaise Metreweli warns Russia is exporting chaos through cyber attacks, sabotage and influence operations in Britain, as Ukraine support and tech race intensify.",
+        "url": "https://www.ibtimes.com/mi6-warns-russian-chaos-export-cyber-hits-sabotage-proxies-target-britain-3792623",
+        "urlToImage": "https://d.ibtimes.com/en/full/3582275/secret-intelligence-service-mi6-logo-seen-event-university-st-andrews-scotland-2018.jpg",
+        "publishedAt": "2025-12-15T12:07:10Z",
+        "content": "Britain's MI6 chief has warned that Russia is exporting chaos to the UK through a campaign of cyber attacks, sabotage, and proxy operations, declaring the frontline is everywhere in this age of uncer… [+3514 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ZDNet"
+        },
+        "author": "Kyle Kucharski",
+        "title": "Why is my USB port orange? I learned what every color really means, and it's wild",
+        "description": "Look closely - the colors on your USB ports are more than just aesthetics.",
+        "url": "https://www.zdnet.com/article/what-every-usb-port-color-means/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/20f9100b21fd6d609b5a24a4bc1a2b7e7e2a7ff8/2025/11/03/09b0af49-0f3b-44e4-b349-501a8a9b8239/img-4374.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2025-12-15T12:07:00Z",
+        "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nHave a USB device near you? Look closely at the port -- do you see a color? It turns out that it actually means something.… [+4560 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Tanmay Puri",
+        "title": "Microsoft Founder Bill Gates Reveals How He Will Use His Billions in 2026",
+        "description": "Microsoft founder Bill Gates reveals how he plans to use his billions in 2026, will he spend all his money?",
+        "url": "https://www.ibtimes.com/microsoft-founder-bill-gates-reveals-how-he-will-use-his-billions-2026-3792625",
+        "urlToImage": "https://d.ibtimes.com/en/full/4637041/bill-gates.jpg",
+        "publishedAt": "2025-12-15T12:06:02Z",
+        "content": "Bill Gates, the founder of Microsoft and one of the most famous philanthropists of the modern era, has given out his plans for how he intends to spend his gigantic fortune in 2026. This is coming whe… [+3467 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BGR"
+        },
+        "author": "staff@bgr.com (Chris Smith)",
+        "title": "The 20th Anniversary iPhone Could Feature Apple's Most Futuristic Design Yet",
+        "description": "Latest leaks suggest the 20th anniversary iPhone could feature a first-in-the-industry design, with major display makers ramping up their production lines.",
+        "url": "https://www.bgr.com/2051983/apple-20th-anniversary-iphone-futuristic-design/",
+        "urlToImage": "https://www.bgr.com/img/gallery/the-20th-anniversary-iphone-could-feature-apples-most-futuristic-design-yet/l-intro-1765799914.jpg",
+        "publishedAt": "2025-12-15T12:05:22Z",
+        "content": "The new report says that Apple's \"monolithic\" four-sided display is a different concept than the Edge displays Samsung used in previous years. Samsung has been the main promoter of smartphones with c… [+1767 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Samsung.com"
+        },
+        "author": null,
+        "title": "Samsung SWA President & CEO JB Park’s Message on Completing 30 Years in India & the Launch of #PoweringInnovationforIndia",
+        "description": "What began with baby steps in the winter of 1995, with the opening of a small office in New Delhi, has grown into a three-decade-long journey of building,",
+        "url": "https://news.samsung.com/in/samsung-swa-president-ceo-jb-parks-message-on-completing-30-years-in-india-the-launch-of-poweringinnovationforindia",
+        "urlToImage": "https://img.global.news.samsung.com/in/wp-content/uploads/2025/12/JB-Park-still-new1.jpg",
+        "publishedAt": "2025-12-15T12:05:03Z",
+        "content": "What began with baby steps in the winter of 1995, with the opening of a small office in New Delhi, has grown into a three-decade-long journey of building, innovating and growing together with India. … [+2156 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Kraig Biocraft Laboratories",
+        "title": "Kraig Biocraft Laboratories Successfully Completes Production Cycle, Delivering Over One Million BAM-1 Alpha Hybrid Eggs for Deployment",
+        "description": "Kraig Labs (OTCQB: KBLB) produced more than one million BAM-1 Alpha hybrid eggs that will serve as the next wave of recombinant spider silk production...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205292/0/en/Kraig-Biocraft-Laboratories-Successfully-Completes-Production-Cycle-Delivering-Over-One-Million-BAM-1-Alpha-Hybrid-Eggs-for-Deployment.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/3cf5ab91-0822-460b-bb13-17447941c84a",
+        "publishedAt": "2025-12-15T12:05:00Z",
+        "content": "ANN ARBOR, Mich., Dec. 15, 2025 (GLOBE NEWSWIRE) -- Kraig Biocraft Laboratories, Inc. (OTCQB: KBLB) (\"Company\" or \"Kraig Labs\"), a world leader in spider silk technology*, today announced the success… [+3672 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Jan Kevin Bautista",
+        "title": "Microsoft Cuts AI Targets: Is Copilot at Risk?",
+        "description": "Microsoft has cut sales targets for its Copilot AI due to low enterprise adoption and stiff competition. Find out why companies are hesitating to upgrade.",
+        "url": "https://www.ibtimes.com/microsoft-cuts-ai-targets-copilot-risk-3792630",
+        "urlToImage": "https://d.ibtimes.com/en/full/4629954/microsoft.jpg",
+        "publishedAt": "2025-12-15T12:04:53Z",
+        "content": "Microsoft has reportedly slashed its sales targets for its artificial intelligence products, specifically the Copilot software suite, following a period of sluggish adoption among enterprise customer… [+3561 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "Innoviti Receives ASK Private Hurun India Unicorn & Future Unicorn Award",
+        "description": "Innoviti Receives ASK Private Hurun India Unicorn & Future Unicorn Award",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/innoviti-receives-ask-private-hurun-india-unicorn-future-unicorn-award/article70398766.ece",
+        "urlToImage": "https://th-i.thgim.com/public/incoming/yoscrg/article70398757.ece/alternates/LANDSCAPE_1200/Screenshot%202025-12-15%20162625.png",
+        "publishedAt": "2025-12-15T12:04:19Z",
+        "content": "BENGALURU, India, Dec. 15, 2025 /PRNewswire/ -- Innoviti Technologies, Indias leading payments-centric retail SaaS platform, has been recognized by ASK Private Wealth and Hurun India as a Cheetah in … [+2447 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "PyroGenesis Delivers 3.5 Tonnes of Titanium Powder Under New Powder Supply Agreement with U.S. Minerals and Metal Technology Company",
+        "description": "Contract signed after client’s successful testing and analysis of samples MONTREAL, Dec. 15, 2025 (GLOBE NEWSWIRE) — PyroGenesis Inc. (“PyroGenesis”) (TSX: PYR) (OTCQX: PYRGF) (FRA: 8PY1), the leader in ultra-high temperature processes & engineering innovatio…",
+        "url": "https://financialpost.com/globe-newswire/pyrogenesis-delivers-3-5-tonnes-of-titanium-powder-under-new-powder-supply-agreement-with-u-s-minerals-and-metal-technology-company",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/image-2.jpeg",
+        "publishedAt": "2025-12-15T12:04:00Z",
+        "content": "As the additive manufacturing market expands, the Company is well positioned to take advantage of emerging opportunities. Along with our fine and coarse cut titanium powders, we now have a market for… [+5131 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "PHX Energy Services Corp. Announces Quarterly Dividend",
+        "description": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) — PHX Energy Services Corp. (“PHX Energy” or the “Corporation”) is pleased to announce that its Board of Directors has declared a quarterly cash dividend of $0.20 per common share designated as an “eligible div…",
+        "url": "https://financialpost.com/globe-newswire/phx-energy-services-corp-announces-quarterly-dividend-19",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T12:03:42Z",
+        "content": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) PHX Energy Services Corp. (PHX Energy or the Corporation) is pleased to announce that its Board of Directors has declared a quarterly cash dividend of… [+3261 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Mantel Capture Accelerates Toward Commercial-Scale Project With Strategic Industrial Partner",
+        "description": "New initiative to capture 60,000 tonnes of CO₂ per year through new boiler integration in Canada CAMBRIDGE, Mass., Dec. 15, 2025 (GLOBE NEWSWIRE) — Mantel Capture, the leading provider of energy-efficient and cost-effective carbon capture, today announced ini…",
+        "url": "https://financialpost.com/globe-newswire/mantel-capture-accelerates-toward-commercial-scale-project-with-strategic-industrial-partner",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T12:03:34Z",
+        "content": "New initiative to capture 60,000 tonnes of CO per year through new boiler integration in Canada\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and … [+4926 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "International Business Times"
+        },
+        "author": "Anna Katrina Sevilla",
+        "title": "Grok Gets Bondi Beach Shooting Wrong — Why AI Fact-Checking Failed When It Mattered",
+        "description": "Bondi Beach, Australia faced a horrifying ordeal as news of gunfire and casualties broke. Grok faces scrutiny for spreading misinformation.",
+        "url": "https://www.ibtimes.com/grok-gets-bondi-beach-shooting-wrong-why-ai-fact-checking-failed-when-it-mattered-3792634",
+        "urlToImage": "https://d.ibtimes.com/en/full/4634704/elon-musk-grok.jpg",
+        "publishedAt": "2025-12-15T12:03:24Z",
+        "content": "Bondi Beach, Australia, was shaken by a horrifying ordeal in December 2025, as news of gunfire and casualties broke, leaving the public anxious for details.\r\nAccording to a report by The Verge, when … [+3666 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Brian Delk",
+        "title": "My husband and I spend nearly $20,000 a year on childcare. I work two jobs and cut back on my lifestyle, but it's worth it for my kids.",
+        "description": "A 41-year-old Brooklyn mom juggles two jobs and cuts cost to afford  $20,000 annually for childcare for her two young kids.",
+        "url": "https://www.businessinsider.com/working-mom-spends-20k-year-childcare-nyc-makes-sacrifices-2025-12",
+        "urlToImage": "https://i.insider.com/693c643164858d02d216bc2a?width=1200&format=jpeg",
+        "publishedAt": "2025-12-15T12:02:50Z",
+        "content": "Clory Jackson and Mouhamadou Diaman, raise their 4-year-old and a 2-year-old while working full-timeClory Jackson\r\n<ul><li>Clory Jackson and her husband pay $20,000 a year on childcare for their two … [+4075 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Josh Dzieza, Hayden Field",
+        "title": "Feeding the machine",
+        "description": "When he was 19 years old, Brendan Foody started Mercor with two of his high school friends as a way for his other friends, who also had startups, to hire software engineers overseas. It launched in 2023 as essentially a staffing agency, albeit a highly automa…",
+        "url": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/lede.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-15T12:02:11Z",
+        "content": "When he was 19 years old, Brendan Foody started Mercor with two of his high school friends as a way for his other friends, who also had startups, to hire software engineers overseas. It launched in 2… [+27843 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jennifer Wang",
+        "title": "OpenAI is the 2025 Yahoo Finance Company of the Year",
+        "description": "The ChatGPT maker sparked this generation's tech revolution. Can AI's biggest engine continue to drive its gold rush?",
+        "url": "https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ig2oG0VvxTUBGpPJW2rwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3876ee80-d6d2-11f0-bf1f-f90390151878",
+        "publishedAt": "2025-12-15T12:00:54Z",
+        "content": "Everywhere investors looked in 2025, there was OpenAI (OPAI.PVT).\r\nThe company struck megadeals with Microsoft (MSFT), Oracle (ORCL), Advanced Micro Devices (AMD), and Nvidia (NVDA). It amassed $1.4 … [+11385 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "watchOS 26.2: The “Liquid Glass” Update is Finally Here",
+        "description": "Apple has officially released watchOS 26.2, a software update designed to refine your Apple Watch experience with meaningful enhancements and new features. This update focuses on improving daily usability, offering better health tracking, expanded fitness opt…",
+        "url": "https://www.geeky-gadgets.com/watchos-26-2-liquid-glass/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/watchos-26-2-update-features-overview_optimized.jpg",
+        "publishedAt": "2025-12-15T12:00:51Z",
+        "content": "Apple has officially released watchOS 26.2, a software update designed to refine your Apple Watch experience with meaningful enhancements and new features. This update focuses on improving daily usab… [+6277 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Francisco Velasquez",
+        "title": "Microsoft's AI advantage isn't all about OpenAI — and Wall Street loves it",
+        "description": "Investors say Microsoft's real edge comes from its sprawling AI ecosystem and growing independence from any single model provider.",
+        "url": "https://finance.yahoo.com/news/microsofts-ai-advantage-isnt-all-about-openai--and-wall-street-loves-it-120048687.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XlIo3ZnwiADaDPfQHbe9rA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/e9530ea0-c3ef-11f0-9fff-2c19707e3a95",
+        "publishedAt": "2025-12-15T12:00:48Z",
+        "content": "Microsoft (MSFT) and Yahoo Finance 2025 Company of the Year award winner OpenAI (OPAI.PVT) may still be deeply intertwined, but Wall Street thinks the real story is how the former has begun to dance … [+10953 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Healthsystemcio.com"
+        },
+        "author": "Anthony Guerra, Anthony Guerra",
+        "title": "Gen AI & LLMs Facilitate Rebuilding Bodies of Data from Scratch; Says Endeavor Health’s Shah",
+        "description": "AI-led policy redesign and a broader definition of return on investment are reshaping how Nirav Shah, MD, Associate CMIO, AI & Innovation, Endeavor Health, approaches digital transformation across the nine-hospital Chicago-area system. Endeavor Health, which …",
+        "url": "https://healthsystemcio.com/2025/12/15/gen-ai-says-endeavor-healths-shah/",
+        "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2025/12/shah_nirav.jpeg",
+        "publishedAt": "2025-12-15T12:00:29Z",
+        "content": "Nirav Shah, MD, Associate CMIO, AI &amp; Innovation, Endeavor Health\r\nAI-led policy redesign and a broader definition of return on investment are reshaping how Nirav Shah, MD, Associate CMIO, AI &amp… [+10130 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Foreign Policy"
+        },
+        "author": "Jan Lüdert, Martin Wählisch and Tim Flink",
+        "title": "The Death—and Rebirth—of Science Diplomacy",
+        "description": "Once a vehicle for global cooperation, international science has become a high-stakes arena of geopolitical rivalry.",
+        "url": "http://foreignpolicy.com/2025/12/15/science-diplomacy-soft-power-global-economic-security-competition/",
+        "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/12/ScienceDiplomacy_GettyImages-2201693129.jpg?w=1000",
+        "publishedAt": "2025-12-15T12:00:26Z",
+        "content": "From Dec. 17-18, the Danish presidency of the Council of the European Union and the European Commission will convene the second European Science Diplomacy Conference, bringing 500 top-level policymak… [+11863 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "Visa Launches Stablecoins Advisory Practice for Banks and Businesses",
+        "description": "Visa has announced the launch of its Stablecoins Advisory Practice that serves banks, FinTechs, merchants and businesses of all sizes. The global practice is a value-added service offering by Visa Consulting and Analytics (VCA) and provides actionable insight…",
+        "url": "https://www.pymnts.com/cryptocurrency/2025/visa-launches-stablecoins-advisory-practice-for-banks-and-businesses/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Visa-bitcoin-stablecoins1.jpg",
+        "publishedAt": "2025-12-15T12:00:18Z",
+        "content": "Visa has announced the launch of its Stablecoins Advisory Practicethat serves banks, FinTechs, merchants and businesses of all sizes.The global practice is a value-added service offering by Visa Cons… [+2288 chars]"
+      },
+      {
+        "source": {
+          "id": "new-york-magazine",
+          "name": "New York Magazine"
+        },
+        "author": "Anya Kamenetz",
+        "title": "How the Phone Ban Saved High School",
+        "description": "Since the bell-to-bell device lockup, teens in New York have rediscovered the simple pleasures of conversation, board games, and poker.",
+        "url": "http://nymag.com/intelligencer/article/how-new-york-public-school-phone-ban-saved-high-school.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/691/307/defa1537106de384962bbb96ca697a4ce6-kids-phone-ban.1x.rsocial.w1200.jpg",
+        "publishedAt": "2025-12-15T12:00:16Z",
+        "content": "When New York State banned phones in public schools from bell to bell this past September, the goal according to the bans champion, Governor Hochul was undistracted learning. But within weeks of the … [+5432 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Cut"
+        },
+        "author": "Beth Greenfield",
+        "title": "Can Anyone Afford a Job Around Here?",
+        "description": "Since the pandemic, the cost of childcare centers in New York has risen twice as much as inflation and is four times the median family income. How did we get here?",
+        "url": "http://www.thecut.com/article/daycare-childcare-nanny-nyc-cost.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/c28/7b3/96af8fcb389c0f82c6cd653758edc52537-nyc-cost-childcare.1x.rsocial.w1200.jpg",
+        "publishedAt": "2025-12-15T12:00:16Z",
+        "content": "Recently, a Manhattan father-to-be dipped into a local Facebook parenting group for an opinion on the mind-boggling $2,400 a month he had been quoted from a nearby day-care center for his baby due in… [+16900 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Legalinsurrection.com"
+        },
+        "author": "Leslie Eastman",
+        "title": "Chinese Researchers Gene-Edit Fungus to Cook Up Chicken-Tasting “Meat Substitute”",
+        "description": "Perhaps a sounder business strategy for Chinese researchers than playing around with the genomes of highly infectious bat coronaviruses.\nThe post Chinese Researchers Gene-Edit Fungus to Cook Up Chicken-Tasting “Meat Substitute” first appeared on Le·gal In·sur…",
+        "url": "https://legalinsurrection.com/2025/12/chinese-researchers-gene-edit-fungus-to-cook-up-chicken-tasting-meat-substitute/",
+        "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/12/LI-010_Chinese-Researchers.png",
+        "publishedAt": "2025-12-15T12:00:14Z",
+        "content": "I had hoped that the collapse of “Beyond Meat” this fall signaled the end of attempts to find laboratory substitutes for perfectly delectable animal meat.\r\nReports indicate that Chinese scientists ha… [+4844 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cracked.com"
+        },
+        "author": "Jay Wells L'Ecuyer",
+        "title": "15 Scientific Breakthroughs That Just Might Not Be Great For Humanity",
+        "description": "By\n Jay Wells L'Ecuyer\n Published: December 15th, 2025",
+        "url": "https://trivia.cracked.com/article_49463_15-scientific-breakthroughs-that-just-might-not-be-great-for-humanity.html",
+        "urlToImage": "https://s3.crackedcdn.com/phpimages/article/3/5/8/1424358.jpg",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "Were fully aware that there wouldn't be any cool tech or medical science without a never-ending quest for progress. Thats all well and good, but where do we draw the line here, folks?! How far is too… [+5457 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Radiopharm Theranostics",
+        "title": "Radiopharm Theranostics Achieves Primary Endpoint in 92% of Patients at Interim Analysis of RAD 101 Phase 2b Imaging Trial in Brain Metastases",
+        "description": "92% of evaluable patients at interim analysis treated with RAD 101 achieved concordance¹ with MRI imaging (the primary endpoint) with significant and selective tumor uptake in suspected or recurrent brain metastases",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205269/0/en/Radiopharm-Theranostics-Achieves-Primary-Endpoint-in-92-of-Patients-at-Interim-Analysis-of-RAD-101-Phase-2b-Imaging-Trial-in-Brain-Metastases.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/8e246920-183e-46a4-b13c-a3c9ec50ada9",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "92% of evaluable patients at interim analysis treated with RAD 101 achieved concordance¹ with MRI imaging (the primary endpoint) with significant and selective tumor uptake in suspected or recurrent … [+6412 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Soverli",
+        "title": "Soverli Raises $2.6M Pre-Seed to Bring Secure and Convenient Digital Freedom to Every Smartphone",
+        "description": "Soverli launches a sovereign OS layer for any commercial smartphone — independent of Android and iOS, yet fully compatible and requirin...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205270/0/en/Soverli-Raises-2-6M-Pre-Seed-to-Bring-Secure-and-Convenient-Digital-Freedom-to-Every-Smartphone.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/74201473-dd04-45b8-861c-bba9d8433d06",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "Zurich, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Digital sovereignty is rapidly becoming one of Europes defining geopolitical priorities, driving billions in investment across sovereign cloud, AI, national … [+7210 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "PHX Energy Services Corp.",
+        "title": "PHX Energy Services Corp. Announces Quarterly Dividend",
+        "description": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) -- PHX Energy Services Corp. (\"PHX Energy\" or the \"Corporation\") is pleased to announce that its Board of Directors has declared a quarterly cash dividend of $0.20 per common share designated as an “eligible di…",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205268/0/en/PHX-Energy-Services-Corp-Announces-Quarterly-Dividend.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/eff6df75-f2f8-4042-8291-c8c1f672b100",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "CALGARY, Alberta, Dec. 15, 2025 (GLOBE NEWSWIRE) -- PHX Energy Services Corp. (\"PHX Energy\" or the \"Corporation\") is pleased to announce that its Board of Directors has declared a quarterly cash divi… [+1303 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Mantel Capture, Inc.",
+        "title": "Mantel Capture Accelerates Toward Commercial-Scale Project With Strategic Industrial Partner",
+        "description": "New initiative to capture 60,000 tonnes of CO₂ per year through new boiler integration in Canada New initiative to capture 60,000 tonnes of CO₂ per year through new boiler integration in Canada",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205266/0/en/Mantel-Capture-Accelerates-Toward-Commercial-Scale-Project-With-Strategic-Industrial-Partner.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/8c1f1ff6-0c6d-4cc2-a9a5-a6f7652e4e40",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "CAMBRIDGE, Mass., Dec. 15, 2025 (GLOBE NEWSWIRE) -- Mantel Capture, the leading provider of energy-efficient and cost-effective carbon capture, today announced initiation of a front-end engineering d… [+2620 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "XPO, Inc.",
+        "title": "XPO Announces Brad Jacobs to Step Down as Executive Chairman",
+        "description": "CEO Mario Harik to Become Chairman, while Continuing as CEO CEO Mario Harik to Become Chairman, while Continuing as CEO",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205279/0/en/XPO-Announces-Brad-Jacobs-to-Step-Down-as-Executive-Chairman.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/e7142759-c0ae-43aa-b25d-e3f2956c2651",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "GREENWICH, Conn., Dec. 15, 2025 (GLOBE NEWSWIRE) -- XPO, Inc. (NYSE: XPO) announced today that Brad Jacobs will step down as Executive Chairman of the Board, effective December 31, 2025. Jacobs will … [+1652 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "The Devon Group",
+        "title": "The Clear Communicator Awards Announces 2025 Winners",
+        "description": "The Clear Communicator Awards Announces 2025 Winners...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205274/0/en/The-Clear-Communicator-Awards-Announces-2025-Winners.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/f03e0a08-9203-43f1-be37-e85a0b49247b",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "RED BANK, N.J., Dec. 15, 2025 (GLOBE NEWSWIRE) -- Dedicated to recognizing excellence in HR Tech marketing, the Clear Communicator Awards today announced the 2025 winners. Now in its second year, the… [+3662 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ARTnews"
+        },
+        "author": "Alex Greenberger",
+        "title": "Guggenheim Launches New $50,000 Art Prize, With Catherine Telford Keogh as First Winner",
+        "description": "The Guggenheim Museum has launched a new $50,000 art prize, with Catherine Telford Keogh as its first winner.",
+        "url": "https://www.artnews.com/art-news/news/guggenheim-new-art-prize-catherine-telford-keogh-winner-1234766496/",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "The Guggenheim Museum will this year new launch a new art prize. Titled the Jack Galef Visual Arts Award, the $50,000 prize is being endowed by the estate of Jack Galef and will be given out biennial… [+2016 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ARTnews"
+        },
+        "author": "Maximilíano Durón",
+        "title": "Why Modern Art Foundry Is the Art World’s Go-To Shop for Bronzes",
+        "description": "The foundry recently produced awards designed by artist María Magdalena Campos-Pons for ARTnews.",
+        "url": "https://www.artnews.com/art-news/artists/what-is-modern-art-foundry-1234766161/",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "Founded in 1932, Modern Art Foundry is one of the oldest foundries in the United States. Located in Astoria, Queens, since 1944, the foundry has a history in producing well-known sculptures, from Jos… [+17313 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SNS Insider pvt ltd",
+        "title": "Solid State Laser Market Size to Worth USD 5.65 Billion by 2033 | Research by SNS Insider",
+        "description": "Solid-State Laser Market Size, Share & Trends Analysis Report, By Type, By Application, By End User, By Power Range, and Region | Global Forecast 2026-2033",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205267/0/en/Solid-State-Laser-Market-Size-to-Worth-USD-5-65-Billion-by-2033-Research-by-SNS-Insider.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "Austin, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Solid State Laser Market Size &amp; Growth Insights:\r\nAccording to the SNS Insider,The Solid-State Laser Market Size\r\n was valued at USD 3.38 Billion in 2025… [+8293 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Talen Energy Corporation",
+        "title": "Talen Energy Announces Strategic Realignment of Executive Management",
+        "description": "HOUSTON, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Talen Energy Corporation (“Talen,” the “Company,” “we,” or “our”) (NASDAQ: TLN), a leading independent power producer, announced today that its Board of Directors (the “Board”) approved several changes to Talen’s exe…",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205273/0/en/Talen-Energy-Announces-Strategic-Realignment-of-Executive-Management.html",
+        "urlToImage": null,
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "HOUSTON, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Talen Energy Corporation (Talen, the Company, we, or our) (NASDAQ: TLN), a leading independent power producer, announced today that its Board of Directors (… [+12318 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "PyroGenesis Inc.",
+        "title": "PyroGenesis Delivers 3.5 Tonnes of Titanium Powder Under New Powder Supply Agreement with U.S. Minerals and Metal Technology Company",
+        "description": "Contract signed after client’s successful testing and analysis of samples Contract signed after client’s successful testing and analysis of samples",
+        "url": "https://www.globenewswire.com/news-release/2025/12/15/3205281/0/en/PyroGenesis-Delivers-3-5-Tonnes-of-Titanium-Powder-Under-New-Powder-Supply-Agreement-with-U-S-Minerals-and-Metal-Technology-Company.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/be715f43-295f-49b0-ae9a-5190ef3b76bf",
+        "publishedAt": "2025-12-15T12:00:00Z",
+        "content": "MONTREAL, Dec. 15, 2025 (GLOBE NEWSWIRE) -- PyroGenesis Inc. (PyroGenesis) (TSX: PYR) (OTCQX: PYRGF) (FRA: 8PY1), the leader in ultra-high temperature processes &amp; engineering innovation, and a pl… [+8725 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "David Nield",
+        "title": "iRobot has been saved from oblivion by a mysterious Chinese robo-vac giant –here's what that means",
+        "description": "iRobot has filed for bankruptcy, but promises there won't be any immediate changes for product owners.",
+        "url": "https://www.techradar.com/home/robot-vacuums/irobot-has-been-saved-from-oblivion-by-a-mysterious-chinese-robo-vac-giant-heres-what-that-means",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/HDe5cmAXKQWNnJ9ioYywGC-1920-80.jpg",
+        "publishedAt": "2025-12-15T11:59:54Z",
+        "content": "<ul><li>iRobot has filed for Chapter 11 bankruptcy</li><li>There should be no immediate disruption for Roomba owners</li><li>A new owner, Picea Robotics, is taking over</li></ul>\r\nWe knew iRobot was … [+2627 chars]"
+      }
+    ]
+  }
+}

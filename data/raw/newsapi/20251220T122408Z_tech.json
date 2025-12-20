@@ -1,0 +1,1140 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 41984,
+  "articles": [
+    {
+      "title": "Microsoft celebrates 10 years of DirectX 12: A decade of updates to the low-level graphics API but it's still not the master of all things rendering",
+      "description": "DirectX 11 hasn't gone anywhere, and don't expect to see DirectX 13 any time soon, either. Or ever, perhaps.",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/hardware/microsoft-celebrates-10-years-of-directx-12-a-decade-of-updates-to-the-low-level-graphics-api-but-its-still-not-the-master-of-all-things-rendering/",
+      "published_at": "2025-12-19T12:22:32Z",
+      "author": "Nick Evanson",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3vaLZrUADLuNub9iKdwiX6-2560-80.jpg",
+      "content": "In the late summer of 2014, Microsoft announced that Windows 10 would be rolled out to PC users around the world in the following year. At the same time, it also revealed that the new operating syste… [+6837 chars]"
+    },
+    {
+      "title": "What We Know About the Brown University Shooting Suspect Who Is Also Accused of Killing MIT Professor",
+      "description": "The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting a Massachusetts Institute of Technology professor days later was found dead Thursday in a New Hampshire storage unit, officials said",
+      "source": "TODAY",
+      "url": "https://www.today.com/news/brown-university-suspect-dead-rcna250041",
+      "published_at": "2025-12-19T12:22:06Z",
+      "author": "Phil Helsel, Tom Winter, Jonathan Dienst, Tim Stelloh",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-12/251215-brown-university-shooting-mn-2010-2f559f.jpg",
+      "content": "The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting a Massachusetts Institute of Technology professor days later was found dea… [+4626 chars]"
+    },
+    {
+      "title": "Inside OpenAI’s ‘code red’",
+      "description": "Fortune’s tech team recently dove into what’s going on behind the scenes at OpenAI.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/12/19/inside-openais-code-red/",
+      "published_at": "2025-12-19T12:21:59Z",
+      "author": "Allie Garfinkle",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236933448-e1765906578456.jpg?resize=1200,600",
+      "content": "Theres pretty much always a frenzied news cycle of some kind around OpenAI. The latest: Amazonreportedly is in talks to invest $10 billion or more in the ChatGPT maker, which already counts giants li… [+4195 chars]"
+    },
+    {
+      "title": "The 20 London boroughs that will be the first to get self-driving cars",
+      "description": "Waymo is currently testing driverless cars on the streets of the capital",
+      "source": "Time Out",
+      "url": "https://www.timeout.com/london/news/the-20-london-boroughs-that-will-be-the-first-to-get-self-driving-cars-121925",
+      "published_at": "2025-12-19T12:21:19Z",
+      "author": "Primary Author: India Lawrence",
+      "image_url": "https://media.timeout.com/images/106356937/image.jpg",
+      "content": "Whether you reckon self-driving cars are the peak of modernity or a harbinger of a sinister robotic future, there’s one thing we know about them for sure: they’re arriving in London very, very soon.\r… [+2521 chars]"
+    },
+    {
+      "title": "Intel-certified 256 GB DDR5 stick could cut Xeon memory power by 18%, saving millions of dollars — a 32W-per-socket reduction could save millions per hyperscale data center",
+      "description": "SK hynix first to validate 32Gb-based 256GB DDR5 module with Intel: up to 32.4W power savings per server, or millions of dollars per hyperscale data center.",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/pc-components/dram/intel-certified-256-gb-ddr5-stick-could-cut-xeon-memory-power-by-18-percent-saving-millions-of-dollars-a-32w-per-socket-reduction-could-save-millions-per-hyperscale-data-center",
+      "published_at": "2025-12-19T12:20:00Z",
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PGMkvs4LNPdPDpCyd8GujE-1920-80.jpg",
+      "content": "SK hynix on Thursday said that its range-topping 256 GB DDR5 RDIMM based on 32 Gb memory devices has passed the Intel Data Center Certified process, the industry's first memory module at this capacit… [+2315 chars]"
+    },
+    {
+      "title": "From jugaad to discipline in digital marketing",
+      "description": "The book gives Indian marketers a language to challenge bad measurement, weak strategy and performance theatre",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/books/from-jugaad-to-discipline-in-digital-marketing/article70415679.ece",
+      "published_at": "2025-12-19T12:19:06Z",
+      "author": "Shubho  Sengupta",
+      "image_url": "https://bl-i.thgim.com/public/opinion/wbqqc6/article70415682.ece/alternates/LANDSCAPE_1200/Click%20Here.jpg",
+      "content": "In India, digital marketing rarely begins with strategy. It usually begins with a WhatsApp message from a founder at 9 am, a screenshot of yesterdays ROAS, and a familiar instruction: Can we scale th… [+6217 chars]"
+    },
+    {
+      "title": "Markets snap four-day losing streak on global optimism, Rupee recovery",
+      "description": "Shriram Finance emerged as the top gainer among Nifty 50 constituents, surging 4.10% to close at ₹905.10, followed by Max Healthcare, which rose 2.62% to ₹1,076.00.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/markets-snap-four-day-losing-streak-on-global-optimism-rupee-recovery/article70415636.ece",
+      "published_at": "2025-12-19T12:18:49Z",
+      "author": "Anupama Ghosh",
+      "image_url": "https://bl-i.thgim.com/public/incoming/ddhm5v/article70415690.ece/alternates/LANDSCAPE_1200/IMG_BL1208_Spark_Lead_2_1_1PD6AUBU.jpg",
+      "content": "Markets rebounded sharply on Friday, with the BSE Sensex closing 447.55 points higher at 84,929.36 and the Nifty gaining 150.85 points to settle at 25,966.40, snapping a four-session losing streak as… [+3813 chars]"
+    },
+    {
+      "title": "LRN LEGAL NOTICE: Lose Money on Stride, Inc.? You may have been Affected by Fraud and are Urged to Contact BFA Law by January 12 Deadline",
+      "description": "Lose Money on Stride, Inc.? You may have been Affected by Fraud and are Urged to Contact BFA Law by January 12 Deadline...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208423/0/en/LRN-LEGAL-NOTICE-Lose-Money-on-Stride-Inc-You-may-have-been-Affected-by-Fraud-and-are-Urged-to-Contact-BFA-Law-by-January-12-Deadline.html",
+      "published_at": "2025-12-19T12:18:00Z",
+      "author": "Bleichmar Fonti & Auld",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+      "content": "NEW YORK, Dec. 19, 2025 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a class action lawsuit has been filed against Stride, Inc. (NYSE: LRN) and certai… [+3984 chars]"
+    },
+    {
+      "title": "Metal Gear Solid and Death Stranding creator Hideo Kojima thinks \"we can't go back\" to a world without AI: \"Smartphones were the same\"",
+      "description": "\"It would undoubtedly be convenient. But then I wonder if it's really okay\"",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/action/metal-gear-solid-and-death-stranding-creator-hideo-kojima-thinks-we-cant-go-back-to-a-world-without-ai-smartphones-were-the-same/",
+      "published_at": "2025-12-19T12:17:46Z",
+      "author": "George Young",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/b9qtK9MafTFDhzAHC9CuHQ-1920-80.jpg",
+      "content": "Legendary director Hideo Kojima has likened the rise of AI to the invention of smartphones, but questions whether the convenience that AI offers would lead us to becoming too spoiled.\r\nIn an intervie… [+1706 chars]"
+    },
+    {
+      "title": "We Seriously Doubt You Can Beat The Average U.S. Student – Take The Test & Prove Us Wrong",
+      "description": "Are you smarter than the average U.S. student? Welcome to the ultimate Academic IQ Challenge, inspired by the Nation’s Report Card.",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/us-nations-report-card-part-4/",
+      "published_at": "2025-12-19T12:17:16Z",
+      "author": "Raquel Teixeira",
+      "image_url": "https://www.boredpanda.com/blog/wp-content/uploads/2025/12/us-nations-report-card-part-4-fb30.png",
+      "content": "Are you smarter than the average U.S. student?\r\nWelcome to the ultimate Academic IQ Challenge, inspired by the Nation’s Report Card. Each year, this nationwide assessment reveals what U.S. students t… [+1407 chars]"
+    },
+    {
+      "title": "China requests WTO consultations with India over ICT tariff, solar subsidies",
+      "description": "China has approached the World Trade Organisation against India. The petition concerns tariffs on information and communication technology products. It also targets subsidies provided to India's solar sector. China claims these measures violate WTO rules. The…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-requests-wto-consultations-with-india-over-ict-tariff-solar-subsidies/articleshow/126077506.cms",
+      "published_at": "2025-12-19T12:16:57Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-126077560,width-1200,height-630,imgsize-65292,overlay-economictimes/articleshow.jpg",
+      "content": "Beijing: China on Friday filed a petition with the World Trade Organisation (WTO), requesting consultations with India over New Delhi's tariffs on information and communication technology (ICT) produ… [+877 chars]"
+    },
+    {
+      "title": "Why AI is exposing design’s craft crisis",
+      "description": "AI didn’t create the craft crisis in design — it exposed the technical literacy gap that’s been eroding strategic influence for over a…",
+      "source": "Uxdesign.cc",
+      "url": "https://uxdesign.cc/why-ai-is-exposing-designs-craft-crisis-434bcb652848",
+      "published_at": "2025-12-19T12:14:40Z",
+      "author": "Dolphia",
+      "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*RUyj6Nw2PozgI2F1o8ToIA.avif",
+      "content": "Dylan Field at Figma 2024 Config (Source: Figma blog)\r\nAt Figmas Config 2024, CEO Dylan Field stood before 10,000 designers and typed a simple prompt: A personal portfolio website for a sustainable M… [+20349 chars]"
+    },
+    {
+      "title": "Predictable IT spending in an unpredictable economy",
+      "description": "As AI and volatility push costs higher, CIOs must adopt flexible budgeting -- rolling forecasts, FinOps and real-time metrics -- to keep IT spend predictable and innovation funded.",
+      "source": "Techtarget.com",
+      "url": "https://www.techtarget.com/searchcio/feature/Predictable-IT-spending-in-an-unpredictable-economy",
+      "published_at": "2025-12-19T12:12:00Z",
+      "author": "Alison Roller",
+      "image_url": "https://www.techtarget.com/rms/onlineimages/money_g1050046190.jpg",
+      "content": "In an uncertain economy, keeping IT spending predictable is difficult, especially as CIOs are tasked with a delicate balancing act -- stabilizing costs while still funding innovation.\r\nWorldwide IT s… [+10397 chars]"
+    },
+    {
+      "title": "Flipkart acquires majority stake in AI startup Minivet AI",
+      "description": "The IPO-bound company said that it has signed definitive agreements to acquire the majority stake, without revealing the deal size",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/flipkart-acquires-majority-stake-in-ai-startup-minivet-ai/article70415366.ece",
+      "published_at": "2025-12-19T12:11:16Z",
+      "author": "BL Bengaluru Bureau",
+      "image_url": "https://bl-i.thgim.com/public/incoming/i04zw4/article70415657.ece/alternates/LANDSCAPE_1200/2025-02-11T214122Z_1503055621_RC2LSCAR8288_RTRMADP_3_INDIA-RETAIL.JPG",
+      "content": "Flipkart has acquired a majority stake in Minivet AI, a year-old artificial intelligence and machine learning solutions provider, as the e-commerce giant deepens its investment in generative AI techn… [+2119 chars]"
+    },
+    {
+      "title": "Website Archetypes: A Structural Framework for 8 Types of Digital Experiences",
+      "description": "Not all websites are built to do the same job, and treating them as interchangeable often leads to poor performance and misplaced expectations. A website archetype defines the fundamental role a site plays for its audience. It describes how information is org…",
+      "source": "Martech.zone",
+      "url": "https://martech.zone/website-archetypes/",
+      "published_at": "2025-12-19T12:04:30Z",
+      "author": "Douglas Karr",
+      "image_url": "https://martech.zone/wp-content/uploads/2013/09/website-archetypes.webp",
+      "content": "Not all websites are built to do the same job, and treating them as interchangeable often leads to poor performance and misplaced expectations. A website archetype defines the fundamental role a site… [+9993 chars]"
+    },
+    {
+      "title": "Research: Energy Innovation Needs Assessments 2025",
+      "description": "The Energy Innovation Needs Assessments (EINAs) are an independent assessment of the role of innovation in key technologies in the UK’s future energy system.",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/publications/energy-innovation-needs-assessments-2025",
+      "published_at": "2025-12-19T12:03:15Z",
+      "author": "Department for Energy Security and Net Zero",
+      "image_url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "content": "The Energy Innovation Needs Assessments (EINAs) provide analysis on future UK energy innovation needs. This suite of reports provides an update on the 2019 EINAs.\r\nThe EINAs draw on best-in-class ene… [+1373 chars]"
+    },
+    {
+      "title": "Atos Positioned as a 'Leader' in all Four Market Segments in NelsonHall's 2025 NEAT Evaluation for Transforming Business Operations with GenAI",
+      "description": "Atos announces its recognition as a 'Leader' in all market segments of NelsonHall’s 2025 NEAT Evaluation on GenAI...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208415/0/en/Atos-Positioned-as-a-Leader-in-all-Four-Market-Segments-in-NelsonHall-s-2025-NEAT-Evaluation-for-Transforming-Business-Operations-with-GenAI.html",
+      "published_at": "2025-12-19T12:03:00Z",
+      "author": "Atos International",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/4d6bfe88-f518-49c9-a9a1-cc2f9b67f4a5",
+      "content": "Press Release\r\nAtos Positioned as a 'Leader' in all Four Market Segments in NelsonHall's 2025 NEAT Evaluation for Transforming Business Operations with GenAI\r\nParis, France, December 19, 2025 Atos, a… [+5901 chars]"
+    },
+    {
+      "title": "Contactless card limit to rise",
+      "description": "The shake-up was among dozens of proposals suggested by the financial regulator in a letter to the Prime Minister after the government asked for ideas to boost economic growth.",
+      "source": "Sky.com",
+      "url": "https://news.sky.com/story/contactless-card-100-limit-to-rise-13485548",
+      "published_at": "2025-12-19T12:02:00Z",
+      "author": null,
+      "image_url": "https://e3.365dm.com/25/12/1600x900/skynews-card-contactless-payment_7115024.jpg?20251219134346",
+      "content": "The £100 cap on contactless card payments is to be lifted under changes that will allow some shoppers to set their own limits.\r\nUnder the plans, from the Financial Conduct Authority (FCA), banks and … [+3041 chars]"
+    },
+    {
+      "title": "Achondroplasia Treatment Market to Surge with 9.94% CAGR, Emphasizing Innovation and Strategic Partnerships",
+      "description": "Emerging biologic therapies and surgical innovations are driving growth in the achondroplasia treatment market. Opportunities lie in enhancing precision care, strategic partnerships, and early interventions, especially for pediatric patients. Adapting to regu…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208414/28124/en/Achondroplasia-Treatment-Market-to-Surge-with-9-94-CAGR-Emphasizing-Innovation-and-Strategic-Partnerships.html",
+      "published_at": "2025-12-19T12:02:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Dec. 19, 2025 (GLOBE NEWSWIRE) -- The \"Achondroplasia Treatment Market - Global Forecast 2025-2032\" has been added to ResearchAndMarkets.com's offering.\r\nThe achondroplasia treatment market i… [+5820 chars]"
+    },
+    {
+      "title": "NFI Group Amends Agreement with Coliseum Capital Management",
+      "description": "Provides Coliseum flexibility to increase its ownership up to 25% of NFI’s outstanding shares  Reflects long-term support and confidence of NFI’s largest shareholder WINNIPEG. Manitoba, Dec. 19, 2025 (GLOBE NEWSWIRE) — (TSX: NFI, OTC: NFYEF, TSX: NFI.DB) NFI …",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/nfi-group-amends-agreement-with-coliseum-capital-management",
+      "published_at": "2025-12-19T12:01:52Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "The Amended Agreement can be found with NFIs public filings on SEDAR at www.sedarplus.ca.\r\nAbout NFI\r\nLeveraging 450 years of combined experience, NFI offers a wide range of propulsion agnostic bus a… [+3848 chars]"
+    },
+    {
+      "title": "After Pax Silica snub, Sajjan Jindal calls for faster development of India’s rare earth reserves",
+      "description": "JSW Group Chairman Sajjan Jindal urges India to boost domestic rare earth mineral exploration. Following exclusion from a US initiative, Jindal emphasises self-reliance. He believes India possesses significant rare earth reserves. The group is also advancing …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/after-pax-silica-snub-sajjan-jindal-calls-for-faster-development-of-indias-rare-earth-reserves/articleshow/126077232.cms",
+      "published_at": "2025-12-19T12:01:05Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-126077293,width-1200,height-630,imgsize-36408,overlay-economictimes/articleshow.jpg",
+      "content": "Mumbai, Days after a US-led 'Pax Silica initiative' excluded India from the rare earths alliance, JSW Group Chairman Sajjan Jindal on Friday called for increased focus on domestic exploration of mine… [+3036 chars]"
+    },
+    {
+      "title": "Apple’s Mac Studio 2026: The Desktop Revolution You’ve Been Waiting For",
+      "description": "Apple’s highly anticipated Mac Studio 2026 is set to make waves in the tech world, with its debut expected at WWDC 2026. This latest iteration of the Mac Studio introduces the new M5 Max and M5 Ultra chips, promising fantastic advancements in both CPU and GPU…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/2026-apple-mac-studio/",
+      "published_at": "2025-12-19T12:00:59Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/mac-studio-2026-m5-ultra-performance_optimized.jpg",
+      "content": "Apples highly anticipated Mac Studio 2026 is set to make waves in the tech world, with its debut expected at WWDC 2026. This latest iteration of the Mac Studio introduces the new M5 Max and M5 Ultra … [+5792 chars]"
+    },
+    {
+      "title": "AI in prior authorization: the new gatekeeper",
+      "description": "The denial came back in less than three seconds. A physician had just submitted a renewal for a medication her patient had taken for years, one that kept her stable, out of the hospital, and able to function. She expected the usual wait time. Maybe an hour. M…",
+      "source": "Kevinmd.com",
+      "url": "https://kevinmd.com/2025/12/ai-in-prior-authorization-the-new-gatekeeper.html",
+      "published_at": "2025-12-19T12:00:35Z",
+      "author": "Tiffiny Black, DM, MPA, MBA",
+      "image_url": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_h62u54h62u54h62u-1024x717.png",
+      "content": "The denial came back in less than three seconds.\r\nA physician had just submitted a renewal for a medication her patient had taken for years, one that kept her stable, out of the hospital, and able to… [+6109 chars]"
+    },
+    {
+      "title": "Apple TV's Upcoming Sci-Fi Show Based On Cult Classic Novel Marks The Beginning Of A New Cyberpunk Era",
+      "description": "Cyberpunk might be associated chiefly with the 1980s, but a new cyberpunk era could be upon us thanks to an upcoming Apple TV sci-fi series.",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/apple-tv-neuromancer-sci-fi-show-cyberpunk-era/",
+      "published_at": "2025-12-19T12:00:18Z",
+      "author": "Craig Elvy",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/joi-and-k-in-blade-runner-2049.jpg?w=1600&h=900&fit=crop",
+      "content": "A new era of cyberpunk could be upon us as 2026 looms into view. While the sci-fi subgenre has its roots in the 1960s, cyberpunk is more commonly associated with the 1980s, especially from a cinemati… [+4608 chars]"
+    },
+    {
+      "title": "Canadiens: Bolduc Breaks The Ice At Home",
+      "description": "The Montreal Canadiens played an excellent game on Thursday night and swept the season series against the Chicago Blackhawks thanks to a 4-1 win.",
+      "source": "The Hockey News",
+      "url": "https://thehockeynews.com/montreal-canadiens/latest-news/canadiens-bolduc-breaks-the-ice-at-home",
+      "published_at": "2025-12-19T12:00:05Z",
+      "author": "Karine Hains",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/MTa1xVVjgAg90chfpojIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTE7Y2Y9d2VicA--/https://media.zenfs.com/en/the_hockey_news_montreal_canadiens_articles_443/91914a11f43b7bccb248b97579bc357a",
+      "content": "After spending Wednesday afternoon bringing joy to kids around the Montreal Childrens hospitals, the Montreal Canadiens were hoping to do the same for their fans at the Bell Centre. While the Canadie… [+5028 chars]"
+    },
+    {
+      "title": "Piero Cipollone: The future of money: a central bank perspective",
+      "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "Europa.eu",
+      "url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251219~fd2fee081a.en.html",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "European Central Bank",
+      "image_url": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
+      "content": "Contribution by Piero Cipollone, Member of the Executive Board of the ECB, to a roundtable at Aspen Institute Italia\r\nRome, 19 December 2025\r\nMoney is at the heart of what central banks do.[1] Ever s… [+14802 chars]"
+    },
+    {
+      "title": "The Netflix–Warner Bros. Merger Is a Broadside Attack on Workers",
+      "description": "The goal of any monopoly is to create an entity so powerful it sets the terms industrywide, leaving consumers and workers with no choice.\nThe post The Netflix–Warner Bros. Merger Is a Broadside Attack on Workers appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2025/12/19/netflix-warner-bros-merger-monopoly-unions/",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Sean Bell",
+      "image_url": "https://theintercept.com/wp-content/uploads/2025/12/AP25352674579654.jpg?fit=2429%2C1620&w=1200&h=800",
+      "content": "A Netflix sign atop a building in Los Angeles on Dec. 18, 2025, with the Hollywood sign in the distance. Photo: Jae C. Hong/AP\r\nFollowing the announcement that Netflix would buy the film and streamin… [+8556 chars]"
+    },
+    {
+      "title": "Meylora Announces Magnetic Lash System and Membership Structure as Interest Grows in Adhesive Free Beauty",
+      "description": "Meylora Introduces Micro Magnet Lash Technology and Subscription Model Designed for Clarity and Ease Meylora Introduces Micro Magnet Lash Technology and Subscription Model Designed for Clarity and Ease",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208400/0/en/Meylora-Announces-Magnetic-Lash-System-and-Membership-Structure-as-Interest-Grows-in-Adhesive-Free-Beauty.html",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Meylora Lashes",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/79a33834-878e-4f01-85e5-724d9888ad8a",
+      "content": "Miami, FL, Dec. 19, 2025 (GLOBE NEWSWIRE) -- Meylora announced continued availability of its magnetic lash system and outlined its current membership structure as consumer interest increases in adhes… [+2675 chars]"
+    },
+    {
+      "title": "Express Interest in Working With CAISI",
+      "description": "Over the coming months, the Center for AI Standards and Innovation (CAISI), at the National Institute for Standards and Technology (NIST), will be engaging a wide range of AI experts to help us deliver on America’s AI Action Plan. CAISI is leading a",
+      "source": "Nist.gov",
+      "url": "https://www.nist.gov/news-events/news/2025/12/express-interest-working-caisi",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Peter Cihon",
+      "image_url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/16/shutterstock_695169133.jpg?itok=uC3iYMG_",
+      "content": "Over the coming months, the Center for AI Standards and Innovation (CAISI), at the National Institute for Standards and Technology (NIST), will be engaging a wide range of AI experts to help us deliv… [+4586 chars]"
+    },
+    {
+      "title": "Evaxion provides update on MSD collaboration - retains global rights to Gonorrhea vaccine candidate EVX-B2",
+      "description": "COPENHAGEN, Denmark, December 19, 2025 - Evaxion A/S (NASDAQ: EVAX) (“Evaxion”), a clinical-stage TechBio company specializing in developing AI-Immunology™ powered vaccines, has been informed that MSD (tradename of Merck & Co., Inc., Rahway, NJ, USA) will not…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208399/0/en/Evaxion-provides-update-on-MSD-collaboration-retains-global-rights-to-Gonorrhea-vaccine-candidate-EVX-B2.html",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Evaxion",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/19d0d69c-7f37-4d3b-8f26-2866d4ec3311",
+      "content": "<ul><li>MSD declines to exercise option for EVX-B2 development</li><li>Evaxion is now able to out-license EVX-B2 to another partner</li><li>Evaxion maintains its strong belief in EVX-B2, which has sh… [+4790 chars]"
+    },
+    {
+      "title": "Dali's new speakers could be the ultimate budget-friendly buy for audiophiles and home theater fans – but they mean saying goodbye a modern legend",
+      "description": "Dali has unveiled the new Sonik series, and we're losing a modern classic in exchange",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/audio/speakers/dalis-new-speakers-could-be-the-ultimate-budget-friendly-buy-for-audiophiles-and-home-theater-fans-but-they-mean-saying-goodbye-a-modern-legend",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Carrie Marshall",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XioFCPe6F9obj8nbcGtQm7-2048-80.png",
+      "content": "<ul><li>Dali launches Sonik standmount, floorstanding, on-wall and cinema speakers</li><li>They use tweeter and cone technology from Dali's high-end models</li><li>7 models, from $900 / £449 / AU$849… [+6675 chars]"
+    },
+    {
+      "title": "Apply on USAJobs: Open CAISI Position for an AI Research Scientist",
+      "description": "Building gold-standard AI systems requires gold-standard AI measurement science. The Applied Systems team at the Center for AI Standards and Innovation (CAISI) is seeking an AI Research Scientist (IT Specialist) with expertise in evaluation methods",
+      "source": "Nist.gov",
+      "url": "https://www.nist.gov/news-events/news/2025/12/apply-usajobs-open-caisi-position-ai-research-scientist",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Peter Cihon",
+      "image_url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/16/shutterstock_695169133.jpg?itok=uC3iYMG_",
+      "content": "Building gold-standard AI systems requires gold-standard AI measurement science. The Applied Systems team at the Center for AI Standards and Innovation (CAISI) is seeking an AI Research Scientist (IT… [+3562 chars]"
+    },
+    {
+      "title": "How I assembled my own Plasma desktop",
+      "description": "Today's piece should be super fun and cool. An article and guide showing my effort in assembling a Plasma desktop on top of Ubuntu Server on ARM architecture due to lack of readily available Kubuntu images, including initial GUI-less server installation and s…",
+      "source": "Dedoimedo.com",
+      "url": "https://www.dedoimedo.com/computers/linux-my-own-plasma-desktop.html",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": null,
+      "image_url": null,
+      "content": "How I assembled my own Plasma desktop\r\nUpdated: December 19, 2025\r\nWait, what. Mic drop? Dedoimedo built his own distro? No, nothing of the sort. And yet. Well, let me\r\nintrigue you. But also, let me… [+8166 chars]"
+    },
+    {
+      "title": "Japan trials 100-kilowatt laser weapon — it can cut through metal and drones mid-flight",
+      "description": "A new high-power laser system will soon be sent to sea for its first tests under maritime conditions.",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/technology/engineering/japan-trials-100-kilowatt-laser-weapon-it-can-cut-through-metal-and-drones-mid-flight",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Fiona Jackson",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pghQTM7dkg3yezsBMyWoqb-1920-80.jpg",
+      "content": "Japan has deployed a system that fires laser beams with 100 kilowatts of energy — powerful enough to disable small drones. It was installed on board a 6,200-ton (6.3 million kg) warship.\r\nThe weapon … [+3788 chars]"
+    },
+    {
+      "title": "Cheer Holding Announces Share Consolidation of Class A Ordinary Shares",
+      "description": "Class A Ordinary Shares Will Begin Trading on a Post-Consolidation Adjusted Basis onDecember 23, 2025  BEIJING, Dec.  19, 2025  (GLOBE NEWSWIRE) --  Cheer...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208396/0/en/Cheer-Holding-Announces-Share-Consolidation-of-Class-A-Ordinary-Shares.html",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "Cheer Holding, Inc.",
+      "image_url": null,
+      "content": "Class A Ordinary Shares Will Begin Trading on a Post-Consolidation Adjusted Basis onDecember 23, 2025\r\nBEIJING, Dec. 19, 2025 (GLOBE NEWSWIRE) -- Cheer Holding, Inc. (NASDAQ: CHR) (Cheer Holding, we … [+5827 chars]"
+    },
+    {
+      "title": "Friends Advent Calendar - Day 19",
+      "description": "Our sleepover has full attendance with Nova's appearance yesterday. Based on the pattern that we've seen in the calendar so far, I expect either Nova's pet or something that reflects her interests today.\n\nContinue reading »© 2025 Brickset.com. Republication p…",
+      "source": "Brickset.com",
+      "url": "https://brickset.com/article/126248/friends-advent-calendar-day-19",
+      "published_at": "2025-12-19T12:00:00Z",
+      "author": "MeganL",
+      "image_url": "https://brickset.com/utils/ogimage/article/126248?44747",
+      "content": "Posted by MeganL, 19 Dec 2025 12:00\r\nOur sleepover has full attendance with Nova's appearance yesterday. Based on the pattern that we've seen in the calendar so far, I expect either Nova's pet or som… [+622 chars]"
+    },
+    {
+      "title": "ContractVille Sci-Fi Furniture Pack-TENOKE",
+      "description": "Release Description:This DLC invites you on a unique mission: to completely decorate an advanced futuristic home using over 280 brand-new science fiction themed furniture pieces and decor items. Experience a bold leap in design as you work with sleek, high-te…",
+      "source": "Rlsbb.to",
+      "url": "https://post.rlsbb.to/contractville-sci-fi-furniture-pack-tenoke/",
+      "published_at": "2025-12-19T11:59:30Z",
+      "author": "OMEGA",
+      "image_url": null,
+      "content": "Release Description:\r\nThis DLC invites you on a unique mission: to completely decorate an advanced futuristic home using over 280 brand-new science fiction themed furniture pieces and decor items. Ex… [+2178 chars]"
+    },
+    {
+      "title": "Oni Press' March 2026 Full Solicits: Cult Of The Lamb To Rick & Morty",
+      "description": "Oni Press is unleashing a torrent of paranoia, horror, and unbridled weirdness in their March 2026 solicits and solicitations, starting with a mind-altering Free Comic Book Day special on May 2nd that serves as Matt Kindt's Flux House imprint's psychic recrui…",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/comics/oni-press-march-2026-full-solicits-cult-of-the-lamb-to-rick-morty/",
+      "published_at": "2025-12-19T11:57:04Z",
+      "author": "Rich Johnston",
+      "image_url": "https://bleedingcool.com/wp-content/uploads/2025/12/EC-CATACOMB-9-COVER-B-SOLICIT-WEB.jpg",
+      "content": "Posted in: Comics, Oni Press | Tagged: Cult Of The Lamb, fcbd, free comic book day, rick and morty\r\nOni Press' March 2026 Full Solicits: From Cult Of The Lamb to Rick And Morty\r\n<ul><li>Oni Press del… [+21650 chars]"
+    },
+    {
+      "title": "GreenboneOS: New Actively Exploited CVSS 10 Flaw in Cisco AsyncOS Spam Quarantine Remote Access",
+      "description": "A new maximum-severity zero-day vulnerability in Cisco AsyncOS was published in emergency fashion on Wednesday, December 17th. Cisco has indicated that the flaw, tracked as CVE-2025-20393, has been actively exploited in the wild by Chinese-nexus APT actors si…",
+      "source": "Greenbone.net",
+      "url": "https://www.greenbone.net/en/blog/new-actively-exploited-cvss-10-flaw/",
+      "published_at": "2025-12-19T11:54:29Z",
+      "author": "Joseph Lee",
+      "image_url": null,
+      "content": "A new maximum-severity zero-day vulnerability in Cisco AsyncOS was published in emergency fashion on Wednesday, December 17th. Cisco has indicated that the flaw, tracked as CVE-2025-20393, has been a… [+6198 chars]"
+    },
+    {
+      "title": "Senators Set January Markup for Crypto Market Structure Bill",
+      "description": "Senate chairs scheduled a January markup for the bill despite Democratic warnings that regulatory independence concerns could derail passage.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/352981/senators-set-january-markup-for-crypto-market-structure-bill",
+      "published_at": "2025-12-19T11:54:18Z",
+      "author": "Vismaya V",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
+      "content": "In brief\r\n<ul><li>The Senates crypto market structure bill is set for a January committee markup, White House AI and Crypto Czar David Sacks said.</li><li>The CLARITY Act would define SEC and CFTC ov… [+3587 chars]"
+    },
+    {
+      "title": "crafted in solid walnut and maple, phantom is the world’s first robotic chessboard",
+      "description": "by embedding a sensor‑driven mechanism, phantom chess bridges centuries of analog play with the analytical power of modern chess engines.\nThe post crafted in solid walnut and maple, phantom is the world’s first robotic chessboard appeared first on designboom …",
+      "source": "Designboom",
+      "url": "https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/",
+      "published_at": "2025-12-19T11:50:29Z",
+      "author": "Ed Cano",
+      "image_url": "https://www.designboom.com/twitterimages/uploads/2025/12/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-designboom-1200.jpg",
+      "content": "Phantom: a Self-Playing Chessboard Built as an Heirloom Object\r\nA synthesis of traditional woodcraft and silent robotics, Phantom reimagines the chessboard as a self‑playing heirloom. Phantom is the … [+2480 chars]"
+    },
+    {
+      "title": "AI photo match reunites Texas woman with lost cat after 103 days",
+      "description": "Texas family reunites with missing 11-year-old cat Grayson after 103 days using Petco Love Lost's AI photo matching technology and community help.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/ai-photo-match-reunites-texas-woman-lost-cat-after-103-days",
+      "published_at": "2025-12-19T11:50:16Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/lost-pet-photo-1.jpg",
+      "content": "Holiday gatherings and year-end travel often lead to a spike in missing pets. Doors open more often, routines shift and animals can slip outside in a moment of confusion. \r\nNew Year's Eve creates lou… [+8223 chars]"
+    },
+    {
+      "title": "Despite TSMC’s Gigantic Investments, the U.S. Still Won’t Get Its Most Advanced Chips, Casting Doubt on Efforts to Build a Resilient Supply Chain",
+      "description": "TSMC has been investing heavily in the US to establish a supply chain; however, laws in Taiwan hinder the chip giant's production of cutting-edge nodes in America. The U.S. Might Never Have Access To TSMC's Cutting-Edge Nodes, Given the Resistance From Taiwan…",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/despite-tsmc-investments-the-us-still-wont-get-its-most-advanced-chips/",
+      "published_at": "2025-12-19T11:48:41Z",
+      "author": "Muhammad Zuhair",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2025/04/TSMC.jpg",
+      "content": "TSMC has been investing heavily in the US to establish a supply chain; however, laws in Taiwan hinder the chip giant's production of cutting-edge nodes in America.\r\nTaiwanese lawmakers and experts ha… [+2715 chars]"
+    },
+    {
+      "title": "IHG Hotels & Resorts’ Vignette Collection Debuts in Africa with the Introduction of Fairview Hotel Nairobi",
+      "description": "Fairview Hotel Nairobi - one of Africa’s most cherished heritage hotels - is joining Vignette Collection, a growing family of one-of-a-kind hotels in destinations to remember. The 99-room boutique hotel, affectionally known as Upper Hill’s living ga...",
+      "source": "Hospitality Net",
+      "url": "https://www.hospitalitynet.org/announcement/41013836.html",
+      "published_at": "2025-12-19T11:48:27Z",
+      "author": "Fairview Hotel Nairobi, Vignette Collection by IHG",
+      "image_url": "https://www.hospitalitynet.org/picture/social_153193059.jpg?t=1766144763",
+      "content": "Fairview Hotel Nairobi - one of Africa's most cherished heritage hotels - is joining Vignette Collection, a growing family of one-of-a-kind hotels in destinations to remember. The 99-room boutique ho… [+3145 chars]"
+    },
+    {
+      "title": "Trump suspends green card lottery after Ivy League campus killings",
+      "description": "US President Donald Trump has paused the green card lottery after authorities linked it to the suspect in the Brown University shooting\n\n  Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/629714-trump-suspends-green-card-lottery/",
+      "published_at": "2025-12-19T11:45:28Z",
+      "author": "RT",
+      "image_url": "https://mf.b37mrtl.ru/files/2025.12/article/69453a4d203027051b1c0e16.jpg",
+      "content": "US President Donald Trump has suspended the green card lottery program after officials said the suspect in the shootings at Brown University and the Massachusetts Institute of Technology had entered … [+1986 chars]"
+    },
+    {
+      "title": "Singapore to punish scammers with up to 24 strokes of the cane from Dec 30",
+      "description": "Singapore’s government said Friday that scammers will face mandatory caning of up to 24 strokes from Dec. 30, under changes to criminal law to deter surging ...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/articles/singapore-punish-scammers-24-strokes-114515160.html",
+      "published_at": "2025-12-19T11:45:15Z",
+      "author": "Associated Press",
+      "image_url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "content": "KUALA LUMPUR, Malaysia (AP) Singapores government said Friday that scammers will face mandatory caning of up to 24 strokes from Dec. 30, under changes to criminal law to deter surging fraud cases.\r\nT… [+1659 chars]"
+    },
+    {
+      "title": "Director/PDMR Shareholding",
+      "description": "Albion Technology & General VCT PLC (the “Company”)Director/PDMR Transaction  Notification and public disclosure of transactions by persons discharging...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208392/0/en/Director-PDMR-Shareholding.html",
+      "published_at": "2025-12-19T11:45:00Z",
+      "author": "Albion Technology & General VCT PLC - Ordinary Shares",
+      "image_url": null,
+      "content": "Albion Technology &amp; General VCT PLC (the Company)Director/PDMR Transaction\r\nNotification and public disclosure of transactions by persons discharging managerial responsibilities and persons close… [+3230 chars]"
+    },
+    {
+      "title": "Gen Z women are more likely to identify as bisexual – but no, the lesbian label is not ‘dying out’",
+      "description": "A new study has revealed Gen Z women are more likely to describe themselves as bisexual whilst older demographics prefer the lesbian label – but no, this does not mean lesbians are “dying out”. The study, carried out by researchers at the University of Manche…",
+      "source": "Thepinknews.com",
+      "url": "https://www.thepinknews.com/2025/12/19/gen-z-women-bisexual-lesbian-zoe-dating/",
+      "published_at": "2025-12-19T11:44:40Z",
+      "author": "Sophie Perry",
+      "image_url": "https://www.thepinknews.com/wp-content/uploads/2025/12/Lesbian-data-1.jpg",
+      "content": "A new study has revealed Gen Z women are more likely to describe themselves as bisexual whilst older demographics prefer the lesbian label but no, this does not mean lesbians are “dying out”. \r\nThe s… [+3141 chars]"
+    },
+    {
+      "title": "Data, Access and the Future of Fair Competition in Commercial Real Estate",
+      "description": "Commercial real estate is undergoing a slow and uneven digital transformation, yet its data infrastructure still lags behind. While new technology solutions are emerging, the market remains far from having the standardized and integrated environment common in…",
+      "source": "Commercial Observer",
+      "url": "http://commercialobserver.com/2025/12/data-access-future-fair-competition-commercial-real-estate/",
+      "published_at": "2025-12-19T11:43:54Z",
+      "author": "Tom Acitelli",
+      "image_url": "https://commercialobserver.com/wp-content/uploads/sites/3/2025/12/squeegee-RF-GettyImages-1142645566-WEB.jpg?quality=80&w=1200&h=630&crop=1",
+      "content": "Commercial real estate is undergoing a slow and uneven digital transformation, yet its data infrastructure still lags behind. While new technology solutions are emerging, the market remains far from … [+4856 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 41984,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "PC Gamer"
+        },
+        "author": "Nick Evanson",
+        "title": "Microsoft celebrates 10 years of DirectX 12: A decade of updates to the low-level graphics API but it's still not the master of all things rendering",
+        "description": "DirectX 11 hasn't gone anywhere, and don't expect to see DirectX 13 any time soon, either. Or ever, perhaps.",
+        "url": "https://www.pcgamer.com/hardware/microsoft-celebrates-10-years-of-directx-12-a-decade-of-updates-to-the-low-level-graphics-api-but-its-still-not-the-master-of-all-things-rendering/",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/3vaLZrUADLuNub9iKdwiX6-2560-80.jpg",
+        "publishedAt": "2025-12-19T12:22:32Z",
+        "content": "In the late summer of 2014, Microsoft announced that Windows 10 would be rolled out to PC users around the world in the following year. At the same time, it also revealed that the new operating syste… [+6837 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "TODAY"
+        },
+        "author": "Phil Helsel, Tom Winter, Jonathan Dienst, Tim Stelloh",
+        "title": "What We Know About the Brown University Shooting Suspect Who Is Also Accused of Killing MIT Professor",
+        "description": "The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting a Massachusetts Institute of Technology professor days later was found dead Thursday in a New Hampshire storage unit, officials said",
+        "url": "https://www.today.com/news/brown-university-suspect-dead-rcna250041",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-12/251215-brown-university-shooting-mn-2010-2f559f.jpg",
+        "publishedAt": "2025-12-19T12:22:06Z",
+        "content": "The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting a Massachusetts Institute of Technology professor days later was found dea… [+4626 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Allie Garfinkle",
+        "title": "Inside OpenAI’s ‘code red’",
+        "description": "Fortune’s tech team recently dove into what’s going on behind the scenes at OpenAI.",
+        "url": "https://fortune.com/2025/12/19/inside-openais-code-red/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236933448-e1765906578456.jpg?resize=1200,600",
+        "publishedAt": "2025-12-19T12:21:59Z",
+        "content": "Theres pretty much always a frenzied news cycle of some kind around OpenAI. The latest: Amazonreportedly is in talks to invest $10 billion or more in the ChatGPT maker, which already counts giants li… [+4195 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Time Out"
+        },
+        "author": "Primary Author: India Lawrence",
+        "title": "The 20 London boroughs that will be the first to get self-driving cars",
+        "description": "Waymo is currently testing driverless cars on the streets of the capital",
+        "url": "https://www.timeout.com/london/news/the-20-london-boroughs-that-will-be-the-first-to-get-self-driving-cars-121925",
+        "urlToImage": "https://media.timeout.com/images/106356937/image.jpg",
+        "publishedAt": "2025-12-19T12:21:19Z",
+        "content": "Whether you reckon self-driving cars are the peak of modernity or a harbinger of a sinister robotic future, there’s one thing we know about them for sure: they’re arriving in London very, very soon.\r… [+2521 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tom's Hardware UK"
+        },
+        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+        "title": "Intel-certified 256 GB DDR5 stick could cut Xeon memory power by 18%, saving millions of dollars — a 32W-per-socket reduction could save millions per hyperscale data center",
+        "description": "SK hynix first to validate 32Gb-based 256GB DDR5 module with Intel: up to 32.4W power savings per server, or millions of dollars per hyperscale data center.",
+        "url": "https://www.tomshardware.com/pc-components/dram/intel-certified-256-gb-ddr5-stick-could-cut-xeon-memory-power-by-18-percent-saving-millions-of-dollars-a-32w-per-socket-reduction-could-save-millions-per-hyperscale-data-center",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/PGMkvs4LNPdPDpCyd8GujE-1920-80.jpg",
+        "publishedAt": "2025-12-19T12:20:00Z",
+        "content": "SK hynix on Thursday said that its range-topping 256 GB DDR5 RDIMM based on 32 Gb memory devices has passed the Intel Data Center Certified process, the industry's first memory module at this capacit… [+2315 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Shubho  Sengupta",
+        "title": "From jugaad to discipline in digital marketing",
+        "description": "The book gives Indian marketers a language to challenge bad measurement, weak strategy and performance theatre",
+        "url": "https://www.thehindubusinessline.com/books/from-jugaad-to-discipline-in-digital-marketing/article70415679.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/opinion/wbqqc6/article70415682.ece/alternates/LANDSCAPE_1200/Click%20Here.jpg",
+        "publishedAt": "2025-12-19T12:19:06Z",
+        "content": "In India, digital marketing rarely begins with strategy. It usually begins with a WhatsApp message from a founder at 9 am, a screenshot of yesterdays ROAS, and a familiar instruction: Can we scale th… [+6217 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Anupama Ghosh",
+        "title": "Markets snap four-day losing streak on global optimism, Rupee recovery",
+        "description": "Shriram Finance emerged as the top gainer among Nifty 50 constituents, surging 4.10% to close at ₹905.10, followed by Max Healthcare, which rose 2.62% to ₹1,076.00.",
+        "url": "https://www.thehindubusinessline.com/markets/markets-snap-four-day-losing-streak-on-global-optimism-rupee-recovery/article70415636.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/ddhm5v/article70415690.ece/alternates/LANDSCAPE_1200/IMG_BL1208_Spark_Lead_2_1_1PD6AUBU.jpg",
+        "publishedAt": "2025-12-19T12:18:49Z",
+        "content": "Markets rebounded sharply on Friday, with the BSE Sensex closing 447.55 points higher at 84,929.36 and the Nifty gaining 150.85 points to settle at 25,966.40, snapping a four-session losing streak as… [+3813 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Bleichmar Fonti & Auld",
+        "title": "LRN LEGAL NOTICE: Lose Money on Stride, Inc.? You may have been Affected by Fraud and are Urged to Contact BFA Law by January 12 Deadline",
+        "description": "Lose Money on Stride, Inc.? You may have been Affected by Fraud and are Urged to Contact BFA Law by January 12 Deadline...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/19/3208423/0/en/LRN-LEGAL-NOTICE-Lose-Money-on-Stride-Inc-You-may-have-been-Affected-by-Fraud-and-are-Urged-to-Contact-BFA-Law-by-January-12-Deadline.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+        "publishedAt": "2025-12-19T12:18:00Z",
+        "content": "NEW YORK, Dec. 19, 2025 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a class action lawsuit has been filed against Stride, Inc. (NYSE: LRN) and certai… [+3984 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GamesRadar+"
+        },
+        "author": "George Young",
+        "title": "Metal Gear Solid and Death Stranding creator Hideo Kojima thinks \"we can't go back\" to a world without AI: \"Smartphones were the same\"",
+        "description": "\"It would undoubtedly be convenient. But then I wonder if it's really okay\"",
+        "url": "https://www.gamesradar.com/games/action/metal-gear-solid-and-death-stranding-creator-hideo-kojima-thinks-we-cant-go-back-to-a-world-without-ai-smartphones-were-the-same/",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/b9qtK9MafTFDhzAHC9CuHQ-1920-80.jpg",
+        "publishedAt": "2025-12-19T12:17:46Z",
+        "content": "Legendary director Hideo Kojima has likened the rise of AI to the invention of smartphones, but questions whether the convenience that AI offers would lead us to becoming too spoiled.\r\nIn an intervie… [+1706 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Boredpanda.com"
+        },
+        "author": "Raquel Teixeira",
+        "title": "We Seriously Doubt You Can Beat The Average U.S. Student – Take The Test & Prove Us Wrong",
+        "description": "Are you smarter than the average U.S. student? Welcome to the ultimate Academic IQ Challenge, inspired by the Nation’s Report Card.",
+        "url": "https://www.boredpanda.com/us-nations-report-card-part-4/",
+        "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/12/us-nations-report-card-part-4-fb30.png",
+        "publishedAt": "2025-12-19T12:17:16Z",
+        "content": "Are you smarter than the average U.S. student?\r\nWelcome to the ultimate Academic IQ Challenge, inspired by the Nation’s Report Card. Each year, this nationwide assessment reveals what U.S. students t… [+1407 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "China requests WTO consultations with India over ICT tariff, solar subsidies",
+        "description": "China has approached the World Trade Organisation against India. The petition concerns tariffs on information and communication technology products. It also targets subsidies provided to India's solar sector. China claims these measures violate WTO rules. The…",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-requests-wto-consultations-with-india-over-ict-tariff-solar-subsidies/articleshow/126077506.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-126077560,width-1200,height-630,imgsize-65292,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-19T12:16:57Z",
+        "content": "Beijing: China on Friday filed a petition with the World Trade Organisation (WTO), requesting consultations with India over New Delhi's tariffs on information and communication technology (ICT) produ… [+877 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uxdesign.cc"
+        },
+        "author": "Dolphia",
+        "title": "Why AI is exposing design’s craft crisis",
+        "description": "AI didn’t create the craft crisis in design — it exposed the technical literacy gap that’s been eroding strategic influence for over a…",
+        "url": "https://uxdesign.cc/why-ai-is-exposing-designs-craft-crisis-434bcb652848",
+        "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*RUyj6Nw2PozgI2F1o8ToIA.avif",
+        "publishedAt": "2025-12-19T12:14:40Z",
+        "content": "Dylan Field at Figma 2024 Config (Source: Figma blog)\r\nAt Figmas Config 2024, CEO Dylan Field stood before 10,000 designers and typed a simple prompt: A personal portfolio website for a sustainable M… [+20349 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techtarget.com"
+        },
+        "author": "Alison Roller",
+        "title": "Predictable IT spending in an unpredictable economy",
+        "description": "As AI and volatility push costs higher, CIOs must adopt flexible budgeting -- rolling forecasts, FinOps and real-time metrics -- to keep IT spend predictable and innovation funded.",
+        "url": "https://www.techtarget.com/searchcio/feature/Predictable-IT-spending-in-an-unpredictable-economy",
+        "urlToImage": "https://www.techtarget.com/rms/onlineimages/money_g1050046190.jpg",
+        "publishedAt": "2025-12-19T12:12:00Z",
+        "content": "In an uncertain economy, keeping IT spending predictable is difficult, especially as CIOs are tasked with a delicate balancing act -- stabilizing costs while still funding innovation.\r\nWorldwide IT s… [+10397 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "BL Bengaluru Bureau",
+        "title": "Flipkart acquires majority stake in AI startup Minivet AI",
+        "description": "The IPO-bound company said that it has signed definitive agreements to acquire the majority stake, without revealing the deal size",
+        "url": "https://www.thehindubusinessline.com/companies/flipkart-acquires-majority-stake-in-ai-startup-minivet-ai/article70415366.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/i04zw4/article70415657.ece/alternates/LANDSCAPE_1200/2025-02-11T214122Z_1503055621_RC2LSCAR8288_RTRMADP_3_INDIA-RETAIL.JPG",
+        "publishedAt": "2025-12-19T12:11:16Z",
+        "content": "Flipkart has acquired a majority stake in Minivet AI, a year-old artificial intelligence and machine learning solutions provider, as the e-commerce giant deepens its investment in generative AI techn… [+2119 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Martech.zone"
+        },
+        "author": "Douglas Karr",
+        "title": "Website Archetypes: A Structural Framework for 8 Types of Digital Experiences",
+        "description": "Not all websites are built to do the same job, and treating them as interchangeable often leads to poor performance and misplaced expectations. A website archetype defines the fundamental role a site plays for its audience. It describes how information is org…",
+        "url": "https://martech.zone/website-archetypes/",
+        "urlToImage": "https://martech.zone/wp-content/uploads/2013/09/website-archetypes.webp",
+        "publishedAt": "2025-12-19T12:04:30Z",
+        "content": "Not all websites are built to do the same job, and treating them as interchangeable often leads to poor performance and misplaced expectations. A website archetype defines the fundamental role a site… [+9993 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.gov.uk"
+        },
+        "author": "Department for Energy Security and Net Zero",
+        "title": "Research: Energy Innovation Needs Assessments 2025",
+        "description": "The Energy Innovation Needs Assessments (EINAs) are an independent assessment of the role of innovation in key technologies in the UK’s future energy system.",
+        "url": "https://www.gov.uk/government/publications/energy-innovation-needs-assessments-2025",
+        "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+        "publishedAt": "2025-12-19T12:03:15Z",
+        "content": "The Energy Innovation Needs Assessments (EINAs) provide analysis on future UK energy innovation needs. This suite of reports provides an update on the 2019 EINAs.\r\nThe EINAs draw on best-in-class ene… [+1373 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Atos International",
+        "title": "Atos Positioned as a 'Leader' in all Four Market Segments in NelsonHall's 2025 NEAT Evaluation for Transforming Business Operations with GenAI",
+        "description": "Atos announces its recognition as a 'Leader' in all market segments of NelsonHall’s 2025 NEAT Evaluation on GenAI...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/19/3208415/0/en/Atos-Positioned-as-a-Leader-in-all-Four-Market-Segments-in-NelsonHall-s-2025-NEAT-Evaluation-for-Transforming-Business-Operations-with-GenAI.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/4d6bfe88-f518-49c9-a9a1-cc2f9b67f4a5",
+        "publishedAt": "2025-12-19T12:03:00Z",
+        "content": "Press Release\r\nAtos Positioned as a 'Leader' in all Four Market Segments in NelsonHall's 2025 NEAT Evaluation for Transforming Business Operations with GenAI\r\nParis, France, December 19, 2025 Atos, a… [+5901 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sky.com"
+        },
+        "author": null,
+        "title": "Contactless card limit to rise",
+        "description": "The shake-up was among dozens of proposals suggested by the financial regulator in a letter to the Prime Minister after the government asked for ideas to boost economic growth.",
+        "url": "https://news.sky.com/story/contactless-card-100-limit-to-rise-13485548",
+        "urlToImage": "https://e3.365dm.com/25/12/1600x900/skynews-card-contactless-payment_7115024.jpg?20251219134346",
+        "publishedAt": "2025-12-19T12:02:00Z",
+        "content": "The £100 cap on contactless card payments is to be lifted under changes that will allow some shoppers to set their own limits.\r\nUnder the plans, from the Financial Conduct Authority (FCA), banks and … [+3041 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Achondroplasia Treatment Market to Surge with 9.94% CAGR, Emphasizing Innovation and Strategic Partnerships",
+        "description": "Emerging biologic therapies and surgical innovations are driving growth in the achondroplasia treatment market. Opportunities lie in enhancing precision care, strategic partnerships, and early interventions, especially for pediatric patients. Adapting to regu…",
+        "url": "https://www.globenewswire.com/news-release/2025/12/19/3208414/28124/en/Achondroplasia-Treatment-Market-to-Surge-with-9-94-CAGR-Emphasizing-Innovation-and-Strategic-Partnerships.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2025-12-19T12:02:00Z",
+        "content": "Dublin, Dec. 19, 2025 (GLOBE NEWSWIRE) -- The \"Achondroplasia Treatment Market - Global Forecast 2025-2032\" has been added to ResearchAndMarkets.com's offering.\r\nThe achondroplasia treatment market i… [+5820 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "NFI Group Amends Agreement with Coliseum Capital Management",
+        "description": "Provides Coliseum flexibility to increase its ownership up to 25% of NFI’s outstanding shares  Reflects long-term support and confidence of NFI’s largest shareholder WINNIPEG. Manitoba, Dec. 19, 2025 (GLOBE NEWSWIRE) — (TSX: NFI, OTC: NFYEF, TSX: NFI.DB) NFI …",
+        "url": "https://financialpost.com/globe-newswire/nfi-group-amends-agreement-with-coliseum-capital-management",
+        "urlToImage": null,
+        "publishedAt": "2025-12-19T12:01:52Z",
+        "content": "The Amended Agreement can be found with NFIs public filings on SEDAR at www.sedarplus.ca.\r\nAbout NFI\r\nLeveraging 450 years of combined experience, NFI offers a wide range of propulsion agnostic bus a… [+3848 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "After Pax Silica snub, Sajjan Jindal calls for faster development of India’s rare earth reserves",
+        "description": "JSW Group Chairman Sajjan Jindal urges India to boost domestic rare earth mineral exploration. Following exclusion from a US initiative, Jindal emphasises self-reliance. He believes India possesses significant rare earth reserves. The group is also advancing …",
+        "url": "https://economictimes.indiatimes.com/news/india/after-pax-silica-snub-sajjan-jindal-calls-for-faster-development-of-indias-rare-earth-reserves/articleshow/126077232.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-126077293,width-1200,height-630,imgsize-36408,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2025-12-19T12:01:05Z",
+        "content": "Mumbai, Days after a US-led 'Pax Silica initiative' excluded India from the rare earths alliance, JSW Group Chairman Sajjan Jindal on Friday called for increased focus on domestic exploration of mine… [+3036 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Apple’s Mac Studio 2026: The Desktop Revolution You’ve Been Waiting For",
+        "description": "Apple’s highly anticipated Mac Studio 2026 is set to make waves in the tech world, with its debut expected at WWDC 2026. This latest iteration of the Mac Studio introduces the new M5 Max and M5 Ultra chips, promising fantastic advancements in both CPU and GPU…",
+        "url": "https://www.geeky-gadgets.com/2026-apple-mac-studio/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/mac-studio-2026-m5-ultra-performance_optimized.jpg",
+        "publishedAt": "2025-12-19T12:00:59Z",
+        "content": "Apples highly anticipated Mac Studio 2026 is set to make waves in the tech world, with its debut expected at WWDC 2026. This latest iteration of the Mac Studio introduces the new M5 Max and M5 Ultra … [+5792 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kevinmd.com"
+        },
+        "author": "Tiffiny Black, DM, MPA, MBA",
+        "title": "AI in prior authorization: the new gatekeeper",
+        "description": "The denial came back in less than three seconds. A physician had just submitted a renewal for a medication her patient had taken for years, one that kept her stable, out of the hospital, and able to function. She expected the usual wait time. Maybe an hour. M…",
+        "url": "https://kevinmd.com/2025/12/ai-in-prior-authorization-the-new-gatekeeper.html",
+        "urlToImage": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_h62u54h62u54h62u-1024x717.png",
+        "publishedAt": "2025-12-19T12:00:35Z",
+        "content": "The denial came back in less than three seconds.\r\nA physician had just submitted a renewal for a medication her patient had taken for years, one that kept her stable, out of the hospital, and able to… [+6109 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Screen Rant"
+        },
+        "author": "Craig Elvy",
+        "title": "Apple TV's Upcoming Sci-Fi Show Based On Cult Classic Novel Marks The Beginning Of A New Cyberpunk Era",
+        "description": "Cyberpunk might be associated chiefly with the 1980s, but a new cyberpunk era could be upon us thanks to an upcoming Apple TV sci-fi series.",
+        "url": "https://screenrant.com/apple-tv-neuromancer-sci-fi-show-cyberpunk-era/",
+        "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/joi-and-k-in-blade-runner-2049.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2025-12-19T12:00:18Z",
+        "content": "A new era of cyberpunk could be upon us as 2026 looms into view. While the sci-fi subgenre has its roots in the 1960s, cyberpunk is more commonly associated with the 1980s, especially from a cinemati… [+4608 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Hockey News"
+        },
+        "author": "Karine Hains",
+        "title": "Canadiens: Bolduc Breaks The Ice At Home",
+        "description": "The Montreal Canadiens played an excellent game on Thursday night and swept the season series against the Chicago Blackhawks thanks to a 4-1 win.",
+        "url": "https://thehockeynews.com/montreal-canadiens/latest-news/canadiens-bolduc-breaks-the-ice-at-home",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MTa1xVVjgAg90chfpojIWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTE7Y2Y9d2VicA--/https://media.zenfs.com/en/the_hockey_news_montreal_canadiens_articles_443/91914a11f43b7bccb248b97579bc357a",
+        "publishedAt": "2025-12-19T12:00:05Z",
+        "content": "After spending Wednesday afternoon bringing joy to kids around the Montreal Childrens hospitals, the Montreal Canadiens were hoping to do the same for their fans at the Bell Centre. While the Canadie… [+5028 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Europa.eu"
+        },
+        "author": "European Central Bank",
+        "title": "Piero Cipollone: The future of money: a central bank perspective",
+        "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+        "url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251219~fd2fee081a.en.html",
+        "urlToImage": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "Contribution by Piero Cipollone, Member of the Executive Board of the ECB, to a roundtable at Aspen Institute Italia\r\nRome, 19 December 2025\r\nMoney is at the heart of what central banks do.[1] Ever s… [+14802 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Intercept"
+        },
+        "author": "Sean Bell",
+        "title": "The Netflix–Warner Bros. Merger Is a Broadside Attack on Workers",
+        "description": "The goal of any monopoly is to create an entity so powerful it sets the terms industrywide, leaving consumers and workers with no choice.\nThe post The Netflix–Warner Bros. Merger Is a Broadside Attack on Workers appeared first on The Intercept.",
+        "url": "https://theintercept.com/2025/12/19/netflix-warner-bros-merger-monopoly-unions/",
+        "urlToImage": "https://theintercept.com/wp-content/uploads/2025/12/AP25352674579654.jpg?fit=2429%2C1620&w=1200&h=800",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "A Netflix sign atop a building in Los Angeles on Dec. 18, 2025, with the Hollywood sign in the distance. Photo: Jae C. Hong/AP\r\nFollowing the announcement that Netflix would buy the film and streamin… [+8556 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Meylora Lashes",
+        "title": "Meylora Announces Magnetic Lash System and Membership Structure as Interest Grows in Adhesive Free Beauty",
+        "description": "Meylora Introduces Micro Magnet Lash Technology and Subscription Model Designed for Clarity and Ease Meylora Introduces Micro Magnet Lash Technology and Subscription Model Designed for Clarity and Ease",
+        "url": "https://www.globenewswire.com/news-release/2025/12/19/3208400/0/en/Meylora-Announces-Magnetic-Lash-System-and-Membership-Structure-as-Interest-Grows-in-Adhesive-Free-Beauty.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/79a33834-878e-4f01-85e5-724d9888ad8a",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "Miami, FL, Dec. 19, 2025 (GLOBE NEWSWIRE) -- Meylora announced continued availability of its magnetic lash system and outlined its current membership structure as consumer interest increases in adhes… [+2675 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nist.gov"
+        },
+        "author": "Peter Cihon",
+        "title": "Express Interest in Working With CAISI",
+        "description": "Over the coming months, the Center for AI Standards and Innovation (CAISI), at the National Institute for Standards and Technology (NIST), will be engaging a wide range of AI experts to help us deliver on America’s AI Action Plan. CAISI is leading a",
+        "url": "https://www.nist.gov/news-events/news/2025/12/express-interest-working-caisi",
+        "urlToImage": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/16/shutterstock_695169133.jpg?itok=uC3iYMG_",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "Over the coming months, the Center for AI Standards and Innovation (CAISI), at the National Institute for Standards and Technology (NIST), will be engaging a wide range of AI experts to help us deliv… [+4586 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Evaxion",
+        "title": "Evaxion provides update on MSD collaboration - retains global rights to Gonorrhea vaccine candidate EVX-B2",
+        "description": "COPENHAGEN, Denmark, December 19, 2025 - Evaxion A/S (NASDAQ: EVAX) (“Evaxion”), a clinical-stage TechBio company specializing in developing AI-Immunology™ powered vaccines, has been informed that MSD (tradename of Merck & Co., Inc., Rahway, NJ, USA) will not…",
+        "url": "https://www.globenewswire.com/news-release/2025/12/19/3208399/0/en/Evaxion-provides-update-on-MSD-collaboration-retains-global-rights-to-Gonorrhea-vaccine-candidate-EVX-B2.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/19d0d69c-7f37-4d3b-8f26-2866d4ec3311",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "<ul><li>MSD declines to exercise option for EVX-B2 development</li><li>Evaxion is now able to out-license EVX-B2 to another partner</li><li>Evaxion maintains its strong belief in EVX-B2, which has sh… [+4790 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "Carrie Marshall",
+        "title": "Dali's new speakers could be the ultimate budget-friendly buy for audiophiles and home theater fans – but they mean saying goodbye a modern legend",
+        "description": "Dali has unveiled the new Sonik series, and we're losing a modern classic in exchange",
+        "url": "https://www.techradar.com/audio/speakers/dalis-new-speakers-could-be-the-ultimate-budget-friendly-buy-for-audiophiles-and-home-theater-fans-but-they-mean-saying-goodbye-a-modern-legend",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/XioFCPe6F9obj8nbcGtQm7-2048-80.png",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "<ul><li>Dali launches Sonik standmount, floorstanding, on-wall and cinema speakers</li><li>They use tweeter and cone technology from Dali's high-end models</li><li>7 models, from $900 / £449 / AU$849… [+6675 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nist.gov"
+        },
+        "author": "Peter Cihon",
+        "title": "Apply on USAJobs: Open CAISI Position for an AI Research Scientist",
+        "description": "Building gold-standard AI systems requires gold-standard AI measurement science. The Applied Systems team at the Center for AI Standards and Innovation (CAISI) is seeking an AI Research Scientist (IT Specialist) with expertise in evaluation methods",
+        "url": "https://www.nist.gov/news-events/news/2025/12/apply-usajobs-open-caisi-position-ai-research-scientist",
+        "urlToImage": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/16/shutterstock_695169133.jpg?itok=uC3iYMG_",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "Building gold-standard AI systems requires gold-standard AI measurement science. The Applied Systems team at the Center for AI Standards and Innovation (CAISI) is seeking an AI Research Scientist (IT… [+3562 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Dedoimedo.com"
+        },
+        "author": null,
+        "title": "How I assembled my own Plasma desktop",
+        "description": "Today's piece should be super fun and cool. An article and guide showing my effort in assembling a Plasma desktop on top of Ubuntu Server on ARM architecture due to lack of readily available Kubuntu images, including initial GUI-less server installation and s…",
+        "url": "https://www.dedoimedo.com/computers/linux-my-own-plasma-desktop.html",
+        "urlToImage": null,
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "How I assembled my own Plasma desktop\r\nUpdated: December 19, 2025\r\nWait, what. Mic drop? Dedoimedo built his own distro? No, nothing of the sort. And yet. Well, let me\r\nintrigue you. But also, let me… [+8166 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Live Science"
+        },
+        "author": "Fiona Jackson",
+        "title": "Japan trials 100-kilowatt laser weapon — it can cut through metal and drones mid-flight",
+        "description": "A new high-power laser system will soon be sent to sea for its first tests under maritime conditions.",
+        "url": "https://www.livescience.com/technology/engineering/japan-trials-100-kilowatt-laser-weapon-it-can-cut-through-metal-and-drones-mid-flight",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/pghQTM7dkg3yezsBMyWoqb-1920-80.jpg",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "Japan has deployed a system that fires laser beams with 100 kilowatts of energy — powerful enough to disable small drones. It was installed on board a 6,200-ton (6.3 million kg) warship.\r\nThe weapon … [+3788 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Cheer Holding, Inc.",
+        "title": "Cheer Holding Announces Share Consolidation of Class A Ordinary Shares",
+        "description": "Class A Ordinary Shares Will Begin Trading on a Post-Consolidation Adjusted Basis onDecember 23, 2025  BEIJING, Dec.  19, 2025  (GLOBE NEWSWIRE) --  Cheer...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/19/3208396/0/en/Cheer-Holding-Announces-Share-Consolidation-of-Class-A-Ordinary-Shares.html",
+        "urlToImage": null,
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "Class A Ordinary Shares Will Begin Trading on a Post-Consolidation Adjusted Basis onDecember 23, 2025\r\nBEIJING, Dec. 19, 2025 (GLOBE NEWSWIRE) -- Cheer Holding, Inc. (NASDAQ: CHR) (Cheer Holding, we … [+5827 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Brickset.com"
+        },
+        "author": "MeganL",
+        "title": "Friends Advent Calendar - Day 19",
+        "description": "Our sleepover has full attendance with Nova's appearance yesterday. Based on the pattern that we've seen in the calendar so far, I expect either Nova's pet or something that reflects her interests today.\n\nContinue reading »© 2025 Brickset.com. Republication p…",
+        "url": "https://brickset.com/article/126248/friends-advent-calendar-day-19",
+        "urlToImage": "https://brickset.com/utils/ogimage/article/126248?44747",
+        "publishedAt": "2025-12-19T12:00:00Z",
+        "content": "Posted by MeganL, 19 Dec 2025 12:00\r\nOur sleepover has full attendance with Nova's appearance yesterday. Based on the pattern that we've seen in the calendar so far, I expect either Nova's pet or som… [+622 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rlsbb.to"
+        },
+        "author": "OMEGA",
+        "title": "ContractVille Sci-Fi Furniture Pack-TENOKE",
+        "description": "Release Description:This DLC invites you on a unique mission: to completely decorate an advanced futuristic home using over 280 brand-new science fiction themed furniture pieces and decor items. Experience a bold leap in design as you work with sleek, high-te…",
+        "url": "https://post.rlsbb.to/contractville-sci-fi-furniture-pack-tenoke/",
+        "urlToImage": null,
+        "publishedAt": "2025-12-19T11:59:30Z",
+        "content": "Release Description:\r\nThis DLC invites you on a unique mission: to completely decorate an advanced futuristic home using over 280 brand-new science fiction themed furniture pieces and decor items. Ex… [+2178 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bleeding Cool News"
+        },
+        "author": "Rich Johnston",
+        "title": "Oni Press' March 2026 Full Solicits: Cult Of The Lamb To Rick & Morty",
+        "description": "Oni Press is unleashing a torrent of paranoia, horror, and unbridled weirdness in their March 2026 solicits and solicitations, starting with a mind-altering Free Comic Book Day special on May 2nd that serves as Matt Kindt's Flux House imprint's psychic recrui…",
+        "url": "https://bleedingcool.com/comics/oni-press-march-2026-full-solicits-cult-of-the-lamb-to-rick-morty/",
+        "urlToImage": "https://bleedingcool.com/wp-content/uploads/2025/12/EC-CATACOMB-9-COVER-B-SOLICIT-WEB.jpg",
+        "publishedAt": "2025-12-19T11:57:04Z",
+        "content": "Posted in: Comics, Oni Press | Tagged: Cult Of The Lamb, fcbd, free comic book day, rick and morty\r\nOni Press' March 2026 Full Solicits: From Cult Of The Lamb to Rick And Morty\r\n<ul><li>Oni Press del… [+21650 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Greenbone.net"
+        },
+        "author": "Joseph Lee",
+        "title": "GreenboneOS: New Actively Exploited CVSS 10 Flaw in Cisco AsyncOS Spam Quarantine Remote Access",
+        "description": "A new maximum-severity zero-day vulnerability in Cisco AsyncOS was published in emergency fashion on Wednesday, December 17th. Cisco has indicated that the flaw, tracked as CVE-2025-20393, has been actively exploited in the wild by Chinese-nexus APT actors si…",
+        "url": "https://www.greenbone.net/en/blog/new-actively-exploited-cvss-10-flaw/",
+        "urlToImage": null,
+        "publishedAt": "2025-12-19T11:54:29Z",
+        "content": "A new maximum-severity zero-day vulnerability in Cisco AsyncOS was published in emergency fashion on Wednesday, December 17th. Cisco has indicated that the flaw, tracked as CVE-2025-20393, has been a… [+6198 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Vismaya V",
+        "title": "Senators Set January Markup for Crypto Market Structure Bill",
+        "description": "Senate chairs scheduled a January markup for the bill despite Democratic warnings that regulatory independence concerns could derail passage.",
+        "url": "https://decrypt.co/352981/senators-set-january-markup-for-crypto-market-structure-bill",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg",
+        "publishedAt": "2025-12-19T11:54:18Z",
+        "content": "In brief\r\n<ul><li>The Senates crypto market structure bill is set for a January committee markup, White House AI and Crypto Czar David Sacks said.</li><li>The CLARITY Act would define SEC and CFTC ov… [+3587 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Designboom"
+        },
+        "author": "Ed Cano",
+        "title": "crafted in solid walnut and maple, phantom is the world’s first robotic chessboard",
+        "description": "by embedding a sensor‑driven mechanism, phantom chess bridges centuries of analog play with the analytical power of modern chess engines.\nThe post crafted in solid walnut and maple, phantom is the world’s first robotic chessboard appeared first on designboom …",
+        "url": "https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/",
+        "urlToImage": "https://www.designboom.com/twitterimages/uploads/2025/12/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-designboom-1200.jpg",
+        "publishedAt": "2025-12-19T11:50:29Z",
+        "content": "Phantom: a Self-Playing Chessboard Built as an Heirloom Object\r\nA synthesis of traditional woodcraft and silent robotics, Phantom reimagines the chessboard as a self‑playing heirloom. Phantom is the … [+2480 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "AI photo match reunites Texas woman with lost cat after 103 days",
+        "description": "Texas family reunites with missing 11-year-old cat Grayson after 103 days using Petco Love Lost's AI photo matching technology and community help.",
+        "url": "https://www.foxnews.com/tech/ai-photo-match-reunites-texas-woman-lost-cat-after-103-days",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/lost-pet-photo-1.jpg",
+        "publishedAt": "2025-12-19T11:50:16Z",
+        "content": "Holiday gatherings and year-end travel often lead to a spike in missing pets. Doors open more often, routines shift and animals can slip outside in a moment of confusion. \r\nNew Year's Eve creates lou… [+8223 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Muhammad Zuhair",
+        "title": "Despite TSMC’s Gigantic Investments, the U.S. Still Won’t Get Its Most Advanced Chips, Casting Doubt on Efforts to Build a Resilient Supply Chain",
+        "description": "TSMC has been investing heavily in the US to establish a supply chain; however, laws in Taiwan hinder the chip giant's production of cutting-edge nodes in America. The U.S. Might Never Have Access To TSMC's Cutting-Edge Nodes, Given the Resistance From Taiwan…",
+        "url": "https://wccftech.com/despite-tsmc-investments-the-us-still-wont-get-its-most-advanced-chips/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/04/TSMC.jpg",
+        "publishedAt": "2025-12-19T11:48:41Z",
+        "content": "TSMC has been investing heavily in the US to establish a supply chain; however, laws in Taiwan hinder the chip giant's production of cutting-edge nodes in America.\r\nTaiwanese lawmakers and experts ha… [+2715 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hospitality Net"
+        },
+        "author": "Fairview Hotel Nairobi, Vignette Collection by IHG",
+        "title": "IHG Hotels & Resorts’ Vignette Collection Debuts in Africa with the Introduction of Fairview Hotel Nairobi",
+        "description": "Fairview Hotel Nairobi - one of Africa’s most cherished heritage hotels - is joining Vignette Collection, a growing family of one-of-a-kind hotels in destinations to remember. The 99-room boutique hotel, affectionally known as Upper Hill’s living ga...",
+        "url": "https://www.hospitalitynet.org/announcement/41013836.html",
+        "urlToImage": "https://www.hospitalitynet.org/picture/social_153193059.jpg?t=1766144763",
+        "publishedAt": "2025-12-19T11:48:27Z",
+        "content": "Fairview Hotel Nairobi - one of Africa's most cherished heritage hotels - is joining Vignette Collection, a growing family of one-of-a-kind hotels in destinations to remember. The 99-room boutique ho… [+3145 chars]"
+      },
+      {
+        "source": {
+          "id": "rt",
+          "name": "RT"
+        },
+        "author": "RT",
+        "title": "Trump suspends green card lottery after Ivy League campus killings",
+        "description": "US President Donald Trump has paused the green card lottery after authorities linked it to the suspect in the Brown University shooting\n\n  Read Full Article at RT.com",
+        "url": "https://www.rt.com/news/629714-trump-suspends-green-card-lottery/",
+        "urlToImage": "https://mf.b37mrtl.ru/files/2025.12/article/69453a4d203027051b1c0e16.jpg",
+        "publishedAt": "2025-12-19T11:45:28Z",
+        "content": "US President Donald Trump has suspended the green card lottery program after officials said the suspect in the shootings at Brown University and the Massachusetts Institute of Technology had entered … [+1986 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Associated Press",
+        "title": "Singapore to punish scammers with up to 24 strokes of the cane from Dec 30",
+        "description": "Singapore’s government said Friday that scammers will face mandatory caning of up to 24 strokes from Dec. 30, under changes to criminal law to deter surging ...",
+        "url": "https://www.yahoo.com/news/articles/singapore-punish-scammers-24-strokes-114515160.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2025-12-19T11:45:15Z",
+        "content": "KUALA LUMPUR, Malaysia (AP) Singapores government said Friday that scammers will face mandatory caning of up to 24 strokes from Dec. 30, under changes to criminal law to deter surging fraud cases.\r\nT… [+1659 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Albion Technology & General VCT PLC - Ordinary Shares",
+        "title": "Director/PDMR Shareholding",
+        "description": "Albion Technology & General VCT PLC (the “Company”)Director/PDMR Transaction  Notification and public disclosure of transactions by persons discharging...",
+        "url": "https://www.globenewswire.com/news-release/2025/12/19/3208392/0/en/Director-PDMR-Shareholding.html",
+        "urlToImage": null,
+        "publishedAt": "2025-12-19T11:45:00Z",
+        "content": "Albion Technology &amp; General VCT PLC (the Company)Director/PDMR Transaction\r\nNotification and public disclosure of transactions by persons discharging managerial responsibilities and persons close… [+3230 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thepinknews.com"
+        },
+        "author": "Sophie Perry",
+        "title": "Gen Z women are more likely to identify as bisexual – but no, the lesbian label is not ‘dying out’",
+        "description": "A new study has revealed Gen Z women are more likely to describe themselves as bisexual whilst older demographics prefer the lesbian label – but no, this does not mean lesbians are “dying out”. The study, carried out by researchers at the University of Manche…",
+        "url": "https://www.thepinknews.com/2025/12/19/gen-z-women-bisexual-lesbian-zoe-dating/",
+        "urlToImage": "https://www.thepinknews.com/wp-content/uploads/2025/12/Lesbian-data-1.jpg",
+        "publishedAt": "2025-12-19T11:44:40Z",
+        "content": "A new study has revealed Gen Z women are more likely to describe themselves as bisexual whilst older demographics prefer the lesbian label but no, this does not mean lesbians are “dying out”. \r\nThe s… [+3141 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Commercial Observer"
+        },
+        "author": "Tom Acitelli",
+        "title": "Data, Access and the Future of Fair Competition in Commercial Real Estate",
+        "description": "Commercial real estate is undergoing a slow and uneven digital transformation, yet its data infrastructure still lags behind. While new technology solutions are emerging, the market remains far from having the standardized and integrated environment common in…",
+        "url": "http://commercialobserver.com/2025/12/data-access-future-fair-competition-commercial-real-estate/",
+        "urlToImage": "https://commercialobserver.com/wp-content/uploads/sites/3/2025/12/squeegee-RF-GettyImages-1142645566-WEB.jpg?quality=80&w=1200&h=630&crop=1",
+        "publishedAt": "2025-12-19T11:43:54Z",
+        "content": "Commercial real estate is undergoing a slow and uneven digital transformation, yet its data infrastructure still lags behind. While new technology solutions are emerging, the market remains far from … [+4856 chars]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1140 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 36477,
+  "articles": [
+    {
+      "title": "Stop using your router's USB port - what PC experts recommend instead",
+      "description": "Your router's USB port is convenient, but its unreliability makes it susceptible to a potential security risk.",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/home-and-office/networking/reasons-why-to-not-use-router-usb-port/",
+      "published_at": "2026-01-09T12:24:00Z",
+      "author": "Cesar Cadenas",
+      "image_url": "https://www.zdnet.com/a/img/resize/bdd5d33b46a2983623ca897bfe19523250363378/2025/10/31/4bc9f018-5bf5-4a99-b349-f8a178c00f07/tp-link-routerred.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "content": "Cesar Cadenas/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Your router may have USB ports on the back, but I don't recommend using them.</li><li>These… [+6903 chars]"
+    },
+    {
+      "title": "3D printed solar cells bring color tuned power to windows and curved surfaces",
+      "description": "London, UK (SPX) Jan 09, 2026\n\n\nResearchers at the Hebrew University of Jerusalem have developed a semi-transparent, flexible perovskite solar cell that generates electricity while allowing control over both light transmission and perceived color for use in w…",
+      "source": "Solardaily.com",
+      "url": "https://www.solardaily.com/reports/3D_printed_solar_cells_bring_color_tuned_power_to_windows_and_curved_surfaces_999.html",
+      "published_at": "2026-01-09T12:23:49Z",
+      "author": null,
+      "image_url": "https://www.spxdaily.com/images-hg/colourful-semi-transparent-flexible-perovskite-solarcell-hg.jpg",
+      "content": "by Sophie JenkinsLondon, UK (SPX) Jan 09, 2026\r\nResearchers at the Hebrew University of Jerusalem have developed a semi-transparent, flexible perovskite solar cell that generates electricity while al… [+2708 chars]"
+    },
+    {
+      "title": "Superradiant spin teamwork yields self driven microwave signals",
+      "description": "Sydney, Australia (SPX) Jan 05, 2026\n\n\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomenon known as superradiance that has often caused rapid energy loss in quantum s…",
+      "source": "Space Daily",
+      "url": "https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html",
+      "published_at": "2026-01-09T12:23:49Z",
+      "author": null,
+      "image_url": "https://www.spxdaily.com/images-hg/superradiant-spin-teamwork-figures-hg.jpg",
+      "content": "by Simon MansfieldSydney, Australia (SPX) Jan 05, 2026\r\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomeno… [+2930 chars]"
+    },
+    {
+      "title": "Tiangong science program delivers data surge",
+      "description": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChinese astronauts and ground-based science teams completed 86 new scientific and technological tasks on the Tiangong space station in 2025, underscoring the outpost's expanding role in research, according to the China Manned…",
+      "source": "Space Daily",
+      "url": "https://www.spacedaily.com/reports/Tiangong_science_program_delivers_data_surge_999.html",
+      "published_at": "2026-01-09T12:23:49Z",
+      "author": null,
+      "image_url": "https://www.spxdaily.com/images-hg/tiangong-space-station-high-definition-shenzhou-xvi-earth-desert-hg.jpg",
+      "content": "by Riko SeiboTokyo, Japan (SPX) Jan 09, 2026\r\nChinese astronauts and ground-based science teams completed 86 new scientific and technological tasks on the Tiangong space station in 2025, underscoring… [+1842 chars]"
+    },
+    {
+      "title": "Trimble positioning tech to enhance Lucid Gravity lane level navigation",
+      "description": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nTrimble has agreed to provide positioning technology that will feed navigation and driver assistance systems in the Lucid Gravity electric vehicle, delivering centimeter-level accuracy in conditions where conventional GPS o…",
+      "source": "Space Daily",
+      "url": "https://www.spacedaily.com/reports/Trimble_positioning_tech_to_enhance_Lucid_Gravity_lane_level_navigation_999.html",
+      "published_at": "2026-01-09T12:23:49Z",
+      "author": null,
+      "image_url": "https://www.spxdaily.com/images-hg/trimble-delivers-lane-level-precision-lucid-gravity-electric-vehicles-hg.jpg",
+      "content": "by Clarence OxfordLos Angeles CA (SPX) Jan 07, 2026\r\nTrimble has agreed to provide positioning technology that will feed navigation and driver assistance systems in the Lucid Gravity electric vehicle… [+3282 chars]"
+    },
+    {
+      "title": "China tallies record launch year as lunar and asteroid plans advance",
+      "description": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded. \n\nChina Aerospace Science and Technology Corp (CASC), the main State-owned contractor, closed out the year o…",
+      "source": "Space Daily",
+      "url": "https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html",
+      "published_at": "2026-01-09T12:23:49Z",
+      "author": null,
+      "image_url": "https://www.spxdaily.com/images-hg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-hg.jpg",
+      "content": "by Riko SeiboTokyo, Japan (SPX) Jan 09, 2026\r\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded.\r\nChina Aerospace Science and Technol… [+11438 chars]"
+    },
+    {
+      "title": "More efficiency, more demand",
+      "description": "The future of software engineers and data scientists is bright.",
+      "source": "Substack.com",
+      "url": "https://mikefisher.substack.com/p/more-efficiency-more-demand",
+      "published_at": "2026-01-09T12:23:30Z",
+      "author": "Mike Fisher",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Qq4_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6177bca6-9dc2-4f5e-b7b2-70c7d2f84c35_1024x1536.png",
+      "content": "According to the American Journal of Roentgenology there were 30,723 radiologists in 2014 in the US. At that time, before LLMs even, there were dozens of startups leveraging AI to read x-rays and ima… [+15673 chars]"
+    },
+    {
+      "title": "Macron accuses US of 'turning away' from allies, breaking rules",
+      "description": "Paris, France (AFP) Jan 8, 2026\n\n\n French President Emmanuel Macron warned Thursday the United States was \"gradually turning away\" from some of its allies and \"breaking free from international rules\", offering some of his strongest criticism yet of Washington…",
+      "source": "Spacewar.com",
+      "url": "https://www.spacewar.com/reports/Macron_accuses_US_of_turning_away_from_allies_breaking_rules_999.html",
+      "published_at": "2026-01-09T12:22:57Z",
+      "author": null,
+      "image_url": "https://www.spxdaily.com/images-hg/france-frence-president-macron-marker-hg.jpg",
+      "content": "By Delphine Touitou, Francesco Fontemaggi and Valerie LerouxParis, France (AFP) Jan 8, 2026\r\nFrench President Emmanuel Macron warned Thursday the United States was \"gradually turning away\" from some … [+3788 chars]"
+    },
+    {
+      "title": "MDA Space wins role in US SHIELD missile defense program",
+      "description": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nMDA Space Ltd. (TSX: MDA) reports it has received an indefinite delivery/indefinite quantity (IDIQ) contract from the Missile Defense Agency for the Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) program.…",
+      "source": "Spacewar.com",
+      "url": "https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html",
+      "published_at": "2026-01-09T12:22:57Z",
+      "author": null,
+      "image_url": "https://www.spxdaily.com/images-hg/abm-spix-1-hg.jpg",
+      "content": "by Robert SchreiberBerlin, Germany (SPX) Jan 09, 2026\r\nMDA Space Ltd. (TSX: MDA) reports it has received an indefinite delivery/indefinite quantity (IDIQ) contract from the Missile Defense Agency for… [+1518 chars]"
+    },
+    {
+      "title": "CrowdStrike to enhance AI-era identity security with SGNL acquisition",
+      "description": "CrowdStrike has agreed to acquire SGNL, a California-based firm focused on continuous identity security solutions, in a cash and stock deal.",
+      "source": "Verdict",
+      "url": "https://www.verdict.co.uk/crowdstrike-acquisition/",
+      "published_at": "2026-01-09T12:21:40Z",
+      "author": "Swagath Bandhakavi",
+      "image_url": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/CrowdStrike-afefe1830a65c40ce8ddb820e8be35cd.jpg",
+      "content": "Cybersecurity company CrowdStrike has agreed to acquire SGNL, a California-based firm focused on continuous identity security solutions, in a cash and stock deal, reportedly worth around $740m.\r\nThis… [+4327 chars]"
+    },
+    {
+      "title": "Nvidia, auto suppliers in deals to rekindle self-driving",
+      "description": "The short history of the self-driving car industry has been littered with expensive failures and endless delays, but tech suppliers, chipmakers including Nvidia and some automakers are betting on AI and a web of partnerships to spark new progress.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0109/1552293-nvidia-auto-suppliers-in-deals-to-rekindle-self-driving/",
+      "published_at": "2026-01-09T12:18:37Z",
+      "author": "RTÉ News",
+      "image_url": "https://www.rte.ie/images/0023b759-1600.jpg",
+      "content": "The short history of the self-driving car industry has been littered with expensive failures and endless delays, but tech suppliers, chipmakers including Nvidia and some automakers are betting on AI … [+4823 chars]"
+    },
+    {
+      "title": "Snapdragon 8 Elite Gen 6 Pro & Snapdragon 8 Elite Gen 6 Rumored To Exclusively Use TSMC’s 2nm ‘N2P’ Process, Hinting That Qualcomm Has Yet To Enter Talks With Samsung",
+      "description": "The inception of the Exynos 2600 is a positive sign for Samsung’s 2nm GAA process, as it is solid proof that the company can leverage its cutting-edge technology and maintain healthy yields to bridge the foundry and technological gap with TSMC. These gradual …",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/qualcomm-yet-to-enter-talks-with-samsung-for-2nm-chip-orders-for-snapdragon-8-elite-gen-6-pro/",
+      "published_at": "2026-01-09T12:17:48Z",
+      "author": "Omar Sohail",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Snapdragon-8-Elite-Gen-6-Pro-and-Snapdragon-8-Elite-Gen-6.jpg",
+      "content": "The inception of the Exynos 2600 is a positive sign for Samsungs 2nm GAA process, as it is solid proof that the company can leverage its cutting-edge technology and maintain healthy yields to bridge … [+2551 chars]"
+    },
+    {
+      "title": "Prasar Bharati to air 30-minute ‘Creator’s Corner’ on DD News",
+      "description": "Prasar Bharati is launching 'Creator's Corner' on DD News and digital platforms. Content creators will get a 30-minute prime time slot five days a week. This initiative operates on a revenue-sharing model, with creators receiving 90 percent of the revenue. Th…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/prasar-bharati-to-air-30-minute-creators-corner-on-dd-news/articleshow/126435570.cms",
+      "published_at": "2026-01-09T12:17:12Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-126435689,width-1200,height-630,imgsize-108831,overlay-economictimes/articleshow.jpg",
+      "content": "New Delhi: Seeking to boost the creator's economy, public broadcaster Prasar Bharati on Friday said it was offering a 30-minute prime time slot for content creators five days a week on DD News and it… [+2214 chars]"
+    },
+    {
+      "title": "'I'm not going to say prices across all these components will remain flat': AMD exec suggests price rises for Radeon GPUs are coming",
+      "description": "In the face of the RAM crisis, an AMD exec assures us Radeon GPU stock shortages aren't a concern – but price rises are likely.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/computing/gpu/im-not-going-to-say-prices-across-all-these-components-will-remain-flat-amd-exec-suggests-price-rises-for-radeon-gpus-are-coming",
+      "published_at": "2026-01-09T12:17:01Z",
+      "author": "Darren Allan",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qaSxwoPXXR4svpYsjGtAWn-2000-80.jpg",
+      "content": "<ul><li>AMD's David McAfee was interviewed at CES 2026</li><li>The exec said that the RAM crisis won't affect stock of Radeon GPUs</li><li>McAfee wouldn't rule out price hikes, and in fact hinted the… [+6386 chars]"
+    },
+    {
+      "title": "Interactive CTV Ads Were Mostly Talk – Until Now",
+      "description": "For years, interactive CTV advertising was the star of industry demos – promising, flashy and mostly theoretical. In 2025, they finally made the leap from proof of concept to practice.\nThe post Interactive CTV Ads Were Mostly Talk – Until Now appeared first o…",
+      "source": "AdExchanger",
+      "url": "http://www.adexchanger.com/tv/interactive-ctv-ads-were-mostly-talk-until-now/",
+      "published_at": "2026-01-09T12:16:22Z",
+      "author": "Victoria McNally",
+      "image_url": "https://www.adexchanger.com/wp-content/uploads/2024/11/Remote-Possibilities-shoppable-TV-QR-code-shopping-comic-feature.png",
+      "content": "For years, interactive CTV advertising was the star of industry demos, like the kind attendees of the Consumer Electronic Showcase saw all up and down the Las Vegas strip this past week. But although… [+5885 chars]"
+    },
+    {
+      "title": "30 ChatGPT Prompts to Speed up Projects & Sharpen AI Outputs",
+      "description": "What if the key to unlocking your productivity, creativity, and decision-making skills was as simple as asking the right question? In this guide, Skill Leap AI explains how specific, well-crafted ChatGPT prompts can transform the way you interact with artific…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/chatbot-prompt-collection/",
+      "published_at": "2026-01-09T12:15:43Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/research-content-prompt-workflows_optimized.jpg",
+      "content": "What if the key to unlocking your productivity, creativity, and decision-making skills was as simple as asking the right question? In this guide, Skill Leap AI explains how specific, well-crafted Cha… [+7973 chars]"
+    },
+    {
+      "title": "OnePlus Turbo 6 Series With Android 16 And 9,000mAh Battery Launched: Price, Specs",
+      "description": "OnePlus Turbo 6 series is the first from the brand to house a massive 9,000mAh battery without making it a brick.",
+      "source": "News18",
+      "url": "https://www.news18.com/tech/oneplus-turbo-6-series-with-android-16-and-9000mah-battery-launched-price-specs-9820227.html",
+      "published_at": "2026-01-09T12:15:38Z",
+      "author": "News18",
+      "image_url": "https://images.news18.com/ibnlive/uploads/2026/01/OnePlus-Turbo-6-series-launch-China-2026-01-61ac103be28c7462ffbe0757bf7a5ea5-16x9.jpg",
+      "content": "Last Updated:January 09, 2026, 16:33 IST\r\nThe OnePlus Turbo 6 series has launched in China this week and this new lineup focuses on two major aspects, performance and longevity. The Turbo 6 and Turbo… [+2254 chars]"
+    },
+    {
+      "title": "World Economic Forum: Deepfake Face-Swapping Tools Are Creating Critical Security Risks",
+      "description": "Researchers at the World Economic Forum have shown that threat actors can use commercial deepfake tools to bypass corporate security protections",
+      "source": "Infosecurity Magazine",
+      "url": "https://www.infosecurity-magazine.com/news/wef-deepfake-faceswapping-security/",
+      "published_at": "2026-01-09T12:15:00Z",
+      "author": "Kevin  Poireault",
+      "image_url": "https://assets.infosecurity-magazine.com/webpage/og/e40e3330-a1e5-46ba-b3e8-c67e17abf47a.jpg",
+      "content": "The rapid advancement of deepfakes is becoming a major challenge for sustaining trust in digital identity systems, the World Economic Forum (WEF) has warned \r\nDeepfake-generating technologies, and es… [+4743 chars]"
+    },
+    {
+      "title": "How to simplify and declutter the Apple gear in your life",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nThe new year is a perfect time to clear out our spaces. Whether you’ve just got a bunch of new gear or just want a fresh start, it’s a great time to pare down your pile of once-loved tech, and clear out drawers and cupboards of cables, adapte…",
+      "source": "Macworld",
+      "url": "https://www.macworld.com/article/3020540/how-to-simplify-and-declutter-the-apple-gear-in-your-life.html",
+      "published_at": "2026-01-09T12:15:00Z",
+      "author": "Simon Jary",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/01/Declutter-tech-tips.jpg?quality=50&strip=all&w=1024",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe new year is a pe… [+11815 chars]"
+    },
+    {
+      "title": "Cyera secures $400m Series F as demand for enterprise AI security grows",
+      "description": "Cyera secured $400m in a Series F funding round, increasing its total capital to more than $1.7bn and raising the company's valuation to $9bn.",
+      "source": "Verdict",
+      "url": "https://www.verdict.co.uk/cyera-secures-400m-series-f/",
+      "published_at": "2026-01-09T12:14:47Z",
+      "author": "Anwesha Pattanaik",
+      "image_url": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/Cyera-79c4755280fff091b67f0a042bae6ee6.jpg",
+      "content": "Cyera has secured $400m in a Series F funding round, increasing its total capital to more than $1.7bn and raising the company’s valuation to $9bn.\r\nBlackstone led the latest investment, with particip… [+2799 chars]"
+    },
+    {
+      "title": "Signals for 2026",
+      "description": "We’re three years into a post-ChatGPT world, and AI remains the focal point of the tech industry. In 2025, several ongoing trends intensified: AI investment accelerated; enterprises integrated agents and workflow automation at a faster pace; and the toolscape…",
+      "source": "Oreilly.com",
+      "url": "https://www.oreilly.com/radar/signals-for-2026/#BlogPosting",
+      "published_at": "2026-01-09T12:14:20Z",
+      "author": "Julie Baron",
+      "image_url": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/learning-radar-sky-crop-1fc56cd7d97529bebaa486c6bf71a791-1.jpg",
+      "content": "Were three years into a post-ChatGPT world, and AI remains the focal point of the tech industry. In 2025, several ongoing trends intensified: AI investment accelerated; enterprises integrated agents … [+16072 chars]"
+    },
+    {
+      "title": "WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity",
+      "description": "The World Economic Forum found that AI will reshape most jobs by 2030, with only one path limiting major displacement.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/wef-sees-4-ai-futures-for-jobs-by-2030-only-one-limits-disruption-2026-1",
+      "published_at": "2026-01-09T12:11:45Z",
+      "author": "Thibault Spirlet",
+      "image_url": "https://i.insider.com/695f9edf64858d02d217f894?width=1200&format=jpeg",
+      "content": "The World Economic Forum says AI will reshape work by 2030 — and only one future avoids major worker displacement.APHOTOGRAFIA/Getty Images\r\n<ul><li>The WEF outlines four AI job futures for 2030, war… [+3798 chars]"
+    },
+    {
+      "title": "The Verge Awards at CES 2026",
+      "description": "Every January, the world of consumer electronics heads to Las Vegas to spend the first full week of the year in the desert presenting, prodding, and gawking at all the new gadgets and gear debuting at CES. The show has once again delivered an avalanche of pro…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
+      "published_at": "2026-01-09T12:07:04Z",
+      "author": "Verge Staff",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258216_AWARDS_CES_2026_SHADDAD.png?quality=90&strip=all&crop=0%2C10.658699359961%2C100%2C78.682601280078&w=1200",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nRollable laptops, twice-folding phones, and a longevity station. This is the CES tech we come back for.\r\nby\r\nVerge StaffClose\r\nVerge Staff\r\nPosts from this autho… [+32454 chars]"
+    },
+    {
+      "title": "Biocytogen and Acepodia Expand Collaboration Through Option-based Evaluation Framework for First-in-Class Bispecific and Dual-Payload ADCs (BsAD2C)",
+      "description": "Expanded collaboration builds on Acepodia and Biocytogen’s recent co-development efforts to evaluate selected bispecific antibody and dual-payload ADC programs BEIJING & ALAMEDA, Calif. & TAIPEI, Taiwan — Biocytogen Pharmaceuticals (Beijing) Co., Ltd. (Biocyt…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biocytogen-and-acepodia-expand-collaboration-through-option-based-evaluation-framework-for-first-in-class-bispecific-and-dual-payload-adcs-bsad2c",
+      "published_at": "2026-01-09T12:05:50Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "<ul><li>Expanded collaboration builds on Acepodia and Biocytogens recent co-development efforts to evaluate selected bispecific antibody and dual-payload ADC programs</li></ul>\r\nTHIS CONTENT IS RESER… [+7183 chars]"
+    },
+    {
+      "title": "La Rosa Holdings Corp. Announces Closing of Initial Funding Under $250 Million Note Facility as Part of $1.25 Billion AI Infrastructure Program",
+      "description": "Celebration, FL, Jan. 09, 2026 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (“La Rosa” or the “Company”), a real estate and PropTech enterprise, today announced an initial closing of an $11,000,000 note under its previously announced $250 million…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216022/0/en/La-Rosa-Holdings-Corp-Announces-Closing-of-Initial-Funding-Under-250-Million-Note-Facility-as-Part-of-1-25-Billion-AI-Infrastructure-Program.html",
+      "published_at": "2026-01-09T12:05:00Z",
+      "author": "La Rosa Holdings Corp.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f854f31e-8844-4c15-a86b-772ced2fcb2a",
+      "content": "Celebration, FL, Jan. 09, 2026 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (La Rosa or the Company), a real estate and PropTech enterprise, today announced an initial closing of an $11,… [+5602 chars]"
+    },
+    {
+      "title": "Ping An Biomedical Co., Ltd. Receives Strategic Investment from Leading Industry Capital, Accelerating Growth in Biopharmaceutical Innovation",
+      "description": "Ping An Biomedical (NASDAQ: PASW) secured investments from 58.com’s Yao Jinbo, Amiba Capital’s Wang Donghui, and Magcloud’s Li Daxue....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216021/0/en/Ping-An-Biomedical-Co-Ltd-Receives-Strategic-Investment-from-Leading-Industry-Capital-Accelerating-Growth-in-Biopharmaceutical-Innovation.html",
+      "published_at": "2026-01-09T12:05:00Z",
+      "author": "Majestic Ideal Holdings Ltd.",
+      "image_url": null,
+      "content": "HONG KONG, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Ping An Biomedical Co., Ltd. (NASDAQ: PASW) (hereinafter referred to as Ping An Bio) today announced that it has entered into a series of share purchase a… [+6748 chars]"
+    },
+    {
+      "title": "Chinese researchers hail breakthrough in DRAM-like cells, which could be used in embedded or 3D stacked memory — absence of manufacturing detail casts doubt on mass production",
+      "description": "Chinese researchers have demonstrated a 4F² dual-gate 2T0C capacitor-less, DRAM-like memory cell with multi-bit storage, fast writes, and long retention. In theory, the technology could be used as embedded or stacked 3D memory, but questions remain about its …",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/pc-components/dram/chinese-researchers-hail-breakthrough-in-dram-like-cells-which-could-be-used-in-embedded-or-3d-stacked-memory-absence-of-manufacturing-detail-casts-doubt-on-mass-production",
+      "published_at": "2026-01-09T12:02:45Z",
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ScWkdXEcbCzcmrjizukTn7-1920-80.jpg",
+      "content": "Tom's Hardware Premium Roadmaps\r\n(Image credit: Future)\r\nChinese researchers have developed a capacitor-less DRAM-like memory cell that uses two transistors (2T0C) with dual-gate control, built at a … [+11002 chars]"
+    },
+    {
+      "title": "A Grocery Barcode Scanner Is the Best New Fridge Feature in Years. Here's Why",
+      "description": "I saw the future of fridges at CES 2026.",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/kitchen-and-household/grocery-barcode-scanner-is-the-best-new-fridge-feature-in-years/",
+      "published_at": "2026-01-09T12:01:19Z",
+      "author": "David Watsky",
+      "image_url": "https://www.cnet.com/a/img/resize/fffe4d410abb66c22b5fbdf49d077a1795529212/hub/2026/01/08/c6e74d04-aeee-4af9-bb80-65c4ea8b4bf8/screenshot-2026-01-08-at-1-50-45pm.png?auto=webp&fit=crop&height=675&width=1200",
+      "content": "Two basic types of kitchen innovations catch our eyes when roaming the floor at CES. One type is those that wow with impressive engineering -- for example, a travel mug that both grinds and brews col… [+3578 chars]"
+    },
+    {
+      "title": "Galway medtech Vivasure acquired in deal worth up to €185m",
+      "description": "Boston-headquartered medical device group Haemonetics agrees to pay €100m upfront for Enterprise Ireland-backed company",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/01/08/galway-medtech-vivasure-acquired-in-deal-worth-up-to-185m/",
+      "published_at": "2026-01-09T12:01:00Z",
+      "author": "Ian Curran",
+      "image_url": "https://www.irishtimes.com/resizer/v2/AWZ3RXRBHVHFLJTHMSIVKKX2IY.jpg?smart=true&auth=17feda38e333c52732956ffccc2a4ba1b7c029a640ce0b8461f09fc21e4f0917&width=1200&height=630",
+      "content": "A Galway medical technology company behind a device that helps surgeons to close large holes in major arteries has been acquired by New York Stock Exchange-listed medical device group Haemonetics in … [+2847 chars]"
+    },
+    {
+      "title": "Beatbot Announces Two New Smart Pool Cleaners and a Major Rebrand at CES 2026",
+      "description": "Let these Beatbot devices do the hard work.",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/beatbot-announces-two-new-smart-pool-cleaners-and-a-major-rebrand-at-ces-2026-2000704799",
+      "published_at": "2026-01-09T12:00:54Z",
+      "author": "Partner Content With Beatbot",
+      "image_url": "https://gizmodo.com/app/uploads/2026/01/00-aquasense-x-1200x675.jpg",
+      "content": "Pool cleaning technology is evolving to be smarter than ever, and Beatbot is leading the way: The company has been redefining pool care since 2022, and is starting 2026 with renewed impetus, launchin… [+5606 chars]"
+    },
+    {
+      "title": "Government Research Paper That Shows XRP’s Long-Term Potential Resurfaces",
+      "description": "Crypto pundit NoLimit has drawn attention to a government research paper, which he described as extremely bullish for XRP in the long term. He also highlighted how what is being built on the XRP Ledger will ensure that the altcoin gains real-world adoption, w…",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/xrps-long-term-potential-resurfaces/",
+      "published_at": "2026-01-09T12:00:39Z",
+      "author": "Scott Matherson",
+      "image_url": "https://bitcoinist.com/wp-content/uploads/2026/01/XRP-from-Getty-Images-15.jpg",
+      "content": "Crypto pundit NoLimit has drawn attention to a government research paper, which he described as extremely bullish for XRP in the long term. He also highlighted how what is being built on the XRP Ledg… [+2889 chars]"
+    },
+    {
+      "title": "How IMAX crushed other theater stocks in 2025",
+      "description": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on changing consumer trends and partnerships with major studio productions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/01/09/imax-theater-stocks-2025.html",
+      "published_at": "2026-01-09T12:00:01Z",
+      "author": null,
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107198579-1677121939840-gettyimages-1051853192-775239116LN023_IMAX_Private.jpeg?v=1751996915&w=1920&h=1080",
+      "content": "General atmosphere during an IMAX private screening for the movie \"First Man\" at an AMC theater in New York City on Oct. 10, 2018.\r\nThe theatrical industry is in flux and one stock is rising above th… [+6368 chars]"
+    },
+    {
+      "title": "Perspective Therapeutics Presents Updated Interim Data of [212Pb]VMT-α-NET in its Ongoing Phase 1/2a Clinical Trial at the 2026 ASCO Gastrointestinal Cancers Symposium",
+      "description": "SEATTLE, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Perspective Therapeutics, Inc. (“Perspective,” the “Company,” “we,” “us,” and “our”) (NYSE AMERICAN: CATX), a radiopharmaceutical development company that is pioneering advanced treatments for cancers throughout the …",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216015/0/en/Perspective-Therapeutics-Presents-Updated-Interim-Data-of-212Pb-VMT-%CE%B1-NET-in-its-Ongoing-Phase-1-2a-Clinical-Trial-at-the-2026-ASCO-Gastrointestinal-Cancers-Symposium.html",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Perspective Therapeutics, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/e8b42463-3d31-441e-8c09-6b88826fe1c6",
+      "content": "<ul><li>Updated interim results with an additional ~13 weeks of follow-up since the prior update</li><li>[212Pb]VMT--NET continues to be well-tolerated </li><li>Updated efficacy analysis suggests dur… [+10634 chars]"
+    },
+    {
+      "title": "Aquestive Therapeutics Announces Regulatory Development for Anaphylm™ (dibutepinephrine) Sublingual Film and Provides Business Update",
+      "description": "WARREN, N.J., Jan. 09, 2026 (GLOBE NEWSWIRE) -- Aquestive Therapeutics, Inc. (NASDAQ: AQST) (\"Aquestive\" or the \"Company\"), a pharmaceutical company advancing medicines to bring meaningful improvement to patients' lives through innovative science and delivery…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216007/0/en/Aquestive-Therapeutics-Announces-Regulatory-Development-for-Anaphylm-dibutepinephrine-Sublingual-Film-and-Provides-Business-Update.html",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Aquestive Therapeutics, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/e0b65f93-9565-43d7-a6ff-88b8cbd6adea",
+      "content": "<ul><li>Announces receipt of FDA letter stating it has identified deficiencies that preclude labeling discussions for Anaphylm at this time </li><li>Receives confirmation from FDA that Agencys review… [+15788 chars]"
+    },
+    {
+      "title": "Z-Wave Alliance touts newly certified Z-Wave Long Range devices",
+      "description": "The Z-Wave Alliance—an organization that promotes the development and use of the open-source Z-Wave standard in smart homes and smart buildings—is celebrating the growth of the standard’s latest iteration: Z-Wave Long Range (ZWLR).\r\n\n\n\n\nEarlier this week, the…",
+      "source": "PCWorld",
+      "url": "https://www.pcworld.com/article/3027894/z-wave-alliance-touts-newly-certified-z-wave-long-range-devices.html",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Michael Brown",
+      "image_url": "https://www.pcworld.com/wp-content/uploads/2026/01/2GIG-GCTouch-smart-home-hub.png?w=1024",
+      "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe Z-Wave Alliance—an organization that promotes th… [+6367 chars]"
+    },
+    {
+      "title": "Feadship’s New 162-Foot Superyacht Feels Like a Vessel Twice Its Size",
+      "description": "Feadship's new 162-foot superyacht, known as Project 717, features fold-down bulwarks and other nifty innovations that create more space onboard.",
+      "source": "Robb Report",
+      "url": "http://robbreport.com/motors/marine/feadship-project-717-superyacht-launch-1237498704/",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Rachel Cormack",
+      "image_url": "https://robbreport.com/wp-content/uploads/2026/01/Feadship-Project-717-Superyacht-8.jpg?w=681&h=383&crop=1",
+      "content": "Feadship is showing that sometimes the smallest changes to a superyacht can make the biggest difference. \r\nThe Dutch yard just revealed the exterior of the highly secretive Project 717, allowing us t… [+2862 chars]"
+    },
+    {
+      "title": "EthyloKey: Checking your alcohol level should be this simple",
+      "description": "There’s a moment most people know all too well. You’ve had a drink—or maybe two. You feel fine. But there’s still that quiet question in the back of your head before you grab your keys: Am I actually okay to..\nThe post EthyloKey: Checking your alcohol level s…",
+      "source": "Gadget Flow",
+      "url": "https://thegadgetflow.com/blog/ethylokey-alcohol-monitor-review/",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Madhurima Nag",
+      "image_url": "https://thegadgetflow.com/wp-content/uploads/2026/01/EthyloKey-Touch-Alcohol-Detector-02-1.jpg",
+      "content": "There’s a moment most people know all too well. You’ve had a drink—or maybe two. You feel fine. But there’s still that quiet question in the back of your head before you grab your keys: Am I actually… [+5623 chars]"
+    },
+    {
+      "title": "Aurora Mobile Partners with Xiaoe to Enhance Interaction Efficiency and Support Sustainable Growth in Private Domain Ecosystems",
+      "description": "SHENZHEN, China, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the “Company”), a leading provider of customer engagement and marketing technology services in China, today announced that it has entered into a strategi…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216003/0/en/Aurora-Mobile-Partners-with-Xiaoe-to-Enhance-Interaction-Efficiency-and-Support-Sustainable-Growth-in-Private-Domain-Ecosystems.html",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Aurora Mobile Limited",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5e12f74e-0978-4008-a030-4c2b113ad11e",
+      "content": "SHENZHEN, China, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (Aurora Mobile or the Company), a leading provider of customer engagement and marketing technology services in Ch… [+6701 chars]"
+    },
+    {
+      "title": "Memo Therapeutics AG Publishes BKPyV Infection Disease Burden Study in the Journal of Patient-Reported Outcomes",
+      "description": "PRESS RELEASE   Memo Therapeutics AG Publishes BKPyV Infection Disease Burden Study in the Journal of Patient-Reported Outcomes  First conceptual model...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216009/0/en/Memo-Therapeutics-AG-Publishes-BKPyV-Infection-Disease-Burden-Study-in-the-Journal-of-Patient-Reported-Outcomes.html",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Memo Therapeutics AG",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/e7ac4570-f1d3-47f1-a520-cb96dd56bfc5",
+      "content": "PRESS RELEASE \r\nMemo Therapeutics AG Publishes BKPyV Infection Disease Burden Study in the Journal of Patient-Reported Outcomes\r\n<ul><li>First conceptual model demonstrating the impact of BK polyomav… [+4332 chars]"
+    },
+    {
+      "title": "Tiziana Life Sciences to Present at the 9th Annual Neuroscience Innovation Forum During J.P. Morgan Healthcare Conference Week in San Francisco",
+      "description": "BOSTON, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Tiziana Life Sciences, Ltd. (Nasdaq: TLSA) (“Tiziana”), a biotechnology company developing its lead candidate, intranasal foralumab, a fully human, anti-CD3 monoclonal antibody, announces that Chief Executive Officer …",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216013/0/en/Tiziana-Life-Sciences-to-Present-at-the-9th-Annual-Neuroscience-Innovation-Forum-During-J-P-Morgan-Healthcare-Conference-Week-in-San-Francisco.html",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Tiziana Life Sciences Plc",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/991c340c-a083-4bcb-ad41-e7eea83f6f97",
+      "content": "BOSTON, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Tiziana Life Sciences, Ltd. (Nasdaq: TLSA) (Tiziana), a biotechnology company developing its lead candidate, intranasal foralumab, a fully human, anti-CD3 mo… [+3594 chars]"
+    },
+    {
+      "title": "Immunocore announces 2026 strategic priorities at 44th Annual J.P. Morgan Healthcare Conference",
+      "description": "Immunocore announces 2026 strategic priorities at 44th Annual J.P. Morgan Healthcare Conference   Reaching more metastatic uveal melanoma patients with...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3216011/0/en/Immunocore-announces-2026-strategic-priorities-at-44th-Annual-J-P-Morgan-Healthcare-Conference.html",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Immunocore Holdings plc",
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/bcaafaab-2536-4b4b-899c-9913925b6e4b",
+      "content": "Immunocore announces 2026 strategic priorities at 44th Annual J.P. Morgan Healthcare Conference\r\n Reaching more metastatic uveal melanoma patients with KIMMTRAK (tebentafusp) in 2026 through US commu… [+23237 chars]"
+    },
+    {
+      "title": "road.cc Recommends Components of the Year 2025/26: the best groupsets, pedals, saddles and more",
+      "description": "We add the best components we've reviewed to road.cc Recommends every month, and now it’s time to reveal the best of the best from Shimano, SRAM, Look, Time...",
+      "source": "road.cc",
+      "url": "https://road.cc/content/feature/roadcc-recommends-components-year-202526-316589",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Mat Brett",
+      "image_url": "https://cdn.road.cc/sites/default/files/styles/main_width/public/roadcc-recommends-awards-2025-26-components-year.jpg",
+      "content": "Ready to level up your ride? Weve rounded up the crème de la crème of cycling components the standout products from all that earned a coveted spot in road.cc Recommends during 2025. From high-quality… [+23717 chars]"
+    },
+    {
+      "title": "Experiment: Using Pest 4 as a Standalone Browser Testing Suite for Legacy Applications.",
+      "description": "Here's a scenario we encounter regularly at Jump24: a client has a legacy application - perhaps built in CakePHP, CodeIgniter, or even a custom framework - and they want to add automated browser testing. The catch? They don't want to pollute the existing code…",
+      "source": "Jump24.co.uk",
+      "url": "https://jump24.co.uk/journal/experiment-using-pest-4-as-a-standalone-browser-testing-suite-for-legacy-applications",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": "Daniel newns",
+      "image_url": "https://jump24.co.uk/img/asset/aW1hZ2VzL2Jsb2dzL2V4cGVyaW1lbnRzL3VzaW5nLXBlc3QtNC1hcy1hLXN0YW5kYWxvbmUtYnJvd3Nlci5wbmc/using-pest-4-as-a-standalone-browser.png?p=seo_pro_og&s=71bebe3f406f4d82150f2d06f3b979c6",
+      "content": "Here's a scenario we encounter regularly at Jump24: a client has a legacy application - perhaps built in CakePHP, CodeIgniter, or even a custom framework - and they want to add automated browser test… [+6597 chars]"
+    },
+    {
+      "title": "Continued growth for performance cars: BMW M GmbH marks 14th consecutive record year.",
+      "description": "+++ Sales increased to 213,457 vehicles +++ BMW M GmbH marks 7th consecutive year as most successful manufacturer among its direct competitors +++ BMW X3 M50 is best-selling model +++ BMW M5 and BMW M5 Touring drive growth in the high-performance segment +++",
+      "source": "Bmwgroup.com",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0454862EN/continued-growth-for-performance-cars:-bmw-m-gmbh-marks-14th-consecutive-record-year?language=en",
+      "published_at": "2026-01-09T12:00:00Z",
+      "author": null,
+      "image_url": "https://mediapool.bmwgroup.com/cache/P9/202406/P90557508/P90557508-the-all-new-bmw-m5-06-2024-2250px.jpg",
+      "content": "Munich. BMW M GmbH once again achieved outstanding\r\n sales growth in 2025. For no less than the 14th time in a row, the\r\n manufacturer of high-performance and performance vehicles reported\r\n record s… [+10280 chars]"
+    },
+    {
+      "title": "RBI governor Malhotra urges banks to collaborate to curb rising digital frauds",
+      "description": "Governor Sanjay Malhotra has called for shared analytics and AI tools to detect mule accounts, as the central bank pushes for near real-time supervision and lighter penalties.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/banking/rbi-governor-malhotra-urges-banks-to-collaborate-to-curb-rising-digital-frauds-11767957448763.html",
+      "published_at": "2026-01-09T11:59:57Z",
+      "author": "Shayan Ghosh",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/01/09/1600x900/logo/AP10-15-2025-000442B-0_1767957593073_1767957617524.jpg",
+      "content": "MUMBAI: Banks, non-bank financiers, and other entities regulated by the Reserve Bank of India (RBI) should work together to counter the growing threat of digital fraud, governor Sanjay Malhotra said … [+2915 chars]"
+    },
+    {
+      "title": "Enjoy Totally free Aristocrat King of your own Nile 2 Slot: Finest Pokies Video game Ever before",
+      "description": "Articles How we Rate & Review 300% Put Bonuses – queen of the nile 2 position real cash King of […]",
+      "source": "Smallbusinessbranding.com",
+      "url": "https://www.smallbusinessbranding.com/36853/enjoy-totally-free-aristocrat-king-of-your-own-nile-2-slot-finest-pokies-video-game-ever-before/",
+      "published_at": "2026-01-09T11:59:21Z",
+      "author": "Sean M Kelly",
+      "image_url": null,
+      "content": "Because you gamble a few 100 percent free video game, keep in mind that the new courses you read can be applied while in the real cash wagers subsequently. As opposed to belongings-based casinos, Fun… [+7607 chars]"
+    },
+    {
+      "title": "ASRock’s Dual DDR5 & DDR4 Motherboard Makes Perfect Sense In The Current Memory Crisis",
+      "description": "ASRock has shown off its cleverly engineered H610 motherboard, which houses both DDR5 & DDR4 slots to tackle the memory crisis. ASRock's Entry-Level Motherboard Gives Budget Builders Both DDR5 & DDR4 Options To Fight Against Rising Memory Prices Last month, A…",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/asrock-dual-ddr5-ddr4-motherboard-makes-perfect-sense-in-the-current-memory-crisis/",
+      "published_at": "2026-01-09T11:55:12Z",
+      "author": "Hassan Mujtaba",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/01/ASRock-H610M-Combo-DDR5-DDR4-Memory-Motherboard-_1-scaled.jpg",
+      "content": "ASRock has shown off its cleverly engineered H610 motherboard, which houses both DDR5 &amp; DDR4 slots to tackle the memory crisis.\r\nLast month, ASRock unveiled its new H610M Combo motherboard, which… [+2128 chars]"
+    },
+    {
+      "title": "Should you upgrade your Wi-Fi router to mesh? I compared both for months, and here's my pick",
+      "description": "Do you need one access point or full-home coverage? Here's what a networking expert suggests.",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/home-and-office/networking/wifi-router-vs-mesh/",
+      "published_at": "2026-01-09T11:49:00Z",
+      "author": "Charlie Osborne",
+      "image_url": "https://www.zdnet.com/a/img/resize/8aff847c1eee0f31813805e63c090deff342e28e/2025/01/14/16970aed-ab5c-4873-b983-b7d5a24614df/asus-rt-be58-go-router-ports.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Routers are cheaper, faster, and easier to set up.</li><li>Mesh systems fix dead zones with wi… [+5760 chars]"
+    },
+    {
+      "title": "What is Wi-Fi 8? And why speed isn't your primary concern with the latest standard",
+      "description": "The last few major Wi-Fi releases have focused on achieving the fastest possible connection. Wi-Fi 8 is designed to ensure a stable connection.",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/home-and-office/networking/what-is-wi-fi-8-explainer/",
+      "published_at": "2026-01-09T11:47:00Z",
+      "author": "Steven Vaughan-Nichols",
+      "image_url": "https://www.zdnet.com/a/img/resize/daa48423aa7ec4f739a538567253a2cb75f25149/2026/01/07/42ae16d3-ed44-4dd0-ad04-40165015e0d3/asus-rog-neocore-wi-fi-8-router-image-4.png?auto=webp&fit=crop&height=675&width=1200",
+      "content": "Iaremenko/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Pre-standard Wi-Fi 8 is on the way, but the soonest you'll see it is in Q3 20… [+7884 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 36477,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "ZDNet"
+        },
+        "author": "Cesar Cadenas",
+        "title": "Stop using your router's USB port - what PC experts recommend instead",
+        "description": "Your router's USB port is convenient, but its unreliability makes it susceptible to a potential security risk.",
+        "url": "https://www.zdnet.com/home-and-office/networking/reasons-why-to-not-use-router-usb-port/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/bdd5d33b46a2983623ca897bfe19523250363378/2025/10/31/4bc9f018-5bf5-4a99-b349-f8a178c00f07/tp-link-routerred.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-01-09T12:24:00Z",
+        "content": "Cesar Cadenas/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Your router may have USB ports on the back, but I don't recommend using them.</li><li>These… [+6903 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Solardaily.com"
+        },
+        "author": null,
+        "title": "3D printed solar cells bring color tuned power to windows and curved surfaces",
+        "description": "London, UK (SPX) Jan 09, 2026\n\n\nResearchers at the Hebrew University of Jerusalem have developed a semi-transparent, flexible perovskite solar cell that generates electricity while allowing control over both light transmission and perceived color for use in w…",
+        "url": "https://www.solardaily.com/reports/3D_printed_solar_cells_bring_color_tuned_power_to_windows_and_curved_surfaces_999.html",
+        "urlToImage": "https://www.spxdaily.com/images-hg/colourful-semi-transparent-flexible-perovskite-solarcell-hg.jpg",
+        "publishedAt": "2026-01-09T12:23:49Z",
+        "content": "by Sophie JenkinsLondon, UK (SPX) Jan 09, 2026\r\nResearchers at the Hebrew University of Jerusalem have developed a semi-transparent, flexible perovskite solar cell that generates electricity while al… [+2708 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space Daily"
+        },
+        "author": null,
+        "title": "Superradiant spin teamwork yields self driven microwave signals",
+        "description": "Sydney, Australia (SPX) Jan 05, 2026\n\n\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomenon known as superradiance that has often caused rapid energy loss in quantum s…",
+        "url": "https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html",
+        "urlToImage": "https://www.spxdaily.com/images-hg/superradiant-spin-teamwork-figures-hg.jpg",
+        "publishedAt": "2026-01-09T12:23:49Z",
+        "content": "by Simon MansfieldSydney, Australia (SPX) Jan 05, 2026\r\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomeno… [+2930 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space Daily"
+        },
+        "author": null,
+        "title": "Tiangong science program delivers data surge",
+        "description": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChinese astronauts and ground-based science teams completed 86 new scientific and technological tasks on the Tiangong space station in 2025, underscoring the outpost's expanding role in research, according to the China Manned…",
+        "url": "https://www.spacedaily.com/reports/Tiangong_science_program_delivers_data_surge_999.html",
+        "urlToImage": "https://www.spxdaily.com/images-hg/tiangong-space-station-high-definition-shenzhou-xvi-earth-desert-hg.jpg",
+        "publishedAt": "2026-01-09T12:23:49Z",
+        "content": "by Riko SeiboTokyo, Japan (SPX) Jan 09, 2026\r\nChinese astronauts and ground-based science teams completed 86 new scientific and technological tasks on the Tiangong space station in 2025, underscoring… [+1842 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space Daily"
+        },
+        "author": null,
+        "title": "Trimble positioning tech to enhance Lucid Gravity lane level navigation",
+        "description": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nTrimble has agreed to provide positioning technology that will feed navigation and driver assistance systems in the Lucid Gravity electric vehicle, delivering centimeter-level accuracy in conditions where conventional GPS o…",
+        "url": "https://www.spacedaily.com/reports/Trimble_positioning_tech_to_enhance_Lucid_Gravity_lane_level_navigation_999.html",
+        "urlToImage": "https://www.spxdaily.com/images-hg/trimble-delivers-lane-level-precision-lucid-gravity-electric-vehicles-hg.jpg",
+        "publishedAt": "2026-01-09T12:23:49Z",
+        "content": "by Clarence OxfordLos Angeles CA (SPX) Jan 07, 2026\r\nTrimble has agreed to provide positioning technology that will feed navigation and driver assistance systems in the Lucid Gravity electric vehicle… [+3282 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space Daily"
+        },
+        "author": null,
+        "title": "China tallies record launch year as lunar and asteroid plans advance",
+        "description": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded. \n\nChina Aerospace Science and Technology Corp (CASC), the main State-owned contractor, closed out the year o…",
+        "url": "https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html",
+        "urlToImage": "https://www.spxdaily.com/images-hg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-hg.jpg",
+        "publishedAt": "2026-01-09T12:23:49Z",
+        "content": "by Riko SeiboTokyo, Japan (SPX) Jan 09, 2026\r\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded.\r\nChina Aerospace Science and Technol… [+11438 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Substack.com"
+        },
+        "author": "Mike Fisher",
+        "title": "More efficiency, more demand",
+        "description": "The future of software engineers and data scientists is bright.",
+        "url": "https://mikefisher.substack.com/p/more-efficiency-more-demand",
+        "urlToImage": "https://substackcdn.com/image/fetch/$s_!Qq4_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6177bca6-9dc2-4f5e-b7b2-70c7d2f84c35_1024x1536.png",
+        "publishedAt": "2026-01-09T12:23:30Z",
+        "content": "According to the American Journal of Roentgenology there were 30,723 radiologists in 2014 in the US. At that time, before LLMs even, there were dozens of startups leveraging AI to read x-rays and ima… [+15673 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Spacewar.com"
+        },
+        "author": null,
+        "title": "Macron accuses US of 'turning away' from allies, breaking rules",
+        "description": "Paris, France (AFP) Jan 8, 2026\n\n\n French President Emmanuel Macron warned Thursday the United States was \"gradually turning away\" from some of its allies and \"breaking free from international rules\", offering some of his strongest criticism yet of Washington…",
+        "url": "https://www.spacewar.com/reports/Macron_accuses_US_of_turning_away_from_allies_breaking_rules_999.html",
+        "urlToImage": "https://www.spxdaily.com/images-hg/france-frence-president-macron-marker-hg.jpg",
+        "publishedAt": "2026-01-09T12:22:57Z",
+        "content": "By Delphine Touitou, Francesco Fontemaggi and Valerie LerouxParis, France (AFP) Jan 8, 2026\r\nFrench President Emmanuel Macron warned Thursday the United States was \"gradually turning away\" from some … [+3788 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Spacewar.com"
+        },
+        "author": null,
+        "title": "MDA Space wins role in US SHIELD missile defense program",
+        "description": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nMDA Space Ltd. (TSX: MDA) reports it has received an indefinite delivery/indefinite quantity (IDIQ) contract from the Missile Defense Agency for the Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) program.…",
+        "url": "https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html",
+        "urlToImage": "https://www.spxdaily.com/images-hg/abm-spix-1-hg.jpg",
+        "publishedAt": "2026-01-09T12:22:57Z",
+        "content": "by Robert SchreiberBerlin, Germany (SPX) Jan 09, 2026\r\nMDA Space Ltd. (TSX: MDA) reports it has received an indefinite delivery/indefinite quantity (IDIQ) contract from the Missile Defense Agency for… [+1518 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Verdict"
+        },
+        "author": "Swagath Bandhakavi",
+        "title": "CrowdStrike to enhance AI-era identity security with SGNL acquisition",
+        "description": "CrowdStrike has agreed to acquire SGNL, a California-based firm focused on continuous identity security solutions, in a cash and stock deal.",
+        "url": "https://www.verdict.co.uk/crowdstrike-acquisition/",
+        "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/CrowdStrike-afefe1830a65c40ce8ddb820e8be35cd.jpg",
+        "publishedAt": "2026-01-09T12:21:40Z",
+        "content": "Cybersecurity company CrowdStrike has agreed to acquire SGNL, a California-based firm focused on continuous identity security solutions, in a cash and stock deal, reportedly worth around $740m.\r\nThis… [+4327 chars]"
+      },
+      {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "RTÉ News",
+        "title": "Nvidia, auto suppliers in deals to rekindle self-driving",
+        "description": "The short history of the self-driving car industry has been littered with expensive failures and endless delays, but tech suppliers, chipmakers including Nvidia and some automakers are betting on AI and a web of partnerships to spark new progress.",
+        "url": "https://www.rte.ie/news/business/2026/0109/1552293-nvidia-auto-suppliers-in-deals-to-rekindle-self-driving/",
+        "urlToImage": "https://www.rte.ie/images/0023b759-1600.jpg",
+        "publishedAt": "2026-01-09T12:18:37Z",
+        "content": "The short history of the self-driving car industry has been littered with expensive failures and endless delays, but tech suppliers, chipmakers including Nvidia and some automakers are betting on AI … [+4823 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Omar Sohail",
+        "title": "Snapdragon 8 Elite Gen 6 Pro & Snapdragon 8 Elite Gen 6 Rumored To Exclusively Use TSMC’s 2nm ‘N2P’ Process, Hinting That Qualcomm Has Yet To Enter Talks With Samsung",
+        "description": "The inception of the Exynos 2600 is a positive sign for Samsung’s 2nm GAA process, as it is solid proof that the company can leverage its cutting-edge technology and maintain healthy yields to bridge the foundry and technological gap with TSMC. These gradual …",
+        "url": "https://wccftech.com/qualcomm-yet-to-enter-talks-with-samsung-for-2nm-chip-orders-for-snapdragon-8-elite-gen-6-pro/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Snapdragon-8-Elite-Gen-6-Pro-and-Snapdragon-8-Elite-Gen-6.jpg",
+        "publishedAt": "2026-01-09T12:17:48Z",
+        "content": "The inception of the Exynos 2600 is a positive sign for Samsungs 2nm GAA process, as it is solid proof that the company can leverage its cutting-edge technology and maintain healthy yields to bridge … [+2551 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Prasar Bharati to air 30-minute ‘Creator’s Corner’ on DD News",
+        "description": "Prasar Bharati is launching 'Creator's Corner' on DD News and digital platforms. Content creators will get a 30-minute prime time slot five days a week. This initiative operates on a revenue-sharing model, with creators receiving 90 percent of the revenue. Th…",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/prasar-bharati-to-air-30-minute-creators-corner-on-dd-news/articleshow/126435570.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-126435689,width-1200,height-630,imgsize-108831,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-01-09T12:17:12Z",
+        "content": "New Delhi: Seeking to boost the creator's economy, public broadcaster Prasar Bharati on Friday said it was offering a 30-minute prime time slot for content creators five days a week on DD News and it… [+2214 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "Darren Allan",
+        "title": "'I'm not going to say prices across all these components will remain flat': AMD exec suggests price rises for Radeon GPUs are coming",
+        "description": "In the face of the RAM crisis, an AMD exec assures us Radeon GPU stock shortages aren't a concern – but price rises are likely.",
+        "url": "https://www.techradar.com/computing/gpu/im-not-going-to-say-prices-across-all-these-components-will-remain-flat-amd-exec-suggests-price-rises-for-radeon-gpus-are-coming",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/qaSxwoPXXR4svpYsjGtAWn-2000-80.jpg",
+        "publishedAt": "2026-01-09T12:17:01Z",
+        "content": "<ul><li>AMD's David McAfee was interviewed at CES 2026</li><li>The exec said that the RAM crisis won't affect stock of Radeon GPUs</li><li>McAfee wouldn't rule out price hikes, and in fact hinted the… [+6386 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AdExchanger"
+        },
+        "author": "Victoria McNally",
+        "title": "Interactive CTV Ads Were Mostly Talk – Until Now",
+        "description": "For years, interactive CTV advertising was the star of industry demos – promising, flashy and mostly theoretical. In 2025, they finally made the leap from proof of concept to practice.\nThe post Interactive CTV Ads Were Mostly Talk – Until Now appeared first o…",
+        "url": "http://www.adexchanger.com/tv/interactive-ctv-ads-were-mostly-talk-until-now/",
+        "urlToImage": "https://www.adexchanger.com/wp-content/uploads/2024/11/Remote-Possibilities-shoppable-TV-QR-code-shopping-comic-feature.png",
+        "publishedAt": "2026-01-09T12:16:22Z",
+        "content": "For years, interactive CTV advertising was the star of industry demos, like the kind attendees of the Consumer Electronic Showcase saw all up and down the Las Vegas strip this past week. But although… [+5885 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "30 ChatGPT Prompts to Speed up Projects & Sharpen AI Outputs",
+        "description": "What if the key to unlocking your productivity, creativity, and decision-making skills was as simple as asking the right question? In this guide, Skill Leap AI explains how specific, well-crafted ChatGPT prompts can transform the way you interact with artific…",
+        "url": "https://www.geeky-gadgets.com/chatbot-prompt-collection/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/research-content-prompt-workflows_optimized.jpg",
+        "publishedAt": "2026-01-09T12:15:43Z",
+        "content": "What if the key to unlocking your productivity, creativity, and decision-making skills was as simple as asking the right question? In this guide, Skill Leap AI explains how specific, well-crafted Cha… [+7973 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News18"
+        },
+        "author": "News18",
+        "title": "OnePlus Turbo 6 Series With Android 16 And 9,000mAh Battery Launched: Price, Specs",
+        "description": "OnePlus Turbo 6 series is the first from the brand to house a massive 9,000mAh battery without making it a brick.",
+        "url": "https://www.news18.com/tech/oneplus-turbo-6-series-with-android-16-and-9000mah-battery-launched-price-specs-9820227.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/01/OnePlus-Turbo-6-series-launch-China-2026-01-61ac103be28c7462ffbe0757bf7a5ea5-16x9.jpg",
+        "publishedAt": "2026-01-09T12:15:38Z",
+        "content": "Last Updated:January 09, 2026, 16:33 IST\r\nThe OnePlus Turbo 6 series has launched in China this week and this new lineup focuses on two major aspects, performance and longevity. The Turbo 6 and Turbo… [+2254 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Infosecurity Magazine"
+        },
+        "author": "Kevin  Poireault",
+        "title": "World Economic Forum: Deepfake Face-Swapping Tools Are Creating Critical Security Risks",
+        "description": "Researchers at the World Economic Forum have shown that threat actors can use commercial deepfake tools to bypass corporate security protections",
+        "url": "https://www.infosecurity-magazine.com/news/wef-deepfake-faceswapping-security/",
+        "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/e40e3330-a1e5-46ba-b3e8-c67e17abf47a.jpg",
+        "publishedAt": "2026-01-09T12:15:00Z",
+        "content": "The rapid advancement of deepfakes is becoming a major challenge for sustaining trust in digital identity systems, the World Economic Forum (WEF) has warned \r\nDeepfake-generating technologies, and es… [+4743 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Macworld"
+        },
+        "author": "Simon Jary",
+        "title": "How to simplify and declutter the Apple gear in your life",
+        "description": "Macworld\n\n\n\r\n\n\n\n\nThe new year is a perfect time to clear out our spaces. Whether you’ve just got a bunch of new gear or just want a fresh start, it’s a great time to pare down your pile of once-loved tech, and clear out drawers and cupboards of cables, adapte…",
+        "url": "https://www.macworld.com/article/3020540/how-to-simplify-and-declutter-the-apple-gear-in-your-life.html",
+        "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/01/Declutter-tech-tips.jpg?quality=50&strip=all&w=1024",
+        "publishedAt": "2026-01-09T12:15:00Z",
+        "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe new year is a pe… [+11815 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Verdict"
+        },
+        "author": "Anwesha Pattanaik",
+        "title": "Cyera secures $400m Series F as demand for enterprise AI security grows",
+        "description": "Cyera secured $400m in a Series F funding round, increasing its total capital to more than $1.7bn and raising the company's valuation to $9bn.",
+        "url": "https://www.verdict.co.uk/cyera-secures-400m-series-f/",
+        "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/Cyera-79c4755280fff091b67f0a042bae6ee6.jpg",
+        "publishedAt": "2026-01-09T12:14:47Z",
+        "content": "Cyera has secured $400m in a Series F funding round, increasing its total capital to more than $1.7bn and raising the company’s valuation to $9bn.\r\nBlackstone led the latest investment, with particip… [+2799 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Oreilly.com"
+        },
+        "author": "Julie Baron",
+        "title": "Signals for 2026",
+        "description": "We’re three years into a post-ChatGPT world, and AI remains the focal point of the tech industry. In 2025, several ongoing trends intensified: AI investment accelerated; enterprises integrated agents and workflow automation at a faster pace; and the toolscape…",
+        "url": "https://www.oreilly.com/radar/signals-for-2026/#BlogPosting",
+        "urlToImage": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2019/06/learning-radar-sky-crop-1fc56cd7d97529bebaa486c6bf71a791-1.jpg",
+        "publishedAt": "2026-01-09T12:14:20Z",
+        "content": "Were three years into a post-ChatGPT world, and AI remains the focal point of the tech industry. In 2025, several ongoing trends intensified: AI investment accelerated; enterprises integrated agents … [+16072 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Thibault Spirlet",
+        "title": "WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity",
+        "description": "The World Economic Forum found that AI will reshape most jobs by 2030, with only one path limiting major displacement.",
+        "url": "https://www.businessinsider.com/wef-sees-4-ai-futures-for-jobs-by-2030-only-one-limits-disruption-2026-1",
+        "urlToImage": "https://i.insider.com/695f9edf64858d02d217f894?width=1200&format=jpeg",
+        "publishedAt": "2026-01-09T12:11:45Z",
+        "content": "The World Economic Forum says AI will reshape work by 2030 — and only one future avoids major worker displacement.APHOTOGRAFIA/Getty Images\r\n<ul><li>The WEF outlines four AI job futures for 2030, war… [+3798 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Verge Staff",
+        "title": "The Verge Awards at CES 2026",
+        "description": "Every January, the world of consumer electronics heads to Las Vegas to spend the first full week of the year in the desert presenting, prodding, and gawking at all the new gadgets and gear debuting at CES. The show has once again delivered an avalanche of pro…",
+        "url": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258216_AWARDS_CES_2026_SHADDAD.png?quality=90&strip=all&crop=0%2C10.658699359961%2C100%2C78.682601280078&w=1200",
+        "publishedAt": "2026-01-09T12:07:04Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nRollable laptops, twice-folding phones, and a longevity station. This is the CES tech we come back for.\r\nby\r\nVerge StaffClose\r\nVerge Staff\r\nPosts from this autho… [+32454 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Biocytogen and Acepodia Expand Collaboration Through Option-based Evaluation Framework for First-in-Class Bispecific and Dual-Payload ADCs (BsAD2C)",
+        "description": "Expanded collaboration builds on Acepodia and Biocytogen’s recent co-development efforts to evaluate selected bispecific antibody and dual-payload ADC programs BEIJING & ALAMEDA, Calif. & TAIPEI, Taiwan — Biocytogen Pharmaceuticals (Beijing) Co., Ltd. (Biocyt…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biocytogen-and-acepodia-expand-collaboration-through-option-based-evaluation-framework-for-first-in-class-bispecific-and-dual-payload-adcs-bsad2c",
+        "urlToImage": null,
+        "publishedAt": "2026-01-09T12:05:50Z",
+        "content": "<ul><li>Expanded collaboration builds on Acepodia and Biocytogens recent co-development efforts to evaluate selected bispecific antibody and dual-payload ADC programs</li></ul>\r\nTHIS CONTENT IS RESER… [+7183 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "La Rosa Holdings Corp.",
+        "title": "La Rosa Holdings Corp. Announces Closing of Initial Funding Under $250 Million Note Facility as Part of $1.25 Billion AI Infrastructure Program",
+        "description": "Celebration, FL, Jan. 09, 2026 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (“La Rosa” or the “Company”), a real estate and PropTech enterprise, today announced an initial closing of an $11,000,000 note under its previously announced $250 million…",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216022/0/en/La-Rosa-Holdings-Corp-Announces-Closing-of-Initial-Funding-Under-250-Million-Note-Facility-as-Part-of-1-25-Billion-AI-Infrastructure-Program.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/f854f31e-8844-4c15-a86b-772ced2fcb2a",
+        "publishedAt": "2026-01-09T12:05:00Z",
+        "content": "Celebration, FL, Jan. 09, 2026 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (La Rosa or the Company), a real estate and PropTech enterprise, today announced an initial closing of an $11,… [+5602 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Majestic Ideal Holdings Ltd.",
+        "title": "Ping An Biomedical Co., Ltd. Receives Strategic Investment from Leading Industry Capital, Accelerating Growth in Biopharmaceutical Innovation",
+        "description": "Ping An Biomedical (NASDAQ: PASW) secured investments from 58.com’s Yao Jinbo, Amiba Capital’s Wang Donghui, and Magcloud’s Li Daxue....",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216021/0/en/Ping-An-Biomedical-Co-Ltd-Receives-Strategic-Investment-from-Leading-Industry-Capital-Accelerating-Growth-in-Biopharmaceutical-Innovation.html",
+        "urlToImage": null,
+        "publishedAt": "2026-01-09T12:05:00Z",
+        "content": "HONG KONG, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Ping An Biomedical Co., Ltd. (NASDAQ: PASW) (hereinafter referred to as Ping An Bio) today announced that it has entered into a series of share purchase a… [+6748 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tom's Hardware UK"
+        },
+        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+        "title": "Chinese researchers hail breakthrough in DRAM-like cells, which could be used in embedded or 3D stacked memory — absence of manufacturing detail casts doubt on mass production",
+        "description": "Chinese researchers have demonstrated a 4F² dual-gate 2T0C capacitor-less, DRAM-like memory cell with multi-bit storage, fast writes, and long retention. In theory, the technology could be used as embedded or stacked 3D memory, but questions remain about its …",
+        "url": "https://www.tomshardware.com/pc-components/dram/chinese-researchers-hail-breakthrough-in-dram-like-cells-which-could-be-used-in-embedded-or-3d-stacked-memory-absence-of-manufacturing-detail-casts-doubt-on-mass-production",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ScWkdXEcbCzcmrjizukTn7-1920-80.jpg",
+        "publishedAt": "2026-01-09T12:02:45Z",
+        "content": "Tom's Hardware Premium Roadmaps\r\n(Image credit: Future)\r\nChinese researchers have developed a capacitor-less DRAM-like memory cell that uses two transistors (2T0C) with dual-gate control, built at a … [+11002 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "David Watsky",
+        "title": "A Grocery Barcode Scanner Is the Best New Fridge Feature in Years. Here's Why",
+        "description": "I saw the future of fridges at CES 2026.",
+        "url": "https://www.cnet.com/home/kitchen-and-household/grocery-barcode-scanner-is-the-best-new-fridge-feature-in-years/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/fffe4d410abb66c22b5fbdf49d077a1795529212/hub/2026/01/08/c6e74d04-aeee-4af9-bb80-65c4ea8b4bf8/screenshot-2026-01-08-at-1-50-45pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-01-09T12:01:19Z",
+        "content": "Two basic types of kitchen innovations catch our eyes when roaming the floor at CES. One type is those that wow with impressive engineering -- for example, a travel mug that both grinds and brews col… [+3578 chars]"
+      },
+      {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Ian Curran",
+        "title": "Galway medtech Vivasure acquired in deal worth up to €185m",
+        "description": "Boston-headquartered medical device group Haemonetics agrees to pay €100m upfront for Enterprise Ireland-backed company",
+        "url": "https://www.irishtimes.com/business/2026/01/08/galway-medtech-vivasure-acquired-in-deal-worth-up-to-185m/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/AWZ3RXRBHVHFLJTHMSIVKKX2IY.jpg?smart=true&auth=17feda38e333c52732956ffccc2a4ba1b7c029a640ce0b8461f09fc21e4f0917&width=1200&height=630",
+        "publishedAt": "2026-01-09T12:01:00Z",
+        "content": "A Galway medical technology company behind a device that helps surgeons to close large holes in major arteries has been acquired by New York Stock Exchange-listed medical device group Haemonetics in … [+2847 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Partner Content With Beatbot",
+        "title": "Beatbot Announces Two New Smart Pool Cleaners and a Major Rebrand at CES 2026",
+        "description": "Let these Beatbot devices do the hard work.",
+        "url": "https://gizmodo.com/beatbot-announces-two-new-smart-pool-cleaners-and-a-major-rebrand-at-ces-2026-2000704799",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/01/00-aquasense-x-1200x675.jpg",
+        "publishedAt": "2026-01-09T12:00:54Z",
+        "content": "Pool cleaning technology is evolving to be smarter than ever, and Beatbot is leading the way: The company has been redefining pool care since 2022, and is starting 2026 with renewed impetus, launchin… [+5606 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bitcoinist"
+        },
+        "author": "Scott Matherson",
+        "title": "Government Research Paper That Shows XRP’s Long-Term Potential Resurfaces",
+        "description": "Crypto pundit NoLimit has drawn attention to a government research paper, which he described as extremely bullish for XRP in the long term. He also highlighted how what is being built on the XRP Ledger will ensure that the altcoin gains real-world adoption, w…",
+        "url": "https://bitcoinist.com/xrps-long-term-potential-resurfaces/",
+        "urlToImage": "https://bitcoinist.com/wp-content/uploads/2026/01/XRP-from-Getty-Images-15.jpg",
+        "publishedAt": "2026-01-09T12:00:39Z",
+        "content": "Crypto pundit NoLimit has drawn attention to a government research paper, which he described as extremely bullish for XRP in the long term. He also highlighted how what is being built on the XRP Ledg… [+2889 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": null,
+        "title": "How IMAX crushed other theater stocks in 2025",
+        "description": "IMAX outperformed other theatrical stocks in 2025 as it capitalized on changing consumer trends and partnerships with major studio productions.",
+        "url": "https://www.cnbc.com/2026/01/09/imax-theater-stocks-2025.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107198579-1677121939840-gettyimages-1051853192-775239116LN023_IMAX_Private.jpeg?v=1751996915&w=1920&h=1080",
+        "publishedAt": "2026-01-09T12:00:01Z",
+        "content": "General atmosphere during an IMAX private screening for the movie \"First Man\" at an AMC theater in New York City on Oct. 10, 2018.\r\nThe theatrical industry is in flux and one stock is rising above th… [+6368 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Perspective Therapeutics, Inc.",
+        "title": "Perspective Therapeutics Presents Updated Interim Data of [212Pb]VMT-α-NET in its Ongoing Phase 1/2a Clinical Trial at the 2026 ASCO Gastrointestinal Cancers Symposium",
+        "description": "SEATTLE, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Perspective Therapeutics, Inc. (“Perspective,” the “Company,” “we,” “us,” and “our”) (NYSE AMERICAN: CATX), a radiopharmaceutical development company that is pioneering advanced treatments for cancers throughout the …",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216015/0/en/Perspective-Therapeutics-Presents-Updated-Interim-Data-of-212Pb-VMT-%CE%B1-NET-in-its-Ongoing-Phase-1-2a-Clinical-Trial-at-the-2026-ASCO-Gastrointestinal-Cancers-Symposium.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/e8b42463-3d31-441e-8c09-6b88826fe1c6",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "<ul><li>Updated interim results with an additional ~13 weeks of follow-up since the prior update</li><li>[212Pb]VMT--NET continues to be well-tolerated </li><li>Updated efficacy analysis suggests dur… [+10634 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Aquestive Therapeutics, Inc.",
+        "title": "Aquestive Therapeutics Announces Regulatory Development for Anaphylm™ (dibutepinephrine) Sublingual Film and Provides Business Update",
+        "description": "WARREN, N.J., Jan. 09, 2026 (GLOBE NEWSWIRE) -- Aquestive Therapeutics, Inc. (NASDAQ: AQST) (\"Aquestive\" or the \"Company\"), a pharmaceutical company advancing medicines to bring meaningful improvement to patients' lives through innovative science and delivery…",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216007/0/en/Aquestive-Therapeutics-Announces-Regulatory-Development-for-Anaphylm-dibutepinephrine-Sublingual-Film-and-Provides-Business-Update.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/e0b65f93-9565-43d7-a6ff-88b8cbd6adea",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "<ul><li>Announces receipt of FDA letter stating it has identified deficiencies that preclude labeling discussions for Anaphylm at this time </li><li>Receives confirmation from FDA that Agencys review… [+15788 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PCWorld"
+        },
+        "author": "Michael Brown",
+        "title": "Z-Wave Alliance touts newly certified Z-Wave Long Range devices",
+        "description": "The Z-Wave Alliance—an organization that promotes the development and use of the open-source Z-Wave standard in smart homes and smart buildings—is celebrating the growth of the standard’s latest iteration: Z-Wave Long Range (ZWLR).\r\n\n\n\n\nEarlier this week, the…",
+        "url": "https://www.pcworld.com/article/3027894/z-wave-alliance-touts-newly-certified-z-wave-long-range-devices.html",
+        "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/2GIG-GCTouch-smart-home-hub.png?w=1024",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "Skip to contentWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe Z-Wave Alliance—an organization that promotes th… [+6367 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Robb Report"
+        },
+        "author": "Rachel Cormack",
+        "title": "Feadship’s New 162-Foot Superyacht Feels Like a Vessel Twice Its Size",
+        "description": "Feadship's new 162-foot superyacht, known as Project 717, features fold-down bulwarks and other nifty innovations that create more space onboard.",
+        "url": "http://robbreport.com/motors/marine/feadship-project-717-superyacht-launch-1237498704/",
+        "urlToImage": "https://robbreport.com/wp-content/uploads/2026/01/Feadship-Project-717-Superyacht-8.jpg?w=681&h=383&crop=1",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "Feadship is showing that sometimes the smallest changes to a superyacht can make the biggest difference. \r\nThe Dutch yard just revealed the exterior of the highly secretive Project 717, allowing us t… [+2862 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gadget Flow"
+        },
+        "author": "Madhurima Nag",
+        "title": "EthyloKey: Checking your alcohol level should be this simple",
+        "description": "There’s a moment most people know all too well. You’ve had a drink—or maybe two. You feel fine. But there’s still that quiet question in the back of your head before you grab your keys: Am I actually okay to..\nThe post EthyloKey: Checking your alcohol level s…",
+        "url": "https://thegadgetflow.com/blog/ethylokey-alcohol-monitor-review/",
+        "urlToImage": "https://thegadgetflow.com/wp-content/uploads/2026/01/EthyloKey-Touch-Alcohol-Detector-02-1.jpg",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "There’s a moment most people know all too well. You’ve had a drink—or maybe two. You feel fine. But there’s still that quiet question in the back of your head before you grab your keys: Am I actually… [+5623 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Aurora Mobile Limited",
+        "title": "Aurora Mobile Partners with Xiaoe to Enhance Interaction Efficiency and Support Sustainable Growth in Private Domain Ecosystems",
+        "description": "SHENZHEN, China, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the “Company”), a leading provider of customer engagement and marketing technology services in China, today announced that it has entered into a strategi…",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216003/0/en/Aurora-Mobile-Partners-with-Xiaoe-to-Enhance-Interaction-Efficiency-and-Support-Sustainable-Growth-in-Private-Domain-Ecosystems.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/5e12f74e-0978-4008-a030-4c2b113ad11e",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "SHENZHEN, China, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (Aurora Mobile or the Company), a leading provider of customer engagement and marketing technology services in Ch… [+6701 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Memo Therapeutics AG",
+        "title": "Memo Therapeutics AG Publishes BKPyV Infection Disease Burden Study in the Journal of Patient-Reported Outcomes",
+        "description": "PRESS RELEASE   Memo Therapeutics AG Publishes BKPyV Infection Disease Burden Study in the Journal of Patient-Reported Outcomes  First conceptual model...",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216009/0/en/Memo-Therapeutics-AG-Publishes-BKPyV-Infection-Disease-Burden-Study-in-the-Journal-of-Patient-Reported-Outcomes.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/e7ac4570-f1d3-47f1-a520-cb96dd56bfc5",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "PRESS RELEASE \r\nMemo Therapeutics AG Publishes BKPyV Infection Disease Burden Study in the Journal of Patient-Reported Outcomes\r\n<ul><li>First conceptual model demonstrating the impact of BK polyomav… [+4332 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Tiziana Life Sciences Plc",
+        "title": "Tiziana Life Sciences to Present at the 9th Annual Neuroscience Innovation Forum During J.P. Morgan Healthcare Conference Week in San Francisco",
+        "description": "BOSTON, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Tiziana Life Sciences, Ltd. (Nasdaq: TLSA) (“Tiziana”), a biotechnology company developing its lead candidate, intranasal foralumab, a fully human, anti-CD3 monoclonal antibody, announces that Chief Executive Officer …",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216013/0/en/Tiziana-Life-Sciences-to-Present-at-the-9th-Annual-Neuroscience-Innovation-Forum-During-J-P-Morgan-Healthcare-Conference-Week-in-San-Francisco.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/991c340c-a083-4bcb-ad41-e7eea83f6f97",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "BOSTON, Jan. 09, 2026 (GLOBE NEWSWIRE) -- Tiziana Life Sciences, Ltd. (Nasdaq: TLSA) (Tiziana), a biotechnology company developing its lead candidate, intranasal foralumab, a fully human, anti-CD3 mo… [+3594 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Immunocore Holdings plc",
+        "title": "Immunocore announces 2026 strategic priorities at 44th Annual J.P. Morgan Healthcare Conference",
+        "description": "Immunocore announces 2026 strategic priorities at 44th Annual J.P. Morgan Healthcare Conference   Reaching more metastatic uveal melanoma patients with...",
+        "url": "https://www.globenewswire.com/news-release/2026/01/09/3216011/0/en/Immunocore-announces-2026-strategic-priorities-at-44th-Annual-J-P-Morgan-Healthcare-Conference.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bcaafaab-2536-4b4b-899c-9913925b6e4b",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "Immunocore announces 2026 strategic priorities at 44th Annual J.P. Morgan Healthcare Conference\r\n Reaching more metastatic uveal melanoma patients with KIMMTRAK (tebentafusp) in 2026 through US commu… [+23237 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "road.cc"
+        },
+        "author": "Mat Brett",
+        "title": "road.cc Recommends Components of the Year 2025/26: the best groupsets, pedals, saddles and more",
+        "description": "We add the best components we've reviewed to road.cc Recommends every month, and now it’s time to reveal the best of the best from Shimano, SRAM, Look, Time...",
+        "url": "https://road.cc/content/feature/roadcc-recommends-components-year-202526-316589",
+        "urlToImage": "https://cdn.road.cc/sites/default/files/styles/main_width/public/roadcc-recommends-awards-2025-26-components-year.jpg",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "Ready to level up your ride? Weve rounded up the crème de la crème of cycling components the standout products from all that earned a coveted spot in road.cc Recommends during 2025. From high-quality… [+23717 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Jump24.co.uk"
+        },
+        "author": "Daniel newns",
+        "title": "Experiment: Using Pest 4 as a Standalone Browser Testing Suite for Legacy Applications.",
+        "description": "Here's a scenario we encounter regularly at Jump24: a client has a legacy application - perhaps built in CakePHP, CodeIgniter, or even a custom framework - and they want to add automated browser testing. The catch? They don't want to pollute the existing code…",
+        "url": "https://jump24.co.uk/journal/experiment-using-pest-4-as-a-standalone-browser-testing-suite-for-legacy-applications",
+        "urlToImage": "https://jump24.co.uk/img/asset/aW1hZ2VzL2Jsb2dzL2V4cGVyaW1lbnRzL3VzaW5nLXBlc3QtNC1hcy1hLXN0YW5kYWxvbmUtYnJvd3Nlci5wbmc/using-pest-4-as-a-standalone-browser.png?p=seo_pro_og&s=71bebe3f406f4d82150f2d06f3b979c6",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "Here's a scenario we encounter regularly at Jump24: a client has a legacy application - perhaps built in CakePHP, CodeIgniter, or even a custom framework - and they want to add automated browser test… [+6597 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bmwgroup.com"
+        },
+        "author": null,
+        "title": "Continued growth for performance cars: BMW M GmbH marks 14th consecutive record year.",
+        "description": "+++ Sales increased to 213,457 vehicles +++ BMW M GmbH marks 7th consecutive year as most successful manufacturer among its direct competitors +++ BMW X3 M50 is best-selling model +++ BMW M5 and BMW M5 Touring drive growth in the high-performance segment +++",
+        "url": "https://www.press.bmwgroup.com/global/article/detail/T0454862EN/continued-growth-for-performance-cars:-bmw-m-gmbh-marks-14th-consecutive-record-year?language=en",
+        "urlToImage": "https://mediapool.bmwgroup.com/cache/P9/202406/P90557508/P90557508-the-all-new-bmw-m5-06-2024-2250px.jpg",
+        "publishedAt": "2026-01-09T12:00:00Z",
+        "content": "Munich. BMW M GmbH once again achieved outstanding\r\n sales growth in 2025. For no less than the 14th time in a row, the\r\n manufacturer of high-performance and performance vehicles reported\r\n record s… [+10280 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Shayan Ghosh",
+        "title": "RBI governor Malhotra urges banks to collaborate to curb rising digital frauds",
+        "description": "Governor Sanjay Malhotra has called for shared analytics and AI tools to detect mule accounts, as the central bank pushes for near real-time supervision and lighter penalties.",
+        "url": "https://www.livemint.com/industry/banking/rbi-governor-malhotra-urges-banks-to-collaborate-to-curb-rising-digital-frauds-11767957448763.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/09/1600x900/logo/AP10-15-2025-000442B-0_1767957593073_1767957617524.jpg",
+        "publishedAt": "2026-01-09T11:59:57Z",
+        "content": "MUMBAI: Banks, non-bank financiers, and other entities regulated by the Reserve Bank of India (RBI) should work together to counter the growing threat of digital fraud, governor Sanjay Malhotra said … [+2915 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Smallbusinessbranding.com"
+        },
+        "author": "Sean M Kelly",
+        "title": "Enjoy Totally free Aristocrat King of your own Nile 2 Slot: Finest Pokies Video game Ever before",
+        "description": "Articles How we Rate & Review 300% Put Bonuses – queen of the nile 2 position real cash King of […]",
+        "url": "https://www.smallbusinessbranding.com/36853/enjoy-totally-free-aristocrat-king-of-your-own-nile-2-slot-finest-pokies-video-game-ever-before/",
+        "urlToImage": null,
+        "publishedAt": "2026-01-09T11:59:21Z",
+        "content": "Because you gamble a few 100 percent free video game, keep in mind that the new courses you read can be applied while in the real cash wagers subsequently. As opposed to belongings-based casinos, Fun… [+7607 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Hassan Mujtaba",
+        "title": "ASRock’s Dual DDR5 & DDR4 Motherboard Makes Perfect Sense In The Current Memory Crisis",
+        "description": "ASRock has shown off its cleverly engineered H610 motherboard, which houses both DDR5 & DDR4 slots to tackle the memory crisis. ASRock's Entry-Level Motherboard Gives Budget Builders Both DDR5 & DDR4 Options To Fight Against Rising Memory Prices Last month, A…",
+        "url": "https://wccftech.com/asrock-dual-ddr5-ddr4-motherboard-makes-perfect-sense-in-the-current-memory-crisis/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/ASRock-H610M-Combo-DDR5-DDR4-Memory-Motherboard-_1-scaled.jpg",
+        "publishedAt": "2026-01-09T11:55:12Z",
+        "content": "ASRock has shown off its cleverly engineered H610 motherboard, which houses both DDR5 &amp; DDR4 slots to tackle the memory crisis.\r\nLast month, ASRock unveiled its new H610M Combo motherboard, which… [+2128 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ZDNet"
+        },
+        "author": "Charlie Osborne",
+        "title": "Should you upgrade your Wi-Fi router to mesh? I compared both for months, and here's my pick",
+        "description": "Do you need one access point or full-home coverage? Here's what a networking expert suggests.",
+        "url": "https://www.zdnet.com/home-and-office/networking/wifi-router-vs-mesh/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/8aff847c1eee0f31813805e63c090deff342e28e/2025/01/14/16970aed-ab5c-4873-b983-b7d5a24614df/asus-rt-be58-go-router-ports.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-01-09T11:49:00Z",
+        "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Routers are cheaper, faster, and easier to set up.</li><li>Mesh systems fix dead zones with wi… [+5760 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ZDNet"
+        },
+        "author": "Steven Vaughan-Nichols",
+        "title": "What is Wi-Fi 8? And why speed isn't your primary concern with the latest standard",
+        "description": "The last few major Wi-Fi releases have focused on achieving the fastest possible connection. Wi-Fi 8 is designed to ensure a stable connection.",
+        "url": "https://www.zdnet.com/home-and-office/networking/what-is-wi-fi-8-explainer/",
+        "urlToImage": "https://www.zdnet.com/a/img/resize/daa48423aa7ec4f739a538567253a2cb75f25149/2026/01/07/42ae16d3-ed44-4dd0-ad04-40165015e0d3/asus-rog-neocore-wi-fi-8-router-image-4.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-01-09T11:47:00Z",
+        "content": "Iaremenko/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Pre-standard Wi-Fi 8 is on the way, but the soonest you'll see it is in Q3 20… [+7884 chars]"
+      }
+    ]
+  }
+}

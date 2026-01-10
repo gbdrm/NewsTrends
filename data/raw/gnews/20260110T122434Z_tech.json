@@ -1,0 +1,277 @@
+{
+  "provider": "gnews",
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "title": "DRDO conducts key test of scramjet engine",
+      "description": "India's DRDO successfully tested a scramjet engine, advancing its hypersonic missile program and positioning the nation at the forefront of aerospace technology.| India News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/india-news/drdo-conducts-key-test-of-scramjet-engine-101767983756482.html",
+      "published_at": "2026-01-09T23:38:06Z",
+      "author": "",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/08/06/550x309/Untitled_design_1754465014585_1754465103581.png",
+      "content": "The Defence Research & Development Laboratory (DRDL), a Hyderabad based DRDO laboratory, has achieved “a path-breaking milestone” in the development of hypersonic missiles, the defence ministry said. “DRDL successfully conducted an extensive long-dur... [2556 chars]"
+    },
+    {
+      "title": "Can data centres produce drinking water?",
+      "description": "In the last few years, they successfully built technology that converts air to drinking water, producing 5,000 litres of water a day| India News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/india-news/can-data-centres-produce-drinking-water-101767983640952.html",
+      "published_at": "2026-01-09T23:32:06Z",
+      "author": "",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2026/01/09/550x309/If-we-extract-water-from-air--it-is-replenished-wi_1767983634708.jpg",
+      "content": "Data centres of the future might just become a source of clean drinking water for your homes. That’s the future that Uravu Labs, a Bangalore-based climate technology startup is working towards. In the last few years, they successfully built technolog... [7555 chars]"
+    },
+    {
+      "title": "Tech Up as AI Hopes Rekindled -- Tech Roundup",
+      "description": "Shares of technology companies rose as traders rotated back into artificial-intelligence bets.\nSoftBank company SB Energy is reportedly working with OpenAI on the AI infrastructure joint venture...",
+      "source": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/tech-up-as-ai-hopes-rekindled-tech-roundup-ce7e59d3dd81f027",
+      "published_at": "2026-01-09T23:08:16Z",
+      "author": "",
+      "image_url": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "content": "Shares of technology companies rose as traders rotated back into artificial-intelligence bets.\nSoftBank company SB Energy is reportedly working with OpenAI on the AI infrastructure joint venture Stargate. Shares of Oracle, another OpenAI partner on t... [755 chars]"
+    },
+    {
+      "title": "Dr Jitendra lays foundation of ‘SAMARTH’ National Centre, inaugurates DNA Incubator at Hyderabad",
+      "description": "Excelsior Correspondent Hyderabad, Jan 9: Emphasising that early detection and affordability are the two biggest challenges in addressing genetic and rare diseases, Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences, and Minister of State for PMO, Department of Space and Department of Atomic Energy, Dr. Jitendra Singh, today said that India is now scientifically and economically equipped to take on complex health challenges through genomics, biotechnology, and preventive healthcare. The Minister was speaking during his visit […]",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/dr-jitendra-lays-foundation-of-samarth-national-centre-inaugurates-dna-incubator-at-hyderabad/",
+      "published_at": "2026-01-09T23:00:22Z",
+      "author": "",
+      "image_url": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/page3-14.jpg",
+      "content": "Excelsior Correspondent\nHyderabad, Jan 9: Emphasising that early detection and affordability are the two biggest challenges in addressing genetic and rare diseases, Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences... [3363 chars]"
+    },
+    {
+      "title": "Lollipop uses tech to create 'concert in your mouth.' See how it works.",
+      "description": "Lollipop Star, a candy that uses technology to create a \"concert in your mouth,\" is officially available for purchase. Here's how it works.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/tech/2026/01/09/lollipop-star-speaker-ces-2026/88101256007/",
+      "published_at": "2026-01-09T22:58:29Z",
+      "author": "",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/01/09/USAT/88100401007-lollipop.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+      "content": "A one-of-a-kind lollipop has the potential to make concertgoing a singular experience, or at the very least a way to get the best of both worlds.\nDescribed as a way \"to turn candy into a concert in your mouth,\" Lollipop Star utilizes bone conduction ... [2143 chars]"
+    },
+    {
+      "title": "DRDO conducts long-duration ground test of scramjet engine for hypersonic missiles",
+      "description": "NEW DELHI, Jan 9 : Defence Research and Development Organisation (DRDO) has achieved a key milestone in the development of hypersonic missiles, as it successfully conducted a long-duration ground test of its actively cooled scramjet combustor, the defence ministry said on Friday. Defence Research & Development Laboratory (DRDL), the Hyderabad-based laboratory of the DRDO, has achieved a “path-breaking milestone” in the development of such missiles, the ministry said, as it shared the update on scramjet-powered hypersonic technology. “The DRDL successfully […]",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/drdo-conducts-long-duration-ground-test-of-scramjet-engine-for-hypersonic-missiles/",
+      "published_at": "2026-01-09T22:52:43Z",
+      "author": "",
+      "image_url": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/DRDO.jpg",
+      "content": "NEW DELHI, Jan 9 : Defence Research and Development Organisation (DRDO) has achieved a key milestone in the development of hypersonic missiles, as it successfully conducted a long-duration ground test of its actively cooled scramjet combustor, the de... [2057 chars]"
+    },
+    {
+      "title": "In missile tech milestone, Scramjet combustor achieves run time of over 12 minutes",
+      "description": "The DRDO successfully conducted a 12-minute long ground test of its Actively Cooled Scramjet Full Scale Combustor at the SCPT facility, marking a significant achievement in hypersonic missile technology. The test was conducted by DRDL, a premier facility responsible for missile development.",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/shorts/cities/pune/in-missile-tech-milestone-scramjet-combustor-achieves-run-time-of-over-12-minutes-10465157/",
+      "published_at": "2026-01-09T22:52:15Z",
+      "author": "",
+      "image_url": "https://images.indianexpress.com/2026/01/DRDO-Hypersonic-Test-1_20260109223455.png",
+      "content": "Cities 25 min ago\nThis is an AI assisted summary.\nThe DRDO successfully conducted a 12-minute long ground test of its Actively Cooled Scramjet Full Scale Combustor at the SCPT facility, marking a significant achievement in hypersonic missile technolo... [24007 chars]"
+    },
+    {
+      "title": "gen RGB MiniLED technology TVs, smart home tech at CES 2026",
+      "description": "Tv News: Hisense has unveiled its latest innovations at CES 2026. Under the theme “Innovating a Brighter Life”, the company showcased RGB MiniLED technology TV.",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/technology/tv-television/hisense-unveils-next-gen-rgb-miniled-technology-tvs-smart-home-tech-at-ces-2026/articleshow/126442207.cms",
+      "published_at": "2026-01-09T22:50:00Z",
+      "author": "",
+      "image_url": "https://static.toiimg.com/thumb/msid-126442185,width-1070,height-580,imgsize-75942,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "content": "Hisense has unveiled its latest innovations at CES 2026. Under the theme “Innovating a Brighter Life”, the company showcased RGB MiniLED technology TVs, laser projectors and smart home technologies at the biggest consumer tech event of the year. The ... [1468 chars]"
+    },
+    {
+      "title": "Jasrotia takes up road, railway projects with Dr Jitendra",
+      "description": "Excelsior Correspondent NEW DELHI, Jan 9: MLA from Jasrota constituency, Rajiv Jasrotia, today met Union Minister of State in PMO with Independent charge of Science & Technology and Earth Sciences Ministries Dr Jitendra Singh here and demanded development of critical road infrastructure and railway connectivity projects in Jasrota constituency of district Kathua of J&K. During the meeting, Jasrotia submitted a written representation highlighting the urgent infrastructural needs of the constituency, with a special focus on road connectivity, railway underpasses, and […]",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/jasrotia-takes-up-road-railway-projects-with-dr-jitendra/",
+      "published_at": "2026-01-09T22:42:50Z",
+      "author": "",
+      "image_url": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/page8-2-7.jpg",
+      "content": "Excelsior Correspondent\nNEW DELHI, Jan 9: MLA from Jasrota constituency, Rajiv Jasrotia, today met Union Minister of State in PMO with Independent charge of Science & Technology and Earth Sciences Ministries Dr Jitendra Singh here and demanded develo... [2509 chars]"
+    },
+    {
+      "title": "Supreme Court will take up Cisco's bid to shut down lawsuit by Falun Gong",
+      "description": "The Supreme Court has agreed to take up an appeal from tech giant Cisco seeking to shut down a lawsuit claiming that the company’s technology was used to persecute members of the Falun Gong spiritual movement in China",
+      "source": "The Atlanta Journal-Constitution",
+      "url": "https://www.ajc.com/news/2026/01/supreme-court-will-take-up-ciscos-bid-to-shut-down-lawsuit-by-falun-gong/",
+      "published_at": "2026-01-09T22:42:45Z",
+      "author": "",
+      "image_url": "https://images.ajc.com/resizer/v2/F4GFDTMH5NGY5BK6XI3KEXOEAY.jpg?auth=a67b95c9061d9c48c02384733757ac4dc34ab583032867ae1800512a4509130d&width=1200&height=630&smart=true",
+      "content": "WASHINGTON (AP) — The Supreme Court agreed Friday to take up an appeal from tech giant Cisco seeking to shut down a lawsuit claiming that the company’s technology was used to persecute members of the Falun Gong spiritual movement in China.\nThe justic... [1264 chars]"
+    }
+  ],
+  "raw_response": {
+    "information": {
+      "realTimeArticles": {
+        "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+      }
+    },
+    "totalArticles": 124266,
+    "articles": [
+      {
+        "id": "f78a8e45c9099ecfd24f025361e286af",
+        "title": "DRDO conducts key test of scramjet engine",
+        "description": "India's DRDO successfully tested a scramjet engine, advancing its hypersonic missile program and positioning the nation at the forefront of aerospace technology.| India News",
+        "content": "The Defence Research & Development Laboratory (DRDL), a Hyderabad based DRDO laboratory, has achieved “a path-breaking milestone” in the development of hypersonic missiles, the defence ministry said. “DRDL successfully conducted an extensive long-dur... [2556 chars]",
+        "url": "https://www.hindustantimes.com/india-news/drdo-conducts-key-test-of-scramjet-engine-101767983756482.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/550x309/Untitled_design_1754465014585_1754465103581.png",
+        "publishedAt": "2026-01-09T23:38:06Z",
+        "lang": "en",
+        "source": {
+          "id": "21468bec836de1ebb209ff6f78fbfe3e",
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "ef93c5f1570e406445f540fa8180a26c",
+        "title": "Can data centres produce drinking water?",
+        "description": "In the last few years, they successfully built technology that converts air to drinking water, producing 5,000 litres of water a day| India News",
+        "content": "Data centres of the future might just become a source of clean drinking water for your homes. That’s the future that Uravu Labs, a Bangalore-based climate technology startup is working towards. In the last few years, they successfully built technolog... [7555 chars]",
+        "url": "https://www.hindustantimes.com/india-news/can-data-centres-produce-drinking-water-101767983640952.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/01/09/550x309/If-we-extract-water-from-air--it-is-replenished-wi_1767983634708.jpg",
+        "publishedAt": "2026-01-09T23:32:06Z",
+        "lang": "en",
+        "source": {
+          "id": "21468bec836de1ebb209ff6f78fbfe3e",
+          "name": "Hindustan Times",
+          "url": "https://www.hindustantimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "2cb7f11e92f79a552fac57ca7a54bf74",
+        "title": "Tech Up as AI Hopes Rekindled -- Tech Roundup",
+        "description": "Shares of technology companies rose as traders rotated back into artificial-intelligence bets.\nSoftBank company SB Energy is reportedly working with OpenAI on the AI infrastructure joint venture...",
+        "content": "Shares of technology companies rose as traders rotated back into artificial-intelligence bets.\nSoftBank company SB Energy is reportedly working with OpenAI on the AI infrastructure joint venture Stargate. Shares of Oracle, another OpenAI partner on t... [755 chars]",
+        "url": "https://www.marketscreener.com/news/tech-up-as-ai-hopes-rekindled-tech-roundup-ce7e59d3dd81f027",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "publishedAt": "2026-01-09T23:08:16Z",
+        "lang": "en",
+        "source": {
+          "id": "20cff2bcbc7e0fce7e6182772a9e2a7e",
+          "name": "MarketScreener",
+          "url": "https://www.marketscreener.com",
+          "country": "fr"
+        }
+      },
+      {
+        "id": "ac2b1030d4ac725a6eebb3e68df0e14e",
+        "title": "Dr Jitendra lays foundation of ‘SAMARTH’ National Centre, inaugurates DNA Incubator at Hyderabad",
+        "description": "Excelsior Correspondent Hyderabad, Jan 9: Emphasising that early detection and affordability are the two biggest challenges in addressing genetic and rare diseases, Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences, and Minister of State for PMO, Department of Space and Department of Atomic Energy, Dr. Jitendra Singh, today said that India is now scientifically and economically equipped to take on complex health challenges through genomics, biotechnology, and preventive healthcare. The Minister was speaking during his visit […]",
+        "content": "Excelsior Correspondent\nHyderabad, Jan 9: Emphasising that early detection and affordability are the two biggest challenges in addressing genetic and rare diseases, Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences... [3363 chars]",
+        "url": "https://www.dailyexcelsior.com/dr-jitendra-lays-foundation-of-samarth-national-centre-inaugurates-dna-incubator-at-hyderabad/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/page3-14.jpg",
+        "publishedAt": "2026-01-09T23:00:22Z",
+        "lang": "en",
+        "source": {
+          "id": "28bc60a23a7bf89e60f893506992a3fe",
+          "name": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "66f56094a7c3647b254d6d69b1ad765b",
+        "title": "Lollipop uses tech to create 'concert in your mouth.' See how it works.",
+        "description": "Lollipop Star, a candy that uses technology to create a \"concert in your mouth,\" is officially available for purchase. Here's how it works.",
+        "content": "A one-of-a-kind lollipop has the potential to make concertgoing a singular experience, or at the very least a way to get the best of both worlds.\nDescribed as a way \"to turn candy into a concert in your mouth,\" Lollipop Star utilizes bone conduction ... [2143 chars]",
+        "url": "https://www.usatoday.com/story/tech/2026/01/09/lollipop-star-speaker-ces-2026/88101256007/",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/01/09/USAT/88100401007-lollipop.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+        "publishedAt": "2026-01-09T22:58:29Z",
+        "lang": "en",
+        "source": {
+          "id": "eaeed30dacd1269c1893de860c94a7e7",
+          "name": "USA TODAY",
+          "url": "https://www.usatoday.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "f1319f2bae48f3b89df2be5b94b69ff0",
+        "title": "DRDO conducts long-duration ground test of scramjet engine for hypersonic missiles",
+        "description": "NEW DELHI, Jan 9 : Defence Research and Development Organisation (DRDO) has achieved a key milestone in the development of hypersonic missiles, as it successfully conducted a long-duration ground test of its actively cooled scramjet combustor, the defence ministry said on Friday. Defence Research & Development Laboratory (DRDL), the Hyderabad-based laboratory of the DRDO, has achieved a “path-breaking milestone” in the development of such missiles, the ministry said, as it shared the update on scramjet-powered hypersonic technology. “The DRDL successfully […]",
+        "content": "NEW DELHI, Jan 9 : Defence Research and Development Organisation (DRDO) has achieved a key milestone in the development of hypersonic missiles, as it successfully conducted a long-duration ground test of its actively cooled scramjet combustor, the de... [2057 chars]",
+        "url": "https://www.dailyexcelsior.com/drdo-conducts-long-duration-ground-test-of-scramjet-engine-for-hypersonic-missiles/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/DRDO.jpg",
+        "publishedAt": "2026-01-09T22:52:43Z",
+        "lang": "en",
+        "source": {
+          "id": "28bc60a23a7bf89e60f893506992a3fe",
+          "name": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "ba34711e64f42b5b28d8eb2d0ad93bd0",
+        "title": "In missile tech milestone, Scramjet combustor achieves run time of over 12 minutes",
+        "description": "The DRDO successfully conducted a 12-minute long ground test of its Actively Cooled Scramjet Full Scale Combustor at the SCPT facility, marking a significant achievement in hypersonic missile technology. The test was conducted by DRDL, a premier facility responsible for missile development.",
+        "content": "Cities 25 min ago\nThis is an AI assisted summary.\nThe DRDO successfully conducted a 12-minute long ground test of its Actively Cooled Scramjet Full Scale Combustor at the SCPT facility, marking a significant achievement in hypersonic missile technolo... [24007 chars]",
+        "url": "https://indianexpress.com/shorts/cities/pune/in-missile-tech-milestone-scramjet-combustor-achieves-run-time-of-over-12-minutes-10465157/",
+        "image": "https://images.indianexpress.com/2026/01/DRDO-Hypersonic-Test-1_20260109223455.png",
+        "publishedAt": "2026-01-09T22:52:15Z",
+        "lang": "en",
+        "source": {
+          "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+          "name": "The Indian Express",
+          "url": "https://indianexpress.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "e11b4deb35a3e7e65415a99bfd6bb1ca",
+        "title": "gen RGB MiniLED technology TVs, smart home tech at CES 2026",
+        "description": "Tv News: Hisense has unveiled its latest innovations at CES 2026. Under the theme “Innovating a Brighter Life”, the company showcased RGB MiniLED technology TV.",
+        "content": "Hisense has unveiled its latest innovations at CES 2026. Under the theme “Innovating a Brighter Life”, the company showcased RGB MiniLED technology TVs, laser projectors and smart home technologies at the biggest consumer tech event of the year. The ... [1468 chars]",
+        "url": "https://timesofindia.indiatimes.com/technology/tv-television/hisense-unveils-next-gen-rgb-miniled-technology-tvs-smart-home-tech-at-ces-2026/articleshow/126442207.cms",
+        "image": "https://static.toiimg.com/thumb/msid-126442185,width-1070,height-580,imgsize-75942,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+        "publishedAt": "2026-01-09T22:50:00Z",
+        "lang": "en",
+        "source": {
+          "id": "9a9a0fb79c70bbf499d39baca94921ae",
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "47c001aad6c999a71847244c644454aa",
+        "title": "Jasrotia takes up road, railway projects with Dr Jitendra",
+        "description": "Excelsior Correspondent NEW DELHI, Jan 9: MLA from Jasrota constituency, Rajiv Jasrotia, today met Union Minister of State in PMO with Independent charge of Science & Technology and Earth Sciences Ministries Dr Jitendra Singh here and demanded development of critical road infrastructure and railway connectivity projects in Jasrota constituency of district Kathua of J&K. During the meeting, Jasrotia submitted a written representation highlighting the urgent infrastructural needs of the constituency, with a special focus on road connectivity, railway underpasses, and […]",
+        "content": "Excelsior Correspondent\nNEW DELHI, Jan 9: MLA from Jasrota constituency, Rajiv Jasrotia, today met Union Minister of State in PMO with Independent charge of Science & Technology and Earth Sciences Ministries Dr Jitendra Singh here and demanded develo... [2509 chars]",
+        "url": "https://www.dailyexcelsior.com/jasrotia-takes-up-road-railway-projects-with-dr-jitendra/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/01/page8-2-7.jpg",
+        "publishedAt": "2026-01-09T22:42:50Z",
+        "lang": "en",
+        "source": {
+          "id": "28bc60a23a7bf89e60f893506992a3fe",
+          "name": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "ce9857e71338f6e82025cd8f7e823c49",
+        "title": "Supreme Court will take up Cisco's bid to shut down lawsuit by Falun Gong",
+        "description": "The Supreme Court has agreed to take up an appeal from tech giant Cisco seeking to shut down a lawsuit claiming that the company’s technology was used to persecute members of the Falun Gong spiritual movement in China",
+        "content": "WASHINGTON (AP) — The Supreme Court agreed Friday to take up an appeal from tech giant Cisco seeking to shut down a lawsuit claiming that the company’s technology was used to persecute members of the Falun Gong spiritual movement in China.\nThe justic... [1264 chars]",
+        "url": "https://www.ajc.com/news/2026/01/supreme-court-will-take-up-ciscos-bid-to-shut-down-lawsuit-by-falun-gong/",
+        "image": "https://images.ajc.com/resizer/v2/F4GFDTMH5NGY5BK6XI3KEXOEAY.jpg?auth=a67b95c9061d9c48c02384733757ac4dc34ab583032867ae1800512a4509130d&width=1200&height=630&smart=true",
+        "publishedAt": "2026-01-09T22:42:45Z",
+        "lang": "en",
+        "source": {
+          "id": "79e9a45376a66fd7e1a4e68bba928c39",
+          "name": "The Atlanta Journal-Constitution",
+          "url": "https://www.ajc.com",
+          "country": "us"
+        }
+      }
+    ]
+  }
+}

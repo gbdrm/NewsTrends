@@ -1,0 +1,1094 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 39886,
+  "articles": [
+    {
+      "title": "Refactoring internal documentation in Notion",
+      "description": "In our latest developer productivity survey, our documentation\nwas the area with the second most comments.\nThis is a writeup of the concrete steps I took to see how much\nprogress one person could make on improving the organization’s\ndocumentation while holdin…",
+      "source": "Lethain.com",
+      "url": "https://lethain.com/refactoring-internal-docs-notion/",
+      "published_at": "2026-02-12T12:38:22Z",
+      "author": null,
+      "image_url": "https://lethain.com/static/author.png",
+      "content": "In our latest developer productivity survey, our documentation\r\nwas the area with the second most comments.\r\nThis is a writeup of the concrete steps I took to see how much\r\nprogress one person could … [+4053 chars]"
+    },
+    {
+      "title": "Montage's strong IPO highlights Chinese investment rush into AI and data center ecosystems — push for self-sufficiency demands immense amounts of capital",
+      "description": "AI and microelectronics boom in China drives IPOs as investors put money both in AI startups and adjacent sectors.",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/montages-strong-ipo-highlights-chinese-investment-rush-into-ai-and-data-center-ecosystems-push-for-self-sufficiency-demands-immense-amounts-of-capital",
+      "published_at": "2026-02-12T12:38:21Z",
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mS9LgPSRpja32Ubyvnp83i-1920-80.jpg",
+      "content": "Montage Technology, a server and data center connectivity specialist, this week made its initial public offering (IPO) on the Hong Kong stock exchange. Following the listing, the company's shares cli… [+5825 chars]"
+    },
+    {
+      "title": "NETSOL Technologies reports 21% year-over-year growth in total net revenues in Q2 fiscal 2026",
+      "description": "NETSOL Technologies reports 21% year-over-year growth in total net revenues in Q2 fiscal 2026....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/12/3237106/15855/en/NETSOL-Technologies-reports-21-year-over-year-growth-in-total-net-revenues-in-Q2-fiscal-2026.html",
+      "published_at": "2026-02-12T12:37:00Z",
+      "author": "NETSOL Technologies Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/8a9cd86b-b904-4a20-a55d-9bc05eaca7a6",
+      "content": "ENCINO, Calif., Feb. 12, 2026 (GLOBE NEWSWIRE) -- NETSOL Technologies, Inc. (Nasdaq: NTWK), a provider of AI-enabled solutions and services powering OEMs, dealerships and financial institutions to se… [+35933 chars]"
+    },
+    {
+      "title": "Speechmatics and Boost.ai partner to power enterprise Voice AI for Europe's most regulated industries",
+      "description": "Speechmatics and Boost.ai partner to deliver enterprise voice AI for Europe’s most regulated sectors....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/12/3237107/0/en/Speechmatics-and-Boost-ai-partner-to-power-enterprise-Voice-AI-for-Europe-s-most-regulated-industries.html",
+      "published_at": "2026-02-12T12:37:00Z",
+      "author": "Speechmatics Limited",
+      "image_url": null,
+      "content": "CAMBRIDGE, United Kingdom, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Speechmatics and Boost.ai today announced a strategic partnership to accelerate the deployment of enterprise-grade voice AI across Europe'… [+3692 chars]"
+    },
+    {
+      "title": "US credit union regulator proposes stablecoin licensing path",
+      "description": "NCUA proposes first GENIUS Act rule to license credit union‑affiliated stablecoin issuers, setting public chain‑neutral criteria and a 120‑day decision clock.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ncua-proposal-outlines-licensing-rules-stablecoin-issuers",
+      "published_at": "2026-02-12T12:36:18Z",
+      "author": "Cointelegraph by Christina Comben",
+      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/01987fa4-8e59-7f35-bb02-9fa5e56ace6b",
+      "content": "The United States National Credit Union Administration (NCUA) has proposed its first rules under the Guiding and Establishing National Innovation for US Stablecoins (GENIUS) Act, sketching out how su… [+2885 chars]"
+    },
+    {
+      "title": "Why are safety concerns being raised inside Porton Down, Britain’s nerve centre of chemical and biological research?",
+      "description": "A whistleblower has raised safety concerns about working inside Porton Down, which has a long history of conducting dangerous biochemical research.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/why-are-safety-concerns-being-raised-inside-porton-down-britains-nerve-centre-of-chemical-and-biological-research-274908",
+      "published_at": "2026-02-12T12:35:14Z",
+      "author": "Thomas Keegan, Senior Lecturer in Epidemiology, Lancaster University",
+      "image_url": "https://images.theconversation.com/files/717480/original/file-20260210-66-x3e9pe.jpg?ixlib=rb-4.1.0&rect=0%2C178%2C5010%2C2505&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "When the UK’s offensive chemical and biological weapons programmes were terminated in the 1950s, work at the high-security military research centre in Porton Down, Wiltshire switched to defensive str… [+5746 chars]"
+    },
+    {
+      "title": "Deaths of 31 people in UK’s worst small boat disaster caused by government’s ‘systemic failure' – the Cranston inquiry conclusions explained",
+      "description": "An independent inquiry found ‘systemic’ failures that led to the deadliest Channel crossing.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/deaths-of-31-people-in-uks-worst-small-boat-disaster-caused-by-governments-systemic-failure-the-cranston-inquiry-conclusions-explained-274920",
+      "published_at": "2026-02-12T12:35:13Z",
+      "author": "Travis Van Isacker, Senior Research Associate, School of Sociology, Politics and International Studies, University of Bristol",
+      "image_url": "https://images.theconversation.com/files/716587/original/file-20260205-80-hwdlxg.jpg?ixlib=rb-4.1.0&rect=0%2C749%2C4724%2C2362&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "The deaths of at least 31 people in the Channel on November 24 2021 were “avoidable”, an independent inquiry has found. The final report of the Cranston inquiry highlights known problems at HM Coastg… [+6466 chars]"
+    },
+    {
+      "title": "Top 6 crypto casinos to play and earn at in February 2026",
+      "description": "Crypto casinos operate much like traditional online gambling platforms, offering slots, table games, live dealer […]",
+      "source": "Ambcrypto.com",
+      "url": "https://ambcrypto.com/top-6-crypto-casinos-to-play-and-earn-at-in-february-2026/",
+      "published_at": "2026-02-12T12:35:10Z",
+      "author": "AMBCrypto Team",
+      "image_url": "https://ambcrypto.com/wp-content/uploads/2026/02/free-walking-tour-salzburg-WLNdV3xC-fI-unsplash-1000x600.jpg",
+      "content": "Crypto casinos operate much like traditional online gambling platforms, offering slots, table games, live dealer rooms, and sports betting. The key difference is in how they handle payments and infra… [+6564 chars]"
+    },
+    {
+      "title": "Paramount Sweetens Its Hostile Bid for Warner Bros. [4:16]",
+      "description": "Paramount Skydance says it would pay a $2.8 billion termination fee Warner would have to pay if it breaks off the deal with Netflix. Lucas Shaw reports. Paramount Sweetens Its Hostile Bid for Warner Bros. | 4:16 Bloomberg Technology | 716K subscribers | 6,349…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4366542/posts",
+      "published_at": "2026-02-12T12:34:50Z",
+      "author": "YouTube",
+      "image_url": null,
+      "content": "Transcript\r\nParamount is trying to sweeten its Warner Brothers bid. The media giant is saying it will cover a $2,800,000,000 termination fee that Warner Bros would pay Netflix if it terminates an alr… [+4330 chars]"
+    },
+    {
+      "title": "The Balloon Mission Raising the Bar for Exoplanet Science",
+      "description": "DOI: arXiv:2602.04840 | arXiv:2602.04840v1 Announce Type: new Abstract: The EXoplanet Climate Infrared TElescope (EXCITE) is a balloon-borne mission dedicated to measuring spectroscopic phase curves of hot Jupiter-type exoplanets. Phase curve measurements can…",
+      "source": "Universe Today",
+      "url": "https://www.universetoday.com/articles/the-balloon-mission-raising-the-bar-for-exoplanet-science",
+      "published_at": "2026-02-12T12:32:16Z",
+      "author": "Andy Tomaswick, Andy Tomaswick (https://www.universetoday.com/authors/andy-tomaswick)",
+      "image_url": "https://www.universetoday.com/article_images/1-_EXCITE_Launch_20260212_122701.jpg",
+      "content": "The atmospheres of exoplanets have been a focal point of the field lately, with the James Webb Space Telescope taking a look at as many as it can manage. But time on the worlds most powerful space te… [+4618 chars]"
+    },
+    {
+      "title": "JALI shows 3D Facial Animation Technology at 2026 HPA Tech Retreat",
+      "description": "JALI and IEL are reteaming at the retreat to deliver an interactive real-time animation activation titled, F* It, We’re Live! From Pipeline to Performance: Broadcasting Live Animation in Real Time. JALI Research (JALI), developers of advanced procedural audio…",
+      "source": "Provideocoalition.com",
+      "url": "https://www.provideocoalition.com/jali-shows-3d-facial-animation-technology-at-2026-hpa-tech-retreat/",
+      "published_at": "2026-02-12T12:30:50Z",
+      "author": "Jose Antunes",
+      "image_url": "https://www.provideocoalition.com/wp-content/uploads/jalihpatechretreat001.jpg",
+      "content": "JALI and IEL are reteaming at the retreat to deliver an interactive real-time animation activation titled, F* It, Were Live! From Pipeline to Performance: Broadcasting Live Animation in Real Time.\r\nJ… [+6323 chars]"
+    },
+    {
+      "title": "Purpose Investments Introduces Corporate Class Vehicle for its Established Credit Opportunities Strategy",
+      "description": "The new Fund is designed to deliver Purpose’s high-conviction credit strategy in a corporate class structure TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose Investments” or “Purpose”) is excited to announce the launch of the Purpo…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/purpose-investments-introduces-corporate-class-vehicle-for-its-established-credit-opportunities-strategy",
+      "published_at": "2026-02-12T12:30:49Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "Purpose Investments is an asset management company with approximately $30 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a ra… [+2119 chars]"
+    },
+    {
+      "title": "Cronos Group Inc. to Hold 2025 Fourth Quarter and Full-Year Earnings Conference Call on February 26, 2026",
+      "description": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) — Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (“Cronos” or the “Company”) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, February 26, 2026 at 8:30 a.m. ET. Cronos’ senior manageme…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/cronos-group-inc-to-hold-2025-fourth-quarter-and-full-year-earnings-conference-call-on-february-26-2026",
+      "published_at": "2026-02-12T12:30:09Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (Cronos or the Company) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, Febr… [+2983 chars]"
+    },
+    {
+      "title": "THU Made In Rock — RodS Mk IIb from Overloud",
+      "description": "RodS Mk IIb delivers a meticulously modelled Mesa/Boogie Mark IIb and a matching 4x12 cabinet, both of which have been captured in extraordinary detail using Overloud’s exclusive Fluid Capturing technology.",
+      "source": "Soundonsound.com",
+      "url": "https://www.soundonsound.com/news/thu-made-rock-rods-mk-iib-overloud",
+      "published_at": "2026-02-12T12:30:00Z",
+      "author": "Luke Wood SOS News Editor",
+      "image_url": null,
+      "content": "In celebration of National Guitar Day (11 February 2026), Overloud have released the ninth instalment in their THU Made In Rock series: RodS Mk IIb. The latest virtual amp delivers a meticulously mod… [+2376 chars]"
+    },
+    {
+      "title": "Purpose Investments Introduces Corporate Class Vehicle for its Established Credit Opportunities Strategy",
+      "description": "The new Fund is designed to deliver Purpose’s high-conviction credit strategy in a corporate class structure The new Fund is designed to deliver Purpose’s high-conviction credit strategy in a corporate class structure",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/12/3237086/0/en/Purpose-Investments-Introduces-Corporate-Class-Vehicle-for-its-Established-Credit-Opportunities-Strategy.html",
+      "published_at": "2026-02-12T12:30:00Z",
+      "author": "Purpose Investments Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a28192cb-6294-4424-8c24-646fee2c81cd",
+      "content": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (Purpose Investments or Purpose) is excited to announce the launch of the Purpose Credit Opportunities Class (the Fund), which will… [+5310 chars]"
+    },
+    {
+      "title": "Cronos Group Inc. to Hold 2025 Fourth Quarter and Full-Year Earnings Conference Call on February 26, 2026",
+      "description": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (“Cronos” or the “Company”) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, February 26, 2026 at 8:30 a.m. ET. Cronos’ senior managem…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/12/3237087/0/en/Cronos-Group-Inc-to-Hold-2025-Fourth-Quarter-and-Full-Year-Earnings-Conference-Call-on-February-26-2026.html",
+      "published_at": "2026-02-12T12:30:00Z",
+      "author": "Cronos Group Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/68e2d88b-b8e0-404a-995d-415a33773982",
+      "content": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (Cronos or the Company) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, F… [+3133 chars]"
+    },
+    {
+      "title": "The candidate at the center of the brewing midterm AI war unveils his agenda",
+      "description": "Alex Bores, a New York state lawmaker at the center of the political fight over the future of artificial intelligence, released an eight-point plan for a national AI framework Wednesday, wading further into the issue that is defining his campaign for Congress",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/candidate-center-brewing-midterm-ai-war-unveils-agenda-rcna257735",
+      "published_at": "2026-02-12T12:30:00Z",
+      "author": "Allan Smith, Ben Kamisar",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260210-alex-bores-vsb2032-d3cb82.jpg",
+      "content": "Alex Bores, a New York state lawmaker at the center of the political fight over the future of artificial intelligence, released an eight-point plan for a national AI framework Wednesday, wading furth… [+7142 chars]"
+    },
+    {
+      "title": "Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows",
+      "description": "Hi HN,I’ve always found that setting up a mail server on Linux (Postfix, Dovecot, SpamAssassin) is the ultimate \"final boss\" of self-hosting. One wrong config file and you're blacklisted or open to relay or not able to send any email.I built Mail Server Build…",
+      "source": "Buy-source-code.com",
+      "url": "https://buy-source-code.com/apps/mail-server-builder/",
+      "published_at": "2026-02-12T12:25:58Z",
+      "author": "tungkaiying",
+      "image_url": "assets/inline-preview.png",
+      "content": "Mail Server Builder empowers you to deploy a full-featured, unlimited self-hosted SMTP server effortlessly. Gain complete control over your email infrastructure, ensuring high deliverability and comp… [+3724 chars]"
+    },
+    {
+      "title": "Saudi Arabia reshapes Vision 2030 around new priorities",
+      "description": "Riyadh has announced an overhaul of its economic and societal reform agenda. It's now focused on technology and religious tourism, not urban construction and giga projects. Where do human rights stand now?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/saudi-arabia-reshapes-vision-2030-around-new-priorities/a-75900119",
+      "published_at": "2026-02-12T12:25:00Z",
+      "author": "Jennifer Holleis",
+      "image_url": "https://static.dw.com/image/75891742_6.jpg",
+      "content": "Saudi Arabia has begun reviewing its Vision 2030, a sweeping diversification agenda launched in Saudi Arabia in 2016. The country's de facto ruler, Crown Prince Mohammed bin Salman at the time Deputy… [+6617 chars]"
+    },
+    {
+      "title": "Act Fast and You Can Get One of the Best Ninja Blenders for $47 Off With This Early Presidents Day Deal",
+      "description": "Save yourself 28% using this fantastic deal while it lasts.",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/ninja-professional-plus-blender-deal/",
+      "published_at": "2026-02-12T12:25:00Z",
+      "author": "Zainab Falak",
+      "image_url": "https://www.cnet.com/a/img/resize/8ca4cfdeec080a58a7184509227a94108e80dbe2/hub/2026/02/12/a919948b-3e21-4833-952c-4ff4bbca6f0a/ninja-blender-presidents-day-deal.png?auto=webp&fit=crop&height=675&width=1200",
+      "content": "Get your blend on with the Ninja Professional Plus Blender Duo while it's down to $123, thanks to a $47 discount on Best Buy for Presidents Day. \r\nWe did see this blender go down to $120 during the A… [+2020 chars]"
+    },
+    {
+      "title": "Human-Centric Marketing for Small Business: Winning the War Against AI Sameness",
+      "description": "Win the war against AI sameness. Learn how human-centric marketing for small businesses builds trust, loyalty, and real connection in an automated world.",
+      "source": "Adtack.com",
+      "url": "https://adtack.com/blog/human-centric-marketing-for-small-business-winning-the-war-against-ai-sameness",
+      "published_at": "2026-02-12T12:19:56Z",
+      "author": "Adtack Marketing",
+      "image_url": "https://adtack.com/hubfs/undefined-Feb-09-2026-11-10-22-4531-PM.jpeg",
+      "content": "What is Human-Centric Marketing?\r\nHuman-centric marketing for small business is a strategic approach that prioritizes authentic connection, emotional resonance, and \"unfiltered\" storytelling over the… [+4648 chars]"
+    },
+    {
+      "title": "PyroGenesis Announces MOU Toward Joint Venture for Commercial Scale Fumed Silica Plant",
+      "description": "PyroGenesis would build commercial fumed silica reactor for USD$20 million MONTREAL, Feb. 12, 2026 (GLOBE NEWSWIRE) — PyroGenesis Inc. (“PyroGenesis” or “the Company”) (TSX: PYR) (OTCQX: PYRGF) (FRA: 8PY1), the leader in ultra-high temperature processes and e…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/pyrogenesis-announces-mou-toward-joint-venture-for-commercial-scale-fumed-silica-plant",
+      "published_at": "2026-02-12T12:19:56Z",
+      "author": "GlobeNewswire",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/fumed-silica-produced-by-the-fumed-silica-reactor.jpeg",
+      "content": "HPQ is also pursuing proprietary technologies to become a low-cost, zero-CO producer of fumed silica and high-purity silicon, with technical support from PyroGenesis Inc. Together, these initiatives … [+2919 chars]"
+    },
+    {
+      "title": "India Orders Social Media Platforms to Remove Deepfakes Within Three Hours",
+      "description": "India has introduced new rules requiring social media companies to remove deepfakes and other illegal AI-generated content within three hours of receiving a takedown order -- a major shift in how platforms must operate in one of the world’s largest online mar…",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/02/12/india-orders-social-media-platforms-to-remove-deepfakes-within-three-hours/",
+      "published_at": "2026-02-12T12:16:36Z",
+      "author": "Pesala Bandara",
+      "image_url": "https://petapixel.com/assets/uploads/2026/02/india-social-media.jpg",
+      "content": "India has introduced new rules requiring social media companies to remove deepfakes and other illegal AI-generated content within three hours of receiving a takedown order — a major shift in how plat… [+2608 chars]"
+    },
+    {
+      "title": "Real Madrid proposed Javier Tebas policy to UEFA during Superleague closure talks",
+      "description": "Peace reigns in European football. That has been the line from the institutions that govern the game in light of the end of the Superleague this week, after Barcelona communicated last Saturday they w...",
+      "source": "Football Espana",
+      "url": "https://www.football-espana.net/2026/02/12/real-madrid-proposed-javier-tebas-policy-to-uefa-during-superleague-closure-talks",
+      "published_at": "2026-02-12T12:15:00Z",
+      "author": "Football Espana",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/6ky.uLB20ZuTUI.7lqbDJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/football_espana_articles_993/388046650cab4fe7cb08ded0609a1e15",
+      "content": "Peace reigns in European football. That has been the line from the institutions that govern the game in light of the end of the Superleague this week, after Barcelona communicated last Saturday they … [+3564 chars]"
+    },
+    {
+      "title": "Update now! iOS 26.3 contains dozens of critical security fixes",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nWhile most iPhone users rush to download the latest iOS update to check out all the new features, the latest one released this week doesn’t really have any. So it could be tempting to wait a few weeks. But there are a few dozen reasons not to…",
+      "source": "Macworld",
+      "url": "https://www.macworld.com/article/3058798/update-now-ios-26-3-contains-dozens-of-critical-security-fixes.html",
+      "published_at": "2026-02-12T12:15:00Z",
+      "author": "Jason Cross",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/02/iphone-ios-update.jpg?quality=50&strip=all&w=1024",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWhile most iPhone us… [+1840 chars]"
+    },
+    {
+      "title": "Russia fires barrage at Ukrainian cities as next round of US-brokered talks is unclear",
+      "description": "Russia attacked Ukrainian cities with missiles and drones. President Zelenskyy stated Russia is delaying US-proposed peace talks. Ukraine confirmed its attendance. Russia's invasion marks its fourth anniversary soon. Disagreements persist over occupied territ…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/russia-fires-barrage-at-ukrainian-cities-as-next-round-of-us-brokered-talks-is-unclear/articleshow/128257658.cms",
+      "published_at": "2026-02-12T12:14:29Z",
+      "author": "AP",
+      "image_url": "https://img.etimg.com/thumb/msid-128257795,width-1200,height-630,imgsize-379786,overlay-etdefence/articleshow.jpg",
+      "content": "KYIV: Russia launched a barrage of ballistic missiles and drones at Ukrainian cities in overnight attacks, officials reported on Thursday as Ukrainian President Volodymyr Zelenskyy said Moscow was \"h… [+4184 chars]"
+    },
+    {
+      "title": "Claude Opus 4.6 vs GPT-5.3 Codex : Head-To-Head Coding Tests",
+      "description": "Can a single AI model truly balance speed, precision, and adaptability, or are trade-offs inevitable? Greg Isenberg takes a closer look at how Claude Opus 4.6 vs GPT-5.3 Codex tackle this question, offering a detailed comparison of two of the most advanced co…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/claude-opus-4-6-vs-gpt-5-3-codex/",
+      "published_at": "2026-02-12T12:14:23Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/prediction-market-app-ui-comparison_optimized.jpg",
+      "content": "Can a single AI model truly balance speed, precision, and adaptability, or are trade-offs inevitable? Greg Isenberg takes a closer look at how Claude Opus 4.6 vs GPT-5.3 Codex tackle this question, o… [+7354 chars]"
+    },
+    {
+      "title": "Astronomers discover giant ring system causing rare 9-month dimming of a star",
+      "description": "An international team, including Pune’s IUCAA, has identified a rare 200-day dimming of the star ASASSN-24fw. The study, published in the Monthly Notices of the Royal Astronomical Society, attributes the event to a brown dwarf with a massive, dense ring syste…",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/cities/pune/giant-ring-system-rare-nine-month-dimming-of-star-10528771/",
+      "published_at": "2026-02-12T12:11:33Z",
+      "author": "Anuradha Mascarenhas",
+      "image_url": "https://images.indianexpress.com/2026/02/Star-ecclipse-Pune.jpg",
+      "content": "Stellar eclipses are extremely rare and typically last a few days to a few weeks. An international team of astronomers, including Pune-based Inter-University Centre for Astronomy and Astrophysics, re… [+3745 chars]"
+    },
+    {
+      "title": "Trump-backed World Liberty plans to launch World Swap forex platform",
+      "description": "The launch of World Swap could disrupt traditional forex markets by offering lower fees and increased accessibility, impacting global remittance trends.\nThe post Trump-backed World Liberty plans to launch World Swap forex platform appeared first on Crypto Bri…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/world-swap-forex-platform-launch/",
+      "published_at": "2026-02-12T12:11:21Z",
+      "author": "Vivian Nguyen",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/12070828/837962fe-9158-47cf-bd83-37b0a0daf194-800x420.jpg",
+      "content": "Trump's financial ventures aim to blend traditional banking with blockchain technology in global money transfers. World Liberty Financial is targeting a share of the trillion-dollar global foreign ex… [+1389 chars]"
+    },
+    {
+      "title": "Reports Suggest F-35s Are Being Delivered Without Radar Amid APG-85 Delays",
+      "description": "According to reports, U.S. F-35 might have been delivered since June 2025 with a ballast in place of the new APG-85 radar which has been suffering from delays. Recent reports indicate that a number of newly delivered F-35 Lightning II aircraft may be entering…",
+      "source": "Theaviationist.com",
+      "url": "https://theaviationist.com/2026/02/12/reports-suggest-f-35s-delivered-without-radar/",
+      "published_at": "2026-02-12T12:07:49Z",
+      "author": "Stefano D'Urso",
+      "image_url": "https://theaviationist.com/wp-content/uploads/2026/02/9470067.jpg",
+      "content": "Recent reports indicate that a number of newly delivered F-35 Lightning II aircraft may be entering service without a fully installed onboard radar. The issue, first reported last week by Defense Dai… [+13794 chars]"
+    },
+    {
+      "title": "How does new egg‑finding technology aid IVF? #health",
+      "description": "New technique uncovers eggs missed by standard searches A recent study found that conventional methods of searching follicular fluid during egg retrieval can miss viable oocytes, and a new technology identified extra eggs in more than half of cases where the …",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/health/how-does-new-egg-finding-technology-aid-ivf",
+      "published_at": "2026-02-12T12:07:12Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1041/og.png",
+      "content": "A recent study found that conventional methods of searching follicular fluid during egg retrieval can miss viable oocytes, and a new technology identified extra eggs in more than half of cases where … [+1563 chars]"
+    },
+    {
+      "title": "How can vegetables remove microplastics? #food",
+      "description": "Vegetable polymers could clump microplastics for easier removal Researchers report that natural polymers extracted from two common vegetables can bind tiny plastic particles in water and make them easier to separate. In laboratory tests, these plant derived p…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/food/how-can-vegetables-remove-microplastics",
+      "published_at": "2026-02-12T12:06:39Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1041/og.png",
+      "content": "Researchers report that natural polymers extracted from two common vegetables can bind tiny plastic particles in water and make them easier to separate. In laboratory tests, these plant-derived polym… [+1767 chars]"
+    },
+    {
+      "title": "Element 1® Corp. and Aurosi Precision Co. Ltd. Sign Memorandum of Understanding to Advance Methanol-to-Hydrogen Power Solutions for Taiwan Data Center Project",
+      "description": "BEND, Ore. — Element 1® Corp. (“e1”), an Oregon-based leader in methanol-to-hydrogen generation technology, today announced the signing of a Memorandum of Understanding (MOU) with Aurosi Precision Co., Ltd. (“Aurosi”), a Taiwan-based manufacturer specializing…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/element-1-corp-and-aurosi-precision-co-ltd-sign-memorandum-of-understanding-to-advance-methanol-to-hydrogen-power-solutions-for-taiwan-data-center-project",
+      "published_at": "2026-02-12T12:06:28Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "BEND, Ore. Element 1® Corp. (e1), an Oregon-based leader in methanol-to-hydrogen generation technology, today announced the signing of a Memorandum of Understanding (MOU) with Aurosi Precision Co., L… [+4963 chars]"
+    },
+    {
+      "title": "Using AI actually increases burnout despite productivity improvements, study shows — data illustrates how AI made workers take on tasks they would have otherwise avoided or outsourced",
+      "description": "A new study published in the Harvard Business Review suggests that although AI has the potential to marginally improve productivity, it also leads to workers taking on more pressure, resulting in unforced errors and an increase in employee burnout.",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/tech-industry/using-ai-actually-increases-burnout-despite-productivity-improvements-study-shows-data-illustrates-how-ai-made-workers-take-on-tasks-they-would-have-otherwise-avoided-or-outsourced",
+      "published_at": "2026-02-12T12:06:24Z",
+      "author": "Jon Martindale",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AjiYLmeKanxbDkB2hMtwij-1600-80.jpg",
+      "content": "The burning question at the heart of the AI revolution in the workplace is ultimately: Is it worth it? Does productivity improve? Do costs come down? Is it remotely as progressive and transformative … [+7777 chars]"
+    },
+    {
+      "title": "Adastra Enters AWS Partner Greenfield Program to Accelerate Customers’ Migration to AWS and Realize AI Value",
+      "description": "Multi-year collaboration with AWS will help organizations not yet on AWS migrate and modernize, establish secure cloud foundations, and scale responsible Generative AI with funding and enablement TORONTO — Adastra, a global leader in AI and data-driven transf…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/adastra-enters-aws-partner-greenfield-program-to-accelerate-customers-migration-to-aws-and-realize-ai-value",
+      "published_at": "2026-02-12T12:06:21Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "Multi-year collaboration with AWS will help organizations not yet on AWS migrate and modernize, establish secure cloud foundations, and scale responsible Generative AI with funding and enablement\r\nTH… [+5702 chars]"
+    },
+    {
+      "title": "Will passport queues lengthen this summer? #travel",
+      "description": "EU entry‑exit technology threatens long passport delays Airports and airlines across Europe have warned of a potentially chaotic rollout of the EU’s new Entry‑Exit System (EES) that could produce multi‑hour waits at passport control during the summer peak. In…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/travel/will-passport-queues-lengthen-this-summer",
+      "published_at": "2026-02-12T12:05:43Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1041/og.png",
+      "content": "Airports and airlines across Europe have warned of a potentially chaotic rollout of the EUs new EntryExit System (EES) that could produce multihour waits at passport control during the summer peak. I… [+1749 chars]"
+    },
+    {
+      "title": "Clarios selects its Meadowbrook facility in Holland, Michigan, as assembly site for supercapacitor systems",
+      "description": "U.S.-based production strengthens supply chain resilience for key automotive manufacturer customer programs. HOLLAND, MI (USA), Feb. 12, 2026 (GLOBE NEWSWIRE) — Clarios, a global leader in advanced low-voltage energy storage solutions, announced today that it…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/clarios-selects-its-meadowbrook-facility-in-holland-michigan-as-assembly-site-for-supercapacitor-systems",
+      "published_at": "2026-02-12T12:04:29Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "HOLLAND, MI (USA), Feb. 12, 2026 (GLOBE NEWSWIRE) Clarios, a global leader in advanced low-voltage energy storage solutions, announced today that its Meadowbrook facility in Holland, Michigan, will s… [+2949 chars]"
+    },
+    {
+      "title": "Magnum Ice Cream Q4 Earnings Call Highlights",
+      "description": "Magnum Ice Cream (NYSE:MICC) reported full-year 2025 results in its first annual earnings webcast as a standalone public company, describing the year as...",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/magnum-ice-cream-q4-earnings-call-highlights-2026-02-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "published_at": "2026-02-12T12:04:05Z",
+      "author": "MarketBeat",
+      "image_url": "https://s.yimg.com/os/en/marketbeat_955/dc8994af4611261c37f6825f7b1cc90c",
+      "content": "Magnum Ice Cream (NYSE:MICC) reported full-year 2025 results in its first annual earnings webcast as a standalone public company, describing the year as foundational amid what management called unpre… [+6968 chars]"
+    },
+    {
+      "title": "Sensex tumbles 558 points on sell-off in IT shares",
+      "description": "The 30-share BSE Sensex declined 558.72 points, or 0.66 per cent, to settle at 83,674.92. During the day, it tanked 716.97 points, or 0.85 per cent, to hit an intraday low of 83,516.67. The 50-share NSE Nifty declined 146.65 points, or 0.57 per cent, to end a…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-tumbles-558-points-on-sell-off-in-it-shares/article70624006.ece",
+      "published_at": "2026-02-12T12:01:21Z",
+      "author": "PTI",
+      "image_url": "https://bl-i.thgim.com/public/incoming/qgl5tg/article70623183.ece/alternates/LANDSCAPE_1200/PO27_Stock_market.jpg",
+      "content": "Benchmark BSE Sensex fell 558 points on Thursday amid heavy selling in IT shares, as concerns over AI-led disruptions and waning hopes of a Fed rate cut after firm US economic data weighed on investo… [+2719 chars]"
+    },
+    {
+      "title": "AI startup The Biological Computing Co. raises $25M to swap out silicon for lab-grown brains",
+      "description": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of today’s generative AI chatbots, image creation tools and autonomous agents. Now a star…",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/02/12/ai-startup-biological-computing-co-raises-25m-swap-silicon-living-lab-grown-neurons/",
+      "published_at": "2026-02-12T12:00:44Z",
+      "author": "Mike Wheatley",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-06-09-31-29.png",
+      "content": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of todays generative AI chatb… [+6706 chars]"
+    },
+    {
+      "title": "AI startup The Biological Computing Co. raises $21M to swap out silicon for lab-grown brains",
+      "description": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of today’s generative AI chatbots, image creation tools and autonomous agents. Now a star…",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/02/12/ai-startup-biological-computing-co-raises-21m-swap-silicon-living-lab-grown-neurons/",
+      "published_at": "2026-02-12T12:00:44Z",
+      "author": "Mike Wheatley",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-06-09-31-29.png",
+      "content": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of todays generative AI chatb… [+6706 chars]"
+    },
+    {
+      "title": "Opaque raises $24M at $300M valuation for ‘confidential AI’ platform",
+      "description": "Confidential artificial intelligence platform provider Opaque Systems Inc. today announced that it has raised $24 million in new funding on a $300 million valuation to accelerate the delivery of its platform. Founded in 2021, Opaque offers infrastructure that…",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/02/12/opaque-raises-24m-300m-valuation-confidential-ai-platform/",
+      "published_at": "2026-02-12T12:00:07Z",
+      "author": "Duncan Riley",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/opaque1.png",
+      "content": "Confidential artificial intelligence platform provider Opaque Systems Inc. today announced that it has raised $24 million in new funding on a $300 million valuation to accelerate the delivery of its … [+4306 chars]"
+    },
+    {
+      "title": "Marketing operations tech stack audit: A proven checklist for operations teams",
+      "description": "Marketing tech stacks often expand fast, leading to sprawl. The result is low tool usage. Gartner estimates that only 49% of marketing technology tools are actively used by teams. A marketing operations tech stack audit brings structure back to teams with blo…",
+      "source": "Hubspot.com",
+      "url": "https://blog.hubspot.com/marketing/marketing-operations-tech-stack-audit-a-proven-checklist-for-operations-teams#article",
+      "published_at": "2026-02-12T12:00:03Z",
+      "author": "Stephanie Trovato",
+      "image_url": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/Marketing-Operations-Tech-Stack-Audit-1-20260113-4994014.webp",
+      "content": "Marketing tech stacks often expand fast, leading to sprawl. The result is low tool usage. Gartner estimates that only 49% of marketingtechnology tools are actively used by teams. A marketing operatio… [+15388 chars]"
+    },
+    {
+      "title": "Connected health care workflows: From chore to core patient care",
+      "description": "Today’s clinicians are spending more time documenting care than delivering it. This reality is not lost on health care providers, many of whom feel burnt out and unfulfilled by this overwhelming administrative burden. The digitization of health care, which on…",
+      "source": "Kevinmd.com",
+      "url": "https://kevinmd.com/2026/02/connected-health-care-workflows-from-chore-to-core-patient-care.html",
+      "published_at": "2026-02-12T12:00:01Z",
+      "author": "Grace E. Terrell, MD, MMM",
+      "image_url": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_rjwfp8rjwfp8rjwf-1024x717.png",
+      "content": "Today’s clinicians are spending more time documenting care than delivering it. This reality is not lost on health care providers, many of whom feel burnt out and unfulfilled by this overwhelming admi… [+6229 chars]"
+    },
+    {
+      "title": "Siemens SINEC NMS",
+      "description": "View CSAF\nSummary\nMultiple Siemens products are affected by two local privilege escalation vulnerabilities which could allow an low privileged attacker to load malicious DLLs, potentially leading to arbitrary code execution with elevated privileges. Siemens h…",
+      "source": "Cisa.gov",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01",
+      "published_at": "2026-02-12T12:00:00Z",
+      "author": "CISA",
+      "image_url": null,
+      "content": "View CSAF\r\nSummary\r\nMultiple Siemens products are affected by two local privilege escalation vulnerabilities which could allow an low privileged attacker to load malicious DLLs, potentially leading t… [+5675 chars]"
+    },
+    {
+      "title": "Sundance 2026: The Masculinist and Eugenicist Origins of AI Are Writ Large in Documentary ‘Ghost in the Machine’",
+      "description": "A fast-paced Sundance documentary, Ghost in the Machine traces how modern AI’s obsession with “intelligence” and innovation is rooted in the eugenicist, sexist and racial hierarchies that have long shaped Silicon Valley and its technologies.\n(This is one in a…",
+      "source": "Ms. Magazine",
+      "url": "https://msmagazine.com/2026/02/12/sundance-artificial-intelligence-ai-documentary-eugenics-ghost-in-the-machine-documentary/",
+      "published_at": "2026-02-12T12:00:00Z",
+      "author": "Aviva Dove-Viebahn",
+      "image_url": "https://msmagazine.com/wp-content/uploads/2026/02/Ghost_in_the_Machine-Still_1-scaled.jpg",
+      "content": "A still from Ghost in the Machine by Valerie Veatch, an official selection of the 2026 Sundance Film Festival. (Courtesy of Sundance Institute / photo by the BBC Archive)\r\nThis is one in a series of … [+4233 chars]"
+    },
+    {
+      "title": "Adobe’s Creative Collective assembles multidisciplinary experts to analyse and advise on the industry’s big changes",
+      "description": "Packed with names new and  familiar alike, Adobe’s ensemble turns to address the pressing questions of the creative community, notably, the industry’s technological advancements and the resulting change in terrain.",
+      "source": "Itsnicethat.com",
+      "url": "https://www.itsnicethat.com/news/adobe-creative-collective-creative-industry-sponsored-content-120226",
+      "published_at": "2026-02-12T12:00:00Z",
+      "author": "Sponsored Content",
+      "image_url": "https://admin.itsnicethat.com/images/eGGzpajJFDbD1n-X8XZkaVxerLY=/275468/width-1440/adobe-creative-collective-creative-industry-sponsored-content-itsnicethat1.jpg",
+      "content": "Right now, as one would expect, the conversation focuses on AI, a space that, for some members of the community, serves as their discipline. For others, its a point of contention and concern. These c… [+1529 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 39886,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Lethain.com"
+        },
+        "author": null,
+        "title": "Refactoring internal documentation in Notion",
+        "description": "In our latest developer productivity survey, our documentation\nwas the area with the second most comments.\nThis is a writeup of the concrete steps I took to see how much\nprogress one person could make on improving the organization’s\ndocumentation while holdin…",
+        "url": "https://lethain.com/refactoring-internal-docs-notion/",
+        "urlToImage": "https://lethain.com/static/author.png",
+        "publishedAt": "2026-02-12T12:38:22Z",
+        "content": "In our latest developer productivity survey, our documentation\r\nwas the area with the second most comments.\r\nThis is a writeup of the concrete steps I took to see how much\r\nprogress one person could … [+4053 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tom's Hardware UK"
+        },
+        "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+        "title": "Montage's strong IPO highlights Chinese investment rush into AI and data center ecosystems — push for self-sufficiency demands immense amounts of capital",
+        "description": "AI and microelectronics boom in China drives IPOs as investors put money both in AI startups and adjacent sectors.",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/montages-strong-ipo-highlights-chinese-investment-rush-into-ai-and-data-center-ecosystems-push-for-self-sufficiency-demands-immense-amounts-of-capital",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/mS9LgPSRpja32Ubyvnp83i-1920-80.jpg",
+        "publishedAt": "2026-02-12T12:38:21Z",
+        "content": "Montage Technology, a server and data center connectivity specialist, this week made its initial public offering (IPO) on the Hong Kong stock exchange. Following the listing, the company's shares cli… [+5825 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "NETSOL Technologies Inc.",
+        "title": "NETSOL Technologies reports 21% year-over-year growth in total net revenues in Q2 fiscal 2026",
+        "description": "NETSOL Technologies reports 21% year-over-year growth in total net revenues in Q2 fiscal 2026....",
+        "url": "https://www.globenewswire.com/news-release/2026/02/12/3237106/15855/en/NETSOL-Technologies-reports-21-year-over-year-growth-in-total-net-revenues-in-Q2-fiscal-2026.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/8a9cd86b-b904-4a20-a55d-9bc05eaca7a6",
+        "publishedAt": "2026-02-12T12:37:00Z",
+        "content": "ENCINO, Calif., Feb. 12, 2026 (GLOBE NEWSWIRE) -- NETSOL Technologies, Inc. (Nasdaq: NTWK), a provider of AI-enabled solutions and services powering OEMs, dealerships and financial institutions to se… [+35933 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Speechmatics Limited",
+        "title": "Speechmatics and Boost.ai partner to power enterprise Voice AI for Europe's most regulated industries",
+        "description": "Speechmatics and Boost.ai partner to deliver enterprise voice AI for Europe’s most regulated sectors....",
+        "url": "https://www.globenewswire.com/news-release/2026/02/12/3237107/0/en/Speechmatics-and-Boost-ai-partner-to-power-enterprise-Voice-AI-for-Europe-s-most-regulated-industries.html",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:37:00Z",
+        "content": "CAMBRIDGE, United Kingdom, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Speechmatics and Boost.ai today announced a strategic partnership to accelerate the deployment of enterprise-grade voice AI across Europe'… [+3692 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Christina Comben",
+        "title": "US credit union regulator proposes stablecoin licensing path",
+        "description": "NCUA proposes first GENIUS Act rule to license credit union‑affiliated stablecoin issuers, setting public chain‑neutral criteria and a 120‑day decision clock.",
+        "url": "https://cointelegraph.com/news/ncua-proposal-outlines-licensing-rules-stablecoin-issuers",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2025-08/01987fa4-8e59-7f35-bb02-9fa5e56ace6b",
+        "publishedAt": "2026-02-12T12:36:18Z",
+        "content": "The United States National Credit Union Administration (NCUA) has proposed its first rules under the Guiding and Establishing National Innovation for US Stablecoins (GENIUS) Act, sketching out how su… [+2885 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "Thomas Keegan, Senior Lecturer in Epidemiology, Lancaster University",
+        "title": "Why are safety concerns being raised inside Porton Down, Britain’s nerve centre of chemical and biological research?",
+        "description": "A whistleblower has raised safety concerns about working inside Porton Down, which has a long history of conducting dangerous biochemical research.",
+        "url": "https://theconversation.com/why-are-safety-concerns-being-raised-inside-porton-down-britains-nerve-centre-of-chemical-and-biological-research-274908",
+        "urlToImage": "https://images.theconversation.com/files/717480/original/file-20260210-66-x3e9pe.jpg?ixlib=rb-4.1.0&rect=0%2C178%2C5010%2C2505&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-02-12T12:35:14Z",
+        "content": "When the UK’s offensive chemical and biological weapons programmes were terminated in the 1950s, work at the high-security military research centre in Porton Down, Wiltshire switched to defensive str… [+5746 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "Travis Van Isacker, Senior Research Associate, School of Sociology, Politics and International Studies, University of Bristol",
+        "title": "Deaths of 31 people in UK’s worst small boat disaster caused by government’s ‘systemic failure' – the Cranston inquiry conclusions explained",
+        "description": "An independent inquiry found ‘systemic’ failures that led to the deadliest Channel crossing.",
+        "url": "https://theconversation.com/deaths-of-31-people-in-uks-worst-small-boat-disaster-caused-by-governments-systemic-failure-the-cranston-inquiry-conclusions-explained-274920",
+        "urlToImage": "https://images.theconversation.com/files/716587/original/file-20260205-80-hwdlxg.jpg?ixlib=rb-4.1.0&rect=0%2C749%2C4724%2C2362&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-02-12T12:35:13Z",
+        "content": "The deaths of at least 31 people in the Channel on November 24 2021 were “avoidable”, an independent inquiry has found. The final report of the Cranston inquiry highlights known problems at HM Coastg… [+6466 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ambcrypto.com"
+        },
+        "author": "AMBCrypto Team",
+        "title": "Top 6 crypto casinos to play and earn at in February 2026",
+        "description": "Crypto casinos operate much like traditional online gambling platforms, offering slots, table games, live dealer […]",
+        "url": "https://ambcrypto.com/top-6-crypto-casinos-to-play-and-earn-at-in-february-2026/",
+        "urlToImage": "https://ambcrypto.com/wp-content/uploads/2026/02/free-walking-tour-salzburg-WLNdV3xC-fI-unsplash-1000x600.jpg",
+        "publishedAt": "2026-02-12T12:35:10Z",
+        "content": "Crypto casinos operate much like traditional online gambling platforms, offering slots, table games, live dealer rooms, and sports betting. The key difference is in how they handle payments and infra… [+6564 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Freerepublic.com"
+        },
+        "author": "YouTube",
+        "title": "Paramount Sweetens Its Hostile Bid for Warner Bros. [4:16]",
+        "description": "Paramount Skydance says it would pay a $2.8 billion termination fee Warner would have to pay if it breaks off the deal with Netflix. Lucas Shaw reports. Paramount Sweetens Its Hostile Bid for Warner Bros. | 4:16 Bloomberg Technology | 716K subscribers | 6,349…",
+        "url": "https://freerepublic.com/focus/f-bloggers/4366542/posts",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:34:50Z",
+        "content": "Transcript\r\nParamount is trying to sweeten its Warner Brothers bid. The media giant is saying it will cover a $2,800,000,000 termination fee that Warner Bros would pay Netflix if it terminates an alr… [+4330 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Universe Today"
+        },
+        "author": "Andy Tomaswick, Andy Tomaswick (https://www.universetoday.com/authors/andy-tomaswick)",
+        "title": "The Balloon Mission Raising the Bar for Exoplanet Science",
+        "description": "DOI: arXiv:2602.04840 | arXiv:2602.04840v1 Announce Type: new Abstract: The EXoplanet Climate Infrared TElescope (EXCITE) is a balloon-borne mission dedicated to measuring spectroscopic phase curves of hot Jupiter-type exoplanets. Phase curve measurements can…",
+        "url": "https://www.universetoday.com/articles/the-balloon-mission-raising-the-bar-for-exoplanet-science",
+        "urlToImage": "https://www.universetoday.com/article_images/1-_EXCITE_Launch_20260212_122701.jpg",
+        "publishedAt": "2026-02-12T12:32:16Z",
+        "content": "The atmospheres of exoplanets have been a focal point of the field lately, with the James Webb Space Telescope taking a look at as many as it can manage. But time on the worlds most powerful space te… [+4618 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Provideocoalition.com"
+        },
+        "author": "Jose Antunes",
+        "title": "JALI shows 3D Facial Animation Technology at 2026 HPA Tech Retreat",
+        "description": "JALI and IEL are reteaming at the retreat to deliver an interactive real-time animation activation titled, F* It, We’re Live! From Pipeline to Performance: Broadcasting Live Animation in Real Time. JALI Research (JALI), developers of advanced procedural audio…",
+        "url": "https://www.provideocoalition.com/jali-shows-3d-facial-animation-technology-at-2026-hpa-tech-retreat/",
+        "urlToImage": "https://www.provideocoalition.com/wp-content/uploads/jalihpatechretreat001.jpg",
+        "publishedAt": "2026-02-12T12:30:50Z",
+        "content": "JALI and IEL are reteaming at the retreat to deliver an interactive real-time animation activation titled, F* It, Were Live! From Pipeline to Performance: Broadcasting Live Animation in Real Time.\r\nJ… [+6323 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Purpose Investments Introduces Corporate Class Vehicle for its Established Credit Opportunities Strategy",
+        "description": "The new Fund is designed to deliver Purpose’s high-conviction credit strategy in a corporate class structure TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose Investments” or “Purpose”) is excited to announce the launch of the Purpo…",
+        "url": "https://financialpost.com/globe-newswire/purpose-investments-introduces-corporate-class-vehicle-for-its-established-credit-opportunities-strategy",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:30:49Z",
+        "content": "Purpose Investments is an asset management company with approximately $30 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a ra… [+2119 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Cronos Group Inc. to Hold 2025 Fourth Quarter and Full-Year Earnings Conference Call on February 26, 2026",
+        "description": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) — Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (“Cronos” or the “Company”) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, February 26, 2026 at 8:30 a.m. ET. Cronos’ senior manageme…",
+        "url": "https://financialpost.com/globe-newswire/cronos-group-inc-to-hold-2025-fourth-quarter-and-full-year-earnings-conference-call-on-february-26-2026",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:30:09Z",
+        "content": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (Cronos or the Company) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, Febr… [+2983 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Soundonsound.com"
+        },
+        "author": "Luke Wood SOS News Editor",
+        "title": "THU Made In Rock — RodS Mk IIb from Overloud",
+        "description": "RodS Mk IIb delivers a meticulously modelled Mesa/Boogie Mark IIb and a matching 4x12 cabinet, both of which have been captured in extraordinary detail using Overloud’s exclusive Fluid Capturing technology.",
+        "url": "https://www.soundonsound.com/news/thu-made-rock-rods-mk-iib-overloud",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:30:00Z",
+        "content": "In celebration of National Guitar Day (11 February 2026), Overloud have released the ninth instalment in their THU Made In Rock series: RodS Mk IIb. The latest virtual amp delivers a meticulously mod… [+2376 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Purpose Investments Inc.",
+        "title": "Purpose Investments Introduces Corporate Class Vehicle for its Established Credit Opportunities Strategy",
+        "description": "The new Fund is designed to deliver Purpose’s high-conviction credit strategy in a corporate class structure The new Fund is designed to deliver Purpose’s high-conviction credit strategy in a corporate class structure",
+        "url": "https://www.globenewswire.com/news-release/2026/02/12/3237086/0/en/Purpose-Investments-Introduces-Corporate-Class-Vehicle-for-its-Established-Credit-Opportunities-Strategy.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/a28192cb-6294-4424-8c24-646fee2c81cd",
+        "publishedAt": "2026-02-12T12:30:00Z",
+        "content": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (Purpose Investments or Purpose) is excited to announce the launch of the Purpose Credit Opportunities Class (the Fund), which will… [+5310 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Cronos Group Inc.",
+        "title": "Cronos Group Inc. to Hold 2025 Fourth Quarter and Full-Year Earnings Conference Call on February 26, 2026",
+        "description": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (“Cronos” or the “Company”) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, February 26, 2026 at 8:30 a.m. ET. Cronos’ senior managem…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/12/3237087/0/en/Cronos-Group-Inc-to-Hold-2025-Fourth-Quarter-and-Full-Year-Earnings-Conference-Call-on-February-26-2026.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/68e2d88b-b8e0-404a-995d-415a33773982",
+        "publishedAt": "2026-02-12T12:30:00Z",
+        "content": "TORONTO, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Cronos Group Inc. (NASDAQ: CRON) (TSX: CRON) (Cronos or the Company) will hold its 2025 fourth quarter and full-year earnings conference call on Thursday, F… [+3133 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Allan Smith, Ben Kamisar",
+        "title": "The candidate at the center of the brewing midterm AI war unveils his agenda",
+        "description": "Alex Bores, a New York state lawmaker at the center of the political fight over the future of artificial intelligence, released an eight-point plan for a national AI framework Wednesday, wading further into the issue that is defining his campaign for Congress",
+        "url": "https://www.nbcnews.com/politics/2026-election/candidate-center-brewing-midterm-ai-war-unveils-agenda-rcna257735",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260210-alex-bores-vsb2032-d3cb82.jpg",
+        "publishedAt": "2026-02-12T12:30:00Z",
+        "content": "Alex Bores, a New York state lawmaker at the center of the political fight over the future of artificial intelligence, released an eight-point plan for a national AI framework Wednesday, wading furth… [+7142 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Buy-source-code.com"
+        },
+        "author": "tungkaiying",
+        "title": "Show HN: Mail Server Builder – Deploy a Full Mail Server on Ubuntu from Windows",
+        "description": "Hi HN,I’ve always found that setting up a mail server on Linux (Postfix, Dovecot, SpamAssassin) is the ultimate \"final boss\" of self-hosting. One wrong config file and you're blacklisted or open to relay or not able to send any email.I built Mail Server Build…",
+        "url": "https://buy-source-code.com/apps/mail-server-builder/",
+        "urlToImage": "assets/inline-preview.png",
+        "publishedAt": "2026-02-12T12:25:58Z",
+        "content": "Mail Server Builder empowers you to deploy a full-featured, unlimited self-hosted SMTP server effortlessly. Gain complete control over your email infrastructure, ensuring high deliverability and comp… [+3724 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Jennifer Holleis",
+        "title": "Saudi Arabia reshapes Vision 2030 around new priorities",
+        "description": "Riyadh has announced an overhaul of its economic and societal reform agenda. It's now focused on technology and religious tourism, not urban construction and giga projects. Where do human rights stand now?",
+        "url": "https://www.dw.com/en/saudi-arabia-reshapes-vision-2030-around-new-priorities/a-75900119",
+        "urlToImage": "https://static.dw.com/image/75891742_6.jpg",
+        "publishedAt": "2026-02-12T12:25:00Z",
+        "content": "Saudi Arabia has begun reviewing its Vision 2030, a sweeping diversification agenda launched in Saudi Arabia in 2016. The country's de facto ruler, Crown Prince Mohammed bin Salman at the time Deputy… [+6617 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Zainab Falak",
+        "title": "Act Fast and You Can Get One of the Best Ninja Blenders for $47 Off With This Early Presidents Day Deal",
+        "description": "Save yourself 28% using this fantastic deal while it lasts.",
+        "url": "https://www.cnet.com/deals/ninja-professional-plus-blender-deal/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/8ca4cfdeec080a58a7184509227a94108e80dbe2/hub/2026/02/12/a919948b-3e21-4833-952c-4ff4bbca6f0a/ninja-blender-presidents-day-deal.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-02-12T12:25:00Z",
+        "content": "Get your blend on with the Ninja Professional Plus Blender Duo while it's down to $123, thanks to a $47 discount on Best Buy for Presidents Day. \r\nWe did see this blender go down to $120 during the A… [+2020 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Adtack.com"
+        },
+        "author": "Adtack Marketing",
+        "title": "Human-Centric Marketing for Small Business: Winning the War Against AI Sameness",
+        "description": "Win the war against AI sameness. Learn how human-centric marketing for small businesses builds trust, loyalty, and real connection in an automated world.",
+        "url": "https://adtack.com/blog/human-centric-marketing-for-small-business-winning-the-war-against-ai-sameness",
+        "urlToImage": "https://adtack.com/hubfs/undefined-Feb-09-2026-11-10-22-4531-PM.jpeg",
+        "publishedAt": "2026-02-12T12:19:56Z",
+        "content": "What is Human-Centric Marketing?\r\nHuman-centric marketing for small business is a strategic approach that prioritizes authentic connection, emotional resonance, and \"unfiltered\" storytelling over the… [+4648 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "PyroGenesis Announces MOU Toward Joint Venture for Commercial Scale Fumed Silica Plant",
+        "description": "PyroGenesis would build commercial fumed silica reactor for USD$20 million MONTREAL, Feb. 12, 2026 (GLOBE NEWSWIRE) — PyroGenesis Inc. (“PyroGenesis” or “the Company”) (TSX: PYR) (OTCQX: PYRGF) (FRA: 8PY1), the leader in ultra-high temperature processes and e…",
+        "url": "https://financialpost.com/globe-newswire/pyrogenesis-announces-mou-toward-joint-venture-for-commercial-scale-fumed-silica-plant",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/fumed-silica-produced-by-the-fumed-silica-reactor.jpeg",
+        "publishedAt": "2026-02-12T12:19:56Z",
+        "content": "HPQ is also pursuing proprietary technologies to become a low-cost, zero-CO producer of fumed silica and high-purity silicon, with technical support from PyroGenesis Inc. Together, these initiatives … [+2919 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PetaPixel"
+        },
+        "author": "Pesala Bandara",
+        "title": "India Orders Social Media Platforms to Remove Deepfakes Within Three Hours",
+        "description": "India has introduced new rules requiring social media companies to remove deepfakes and other illegal AI-generated content within three hours of receiving a takedown order -- a major shift in how platforms must operate in one of the world’s largest online mar…",
+        "url": "https://petapixel.com/2026/02/12/india-orders-social-media-platforms-to-remove-deepfakes-within-three-hours/",
+        "urlToImage": "https://petapixel.com/assets/uploads/2026/02/india-social-media.jpg",
+        "publishedAt": "2026-02-12T12:16:36Z",
+        "content": "India has introduced new rules requiring social media companies to remove deepfakes and other illegal AI-generated content within three hours of receiving a takedown order — a major shift in how plat… [+2608 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Football Espana"
+        },
+        "author": "Football Espana",
+        "title": "Real Madrid proposed Javier Tebas policy to UEFA during Superleague closure talks",
+        "description": "Peace reigns in European football. That has been the line from the institutions that govern the game in light of the end of the Superleague this week, after Barcelona communicated last Saturday they w...",
+        "url": "https://www.football-espana.net/2026/02/12/real-madrid-proposed-javier-tebas-policy-to-uefa-during-superleague-closure-talks",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ky.uLB20ZuTUI.7lqbDJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/football_espana_articles_993/388046650cab4fe7cb08ded0609a1e15",
+        "publishedAt": "2026-02-12T12:15:00Z",
+        "content": "Peace reigns in European football. That has been the line from the institutions that govern the game in light of the end of the Superleague this week, after Barcelona communicated last Saturday they … [+3564 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Macworld"
+        },
+        "author": "Jason Cross",
+        "title": "Update now! iOS 26.3 contains dozens of critical security fixes",
+        "description": "Macworld\n\n\n\r\n\n\n\n\nWhile most iPhone users rush to download the latest iOS update to check out all the new features, the latest one released this week doesn’t really have any. So it could be tempting to wait a few weeks. But there are a few dozen reasons not to…",
+        "url": "https://www.macworld.com/article/3058798/update-now-ios-26-3-contains-dozens-of-critical-security-fixes.html",
+        "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/02/iphone-ios-update.jpg?quality=50&strip=all&w=1024",
+        "publishedAt": "2026-02-12T12:15:00Z",
+        "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWhile most iPhone us… [+1840 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "AP",
+        "title": "Russia fires barrage at Ukrainian cities as next round of US-brokered talks is unclear",
+        "description": "Russia attacked Ukrainian cities with missiles and drones. President Zelenskyy stated Russia is delaying US-proposed peace talks. Ukraine confirmed its attendance. Russia's invasion marks its fourth anniversary soon. Disagreements persist over occupied territ…",
+        "url": "https://economictimes.indiatimes.com/news/defence/russia-fires-barrage-at-ukrainian-cities-as-next-round-of-us-brokered-talks-is-unclear/articleshow/128257658.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128257795,width-1200,height-630,imgsize-379786,overlay-etdefence/articleshow.jpg",
+        "publishedAt": "2026-02-12T12:14:29Z",
+        "content": "KYIV: Russia launched a barrage of ballistic missiles and drones at Ukrainian cities in overnight attacks, officials reported on Thursday as Ukrainian President Volodymyr Zelenskyy said Moscow was \"h… [+4184 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "Claude Opus 4.6 vs GPT-5.3 Codex : Head-To-Head Coding Tests",
+        "description": "Can a single AI model truly balance speed, precision, and adaptability, or are trade-offs inevitable? Greg Isenberg takes a closer look at how Claude Opus 4.6 vs GPT-5.3 Codex tackle this question, offering a detailed comparison of two of the most advanced co…",
+        "url": "https://www.geeky-gadgets.com/claude-opus-4-6-vs-gpt-5-3-codex/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/prediction-market-app-ui-comparison_optimized.jpg",
+        "publishedAt": "2026-02-12T12:14:23Z",
+        "content": "Can a single AI model truly balance speed, precision, and adaptability, or are trade-offs inevitable? Greg Isenberg takes a closer look at how Claude Opus 4.6 vs GPT-5.3 Codex tackle this question, o… [+7354 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "Anuradha Mascarenhas",
+        "title": "Astronomers discover giant ring system causing rare 9-month dimming of a star",
+        "description": "An international team, including Pune’s IUCAA, has identified a rare 200-day dimming of the star ASASSN-24fw. The study, published in the Monthly Notices of the Royal Astronomical Society, attributes the event to a brown dwarf with a massive, dense ring syste…",
+        "url": "https://indianexpress.com/article/cities/pune/giant-ring-system-rare-nine-month-dimming-of-star-10528771/",
+        "urlToImage": "https://images.indianexpress.com/2026/02/Star-ecclipse-Pune.jpg",
+        "publishedAt": "2026-02-12T12:11:33Z",
+        "content": "Stellar eclipses are extremely rare and typically last a few days to a few weeks. An international team of astronomers, including Pune-based Inter-University Centre for Astronomy and Astrophysics, re… [+3745 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Trump-backed World Liberty plans to launch World Swap forex platform",
+        "description": "The launch of World Swap could disrupt traditional forex markets by offering lower fees and increased accessibility, impacting global remittance trends.\nThe post Trump-backed World Liberty plans to launch World Swap forex platform appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/world-swap-forex-platform-launch/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/12070828/837962fe-9158-47cf-bd83-37b0a0daf194-800x420.jpg",
+        "publishedAt": "2026-02-12T12:11:21Z",
+        "content": "Trump's financial ventures aim to blend traditional banking with blockchain technology in global money transfers. World Liberty Financial is targeting a share of the trillion-dollar global foreign ex… [+1389 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theaviationist.com"
+        },
+        "author": "Stefano D'Urso",
+        "title": "Reports Suggest F-35s Are Being Delivered Without Radar Amid APG-85 Delays",
+        "description": "According to reports, U.S. F-35 might have been delivered since June 2025 with a ballast in place of the new APG-85 radar which has been suffering from delays. Recent reports indicate that a number of newly delivered F-35 Lightning II aircraft may be entering…",
+        "url": "https://theaviationist.com/2026/02/12/reports-suggest-f-35s-delivered-without-radar/",
+        "urlToImage": "https://theaviationist.com/wp-content/uploads/2026/02/9470067.jpg",
+        "publishedAt": "2026-02-12T12:07:49Z",
+        "content": "Recent reports indicate that a number of newly delivered F-35 Lightning II aircraft may be entering service without a fully installed onboard radar. The issue, first reported last week by Defense Dai… [+13794 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "How does new egg‑finding technology aid IVF? #health",
+        "description": "New technique uncovers eggs missed by standard searches A recent study found that conventional methods of searching follicular fluid during egg retrieval can miss viable oocytes, and a new technology identified extra eggs in more than half of cases where the …",
+        "url": "https://alltoc.com/health/how-does-new-egg-finding-technology-aid-ivf",
+        "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+        "publishedAt": "2026-02-12T12:07:12Z",
+        "content": "A recent study found that conventional methods of searching follicular fluid during egg retrieval can miss viable oocytes, and a new technology identified extra eggs in more than half of cases where … [+1563 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "How can vegetables remove microplastics? #food",
+        "description": "Vegetable polymers could clump microplastics for easier removal Researchers report that natural polymers extracted from two common vegetables can bind tiny plastic particles in water and make them easier to separate. In laboratory tests, these plant derived p…",
+        "url": "https://alltoc.com/food/how-can-vegetables-remove-microplastics",
+        "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+        "publishedAt": "2026-02-12T12:06:39Z",
+        "content": "Researchers report that natural polymers extracted from two common vegetables can bind tiny plastic particles in water and make them easier to separate. In laboratory tests, these plant-derived polym… [+1767 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Element 1® Corp. and Aurosi Precision Co. Ltd. Sign Memorandum of Understanding to Advance Methanol-to-Hydrogen Power Solutions for Taiwan Data Center Project",
+        "description": "BEND, Ore. — Element 1® Corp. (“e1”), an Oregon-based leader in methanol-to-hydrogen generation technology, today announced the signing of a Memorandum of Understanding (MOU) with Aurosi Precision Co., Ltd. (“Aurosi”), a Taiwan-based manufacturer specializing…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/element-1-corp-and-aurosi-precision-co-ltd-sign-memorandum-of-understanding-to-advance-methanol-to-hydrogen-power-solutions-for-taiwan-data-center-project",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:06:28Z",
+        "content": "BEND, Ore. Element 1® Corp. (e1), an Oregon-based leader in methanol-to-hydrogen generation technology, today announced the signing of a Memorandum of Understanding (MOU) with Aurosi Precision Co., L… [+4963 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tom's Hardware UK"
+        },
+        "author": "Jon Martindale",
+        "title": "Using AI actually increases burnout despite productivity improvements, study shows — data illustrates how AI made workers take on tasks they would have otherwise avoided or outsourced",
+        "description": "A new study published in the Harvard Business Review suggests that although AI has the potential to marginally improve productivity, it also leads to workers taking on more pressure, resulting in unforced errors and an increase in employee burnout.",
+        "url": "https://www.tomshardware.com/tech-industry/using-ai-actually-increases-burnout-despite-productivity-improvements-study-shows-data-illustrates-how-ai-made-workers-take-on-tasks-they-would-have-otherwise-avoided-or-outsourced",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/AjiYLmeKanxbDkB2hMtwij-1600-80.jpg",
+        "publishedAt": "2026-02-12T12:06:24Z",
+        "content": "The burning question at the heart of the AI revolution in the workplace is ultimately: Is it worth it? Does productivity improve? Do costs come down? Is it remotely as progressive and transformative … [+7777 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Adastra Enters AWS Partner Greenfield Program to Accelerate Customers’ Migration to AWS and Realize AI Value",
+        "description": "Multi-year collaboration with AWS will help organizations not yet on AWS migrate and modernize, establish secure cloud foundations, and scale responsible Generative AI with funding and enablement TORONTO — Adastra, a global leader in AI and data-driven transf…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/adastra-enters-aws-partner-greenfield-program-to-accelerate-customers-migration-to-aws-and-realize-ai-value",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:06:21Z",
+        "content": "Multi-year collaboration with AWS will help organizations not yet on AWS migrate and modernize, establish secure cloud foundations, and scale responsible Generative AI with funding and enablement\r\nTH… [+5702 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "Will passport queues lengthen this summer? #travel",
+        "description": "EU entry‑exit technology threatens long passport delays Airports and airlines across Europe have warned of a potentially chaotic rollout of the EU’s new Entry‑Exit System (EES) that could produce multi‑hour waits at passport control during the summer peak. In…",
+        "url": "https://alltoc.com/travel/will-passport-queues-lengthen-this-summer",
+        "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+        "publishedAt": "2026-02-12T12:05:43Z",
+        "content": "Airports and airlines across Europe have warned of a potentially chaotic rollout of the EUs new EntryExit System (EES) that could produce multihour waits at passport control during the summer peak. I… [+1749 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Clarios selects its Meadowbrook facility in Holland, Michigan, as assembly site for supercapacitor systems",
+        "description": "U.S.-based production strengthens supply chain resilience for key automotive manufacturer customer programs. HOLLAND, MI (USA), Feb. 12, 2026 (GLOBE NEWSWIRE) — Clarios, a global leader in advanced low-voltage energy storage solutions, announced today that it…",
+        "url": "https://financialpost.com/globe-newswire/clarios-selects-its-meadowbrook-facility-in-holland-michigan-as-assembly-site-for-supercapacitor-systems",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:04:29Z",
+        "content": "HOLLAND, MI (USA), Feb. 12, 2026 (GLOBE NEWSWIRE) Clarios, a global leader in advanced low-voltage energy storage solutions, announced today that its Meadowbrook facility in Holland, Michigan, will s… [+2949 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketBeat"
+        },
+        "author": "MarketBeat",
+        "title": "Magnum Ice Cream Q4 Earnings Call Highlights",
+        "description": "Magnum Ice Cream (NYSE:MICC) reported full-year 2025 results in its first annual earnings webcast as a standalone public company, describing the year as...",
+        "url": "https://www.marketbeat.com/instant-alerts/magnum-ice-cream-q4-earnings-call-highlights-2026-02-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "urlToImage": "https://s.yimg.com/os/en/marketbeat_955/dc8994af4611261c37f6825f7b1cc90c",
+        "publishedAt": "2026-02-12T12:04:05Z",
+        "content": "Magnum Ice Cream (NYSE:MICC) reported full-year 2025 results in its first annual earnings webcast as a standalone public company, describing the year as foundational amid what management called unpre… [+6968 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "PTI",
+        "title": "Sensex tumbles 558 points on sell-off in IT shares",
+        "description": "The 30-share BSE Sensex declined 558.72 points, or 0.66 per cent, to settle at 83,674.92. During the day, it tanked 716.97 points, or 0.85 per cent, to hit an intraday low of 83,516.67. The 50-share NSE Nifty declined 146.65 points, or 0.57 per cent, to end a…",
+        "url": "https://www.thehindubusinessline.com/markets/sensex-tumbles-558-points-on-sell-off-in-it-shares/article70624006.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/qgl5tg/article70623183.ece/alternates/LANDSCAPE_1200/PO27_Stock_market.jpg",
+        "publishedAt": "2026-02-12T12:01:21Z",
+        "content": "Benchmark BSE Sensex fell 558 points on Thursday amid heavy selling in IT shares, as concerns over AI-led disruptions and waning hopes of a Fed rate cut after firm US economic data weighed on investo… [+2719 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "AI startup The Biological Computing Co. raises $25M to swap out silicon for lab-grown brains",
+        "description": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of today’s generative AI chatbots, image creation tools and autonomous agents. Now a star…",
+        "url": "https://siliconangle.com/2026/02/12/ai-startup-biological-computing-co-raises-25m-swap-silicon-living-lab-grown-neurons/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-06-09-31-29.png",
+        "publishedAt": "2026-02-12T12:00:44Z",
+        "content": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of todays generative AI chatb… [+6706 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SiliconANGLE News"
+        },
+        "author": "Mike Wheatley",
+        "title": "AI startup The Biological Computing Co. raises $21M to swap out silicon for lab-grown brains",
+        "description": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of today’s generative AI chatbots, image creation tools and autonomous agents. Now a star…",
+        "url": "https://siliconangle.com/2026/02/12/ai-startup-biological-computing-co-raises-21m-swap-silicon-living-lab-grown-neurons/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-06-09-31-29.png",
+        "publishedAt": "2026-02-12T12:00:44Z",
+        "content": "Silicon-based artificial intelligence has come a very long way in a very short space of time, driving massive advances in the large language models that sit at the heart of todays generative AI chatb… [+6706 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "Opaque raises $24M at $300M valuation for ‘confidential AI’ platform",
+        "description": "Confidential artificial intelligence platform provider Opaque Systems Inc. today announced that it has raised $24 million in new funding on a $300 million valuation to accelerate the delivery of its platform. Founded in 2021, Opaque offers infrastructure that…",
+        "url": "https://siliconangle.com/2026/02/12/opaque-raises-24m-300m-valuation-confidential-ai-platform/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/opaque1.png",
+        "publishedAt": "2026-02-12T12:00:07Z",
+        "content": "Confidential artificial intelligence platform provider Opaque Systems Inc. today announced that it has raised $24 million in new funding on a $300 million valuation to accelerate the delivery of its … [+4306 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hubspot.com"
+        },
+        "author": "Stephanie Trovato",
+        "title": "Marketing operations tech stack audit: A proven checklist for operations teams",
+        "description": "Marketing tech stacks often expand fast, leading to sprawl. The result is low tool usage. Gartner estimates that only 49% of marketing technology tools are actively used by teams. A marketing operations tech stack audit brings structure back to teams with blo…",
+        "url": "https://blog.hubspot.com/marketing/marketing-operations-tech-stack-audit-a-proven-checklist-for-operations-teams#article",
+        "urlToImage": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/Marketing-Operations-Tech-Stack-Audit-1-20260113-4994014.webp",
+        "publishedAt": "2026-02-12T12:00:03Z",
+        "content": "Marketing tech stacks often expand fast, leading to sprawl. The result is low tool usage. Gartner estimates that only 49% of marketingtechnology tools are actively used by teams. A marketing operatio… [+15388 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kevinmd.com"
+        },
+        "author": "Grace E. Terrell, MD, MMM",
+        "title": "Connected health care workflows: From chore to core patient care",
+        "description": "Today’s clinicians are spending more time documenting care than delivering it. This reality is not lost on health care providers, many of whom feel burnt out and unfulfilled by this overwhelming administrative burden. The digitization of health care, which on…",
+        "url": "https://kevinmd.com/2026/02/connected-health-care-workflows-from-chore-to-core-patient-care.html",
+        "urlToImage": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_rjwfp8rjwfp8rjwf-1024x717.png",
+        "publishedAt": "2026-02-12T12:00:01Z",
+        "content": "Today’s clinicians are spending more time documenting care than delivering it. This reality is not lost on health care providers, many of whom feel burnt out and unfulfilled by this overwhelming admi… [+6229 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cisa.gov"
+        },
+        "author": "CISA",
+        "title": "Siemens SINEC NMS",
+        "description": "View CSAF\nSummary\nMultiple Siemens products are affected by two local privilege escalation vulnerabilities which could allow an low privileged attacker to load malicious DLLs, potentially leading to arbitrary code execution with elevated privileges. Siemens h…",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01",
+        "urlToImage": null,
+        "publishedAt": "2026-02-12T12:00:00Z",
+        "content": "View CSAF\r\nSummary\r\nMultiple Siemens products are affected by two local privilege escalation vulnerabilities which could allow an low privileged attacker to load malicious DLLs, potentially leading t… [+5675 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ms. Magazine"
+        },
+        "author": "Aviva Dove-Viebahn",
+        "title": "Sundance 2026: The Masculinist and Eugenicist Origins of AI Are Writ Large in Documentary ‘Ghost in the Machine’",
+        "description": "A fast-paced Sundance documentary, Ghost in the Machine traces how modern AI’s obsession with “intelligence” and innovation is rooted in the eugenicist, sexist and racial hierarchies that have long shaped Silicon Valley and its technologies.\n(This is one in a…",
+        "url": "https://msmagazine.com/2026/02/12/sundance-artificial-intelligence-ai-documentary-eugenics-ghost-in-the-machine-documentary/",
+        "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/02/Ghost_in_the_Machine-Still_1-scaled.jpg",
+        "publishedAt": "2026-02-12T12:00:00Z",
+        "content": "A still from Ghost in the Machine by Valerie Veatch, an official selection of the 2026 Sundance Film Festival. (Courtesy of Sundance Institute / photo by the BBC Archive)\r\nThis is one in a series of … [+4233 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Itsnicethat.com"
+        },
+        "author": "Sponsored Content",
+        "title": "Adobe’s Creative Collective assembles multidisciplinary experts to analyse and advise on the industry’s big changes",
+        "description": "Packed with names new and  familiar alike, Adobe’s ensemble turns to address the pressing questions of the creative community, notably, the industry’s technological advancements and the resulting change in terrain.",
+        "url": "https://www.itsnicethat.com/news/adobe-creative-collective-creative-industry-sponsored-content-120226",
+        "urlToImage": "https://admin.itsnicethat.com/images/eGGzpajJFDbD1n-X8XZkaVxerLY=/275468/width-1440/adobe-creative-collective-creative-industry-sponsored-content-itsnicethat1.jpg",
+        "publishedAt": "2026-02-12T12:00:00Z",
+        "content": "Right now, as one would expect, the conversation focuses on AI, a space that, for some members of the community, serves as their discipline. For others, its a point of contention and concern. These c… [+1529 chars]"
+      }
+    ]
+  }
+}

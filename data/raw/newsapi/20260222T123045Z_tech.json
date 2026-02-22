@@ -1,0 +1,1140 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 39482,
+  "articles": [
+    {
+      "title": "The CEO of a $1 billion AI unicorn says his peers in Silicon Valley want you to fear for your job, but they’re actually first on the chopping block",
+      "description": "Tanmai Gopal of PromptQL said tech people have a bad habit of thinking \"this affects me. So it's going to affect everyone like that.\"",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/02/21/will-ai-take-my-job-coders-software-engineers-really-screwed/",
+      "published_at": "2026-02-21T12:30:00Z",
+      "author": "Nick Lichtenberg",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/8OM2ihwQ_400x400.jpg?resize=1200,600",
+      "content": "Silicon Valleys artificial intelligence (AI) boom has sparked widespread panic about the future of human labor, a moment summed up by AI executive Matt Shumers viral essay likening this moment in whi… [+12404 chars]"
+    },
+    {
+      "title": "India, Brazil sign mining pact as Modi targets $20 billion trade in five years",
+      "description": "By Manoj Kumar and Mayank Bhardwaj NEW DELHI, Feb 21 (Reuters) - India moved to deepen trade ties with Brazil on Saturday, signing a pact to expand...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/articles/india-brazil-sign-mining-pact-122938477.html",
+      "published_at": "2026-02-21T12:29:38Z",
+      "author": "By Manoj Kumar and Mayank Bhardwaj",
+      "image_url": "https://s.yimg.com/os/en/reuters.com/6255ff95910231cbe479534c3998ca09",
+      "content": "By Manoj Kumar and Mayank Bhardwaj\r\nNEW DELHI, Feb 21 (Reuters) - India moved to deepen trade ties with Brazil on Saturday, signing a pact to expand cooperation in mining and minerals as it seeks to … [+2198 chars]"
+    },
+    {
+      "title": "US tariff ruling lifts market sentiment, positive for M'sian markets, say economists",
+      "description": "KUALA LUMPUR: The United States (US) Supreme Court ruling limiting President Donald Trump's unilateral tariff authority would improve global economic and market sentiment, with economists saying the development could benefit Malaysia's exports, capital market…",
+      "source": "The Star Online",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/21/us-tariff-ruling-lifts-market-sentiment-positive-for-m039sian-markets-say-economists",
+      "published_at": "2026-02-21T12:20:00Z",
+      "author": "The Star Online",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/02/21/3780129.JPG",
+      "content": "KUALA LUMPUR: The United States (US) Supreme Court ruling limiting President Donald Trump's unilateral tariff authority would improve global economic and market sentiment, with economists saying the … [+7005 chars]"
+    },
+    {
+      "title": "Freedom For All: Trump to Give Britons and Europeans Tools to Bypass Online Censorship",
+      "description": "The redcoats of internet censorship are coming but an American midnight rider is coming to save Europeans from their own governments, the Trump White House teases, stating: \"Reclaim your human right to free expression. Get ready.\"\nThe post Freedom For All: Tr…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/europe/2026/02/21/freedom-for-all-trump-to-give-britons-and-europeans-tools-to-bypass-online-censorship/",
+      "published_at": "2026-02-21T12:17:04Z",
+      "author": "Oliver JJ Lane",
+      "image_url": "https://media.breitbart.com/media/2026/02/GettyImages-950350248-2-640x335.jpg",
+      "content": "The redcoats of internet censorship are coming but an American midnight rider is coming to save Europeans from their own governments, the Trump White House teases, stating: “Reclaim your human right … [+4466 chars]"
+    },
+    {
+      "title": "Scientists may have found the holy grail of quantum computing",
+      "description": "Scientists may have spotted a long-sought triplet superconductor — a material that can transmit both electricity and electron spin with zero resistance. That ability could dramatically stabilize quantum computers while slashing their energy use. Early experim…",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+      "published_at": "2026-02-21T12:10:00Z",
+      "author": null,
+      "image_url": "https://www.sciencedaily.com/images/1920/golden-quantum-computer-machine.webp",
+      "content": "Scientists believe so called triplet superconductors could open the door to the most energy efficient technologies ever developed.\"A triplet superconductor is high on the wish list of many physicists… [+4113 chars]"
+    },
+    {
+      "title": "“The AI data centers of 2036 won’t be filled with GPUs”: FuriosaAI’s CEO on the future of silicon",
+      "description": "We talk AI hardware, data centers, Nvidia’s dominance, and the future of inference chips with June Paik, CEO and co-founder of FuriosaAI.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/the-ai-data-centers-of-2036-wont-be-filled-with-gpus-furiosaais-ceo-on-the-future-of-silicon",
+      "published_at": "2026-02-21T12:05:00Z",
+      "author": "desire.athow@futurenet.com (Desire Athow) , Desire Athow",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rvjEiPE2BwH3R6BCtnw5VM-1999-80.jpg",
+      "content": "AI acceleration hardware is becoming increasingly expensive, with next-generation chips demanding high power budgets and major infrastructure investment. For many startups and smaller enterprises, th… [+9956 chars]"
+    },
+    {
+      "title": "Peak XV announces $1.3 billion across three new funds in India, APAC and beyond",
+      "description": "Peak XV raises $1.3 billion across three funds, marking its first fundraising since splitting from Sequoia Capital in 2023.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/peak-xv-announces-13-billion-across-three-new-funds-in-india-apac-and-beyond/article70659867.ece",
+      "published_at": "2026-02-21T12:04:05Z",
+      "author": "BL Bengaluru Bureau",
+      "image_url": "https://bl-i.thgim.com/public/incoming/2tvrj3/article70659869.ece/alternates/LANDSCAPE_1200/Peak%20XV%20Partners.png",
+      "content": "Peak XV has announced the closing of $1.3 billion in new capital commitments across its India Seed, India Venture and APAC funds. \r\nThis also marks the VC firms maiden fund post its split from Sequoi… [+1594 chars]"
+    },
+    {
+      "title": "How does Microsoft's 10,000-year glass storage work? #tech",
+      "description": "How the technology stores data for millennia Microsoft Research’s Project Silica uses ultrafast lasers to etch microscopic three dimensional patterns into slabs of glass. Those femtosecond laser pulses alter the glass structure at tiny points, encoding bits o…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/tech/how-does-microsoft-s-10000-year-glass-storage-work",
+      "published_at": "2026-02-21T12:03:46Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "content": "Microsoft Researchs Project Silica uses ultrafast lasers to etch microscopic three-dimensional patterns into slabs of glass. Those femtosecond laser pulses alter the glass structure at tiny points, e… [+1865 chars]"
+    },
+    {
+      "title": "Samsung Galaxy Buds 4 Pro Leaked: Here’s Exactly What Samsung’s New Buds Look Like",
+      "description": "Samsung is preparing to unveil the highly anticipated Galaxy Buds 4 Pro alongside the Galaxy S26 at its Unpacked event on February 25, 2026. These next-generation earbuds are designed to deliver notable advancements in design, functionality, and durability. W…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/samsung-galaxy-buds-4-pro-leaked/",
+      "published_at": "2026-02-21T12:00:19Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/Galaxy-Buds4-Pro.jpg",
+      "content": "Samsung is preparing to unveil the highly anticipated Galaxy Buds 4 Pro alongside the Galaxy S26 at its Unpacked event on February 25, 2026. These next-generation earbuds are designed to deliver nota… [+5286 chars]"
+    },
+    {
+      "title": "We only understand five per cent of the Universe. What about the rest?",
+      "description": "We only understand five per cent of the Universe. What about the rest?timesofmalta.com",
+      "source": "Times of Malta",
+      "url": "https://timesofmalta.com/article/times-talk-joseph-caruana-mysteries-universe-explained.1124344",
+      "published_at": "2026-02-21T12:00:17Z",
+      "author": "Sponsored",
+      "image_url": "https://cdn-attachments.timesofmalta.com/3c855ae6ffa54881c828cdcf38bd113700201524-1771578647-154c29a6-1200x630.png",
+      "content": "What are the chances that aliens are real? And if they are, what do they look like, where are they and how come they never visit? And if they were to visit, how would they even do it?\r\nIs time travel… [+3177 chars]"
+    },
+    {
+      "title": "Inventor of hand-worn cycling indicator thinks new brighter lights will win cyclists round after dim start to crowdfunding campaign — plus some very bling bars and… a speedsuit for gravel?!",
+      "description": "It’s time for Tech of the Week, where we bring you an eclectic mix of new stuff that turned our head this week. The latest round-up includes a flash new skinsuit from Castelli, bling bars from Reserve Wheels, some fun from Strava and Pinarello’s most premium …",
+      "source": "road.cc",
+      "url": "https://road.cc/tech-news/hand-worn-cycling-indicator",
+      "published_at": "2026-02-21T12:00:11Z",
+      "author": "Dan Alexander",
+      "image_url": "https://cdn.road.cc/wp-content/uploads/2026/02/Untitled-6.png",
+      "content": "It’s time for Tech of the Week, where we bring you an eclectic mix of new stuff that turned our head this week. The latest round-up includes a flash new skinsuit from Castelli, bling bars from Reserv… [+7148 chars]"
+    },
+    {
+      "title": "Anthropic’s safety-first AI collides with the Pentagon as Claude expands into autonomous agents",
+      "description": "As Anthropic releases its most autonomous agents yet, a mounting clash with the military reveals the impossible choice between global scaling and a “safety first” ethos",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/anthropics-safety-first-ai-collides-with-the-pentagon-as-claude-expands-into/",
+      "published_at": "2026-02-21T12:00:00Z",
+      "author": "Deni Ellis Béchard",
+      "image_url": "https://static.scientificamerican.com/dam/m/26c0e466ea5342b5/original/GettyImages-2260944681.jpg?m=1771624497.843&w=1200",
+      "content": "On February 5 Anthropic released Claude Opus 4.6, its most powerful artificial intelligence model. Among the model’s new features is the ability to coordinate teams of autonomous agents—multiple AIs … [+8300 chars]"
+    },
+    {
+      "title": "31 page-turning new thrillers to read",
+      "description": "Prepare yourself for espionage, murder and mayhem.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/02/21/lifestyle/31-page-turning-new-thrillers-to-read/",
+      "published_at": "2026-02-21T12:00:00Z",
+      "author": "Hailey Eber",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/02/NY-Post-Mystery-Thriller-Part-2-Web.jpg?quality=75&strip=all&w=1200",
+      "content": "Alex Finlay (Minotaur Books)\r\nTwo young men one a high school golden boy, the other a poor kid with limited prospects with little in common are connected by violent incidents on the night of May 1st,… [+10461 chars]"
+    },
+    {
+      "title": "Best Of: The life and legacy of Fela Kuti / Michael Pollan on consciousness",
+      "description": "The Nigerian musician Fela Kuti used his music in the ‘70s as a weapon against colonial values and his country’s brutal dictatorship. The danceable music and political lyrics inspired a youth movement. Award-winning podcaster Jad Abumrad talks with Terry abou…",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/02/21/nx-s1-5720940/best-of-the-life-and-legacy-of-fela-kuti-michael-pollan-on-consciousness",
+      "published_at": "2026-02-21T12:00:00Z",
+      "author": "",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "content": "The Nigerian musician Fela Kuti used his music in the 70s as a weapon against colonial values and his countrys brutal dictatorship. The danceable music and political lyrics inspired a youth movement.… [+489 chars]"
+    },
+    {
+      "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+      "description": "As governments race to restrict minors’ social media use, the tech billionaires who built the platforms are imposing strict screen limits at home.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/02/21/peter-thiel-bill-gates-steve-jobs-steve-chen-tech-billionaires-publicly-shielding-their-children-from-tech-products-social-media/",
+      "published_at": "2026-02-21T11:59:00Z",
+      "author": "Marco Quiroz-Gutierrez",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2022/05/GettyImages-1239812766.jpg?resize=1200,600",
+      "content": "Despite building an increasingly screen-focused world, billionaire tech leaders are keeping their own children away from the tech they helped create.As far back as 2010, Apple cofounder Steve Jobs to… [+4267 chars]"
+    },
+    {
+      "title": "Zoho Corp eyes data centre footprint expansion; emerging markets power ManageEngine growth",
+      "description": "Zoho plans to expand data centres globally to enhance ManageEngine's growth amid new data sovereignty regulations in emerging markets.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/info-tech/zoho-corp-eyes-data-centre-footprint-expansion-emerging-markets-power-manageengine-growth/article70656765.ece",
+      "published_at": "2026-02-21T11:54:03Z",
+      "author": "Sanjana B",
+      "image_url": "https://bl-i.thgim.com/public/incoming/3k9d9e/article70657184.ece/alternates/LANDSCAPE_1200/PO21_Data_centre.jpg",
+      "content": "As countries tighten data sovereignty norms, Zoho Corp is looking to further expand its data centre footprint to support global growth, company executives said.\r\nThe Zoho Corp cloud data centres are … [+3839 chars]"
+    },
+    {
+      "title": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
+      "description": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summitCNBC At A.I. Summit, India Tries to Find a Way Between the U.S. and ChinaThe New York Times Bill Gates' foundation says sudden withdrawal was 'to ensure the focus remains on the AI Summi…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180838554",
+      "published_at": "2026-02-21T11:53:22Z",
+      "author": "feedfeeder",
+      "image_url": null,
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "title": "Kyndryl Stock Notice: Kyndryl Holdings, Inc. (NYSE:KD) Shares Sink 55% on Accounting Issues - Investors Notified to Contact BFA Law about Pending Securities Fraud Class Action",
+      "description": "Kyndryl Holdings, Inc. (NYSE:KD) Shares Sink 55% on Accounting Issues - Investors Notified to Contact BFA Law about Pending Securities Fraud Class Action...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/21/3242218/0/en/Kyndryl-Stock-Notice-Kyndryl-Holdings-Inc-NYSE-KD-Shares-Sink-55-on-Accounting-Issues-Investors-Notified-to-Contact-BFA-Law-about-Pending-Securities-Fraud-Class-Action.html",
+      "published_at": "2026-02-21T11:47:00Z",
+      "author": "Bleichmar Fonti & Auld",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+      "content": "NEW YORK, Feb. 21, 2026 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a class action lawsuit has been filed against Kyndryl Holdings, Inc. (NYSE:KD) an… [+3398 chars]"
+    },
+    {
+      "title": "What Happened to Xbox President Sarah Bond? Amid Phil Spencer's Retirement and Asha Sharma's Promotion, Long-Term Protégé Resigns",
+      "description": "As the dust settles on Microsoft's dramatic changes at the top of its gaming team, fans are digesting the shock resignation of Xbox President Sarah Bond, after nearly a decade working on the console brand.",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/what-happened-to-xbox-president-sarah-bond-amid-phil-spencers-retirement-and-asha-sharmas-promotion-long-term-protg-resigns",
+      "published_at": "2026-02-21T11:38:56Z",
+      "author": "Tom Phillips",
+      "image_url": "https://assets-prd.ignimgs.com/2026/02/21/sarahb-16x9-logo-394e77812a42e672ea5e-1-1771673902714.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "content": "As the dust settles on Microsoft's dramatic changes at the top of its gaming team, fans are digesting the shock resignation of Xbox President Sarah Bond, after nearly a decade working on the console … [+5114 chars]"
+    },
+    {
+      "title": "I Study Cognition & This Is How To Know How \"Old\" Your Brain Is",
+      "description": "Plus, how to maintain a \"younger\" brain.",
+      "source": "mindbodygreen.com",
+      "url": "https://www.mindbodygreen.com/articles/how-old-is-your-brain-from-brain-researcher",
+      "published_at": "2026-02-21T11:36:00Z",
+      "author": "https://www.mindbodygreen.com/wc/marc-milstein-ph-d",
+      "image_url": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/db6rnlt25k9sx7h9y.jpg",
+      "content": "We know that our brains are often not the same age as our chronological age. For instance, there is a group of people called SuperAgers, who are in their 80s and beyond but have the cognitive functio… [+4910 chars]"
+    },
+    {
+      "title": "[FREE EBOOKS] Sustainable IT Playbook for Technology Leaders, AI Networking Cookbook & Four More Best Selling Titles",
+      "description": "Hello fellow geeks, Fresh offers await you on our Information Technology Research Library, please have a look! Sustainable IT Playbook for Technology Leaders: A hands-on guide to designing and scaling sustainable IT strategies for the digital age , Second Edi…",
+      "source": "Javacodegeeks.com",
+      "url": "https://www.javacodegeeks.com/2026/02/free-ebooks-sustainable-it-playbook-for-technology-leaders-ai-networking-cookbook-four-more-best-selling-titles.html",
+      "published_at": "2026-02-21T11:30:30Z",
+      "author": "Java Code Geeks",
+      "image_url": "https://www.javacodegeeks.com/wp-content/uploads/2012/12/jcg-logo.jpg",
+      "content": "Bold leadership doesn’t happen by chance, it happens by choice. Boldness isn’t something you’re born with. It’s something you build. The BOLD Leader is the neuroscience-based leadership guide for exe… [+1433 chars]"
+    },
+    {
+      "title": "10 Weekend Reads",
+      "description": "The weekend is here! Pour yourself a mug of Danish Blend coffee, grab a seat outside, and get ready for our longer-form weekend reads: • This Entertainment Lawyer to the Stars Shares His Best Negotiating Secret: Allen Grubman on why you should always overtip …",
+      "source": "Ritholtz.com",
+      "url": "https://ritholtz.com/2026/02/10-weekend-reads-79/",
+      "published_at": "2026-02-21T11:30:08Z",
+      "author": "Barry Ritholtz",
+      "image_url": "https://ritholtz.com/wp-content/uploads/2029/12/onlinespending.png",
+      "content": "The weekend is here! Pour yourself a mug of Danish Blend coffee, grab a seat outside, and get ready for our longer-form weekend reads:This Entertainment Lawyer to the Stars Shares His Best Negotiatin… [+5205 chars]"
+    },
+    {
+      "title": "If the recent AI and crypto shocks upset you, you’re tracking the wrong cycle",
+      "description": "Claude and DeepSeek, separated at birth?",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/02/21/claude-upus-openclaw-market-shock-saaspocalypse-like-deepseek-moment/",
+      "published_at": "2026-02-21T11:30:00Z",
+      "author": "Igor Pejic",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/igor-pejic.jpg?resize=1200,600",
+      "content": "In the early hours of February 5, 2026, Anthropic unveiled Claude Opus 4.6, sending shockwaves from Silicon Valley to Manhattan. Software stocks plummeted despite strong earnings. Even Bitcoin tanked… [+4842 chars]"
+    },
+    {
+      "title": "Password Managers Share a Hidden Weakness",
+      "description": "Plus: The cybersecurity community grapples with Epstein files revelations, the US State Department plans an online anti-censorship “portal” for the world, and more.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
+      "published_at": "2026-02-21T11:30:00Z",
+      "author": "Matt Burgess, Andy Greenberg, Lily Hay Newman",
+      "image_url": "https://media.wired.com/photos/6998d03f68f921f5e6a08ece/191:100/w_1280,c_limit/sec-pw-managers-2187086214.jpg",
+      "content": "An FBI informant helped run the Incognito dark web market and allegedly approved the sale of fentanyl-laced pills, including those from a dealer linked to a confirmed death, WIRED reported this week.… [+5567 chars]"
+    },
+    {
+      "title": "The Circular Economy 2.0: Integrating Sustainability into the Profit Model",
+      "description": "In 2026, “Sustainability” has moved beyond the marketing department and into the core of the Business profit model. This is the era of “Circular Economy 2.0.” Driven by strict global regulations and a shift in consumer values, professional organizations are m…",
+      "source": "Techbullion.com",
+      "url": "https://techbullion.com/the-circular-economy-2-0-integrating-sustainability-into-the-profit-model/",
+      "published_at": "2026-02-21T11:26:30Z",
+      "author": "Usman Ghani",
+      "image_url": "https://techbullion.com/wp-content/uploads/2026/02/BUSINESS-10-1000x600.jpeg",
+      "content": "In 2026, “Sustainability” has moved beyond the marketing department and into the core of the Business profit model. This is the era of “Circular Economy 2.0.” Driven by strict global regulations and … [+3286 chars]"
+    },
+    {
+      "title": "$SMR Stock Notice: NuScale Power Corporation Shares Sink 12% on ENTRA1 Disclosure - Investors Urged to Contact BFA Law about the Securities Fraud Class Action",
+      "description": "NuScale Power Corporation Shares Sink 12% on ENTRA1 Disclosure - Investors Urged to Contact BFA Law about the Securities Fraud Class Action...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/21/3242212/0/en/SMR-Stock-Notice-NuScale-Power-Corporation-Shares-Sink-12-on-ENTRA1-Disclosure-Investors-Urged-to-Contact-BFA-Law-about-the-Securities-Fraud-Class-Action.html",
+      "published_at": "2026-02-21T11:26:00Z",
+      "author": "Bleichmar Fonti & Auld",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+      "content": "NEW YORK, Feb. 21, 2026 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a class action lawsuit has been filed against NuScale Power Corporation (NYSE:SMR… [+4771 chars]"
+    },
+    {
+      "title": "The Real Data on AI Agents: What 1 Trillion Tokens a Day Reveals with OpenRouter’s COO",
+      "description": "Chris Clark, Co-Founder and COO of Open Router, sits at one of the most unique vantage points in AI — running the world’s largest AI gateway, processing over a trillion tokens per day across 70+ providers. Here’s what he’s actually seeing in the data. If you …",
+      "source": "Saastr.com",
+      "url": "https://www.saastr.com/the-real-data-on-ai-agents-what-1-trillion-tokens-a-day-reveals-with-openrouters-coo/",
+      "published_at": "2026-02-21T11:23:02Z",
+      "author": "Jason Lemkin",
+      "image_url": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/AI-Agents-Thumbnail-3-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
+      "content": "Chris Clark, Co-Founder and COO of Open Router, sits at one of the most unique vantage points in AI running the world’s largest AI gateway, processing over a trillion tokens per day across 70+ provid… [+8055 chars]"
+    },
+    {
+      "title": "FuelCell Energy (FCEL) Eyes Expansion Amid Rising AI Power Needs",
+      "description": "FuelCell Energy Inc. (NASDAQ:FCEL) is one of the best alternative energy stocks to invest in according to analysts. As of February 18, FuelCell Energy Inc. (...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/fuelcell-energy-fcel-eyes-expansion-112025120.html",
+      "published_at": "2026-02-21T11:20:25Z",
+      "author": "Abdul Rahman",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/f31e728397c6db04dfe57cadd473aa12",
+      "content": "FuelCell Energy Inc. (NASDAQ:FCEL) is one of the best alternative energy stocks to invest in according to analysts. As of February 18, FuelCell Energy Inc. (NASDAQ:FCEL) carries a consensus Hold rati… [+2290 chars]"
+    },
+    {
+      "title": "QuantumScape (QS) Strengthens Strategy Amid Industry Evolution",
+      "description": "QuantumScape Corporation (NYSE:QS) is one of the best alternative energy stocks to invest in according to analysts. On February 11, QuantumScape Corporation ...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/quantumscape-qs-strengthens-strategy-amid-112018168.html",
+      "published_at": "2026-02-21T11:20:18Z",
+      "author": "Abdul Rahman",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/uCMyCz4Supk8tc2XRAaLwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/17846fa24ad937abf217a10d3f938fd6",
+      "content": "QuantumScape Corporation (NYSE:QS) is one of the best alternative energy stocks to invest in according to analysts. On February 11, QuantumScape Corporation (NYSE:QS) shared its Q4 2025 financial res… [+2312 chars]"
+    },
+    {
+      "title": "Lucid (LCID) Showcases Innovation and Range Leadership in EV Market",
+      "description": "Lucid Group Inc. (NASDAQ:LCID) is one of the best alternative energy stocks to invest in according to analysts. On February 11, Lucid Group Inc. (NASDAQ:LCID...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/lucid-lcid-showcases-innovation-range-111944523.html",
+      "published_at": "2026-02-21T11:19:44Z",
+      "author": "Abdul Rahman",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/72eda7f3c62f60edefa26778ee6e8a88",
+      "content": "Lucid Group Inc. (NASDAQ:LCID) is one of the best alternative energy stocks to invest in according to analysts. On February 11, Lucid Group Inc. (NASDAQ:LCID) hosted an intimate live event in Berlin … [+2042 chars]"
+    },
+    {
+      "title": "The Resilient Enterprise: Navigating the Geopolitics of Technology in 2026",
+      "description": "In 2026, the global Business environment is characterized by “Radical Uncertainty.” The decoupling of major economies, the rise of “Sovereign Clouds,” and the frequent disruption of global supply chains have made “Efficiency” a secondary goal. The primary goa…",
+      "source": "Techbullion.com",
+      "url": "https://techbullion.com/the-resilient-enterprise-navigating-the-geopolitics-of-technology-in-2026/",
+      "published_at": "2026-02-21T11:19:09Z",
+      "author": "Usman Ghani",
+      "image_url": "https://techbullion.com/wp-content/uploads/2026/02/BUSINESS-12.jpeg",
+      "content": "In 2026, the global Business environment is characterized by “Radical Uncertainty.” The decoupling of major economies, the rise of “Sovereign Clouds,” and the frequent disruption of global supply cha… [+3666 chars]"
+    },
+    {
+      "title": "The Bionic Professional: Brain-Computer Interfaces and the Future of Productivity",
+      "description": "As we reach the midpoint of 2026, the boundary between human intelligence and machine intelligence is beginning to blur. The most significant leap in Technology this year is not in the cloud, but on the person. We are witnessing the early mainstream adoption …",
+      "source": "Techbullion.com",
+      "url": "https://techbullion.com/the-bionic-professional-brain-computer-interfaces-and-the-future-of-productivity/",
+      "published_at": "2026-02-21T11:18:38Z",
+      "author": "Usman Ghani",
+      "image_url": "https://techbullion.com/wp-content/uploads/2026/02/TECHNOLOGY-12-1000x600.jpeg",
+      "content": "As we reach the midpoint of 2026, the boundary between human intelligence and machine intelligence is beginning to blur. The most significant leap in Technology this year is not in the cloud, but on … [+3565 chars]"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra Beats The Apple iPhone 17 Pro Max In The Latest Geekbench 6 Tests",
+      "description": "If Samsung were looking for additional bragging rights just before the unveiling of the Galaxy S26 series, it certainly got those today, when a Galaxy S26 Ultra smoked the Apple iPhone 17 Pro Max in the latest Geekbench 6 tests. Samsung Galaxy S26 Ultra smoke…",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/samsung-galaxy-s26-ultra-beats-the-apple-iphone-17-pro-max-in-the-latest-geekbench-6-tests/",
+      "published_at": "2026-02-21T11:17:06Z",
+      "author": "Rohail Saleem",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Ultra-vs.-Apple-iPhone-17-Pro-Max-1.jpg",
+      "content": "If Samsung were looking for additional bragging rights just before the unveiling of the Galaxy S26 series, it certainly got those today, when a Galaxy S26 Ultra smoked the Apple iPhone 17 Pro Max in … [+3072 chars]"
+    },
+    {
+      "title": "Generative Engine Optimization (GEO): The Search Revolution of 2026",
+      "description": "In 2026, the traditional search engine results page (SERP) is a relic of the past. We have officially entered the era of Generative Engine Optimization (GEO). For over two decades, Digital Marketing revolved around “blue links” and the quest for the number-on…",
+      "source": "Techbullion.com",
+      "url": "https://techbullion.com/generative-engine-optimization-geo-the-search-revolution-of-2026/",
+      "published_at": "2026-02-21T11:16:04Z",
+      "author": "Usman Ghani",
+      "image_url": "https://techbullion.com/wp-content/uploads/2026/02/DIGITAL-MARKITING-8-1000x600.jpg",
+      "content": "In 2026, the traditional search engine results page (SERP) is a relic of the past. We have officially entered the era of Generative Engine Optimization (GEO). For over two decades, Digital Marketing … [+3611 chars]"
+    },
+    {
+      "title": "The \"Sustainable Silicon\" Mandate: Greening the AI Revolution",
+      "description": "As the demand for Artificial Intelligence and high-performance computing reaches record highs in 2026, a new crisis has emerged: the “Carbon Footprint of Intelligence.” In 2024 and 2025, the rapid expansion of data centers placed an unprecedented strain on gl…",
+      "source": "Techbullion.com",
+      "url": "https://techbullion.com/the-sustainable-silicon-mandate-greening-the-ai-revolution/",
+      "published_at": "2026-02-21T11:14:58Z",
+      "author": "Usman Ghani",
+      "image_url": "https://techbullion.com/wp-content/uploads/2026/02/BUSINESS-13-1000x600.jpeg",
+      "content": "As the demand for Artificial Intelligence and high-performance computing reaches record highs in 2026, a new crisis has emerged: the “Carbon Footprint of Intelligence.” In 2024 and 2025, the rapid ex… [+3484 chars]"
+    },
+    {
+      "title": "Michael O'Carroll - a man who pushed the envelope",
+      "description": "Former RTÉ Sport producer and director Michael O'Carroll died earlier this week. Stephen Alkin, formerly of RTÉ Sport, has paid tribute to his colleague and friend and what he did for Irish cycling in particular.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/sport/football/2026/0221/1559678-michael-ocarroll-a-man-who-pushed-the-envelope/",
+      "published_at": "2026-02-21T11:13:10Z",
+      "author": "Stephen Alkin",
+      "image_url": "https://www.rte.ie/images/0023ea3c-1600.jpg",
+      "content": "Former RTÉ Sport producer and director Michael O'Carroll died earlier this week.\r\nJoining the broadcaster in 1961, O'Carroll directed more than 50 All-Ireland finals in his career as well as Muhammad… [+5064 chars]"
+    },
+    {
+      "title": "5 healthy diets linked to increased longevity",
+      "description": "A recent study suggests that 5 healthy dietary patterns are associated with improved longevity, and close adherence to these eating plans could add up to 3 years life expectancy.",
+      "source": "Medical News Today",
+      "url": "https://www.medicalnewstoday.com/articles/eat-well-live-longer-study-5-healthy-diet-plans-longevity",
+      "published_at": "2026-02-21T11:11:00Z",
+      "author": "Peter Morales-Brown",
+      "image_url": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/02/healthy-diets-GettyImages-1220391267-Facebook.jpg",
+      "content": "<ul><li>A recent study suggests that close adherence to healthy dietary patterns was associated with an additional 1.5 to 3.0 years of life.</li><li>Benefits of healthy eating plans were observed reg… [+7560 chars]"
+    },
+    {
+      "title": "Goldman Sachs Raises its Price Target on Entegris, Inc. (ENTG) to $95 and Maintains a Sell Rating",
+      "description": "Entegris, Inc. (NASDAQ:ENTG) is among the 12 Best Tech Stocks that Beat Earnings Estimates. On February 11, 2026, Goldman Sachs raised its price target on...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/goldman-sachs-raises-price-target-110905114.html",
+      "published_at": "2026-02-21T11:09:05Z",
+      "author": "Jeff Lewis",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
+      "content": "Entegris, Inc. (NASDAQ:ENTG) is among the 12 Best Tech Stocks that Beat Earnings Estimates.\r\nOn February 11, 2026, Goldman Sachs raised its price target on Entegris, Inc. (NASDAQ:ENTG) to $95 from $7… [+2247 chars]"
+    },
+    {
+      "title": "Barclays Raises its Price Target on Tower Semiconductor Ltd. (TSEM) to $142 and Maintains an Equal Weight Rating",
+      "description": "Tower Semiconductor Ltd. (NASDAQ:TSEM) is among the 12 Best Tech Stocks that Beat Earnings Estimates. On February 13, 2026, Barclays raised its price target ...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/barclays-raises-price-target-tower-110851809.html",
+      "published_at": "2026-02-21T11:08:51Z",
+      "author": "Jeff Lewis",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/6857607624d018154569190d8bf2f815",
+      "content": "Tower Semiconductor Ltd. (NASDAQ:TSEM) is among the 12 Best Tech Stocks that Beat Earnings Estimates.\r\nOn February 13, 2026, Barclays raised its price target on Tower Semiconductor Ltd. (NASDAQ:TSEM)… [+2514 chars]"
+    },
+    {
+      "title": "Needham Raises the Price Target on Amkor Technology, Inc. (AMKR) to $65 and Keeps a Buy Rating",
+      "description": null,
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_17eeda75-eb64-4832-8fc6-f939961ea7b8",
+      "published_at": "2026-02-21T11:08:26Z",
+      "author": null,
+      "image_url": null,
+      "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
+    {
+      "title": "Archer Aviation Inc. (ACHR) to Develop the Next Wave of Aviation AI Technology With NVIDIA IGX Thor",
+      "description": "Archer Aviation Inc. (NYSE:ACHR) is among the Most Volatile Stocks. On January 8, 2026, Archer Aviation Inc. (NYSE:ACHR) stated at CES 2026 that it will use ...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/archer-aviation-inc-achr-develop-110310633.html",
+      "published_at": "2026-02-21T11:03:10Z",
+      "author": "Fatima Gulzar",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/WqFsgXcFe_SyQWUjJS3mTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/insidermonkey.com/2ba8135ac801071f050e6ccf40ca7226",
+      "content": "Archer Aviation Inc. (NYSE:ACHR) is among theMost Volatile Stocks.\r\nOn January 8, 2026, Archer Aviation Inc. (NYSE:ACHR) stated at CES 2026 that it will use NVIDIA IGX Thor to develop and deploy next… [+1659 chars]"
+    },
+    {
+      "title": "Government upgrades drones, deploys joystick tweakers to catch illegal dumpers",
+      "description": "Electronic eyes are watching from above, ready to catch dumpers of smashed up couches in the act\nThe UK government is pulling together an elite squad of drone operators to crack down on the scourge of fly tippers and unauthorized dumpers across this ever less…",
+      "source": "Theregister.com",
+      "url": "https://www.theregister.com/2026/02/21/head/",
+      "published_at": "2026-02-21T11:03:10Z",
+      "author": "Joe Fay",
+      "image_url": "https://regmedia.co.uk/2026/02/20/shutterstock_2664539081.jpg",
+      "content": "The UK government is pulling together an elite squad of drone operators to crack down on the scourge of fly tippers and unauthorized dumpers across this ever less green and pleasant land.\r\nThe top dr… [+2560 chars]"
+    },
+    {
+      "title": "SC flags uneven compliance with Solid Waste Management Rules, issues pan-India directions",
+      "description": "The Supreme Court has mandated strict adherence to Solid Waste Management Rules, 2026, effective April 1.  Uneven compliance across India necessitates immediate action.  Elected representatives will lead source segregation education.  District collectors will…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/sc-flags-uneven-compliance-with-solid-waste-management-rules-issues-pan-india-directions/articleshow/128642288.cms",
+      "published_at": "2026-02-21T11:03:08Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-128642316,width-1200,height-630,imgsize-110416,overlay-economictimes/articleshow.jpg",
+      "content": "New Delhi, Flagging the \"uneven\" compliance with the Solid Waste Management (SWM) Rules across India, the Supreme Court has said the present generation cannot afford to wait for further legislative r… [+5425 chars]"
+    },
+    {
+      "title": "Rock Solid is attempting its ‘most ambitious project ever for a single season’",
+      "description": "Rock Solid Trail Contracting is building 25-30 miles of singletrack at a new Texas state natural area — the most ambitious single-season project in the company's history.\nThe article Rock Solid is attempting its ‘most ambitious project ever for a single seaso…",
+      "source": "Singletracks.com",
+      "url": "https://www.singletracks.com/?p=713111",
+      "published_at": "2026-02-21T11:03:00Z",
+      "author": "Greg Heil",
+      "image_url": "https://images.singletracks.com/blog/wp-content/uploads/2026/02/DJI_20260109135104_0069_D-2-2-1-1170x878.jpg",
+      "content": "All photos courtesy Adam Munich, Rock Solid\r\nRock Solid Trail Contracting is widely regarded as the largest trail building contractor in the world, with crews spanning the USA from coast to coast out… [+7495 chars]"
+    },
+    {
+      "title": "The U.S. spent $30 billion to ditch textbooks for laptops and tablets: The result is the first generation less cognitively capable than their parents",
+      "description": "Neuroscientist Jared Cooney Horvath said older generations “screwed up” giving students access to so much technology: “I genuinely hope Gen Z quickly figures that out and gets mad.”",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/02/21/laptops-tablets-schools-gen-z-less-cognitively-capable-parents-first-time-cellphone-bans-standardized-test-scores/",
+      "published_at": "2026-02-21T11:02:00Z",
+      "author": "Sasha Rogelberg",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-481153717-e1771619750873.jpg?resize=1200,600",
+      "content": "In 2002, Maine became the first state to implement a statewide laptop program to some grade levels. Then-Governor Angus King saw the program as a way to put the internet at the fingertips of more chi… [+7012 chars]"
+    },
+    {
+      "title": "This Week in Science: Children of Chernobyl, Hair Loss Light Therapy, And More!",
+      "description": "This week in science: the generational effects of nuclear radiation discovered in the children of Chernobyl cleanup workers; simple habits that could reduce your risk of dementia; a new light therapy 'hat' for hair loss; and much more! DNA Mutations Discovere…",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/this-week-in-science-children-of-chernobyl-hair-loss-light-therapy-and-more",
+      "published_at": "2026-02-21T11:00:59Z",
+      "author": "ScienceAlert Staff",
+      "image_url": "https://www.sciencealert.com/images/2026/02/RedLightTherapy.jpg",
+      "content": "This week in science: the generational effects of nuclear radiation discovered in the children of Chernobyl cleanup workers; simple habits that could reduce your risk of dementia; a new light therapy… [+3425 chars]"
+    },
+    {
+      "title": "Motherson remains on course to achieve $108 billion turnover by 2030: Chairman",
+      "description": "The group, which has over 425 manufacturing facilities across the globe catering to diverse businesses, including auto components and aerospace, posted $25.7 billion revenue in FY25",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/motherson-remains-on-course-to-achieve-108-billion-turnover-by-2030-chairman/article70659649.ece",
+      "published_at": "2026-02-21T11:00:03Z",
+      "author": "PTI",
+      "image_url": "https://bl-i.thgim.com/public/incoming/raqlg6/article70620247.ece/alternates/LANDSCAPE_1200/ACC-Ltd-Q2-resuG70F3NVGO.4.jpg.jpg",
+      "content": "Motherson Group remains on course to achieve its target of $108 billion in revenue by 2030, according to Chairman Vivek Chaand Sehgal.\r\n The group, which has over 425 manufacturing facilities across … [+1474 chars]"
+    },
+    {
+      "title": "There’s Only One Way to Eradicate Trumpism for Good",
+      "description": "One of the weirder journalistic spectacles of the Trump era has been watching mainstream news organizations parachute into the hinterlands to try to understand the voters who ushered in, and continue to support, this age of cruelty in America. A recent classi…",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/post/206818/accountability-crime-eradicate-trumpism-democrats",
+      "published_at": "2026-02-21T11:00:00Z",
+      "author": "Jason Linkins",
+      "image_url": "https://images.newrepublic.com/fc53fd87a7be7ca3b6305d3c0aef65f60664ad86.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "content": "Bombs over Latin America: Its giving Wag the Dog, if you ask me. The administration, seemingly hot to bring back neoconservative military conquest, soft-launched its latest regime change war in Venez… [+2463 chars]"
+    },
+    {
+      "title": "Makeblock mBot2 Rover Robotics Kit Features Encoders for Accurate Motor Control",
+      "description": "The Makeblock mBot2 Rover Kit is an educational robotics platform designed to introduce learners to STEM concepts through hands-on building and coding. As outlined by Core Electronics, the kit features a durable construction system with anodized aluminum part…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/makeblock-mbot2-rover-kit-review/",
+      "published_at": "2026-02-21T11:00:00Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/cyberpi-esp32-controller-screen-on-robot_optimized.jpg",
+      "content": "The Makeblock mBot2 Rover Kit is an educational robotics platform designed to introduce learners to STEM concepts through hands-on building and coding. As outlined by Core Electronics, the kit featur… [+7468 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 39482,
+    "articles": [
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Nick Lichtenberg",
+        "title": "The CEO of a $1 billion AI unicorn says his peers in Silicon Valley want you to fear for your job, but they’re actually first on the chopping block",
+        "description": "Tanmai Gopal of PromptQL said tech people have a bad habit of thinking \"this affects me. So it's going to affect everyone like that.\"",
+        "url": "https://fortune.com/2026/02/21/will-ai-take-my-job-coders-software-engineers-really-screwed/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/8OM2ihwQ_400x400.jpg?resize=1200,600",
+        "publishedAt": "2026-02-21T12:30:00Z",
+        "content": "Silicon Valleys artificial intelligence (AI) boom has sparked widespread panic about the future of human labor, a moment summed up by AI executive Matt Shumers viral essay likening this moment in whi… [+12404 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "By Manoj Kumar and Mayank Bhardwaj",
+        "title": "India, Brazil sign mining pact as Modi targets $20 billion trade in five years",
+        "description": "By Manoj Kumar and Mayank Bhardwaj NEW DELHI, Feb 21 (Reuters) - India moved to deepen trade ties with Brazil on Saturday, signing a pact to expand...",
+        "url": "https://www.yahoo.com/news/articles/india-brazil-sign-mining-pact-122938477.html",
+        "urlToImage": "https://s.yimg.com/os/en/reuters.com/6255ff95910231cbe479534c3998ca09",
+        "publishedAt": "2026-02-21T12:29:38Z",
+        "content": "By Manoj Kumar and Mayank Bhardwaj\r\nNEW DELHI, Feb 21 (Reuters) - India moved to deepen trade ties with Brazil on Saturday, signing a pact to expand cooperation in mining and minerals as it seeks to … [+2198 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Star Online"
+        },
+        "author": "The Star Online",
+        "title": "US tariff ruling lifts market sentiment, positive for M'sian markets, say economists",
+        "description": "KUALA LUMPUR: The United States (US) Supreme Court ruling limiting President Donald Trump's unilateral tariff authority would improve global economic and market sentiment, with economists saying the development could benefit Malaysia's exports, capital market…",
+        "url": "https://www.thestar.com.my/news/nation/2026/02/21/us-tariff-ruling-lifts-market-sentiment-positive-for-m039sian-markets-say-economists",
+        "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/21/3780129.JPG",
+        "publishedAt": "2026-02-21T12:20:00Z",
+        "content": "KUALA LUMPUR: The United States (US) Supreme Court ruling limiting President Donald Trump's unilateral tariff authority would improve global economic and market sentiment, with economists saying the … [+7005 chars]"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Oliver JJ Lane",
+        "title": "Freedom For All: Trump to Give Britons and Europeans Tools to Bypass Online Censorship",
+        "description": "The redcoats of internet censorship are coming but an American midnight rider is coming to save Europeans from their own governments, the Trump White House teases, stating: \"Reclaim your human right to free expression. Get ready.\"\nThe post Freedom For All: Tr…",
+        "url": "https://www.breitbart.com/europe/2026/02/21/freedom-for-all-trump-to-give-britons-and-europeans-tools-to-bypass-online-censorship/",
+        "urlToImage": "https://media.breitbart.com/media/2026/02/GettyImages-950350248-2-640x335.jpg",
+        "publishedAt": "2026-02-21T12:17:04Z",
+        "content": "The redcoats of internet censorship are coming but an American midnight rider is coming to save Europeans from their own governments, the Trump White House teases, stating: “Reclaim your human right … [+4466 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Science Daily"
+        },
+        "author": null,
+        "title": "Scientists may have found the holy grail of quantum computing",
+        "description": "Scientists may have spotted a long-sought triplet superconductor — a material that can transmit both electricity and electron spin with zero resistance. That ability could dramatically stabilize quantum computers while slashing their energy use. Early experim…",
+        "url": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+        "urlToImage": "https://www.sciencedaily.com/images/1920/golden-quantum-computer-machine.webp",
+        "publishedAt": "2026-02-21T12:10:00Z",
+        "content": "Scientists believe so called triplet superconductors could open the door to the most energy efficient technologies ever developed.\"A triplet superconductor is high on the wish list of many physicists… [+4113 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "desire.athow@futurenet.com (Desire Athow) , Desire Athow",
+        "title": "“The AI data centers of 2036 won’t be filled with GPUs”: FuriosaAI’s CEO on the future of silicon",
+        "description": "We talk AI hardware, data centers, Nvidia’s dominance, and the future of inference chips with June Paik, CEO and co-founder of FuriosaAI.",
+        "url": "https://www.techradar.com/pro/the-ai-data-centers-of-2036-wont-be-filled-with-gpus-furiosaais-ceo-on-the-future-of-silicon",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/rvjEiPE2BwH3R6BCtnw5VM-1999-80.jpg",
+        "publishedAt": "2026-02-21T12:05:00Z",
+        "content": "AI acceleration hardware is becoming increasingly expensive, with next-generation chips demanding high power budgets and major infrastructure investment. For many startups and smaller enterprises, th… [+9956 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "BL Bengaluru Bureau",
+        "title": "Peak XV announces $1.3 billion across three new funds in India, APAC and beyond",
+        "description": "Peak XV raises $1.3 billion across three funds, marking its first fundraising since splitting from Sequoia Capital in 2023.",
+        "url": "https://www.thehindubusinessline.com/markets/peak-xv-announces-13-billion-across-three-new-funds-in-india-apac-and-beyond/article70659867.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/2tvrj3/article70659869.ece/alternates/LANDSCAPE_1200/Peak%20XV%20Partners.png",
+        "publishedAt": "2026-02-21T12:04:05Z",
+        "content": "Peak XV has announced the closing of $1.3 billion in new capital commitments across its India Seed, India Venture and APAC funds. \r\nThis also marks the VC firms maiden fund post its split from Sequoi… [+1594 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "How does Microsoft's 10,000-year glass storage work? #tech",
+        "description": "How the technology stores data for millennia Microsoft Research’s Project Silica uses ultrafast lasers to etch microscopic three dimensional patterns into slabs of glass. Those femtosecond laser pulses alter the glass structure at tiny points, encoding bits o…",
+        "url": "https://alltoc.com/tech/how-does-microsoft-s-10000-year-glass-storage-work",
+        "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+        "publishedAt": "2026-02-21T12:03:46Z",
+        "content": "Microsoft Researchs Project Silica uses ultrafast lasers to etch microscopic three-dimensional patterns into slabs of glass. Those femtosecond laser pulses alter the glass structure at tiny points, e… [+1865 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Samsung Galaxy Buds 4 Pro Leaked: Here’s Exactly What Samsung’s New Buds Look Like",
+        "description": "Samsung is preparing to unveil the highly anticipated Galaxy Buds 4 Pro alongside the Galaxy S26 at its Unpacked event on February 25, 2026. These next-generation earbuds are designed to deliver notable advancements in design, functionality, and durability. W…",
+        "url": "https://www.geeky-gadgets.com/samsung-galaxy-buds-4-pro-leaked/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/Galaxy-Buds4-Pro.jpg",
+        "publishedAt": "2026-02-21T12:00:19Z",
+        "content": "Samsung is preparing to unveil the highly anticipated Galaxy Buds 4 Pro alongside the Galaxy S26 at its Unpacked event on February 25, 2026. These next-generation earbuds are designed to deliver nota… [+5286 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Times of Malta"
+        },
+        "author": "Sponsored",
+        "title": "We only understand five per cent of the Universe. What about the rest?",
+        "description": "We only understand five per cent of the Universe. What about the rest?timesofmalta.com",
+        "url": "https://timesofmalta.com/article/times-talk-joseph-caruana-mysteries-universe-explained.1124344",
+        "urlToImage": "https://cdn-attachments.timesofmalta.com/3c855ae6ffa54881c828cdcf38bd113700201524-1771578647-154c29a6-1200x630.png",
+        "publishedAt": "2026-02-21T12:00:17Z",
+        "content": "What are the chances that aliens are real? And if they are, what do they look like, where are they and how come they never visit? And if they were to visit, how would they even do it?\r\nIs time travel… [+3177 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "road.cc"
+        },
+        "author": "Dan Alexander",
+        "title": "Inventor of hand-worn cycling indicator thinks new brighter lights will win cyclists round after dim start to crowdfunding campaign — plus some very bling bars and… a speedsuit for gravel?!",
+        "description": "It’s time for Tech of the Week, where we bring you an eclectic mix of new stuff that turned our head this week. The latest round-up includes a flash new skinsuit from Castelli, bling bars from Reserve Wheels, some fun from Strava and Pinarello’s most premium …",
+        "url": "https://road.cc/tech-news/hand-worn-cycling-indicator",
+        "urlToImage": "https://cdn.road.cc/wp-content/uploads/2026/02/Untitled-6.png",
+        "publishedAt": "2026-02-21T12:00:11Z",
+        "content": "It’s time for Tech of the Week, where we bring you an eclectic mix of new stuff that turned our head this week. The latest round-up includes a flash new skinsuit from Castelli, bling bars from Reserv… [+7148 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Scientific American"
+        },
+        "author": "Deni Ellis Béchard",
+        "title": "Anthropic’s safety-first AI collides with the Pentagon as Claude expands into autonomous agents",
+        "description": "As Anthropic releases its most autonomous agents yet, a mounting clash with the military reveals the impossible choice between global scaling and a “safety first” ethos",
+        "url": "https://www.scientificamerican.com/article/anthropics-safety-first-ai-collides-with-the-pentagon-as-claude-expands-into/",
+        "urlToImage": "https://static.scientificamerican.com/dam/m/26c0e466ea5342b5/original/GettyImages-2260944681.jpg?m=1771624497.843&w=1200",
+        "publishedAt": "2026-02-21T12:00:00Z",
+        "content": "On February 5 Anthropic released Claude Opus 4.6, its most powerful artificial intelligence model. Among the model’s new features is the ability to coordinate teams of autonomous agents—multiple AIs … [+8300 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Hailey Eber",
+        "title": "31 page-turning new thrillers to read",
+        "description": "Prepare yourself for espionage, murder and mayhem.",
+        "url": "https://nypost.com/2026/02/21/lifestyle/31-page-turning-new-thrillers-to-read/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/NY-Post-Mystery-Thriller-Part-2-Web.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-02-21T12:00:00Z",
+        "content": "Alex Finlay (Minotaur Books)\r\nTwo young men one a high school golden boy, the other a poor kid with limited prospects with little in common are connected by violent incidents on the night of May 1st,… [+10461 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "",
+        "title": "Best Of: The life and legacy of Fela Kuti / Michael Pollan on consciousness",
+        "description": "The Nigerian musician Fela Kuti used his music in the ‘70s as a weapon against colonial values and his country’s brutal dictatorship. The danceable music and political lyrics inspired a youth movement. Award-winning podcaster Jad Abumrad talks with Terry abou…",
+        "url": "https://www.npr.org/2026/02/21/nx-s1-5720940/best-of-the-life-and-legacy-of-fela-kuti-michael-pollan-on-consciousness",
+        "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+        "publishedAt": "2026-02-21T12:00:00Z",
+        "content": "The Nigerian musician Fela Kuti used his music in the 70s as a weapon against colonial values and his countrys brutal dictatorship. The danceable music and political lyrics inspired a youth movement.… [+489 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Marco Quiroz-Gutierrez",
+        "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+        "description": "As governments race to restrict minors’ social media use, the tech billionaires who built the platforms are imposing strict screen limits at home.",
+        "url": "https://fortune.com/2026/02/21/peter-thiel-bill-gates-steve-jobs-steve-chen-tech-billionaires-publicly-shielding-their-children-from-tech-products-social-media/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2022/05/GettyImages-1239812766.jpg?resize=1200,600",
+        "publishedAt": "2026-02-21T11:59:00Z",
+        "content": "Despite building an increasingly screen-focused world, billionaire tech leaders are keeping their own children away from the tech they helped create.As far back as 2010, Apple cofounder Steve Jobs to… [+4267 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Sanjana B",
+        "title": "Zoho Corp eyes data centre footprint expansion; emerging markets power ManageEngine growth",
+        "description": "Zoho plans to expand data centres globally to enhance ManageEngine's growth amid new data sovereignty regulations in emerging markets.",
+        "url": "https://www.thehindubusinessline.com/info-tech/zoho-corp-eyes-data-centre-footprint-expansion-emerging-markets-power-manageengine-growth/article70656765.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/3k9d9e/article70657184.ece/alternates/LANDSCAPE_1200/PO21_Data_centre.jpg",
+        "publishedAt": "2026-02-21T11:54:03Z",
+        "content": "As countries tighten data sovereignty norms, Zoho Corp is looking to further expand its data centre footprint to support global growth, company executives said.\r\nThe Zoho Corp cloud data centres are … [+3839 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "feedfeeder",
+        "title": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
+        "description": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summitCNBC At A.I. Summit, India Tries to Find a Way Between the U.S. and ChinaThe New York Times Bill Gates' foundation says sudden withdrawal was 'to ensure the focus remains on the AI Summi…",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180838554",
+        "urlToImage": null,
+        "publishedAt": "2026-02-21T11:53:22Z",
+        "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Bleichmar Fonti & Auld",
+        "title": "Kyndryl Stock Notice: Kyndryl Holdings, Inc. (NYSE:KD) Shares Sink 55% on Accounting Issues - Investors Notified to Contact BFA Law about Pending Securities Fraud Class Action",
+        "description": "Kyndryl Holdings, Inc. (NYSE:KD) Shares Sink 55% on Accounting Issues - Investors Notified to Contact BFA Law about Pending Securities Fraud Class Action...",
+        "url": "https://www.globenewswire.com/news-release/2026/02/21/3242218/0/en/Kyndryl-Stock-Notice-Kyndryl-Holdings-Inc-NYSE-KD-Shares-Sink-55-on-Accounting-Issues-Investors-Notified-to-Contact-BFA-Law-about-Pending-Securities-Fraud-Class-Action.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+        "publishedAt": "2026-02-21T11:47:00Z",
+        "content": "NEW YORK, Feb. 21, 2026 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a class action lawsuit has been filed against Kyndryl Holdings, Inc. (NYSE:KD) an… [+3398 chars]"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Tom Phillips",
+        "title": "What Happened to Xbox President Sarah Bond? Amid Phil Spencer's Retirement and Asha Sharma's Promotion, Long-Term Protégé Resigns",
+        "description": "As the dust settles on Microsoft's dramatic changes at the top of its gaming team, fans are digesting the shock resignation of Xbox President Sarah Bond, after nearly a decade working on the console brand.",
+        "url": "https://www.ign.com/articles/what-happened-to-xbox-president-sarah-bond-amid-phil-spencers-retirement-and-asha-sharmas-promotion-long-term-protg-resigns",
+        "urlToImage": "https://assets-prd.ignimgs.com/2026/02/21/sarahb-16x9-logo-394e77812a42e672ea5e-1-1771673902714.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "publishedAt": "2026-02-21T11:38:56Z",
+        "content": "As the dust settles on Microsoft's dramatic changes at the top of its gaming team, fans are digesting the shock resignation of Xbox President Sarah Bond, after nearly a decade working on the console … [+5114 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "mindbodygreen.com"
+        },
+        "author": "https://www.mindbodygreen.com/wc/marc-milstein-ph-d",
+        "title": "I Study Cognition & This Is How To Know How \"Old\" Your Brain Is",
+        "description": "Plus, how to maintain a \"younger\" brain.",
+        "url": "https://www.mindbodygreen.com/articles/how-old-is-your-brain-from-brain-researcher",
+        "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/db6rnlt25k9sx7h9y.jpg",
+        "publishedAt": "2026-02-21T11:36:00Z",
+        "content": "We know that our brains are often not the same age as our chronological age. For instance, there is a group of people called SuperAgers, who are in their 80s and beyond but have the cognitive functio… [+4910 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Javacodegeeks.com"
+        },
+        "author": "Java Code Geeks",
+        "title": "[FREE EBOOKS] Sustainable IT Playbook for Technology Leaders, AI Networking Cookbook & Four More Best Selling Titles",
+        "description": "Hello fellow geeks, Fresh offers await you on our Information Technology Research Library, please have a look! Sustainable IT Playbook for Technology Leaders: A hands-on guide to designing and scaling sustainable IT strategies for the digital age , Second Edi…",
+        "url": "https://www.javacodegeeks.com/2026/02/free-ebooks-sustainable-it-playbook-for-technology-leaders-ai-networking-cookbook-four-more-best-selling-titles.html",
+        "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/12/jcg-logo.jpg",
+        "publishedAt": "2026-02-21T11:30:30Z",
+        "content": "Bold leadership doesn’t happen by chance, it happens by choice. Boldness isn’t something you’re born with. It’s something you build. The BOLD Leader is the neuroscience-based leadership guide for exe… [+1433 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ritholtz.com"
+        },
+        "author": "Barry Ritholtz",
+        "title": "10 Weekend Reads",
+        "description": "The weekend is here! Pour yourself a mug of Danish Blend coffee, grab a seat outside, and get ready for our longer-form weekend reads: • This Entertainment Lawyer to the Stars Shares His Best Negotiating Secret: Allen Grubman on why you should always overtip …",
+        "url": "https://ritholtz.com/2026/02/10-weekend-reads-79/",
+        "urlToImage": "https://ritholtz.com/wp-content/uploads/2029/12/onlinespending.png",
+        "publishedAt": "2026-02-21T11:30:08Z",
+        "content": "The weekend is here! Pour yourself a mug of Danish Blend coffee, grab a seat outside, and get ready for our longer-form weekend reads:This Entertainment Lawyer to the Stars Shares His Best Negotiatin… [+5205 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Igor Pejic",
+        "title": "If the recent AI and crypto shocks upset you, you’re tracking the wrong cycle",
+        "description": "Claude and DeepSeek, separated at birth?",
+        "url": "https://fortune.com/2026/02/21/claude-upus-openclaw-market-shock-saaspocalypse-like-deepseek-moment/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/igor-pejic.jpg?resize=1200,600",
+        "publishedAt": "2026-02-21T11:30:00Z",
+        "content": "In the early hours of February 5, 2026, Anthropic unveiled Claude Opus 4.6, sending shockwaves from Silicon Valley to Manhattan. Software stocks plummeted despite strong earnings. Even Bitcoin tanked… [+4842 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Matt Burgess, Andy Greenberg, Lily Hay Newman",
+        "title": "Password Managers Share a Hidden Weakness",
+        "description": "Plus: The cybersecurity community grapples with Epstein files revelations, the US State Department plans an online anti-censorship “portal” for the world, and more.",
+        "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
+        "urlToImage": "https://media.wired.com/photos/6998d03f68f921f5e6a08ece/191:100/w_1280,c_limit/sec-pw-managers-2187086214.jpg",
+        "publishedAt": "2026-02-21T11:30:00Z",
+        "content": "An FBI informant helped run the Incognito dark web market and allegedly approved the sale of fentanyl-laced pills, including those from a dealer linked to a confirmed death, WIRED reported this week.… [+5567 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techbullion.com"
+        },
+        "author": "Usman Ghani",
+        "title": "The Circular Economy 2.0: Integrating Sustainability into the Profit Model",
+        "description": "In 2026, “Sustainability” has moved beyond the marketing department and into the core of the Business profit model. This is the era of “Circular Economy 2.0.” Driven by strict global regulations and a shift in consumer values, professional organizations are m…",
+        "url": "https://techbullion.com/the-circular-economy-2-0-integrating-sustainability-into-the-profit-model/",
+        "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/BUSINESS-10-1000x600.jpeg",
+        "publishedAt": "2026-02-21T11:26:30Z",
+        "content": "In 2026, “Sustainability” has moved beyond the marketing department and into the core of the Business profit model. This is the era of “Circular Economy 2.0.” Driven by strict global regulations and … [+3286 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Bleichmar Fonti & Auld",
+        "title": "$SMR Stock Notice: NuScale Power Corporation Shares Sink 12% on ENTRA1 Disclosure - Investors Urged to Contact BFA Law about the Securities Fraud Class Action",
+        "description": "NuScale Power Corporation Shares Sink 12% on ENTRA1 Disclosure - Investors Urged to Contact BFA Law about the Securities Fraud Class Action...",
+        "url": "https://www.globenewswire.com/news-release/2026/02/21/3242212/0/en/SMR-Stock-Notice-NuScale-Power-Corporation-Shares-Sink-12-on-ENTRA1-Disclosure-Investors-Urged-to-Contact-BFA-Law-about-the-Securities-Fraud-Class-Action.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+        "publishedAt": "2026-02-21T11:26:00Z",
+        "content": "NEW YORK, Feb. 21, 2026 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces that a class action lawsuit has been filed against NuScale Power Corporation (NYSE:SMR… [+4771 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Saastr.com"
+        },
+        "author": "Jason Lemkin",
+        "title": "The Real Data on AI Agents: What 1 Trillion Tokens a Day Reveals with OpenRouter’s COO",
+        "description": "Chris Clark, Co-Founder and COO of Open Router, sits at one of the most unique vantage points in AI — running the world’s largest AI gateway, processing over a trillion tokens per day across 70+ providers. Here’s what he’s actually seeing in the data. If you …",
+        "url": "https://www.saastr.com/the-real-data-on-ai-agents-what-1-trillion-tokens-a-day-reveals-with-openrouters-coo/",
+        "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/AI-Agents-Thumbnail-3-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
+        "publishedAt": "2026-02-21T11:23:02Z",
+        "content": "Chris Clark, Co-Founder and COO of Open Router, sits at one of the most unique vantage points in AI running the world’s largest AI gateway, processing over a trillion tokens per day across 70+ provid… [+8055 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Abdul Rahman",
+        "title": "FuelCell Energy (FCEL) Eyes Expansion Amid Rising AI Power Needs",
+        "description": "FuelCell Energy Inc. (NASDAQ:FCEL) is one of the best alternative energy stocks to invest in according to analysts. As of February 18, FuelCell Energy Inc. (...",
+        "url": "https://finance.yahoo.com/news/fuelcell-energy-fcel-eyes-expansion-112025120.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/f31e728397c6db04dfe57cadd473aa12",
+        "publishedAt": "2026-02-21T11:20:25Z",
+        "content": "FuelCell Energy Inc. (NASDAQ:FCEL) is one of the best alternative energy stocks to invest in according to analysts. As of February 18, FuelCell Energy Inc. (NASDAQ:FCEL) carries a consensus Hold rati… [+2290 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Abdul Rahman",
+        "title": "QuantumScape (QS) Strengthens Strategy Amid Industry Evolution",
+        "description": "QuantumScape Corporation (NYSE:QS) is one of the best alternative energy stocks to invest in according to analysts. On February 11, QuantumScape Corporation ...",
+        "url": "https://finance.yahoo.com/news/quantumscape-qs-strengthens-strategy-amid-112018168.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uCMyCz4Supk8tc2XRAaLwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/17846fa24ad937abf217a10d3f938fd6",
+        "publishedAt": "2026-02-21T11:20:18Z",
+        "content": "QuantumScape Corporation (NYSE:QS) is one of the best alternative energy stocks to invest in according to analysts. On February 11, QuantumScape Corporation (NYSE:QS) shared its Q4 2025 financial res… [+2312 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Abdul Rahman",
+        "title": "Lucid (LCID) Showcases Innovation and Range Leadership in EV Market",
+        "description": "Lucid Group Inc. (NASDAQ:LCID) is one of the best alternative energy stocks to invest in according to analysts. On February 11, Lucid Group Inc. (NASDAQ:LCID...",
+        "url": "https://finance.yahoo.com/news/lucid-lcid-showcases-innovation-range-111944523.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/72eda7f3c62f60edefa26778ee6e8a88",
+        "publishedAt": "2026-02-21T11:19:44Z",
+        "content": "Lucid Group Inc. (NASDAQ:LCID) is one of the best alternative energy stocks to invest in according to analysts. On February 11, Lucid Group Inc. (NASDAQ:LCID) hosted an intimate live event in Berlin … [+2042 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techbullion.com"
+        },
+        "author": "Usman Ghani",
+        "title": "The Resilient Enterprise: Navigating the Geopolitics of Technology in 2026",
+        "description": "In 2026, the global Business environment is characterized by “Radical Uncertainty.” The decoupling of major economies, the rise of “Sovereign Clouds,” and the frequent disruption of global supply chains have made “Efficiency” a secondary goal. The primary goa…",
+        "url": "https://techbullion.com/the-resilient-enterprise-navigating-the-geopolitics-of-technology-in-2026/",
+        "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/BUSINESS-12.jpeg",
+        "publishedAt": "2026-02-21T11:19:09Z",
+        "content": "In 2026, the global Business environment is characterized by “Radical Uncertainty.” The decoupling of major economies, the rise of “Sovereign Clouds,” and the frequent disruption of global supply cha… [+3666 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techbullion.com"
+        },
+        "author": "Usman Ghani",
+        "title": "The Bionic Professional: Brain-Computer Interfaces and the Future of Productivity",
+        "description": "As we reach the midpoint of 2026, the boundary between human intelligence and machine intelligence is beginning to blur. The most significant leap in Technology this year is not in the cloud, but on the person. We are witnessing the early mainstream adoption …",
+        "url": "https://techbullion.com/the-bionic-professional-brain-computer-interfaces-and-the-future-of-productivity/",
+        "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/TECHNOLOGY-12-1000x600.jpeg",
+        "publishedAt": "2026-02-21T11:18:38Z",
+        "content": "As we reach the midpoint of 2026, the boundary between human intelligence and machine intelligence is beginning to blur. The most significant leap in Technology this year is not in the cloud, but on … [+3565 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Rohail Saleem",
+        "title": "Samsung Galaxy S26 Ultra Beats The Apple iPhone 17 Pro Max In The Latest Geekbench 6 Tests",
+        "description": "If Samsung were looking for additional bragging rights just before the unveiling of the Galaxy S26 series, it certainly got those today, when a Galaxy S26 Ultra smoked the Apple iPhone 17 Pro Max in the latest Geekbench 6 tests. Samsung Galaxy S26 Ultra smoke…",
+        "url": "https://wccftech.com/samsung-galaxy-s26-ultra-beats-the-apple-iphone-17-pro-max-in-the-latest-geekbench-6-tests/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Ultra-vs.-Apple-iPhone-17-Pro-Max-1.jpg",
+        "publishedAt": "2026-02-21T11:17:06Z",
+        "content": "If Samsung were looking for additional bragging rights just before the unveiling of the Galaxy S26 series, it certainly got those today, when a Galaxy S26 Ultra smoked the Apple iPhone 17 Pro Max in … [+3072 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techbullion.com"
+        },
+        "author": "Usman Ghani",
+        "title": "Generative Engine Optimization (GEO): The Search Revolution of 2026",
+        "description": "In 2026, the traditional search engine results page (SERP) is a relic of the past. We have officially entered the era of Generative Engine Optimization (GEO). For over two decades, Digital Marketing revolved around “blue links” and the quest for the number-on…",
+        "url": "https://techbullion.com/generative-engine-optimization-geo-the-search-revolution-of-2026/",
+        "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/DIGITAL-MARKITING-8-1000x600.jpg",
+        "publishedAt": "2026-02-21T11:16:04Z",
+        "content": "In 2026, the traditional search engine results page (SERP) is a relic of the past. We have officially entered the era of Generative Engine Optimization (GEO). For over two decades, Digital Marketing … [+3611 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techbullion.com"
+        },
+        "author": "Usman Ghani",
+        "title": "The \"Sustainable Silicon\" Mandate: Greening the AI Revolution",
+        "description": "As the demand for Artificial Intelligence and high-performance computing reaches record highs in 2026, a new crisis has emerged: the “Carbon Footprint of Intelligence.” In 2024 and 2025, the rapid expansion of data centers placed an unprecedented strain on gl…",
+        "url": "https://techbullion.com/the-sustainable-silicon-mandate-greening-the-ai-revolution/",
+        "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/BUSINESS-13-1000x600.jpeg",
+        "publishedAt": "2026-02-21T11:14:58Z",
+        "content": "As the demand for Artificial Intelligence and high-performance computing reaches record highs in 2026, a new crisis has emerged: the “Carbon Footprint of Intelligence.” In 2024 and 2025, the rapid ex… [+3484 chars]"
+      },
+      {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "Stephen Alkin",
+        "title": "Michael O'Carroll - a man who pushed the envelope",
+        "description": "Former RTÉ Sport producer and director Michael O'Carroll died earlier this week. Stephen Alkin, formerly of RTÉ Sport, has paid tribute to his colleague and friend and what he did for Irish cycling in particular.",
+        "url": "https://www.rte.ie/sport/football/2026/0221/1559678-michael-ocarroll-a-man-who-pushed-the-envelope/",
+        "urlToImage": "https://www.rte.ie/images/0023ea3c-1600.jpg",
+        "publishedAt": "2026-02-21T11:13:10Z",
+        "content": "Former RTÉ Sport producer and director Michael O'Carroll died earlier this week.\r\nJoining the broadcaster in 1961, O'Carroll directed more than 50 All-Ireland finals in his career as well as Muhammad… [+5064 chars]"
+      },
+      {
+        "source": {
+          "id": "medical-news-today",
+          "name": "Medical News Today"
+        },
+        "author": "Peter Morales-Brown",
+        "title": "5 healthy diets linked to increased longevity",
+        "description": "A recent study suggests that 5 healthy dietary patterns are associated with improved longevity, and close adherence to these eating plans could add up to 3 years life expectancy.",
+        "url": "https://www.medicalnewstoday.com/articles/eat-well-live-longer-study-5-healthy-diet-plans-longevity",
+        "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/02/healthy-diets-GettyImages-1220391267-Facebook.jpg",
+        "publishedAt": "2026-02-21T11:11:00Z",
+        "content": "<ul><li>A recent study suggests that close adherence to healthy dietary patterns was associated with an additional 1.5 to 3.0 years of life.</li><li>Benefits of healthy eating plans were observed reg… [+7560 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jeff Lewis",
+        "title": "Goldman Sachs Raises its Price Target on Entegris, Inc. (ENTG) to $95 and Maintains a Sell Rating",
+        "description": "Entegris, Inc. (NASDAQ:ENTG) is among the 12 Best Tech Stocks that Beat Earnings Estimates. On February 11, 2026, Goldman Sachs raised its price target on...",
+        "url": "https://finance.yahoo.com/news/goldman-sachs-raises-price-target-110905114.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8",
+        "publishedAt": "2026-02-21T11:09:05Z",
+        "content": "Entegris, Inc. (NASDAQ:ENTG) is among the 12 Best Tech Stocks that Beat Earnings Estimates.\r\nOn February 11, 2026, Goldman Sachs raised its price target on Entegris, Inc. (NASDAQ:ENTG) to $95 from $7… [+2247 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jeff Lewis",
+        "title": "Barclays Raises its Price Target on Tower Semiconductor Ltd. (TSEM) to $142 and Maintains an Equal Weight Rating",
+        "description": "Tower Semiconductor Ltd. (NASDAQ:TSEM) is among the 12 Best Tech Stocks that Beat Earnings Estimates. On February 13, 2026, Barclays raised its price target ...",
+        "url": "https://finance.yahoo.com/news/barclays-raises-price-target-tower-110851809.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/6857607624d018154569190d8bf2f815",
+        "publishedAt": "2026-02-21T11:08:51Z",
+        "content": "Tower Semiconductor Ltd. (NASDAQ:TSEM) is among the 12 Best Tech Stocks that Beat Earnings Estimates.\r\nOn February 13, 2026, Barclays raised its price target on Tower Semiconductor Ltd. (NASDAQ:TSEM)… [+2514 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Needham Raises the Price Target on Amkor Technology, Inc. (AMKR) to $65 and Keeps a Buy Rating",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_17eeda75-eb64-4832-8fc6-f939961ea7b8",
+        "urlToImage": null,
+        "publishedAt": "2026-02-21T11:08:26Z",
+        "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Fatima Gulzar",
+        "title": "Archer Aviation Inc. (ACHR) to Develop the Next Wave of Aviation AI Technology With NVIDIA IGX Thor",
+        "description": "Archer Aviation Inc. (NYSE:ACHR) is among the Most Volatile Stocks. On January 8, 2026, Archer Aviation Inc. (NYSE:ACHR) stated at CES 2026 that it will use ...",
+        "url": "https://finance.yahoo.com/news/archer-aviation-inc-achr-develop-110310633.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WqFsgXcFe_SyQWUjJS3mTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/insidermonkey.com/2ba8135ac801071f050e6ccf40ca7226",
+        "publishedAt": "2026-02-21T11:03:10Z",
+        "content": "Archer Aviation Inc. (NYSE:ACHR) is among theMost Volatile Stocks.\r\nOn January 8, 2026, Archer Aviation Inc. (NYSE:ACHR) stated at CES 2026 that it will use NVIDIA IGX Thor to develop and deploy next… [+1659 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Joe Fay",
+        "title": "Government upgrades drones, deploys joystick tweakers to catch illegal dumpers",
+        "description": "Electronic eyes are watching from above, ready to catch dumpers of smashed up couches in the act\nThe UK government is pulling together an elite squad of drone operators to crack down on the scourge of fly tippers and unauthorized dumpers across this ever less…",
+        "url": "https://www.theregister.com/2026/02/21/head/",
+        "urlToImage": "https://regmedia.co.uk/2026/02/20/shutterstock_2664539081.jpg",
+        "publishedAt": "2026-02-21T11:03:10Z",
+        "content": "The UK government is pulling together an elite squad of drone operators to crack down on the scourge of fly tippers and unauthorized dumpers across this ever less green and pleasant land.\r\nThe top dr… [+2560 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "SC flags uneven compliance with Solid Waste Management Rules, issues pan-India directions",
+        "description": "The Supreme Court has mandated strict adherence to Solid Waste Management Rules, 2026, effective April 1.  Uneven compliance across India necessitates immediate action.  Elected representatives will lead source segregation education.  District collectors will…",
+        "url": "https://economictimes.indiatimes.com/news/india/sc-flags-uneven-compliance-with-solid-waste-management-rules-issues-pan-india-directions/articleshow/128642288.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128642316,width-1200,height-630,imgsize-110416,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-02-21T11:03:08Z",
+        "content": "New Delhi, Flagging the \"uneven\" compliance with the Solid Waste Management (SWM) Rules across India, the Supreme Court has said the present generation cannot afford to wait for further legislative r… [+5425 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Singletracks.com"
+        },
+        "author": "Greg Heil",
+        "title": "Rock Solid is attempting its ‘most ambitious project ever for a single season’",
+        "description": "Rock Solid Trail Contracting is building 25-30 miles of singletrack at a new Texas state natural area — the most ambitious single-season project in the company's history.\nThe article Rock Solid is attempting its ‘most ambitious project ever for a single seaso…",
+        "url": "https://www.singletracks.com/?p=713111",
+        "urlToImage": "https://images.singletracks.com/blog/wp-content/uploads/2026/02/DJI_20260109135104_0069_D-2-2-1-1170x878.jpg",
+        "publishedAt": "2026-02-21T11:03:00Z",
+        "content": "All photos courtesy Adam Munich, Rock Solid\r\nRock Solid Trail Contracting is widely regarded as the largest trail building contractor in the world, with crews spanning the USA from coast to coast out… [+7495 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Sasha Rogelberg",
+        "title": "The U.S. spent $30 billion to ditch textbooks for laptops and tablets: The result is the first generation less cognitively capable than their parents",
+        "description": "Neuroscientist Jared Cooney Horvath said older generations “screwed up” giving students access to so much technology: “I genuinely hope Gen Z quickly figures that out and gets mad.”",
+        "url": "https://fortune.com/2026/02/21/laptops-tablets-schools-gen-z-less-cognitively-capable-parents-first-time-cellphone-bans-standardized-test-scores/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-481153717-e1771619750873.jpg?resize=1200,600",
+        "publishedAt": "2026-02-21T11:02:00Z",
+        "content": "In 2002, Maine became the first state to implement a statewide laptop program to some grade levels. Then-Governor Angus King saw the program as a way to put the internet at the fingertips of more chi… [+7012 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "ScienceAlert Staff",
+        "title": "This Week in Science: Children of Chernobyl, Hair Loss Light Therapy, And More!",
+        "description": "This week in science: the generational effects of nuclear radiation discovered in the children of Chernobyl cleanup workers; simple habits that could reduce your risk of dementia; a new light therapy 'hat' for hair loss; and much more! DNA Mutations Discovere…",
+        "url": "https://www.sciencealert.com/this-week-in-science-children-of-chernobyl-hair-loss-light-therapy-and-more",
+        "urlToImage": "https://www.sciencealert.com/images/2026/02/RedLightTherapy.jpg",
+        "publishedAt": "2026-02-21T11:00:59Z",
+        "content": "This week in science: the generational effects of nuclear radiation discovered in the children of Chernobyl cleanup workers; simple habits that could reduce your risk of dementia; a new light therapy… [+3425 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "PTI",
+        "title": "Motherson remains on course to achieve $108 billion turnover by 2030: Chairman",
+        "description": "The group, which has over 425 manufacturing facilities across the globe catering to diverse businesses, including auto components and aerospace, posted $25.7 billion revenue in FY25",
+        "url": "https://www.thehindubusinessline.com/companies/motherson-remains-on-course-to-achieve-108-billion-turnover-by-2030-chairman/article70659649.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/raqlg6/article70620247.ece/alternates/LANDSCAPE_1200/ACC-Ltd-Q2-resuG70F3NVGO.4.jpg.jpg",
+        "publishedAt": "2026-02-21T11:00:03Z",
+        "content": "Motherson Group remains on course to achieve its target of $108 billion in revenue by 2030, according to Chairman Vivek Chaand Sehgal.\r\n The group, which has over 425 manufacturing facilities across … [+1474 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The New Republic"
+        },
+        "author": "Jason Linkins",
+        "title": "There’s Only One Way to Eradicate Trumpism for Good",
+        "description": "One of the weirder journalistic spectacles of the Trump era has been watching mainstream news organizations parachute into the hinterlands to try to understand the voters who ushered in, and continue to support, this age of cruelty in America. A recent classi…",
+        "url": "https://newrepublic.com/post/206818/accountability-crime-eradicate-trumpism-democrats",
+        "urlToImage": "https://images.newrepublic.com/fc53fd87a7be7ca3b6305d3c0aef65f60664ad86.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+        "publishedAt": "2026-02-21T11:00:00Z",
+        "content": "Bombs over Latin America: Its giving Wag the Dog, if you ask me. The administration, seemingly hot to bring back neoconservative military conquest, soft-launched its latest regime change war in Venez… [+2463 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "Makeblock mBot2 Rover Robotics Kit Features Encoders for Accurate Motor Control",
+        "description": "The Makeblock mBot2 Rover Kit is an educational robotics platform designed to introduce learners to STEM concepts through hands-on building and coding. As outlined by Core Electronics, the kit features a durable construction system with anodized aluminum part…",
+        "url": "https://www.geeky-gadgets.com/makeblock-mbot2-rover-kit-review/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/cyberpi-esp32-controller-screen-on-robot_optimized.jpg",
+        "publishedAt": "2026-02-21T11:00:00Z",
+        "content": "The Makeblock mBot2 Rover Kit is an educational robotics platform designed to introduce learners to STEM concepts through hands-on building and coding. As outlined by Core Electronics, the kit featur… [+7468 chars]"
+      }
+    ]
+  }
+}

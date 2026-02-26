@@ -1,0 +1,1094 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 39422,
+  "articles": [
+    {
+      "title": "Gemini Adds Voice Chat & AI Studio Tools for Rapid Product Prototyping",
+      "description": "Gemini AI introduces a range of advanced features designed to meet the needs of both technical and creative professionals, as explored by Dylan Davis. One standout capability is its expansive memory, which supports up to 1 million tokens, far surpassing the l…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/gemini-million-token-memory/",
+      "published_at": "2026-02-25T12:41:00Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/gemini-speed-comparison-chatgpt-claude.jpg",
+      "content": "Gemini AI introduces a range of advanced features designed to meet the needs of both technical and creative professionals, as explored by Dylan Davis. One standout capability is its expansive memory,… [+6376 chars]"
+    },
+    {
+      "title": "Preimplantation Genetic Testing Market Research and Global Forecast Report 2025-2030",
+      "description": "The preimplantation genetic testing market is projected to surge from USD 690.2 million in 2025 to USD 1.13 billion by 2030, reflecting a robust CAGR of 10.5%. Key growth drivers include rising genetic disorder prevalence, increased awareness of early genetic…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244515/28124/en/Preimplantation-Genetic-Testing-Market-Research-and-Global-Forecast-Report-2025-2030.html",
+      "published_at": "2026-02-25T12:41:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Preimplantation Genetic Testing Market by Product &amp; Service, Technology, Procedure, Application, Type of Cycle - Global Forecast to 2030\" report has… [+7992 chars]"
+    },
+    {
+      "title": "AI student advocate among first lady Melania Trump's State of the Union guests",
+      "description": "Everest Nevraumont, a 10-year-old AI advocate and Austin Alpha School student, joined first lady Melania Trump at President Donald Trump's address Tuesday night.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/ai-student-advocate-among-first-lady-melania-trumps-state-union-guests",
+      "published_at": "2026-02-25T12:40:08Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/everest-nevraumont.jpg",
+      "content": "Ten-year-old student and artificial intelligence (AI) advocate Everest Nevraumont was among first lady Melania Trump's guests at President Donald Trump's State of the Union address Tuesday night.\r\nNe… [+2461 chars]"
+    },
+    {
+      "title": "US Market | US stock futures rise in run-up to Nvidia earnings as AI worries subside",
+      "description": "U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week as investors assessed risks to the AI trade and growing tariff doubts heading into Nvidia's earnings due later in the day.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-futures-rise-in-run-up-to-nvidia-earnings-as-ai-worries-subside/articleshow/128782743.cms",
+      "published_at": "2026-02-25T12:39:41Z",
+      "author": "Reuters",
+      "image_url": "https://img.etimg.com/thumb/msid-128782743,width-1200,height-630,imgsize-131808,overlay-etmarkets/articleshow.jpg",
+      "content": "U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week as investors assessed risks to the AI trade and growing tariff doubts heading into Nvidia's earnings due l… [+2925 chars]"
+    },
+    {
+      "title": "New in Qt 6.11: QRangeModel updates and QRangeModelAdapter",
+      "description": "When introducing QRangeModel for Qt 6.10 I wrote that we'd try to tackle some limitations in future releases. In Qt 611, QRangeModel supports caching ranges like std::views::filter, and provides a customization point for reading from and writing role-data to …",
+      "source": "Www.qt.io",
+      "url": "https://www.qt.io/blog/new-in-qt-6.11-qrangemodel-updates-and-qrangemodeladapter",
+      "published_at": "2026-02-25T12:39:10Z",
+      "author": "volker.hilsheimer@qt.io (Volker Hilsheimer)",
+      "image_url": "https://www.qt.io/hubfs/AI-Generated%20Media/Images/An%20abstract%20image%20with%20a%20mirror%20showing%20the%20reflection%20of%20a%20Qt%20desktop%20application%20with%20lists%20and%20tables%20of%20data-1.png",
+      "content": "When introducing QRangeModel for Qt 6.10 I wrote that we'd try to tackle some limitations in future releases. In Qt 611, QRangeModel supports caching ranges like std::views::filter, and provides a cu… [+7587 chars]"
+    },
+    {
+      "title": "Verdiva Bio Announces Completion of Enrollment for EVOLVE-2 Phase 2b Study of VRB-101, a Potential Once-Weekly Oral GLP-1 Peptide Analog in Individuals with Obesity",
+      "description": "Verdiva Bio Announces Completion of Enrollment for EVOLVE-2 Phase 2b Study of VRB-101, a Potential Once-Weekly Oral GLP-1 Peptide Analog in Individuals with Obesitybiospace.com",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/press-releases/verdiva-bio-announces-completion-of-enrollment-for-evolve-2-phase-2b-study-of-vrb-101-a-potential-once-weekly-oral-glp-1-peptide-analog-in-individuals-with-obesity",
+      "published_at": "2026-02-25T12:39:09Z",
+      "author": null,
+      "image_url": "https://static.biospace.com/dims4/default/d32393a/2147483647/strip/true/crop/1120x630+40+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-biospace.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F88%2Fa9fddaf440db946b77e1d45d2e26%2Fbiospace-5.png",
+      "content": "<ul><li>Over 200 participants fully enrolled across 22 sites in the US</li><li>Trial designed to inform optimal dose and titration schedule of VRB-101 for future clinical development</li><li>Topline … [+3963 chars]"
+    },
+    {
+      "title": "Chinese drone maker DJI sues to contest US import ban",
+      "description": "Chinese firm DJI, the world's largest drone manufacturer, has sued the US Federal Communications Commission for adding it to a blacklist which restricts sales in the United States, the company said Wednesday (Feb 25).DJI has faced growing scrutiny from Washin…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/dji-chinese-drone-maker-sues-contest-us-import-ban-5952581",
+      "published_at": "2026-02-25T12:39:08Z",
+      "author": null,
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--hYwbc1Rt--/c_crop,h_449,w_799,x_1,y_22/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-22T210450Z_2_LYNXMPELBL0TA_RTROPTP_3_USA-CHINA-DRONES-CONGRESS.JPG?itok=7pvTIt9j",
+      "content": "Chinese firm DJI, the world's largest drone manufacturer, has sued the US Federal Communications Commission for adding it to a blacklist which restricts sales in the United States, the company said W… [+1746 chars]"
+    },
+    {
+      "title": "Hackers Used AI to Breach 600 Firewalls in Weeks, Amazon Says",
+      "description": "Over the last five weeks, a limited number of hackers broke into more than 600 firewalls across dozens of countries with the help of widely available artificial intelligence tools, according to security research from Amazon.com Inc. The small group of …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/national/2026/02/25/859554.htm",
+      "published_at": "2026-02-25T12:39:06Z",
+      "author": "Admin",
+      "image_url": "https://www.insurancejournal.com/app/uploads/2024/01/amazon-logo-on-black-wall-190121941-bigstock-scaled.jpg",
+      "content": "Over the last five weeks, a limited number of hackers broke into more than 600 firewalls across dozens of countries with the help of widely available artificial intelligence tools, according to secur… [+2164 chars]"
+    },
+    {
+      "title": "India–Europe cargo links to take off as Kempegowda International Airport, Frankfurt Airport tie up",
+      "description": "Kempegowda International Airport and Frankfurt Airport enhance cargo ties to boost trade and streamline logistics between India and Europe.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/indiaeurope-cargo-links-to-take-off-as-kempegowda-international-airport-frankfurt-airport-tie-up/article70675347.ece",
+      "published_at": "2026-02-25T12:38:34Z",
+      "author": "BL Bengaluru Bureau",
+      "image_url": "https://bl-i.thgim.com/public/incoming/v6rie2/article70675626.ece/alternates/LANDSCAPE_1200/2024-01-18T132707Z_1511986224_RC2DK5A4BL0Z_RTRMADP_3_INDIA-AVIATION-SUMMIT.JPG",
+      "content": "Kempegowda International Airport, Bengaluru, and Frankfurt Airport have signed a Memorandum of Understanding to enhance cargo connectivity between South India and Europe. The agreement was signed dur… [+1785 chars]"
+    },
+    {
+      "title": "Tanmay Bhat clarifies about GLP-1 usage after netizens question his 75 kg weight loss. 'Spare me the moral lecture'",
+      "description": "Tanmay Bhat has addressed criticism after revealing that he is experimenting with GLP-1 weight loss medication. The comedian clarified that he had already lost over 75 kg without using any injections and is only trying the drug to see how it works for him. He…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/tanmay-bhat-clarifies-about-glp-1-usage-after-netizens-question-his-75-kg-weight-loss-spare-me-moral-lecture/articleshow/128782048.cms",
+      "published_at": "2026-02-25T12:37:04Z",
+      "author": "ET Online",
+      "image_url": "https://img.etimg.com/thumb/msid-128782715,width-1200,height-630,imgsize-40274,overlay-etpanache/articleshow.jpg",
+      "content": "Comedian and content creator Tanmay Bhat has addressed the chatter around his dramatic weight loss after social media users began questioning whether his transformation was driven by GLP-1 drugs. The… [+2204 chars]"
+    },
+    {
+      "title": "Marketing Technology (MarTech) Market Worth USD 3.28 Trillion by 2035 Driven by AI, Agile Marketing, and Privacy-First Personalization",
+      "description": "The global marketing technology (MarTech) market size will grow from USD 669.14 billion in 2026 to nearly USD 3.28 trillion by 2035, expanding at a CAGR of 19.40% from 2026 to 2035. Marketers use marketing technology tools to inspire, retain, and engage consu…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244514/0/en/Marketing-Technology-MarTech-Market-Worth-USD-3-28-Trillion-by-2035-Driven-by-AI-Agile-Marketing-and-Privacy-First-Personalization.html",
+      "published_at": "2026-02-25T12:36:00Z",
+      "author": "Precedence Research",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "content": "Ottawa, Feb. 25, 2026 (GLOBE NEWSWIRE) -- According to Precedence Research, the global marketing technology market size was calculated at USD 557.94 billion in 2025 and is predicted to be worth USD 3… [+17236 chars]"
+    },
+    {
+      "title": "Amerigo Announces Strong 2025 Results & Quarterly Dividend",
+      "description": "2025 Net Income of $35.4 million, EBITDA1 of $89.8 million and Free Cash Flow to Equity1 of $37.1 million 18th Quarterly Dividend of Cdn$0.04 Declared $20.4 million Returned to Shareholders in 2025 Company Remains Bullish on Copper Prices, Capital Return Stra…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/amerigo-announces-strong-2025-results-quarterly-dividend",
+      "published_at": "2026-02-25T12:34:53Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "MVCs pricing terms are based on the average LME copper price of the third month following the delivery of copper concentrates produced under the DET tolling agreement (M+3). This means that when fina… [+6558 chars]"
+    },
+    {
+      "title": "Here’s Why Madison Large Cap Fund Chose to Exit Nike (NKE)",
+      "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/why-madison-large-cap-fund-123443957.html",
+      "published_at": "2026-02-25T12:34:43Z",
+      "author": "Soumya Eswaran",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/9fea7ca260b4a4e47d8daf77e7f77830",
+      "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2563 chars]"
+    },
+    {
+      "title": "Samsung Originally Intended To Charge Apple A 60% Premium For LPDDR5X RAM, But The iPhone Maker’s Desperation Led It Down A Costly Path",
+      "description": "A robust and reliable supply chain doesn’t make Apple immune to DRAM shortages, which is why the company’s executives were previously reported to have booked long-term hotel stays in South Korea in an effort to come to terms with Samsung to secure adequate su…",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/apple-agreed-to-pay-samsung-a-massive-sum-for-lpddr5x-ram/",
+      "published_at": "2026-02-25T12:34:21Z",
+      "author": "Omar Sohail",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Samsung-memory-chips-for-iPhone.jpg",
+      "content": "A robust and reliable supply chain doesnt make Apple immune to DRAM shortages, which is why the companys executives were previously reported to have booked long-term hotel stays in South Korea in an … [+2162 chars]"
+    },
+    {
+      "title": "Health In Tech Inc.: Health In Tech Appoints Former SAP and IBM Executive Sri Rajagopalan as Chief Technology Officer to Advance AI-driven Enterprise-Grade Platform Growth",
+      "description": "Health In Tech Inc.: Health In Tech Appoints Former SAP and IBM Executive Sri Rajagopalan as Chief Technology Officer to Advance AI-driven Enterprise-Grade Platform Growthfinanznachrichten.de",
+      "source": "Finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-02/67786008-health-in-tech-inc-health-in-tech-appoints-former-sap-and-ibm-executive-sri-rajagopalan-as-chief-technology-officer-to-advance-ai-driven-enterprise-008.htm",
+      "published_at": "2026-02-25T12:33:15Z",
+      "author": null,
+      "image_url": "https://www.finanznachrichten.de/content/g/fb.png",
+      "content": "STUART, Fla., Feb. 24, 2026 /PRNewswire/ -- Health In Tech, Inc. (Nasdaq: HIT), an AI-enabled InsurTech platform company, today announced the appointment of Sri Rajagopalan as Chief Technology Office… [+6146 chars]"
+    },
+    {
+      "title": "What is Digital Marketing? A Complete Beginner’s Guide to Learn, Earn & Grow Online",
+      "description": "Learn what is digital marketing, how it works, skills beginners need, earning methods, and step-by-step roadmap to start digital marketing successfully",
+      "source": "Richainspires.in",
+      "url": "https://richainspires.in/what-is-digital-marketing-beginner-guide/",
+      "published_at": "2026-02-25T12:32:57Z",
+      "author": "Richa",
+      "image_url": "https://richainspires.in/wp-content/uploads/2026/02/digital-marketing-strategy-featured.webp",
+      "content": "Today, almost every buying decision starts online. People search on Google, watch YouTube reviews, compare prices on websites, and follow brands on social media before spending money. This shift has … [+21053 chars]"
+    },
+    {
+      "title": "The Secret iPhone Setting That Makes Every Photo Sharper Instantly",
+      "description": "Capturing sharp, clear photos with your iPhone can sometimes feel challenging, even with its advanced camera technology. Whether you’re documenting a fleeting moment or focusing on intricate details, blurry images can be frustrating. However, by mastering you…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/the-secret-iphone-setting-that-makes-every-photo-sharper-instantly/",
+      "published_at": "2026-02-25T12:30:42Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iPhone-3.webp",
+      "content": "Capturing sharp, clear photos with your iPhone can sometimes feel challenging, even with its advanced camera technology. Whether you’re documenting a fleeting moment or focusing on intricate details,… [+5673 chars]"
+    },
+    {
+      "title": "Cisco Catalyst SD-WAN users targeted in series of cyber attacks",
+      "description": "The NCSC, Cisa, and other Five Eyes agencies have warned of mass exploitation of vulnerabilities in Cisco Catalyst SD-WAN, which Cisco is attributing to an unknown threat actor called UAT-8616.",
+      "source": "ComputerWeekly.com",
+      "url": "https://www.computerweekly.com/news/366639459/Cisco-Catalyst-SD-WAN-users-targeted-in-series-of-cyber-attacks",
+      "published_at": "2026-02-25T12:30:00Z",
+      "author": "Alex Scroxton",
+      "image_url": "https://www.computerweekly.com/visuals/German/article/wires-network-security-adobe.jpg",
+      "content": "The UKs National Cyber Security Centre (NCSC) and its partner agencies in the Anglophone Five Eyes intelligence-sharing group have warned users of Cisco Catalyst Software Defined Wide Area Networks (… [+3876 chars]"
+    },
+    {
+      "title": "Board-to-Board Connector Global Market Forecast to 2030: Opportunities in Rising Adoption of Electric Vehicles and Increasing Demand for Rugged and Field-Reliable Electronics and Heavy-Duty Machinery",
+      "description": "Expansion in industrial automation and robotics is driving this growth, necessitating more interconnected technologies for reliable data transmission. Adoption of compact, vibration-resistant, and high-speed connectors is increasing as industries focus on Ind…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244513/28124/en/Board-to-Board-Connector-Global-Market-Forecast-to-2030-Opportunities-in-Rising-Adoption-of-Electric-Vehicles-and-Increasing-Demand-for-Rugged-and-Field-Reliable-Electronics-and-He.html",
+      "published_at": "2026-02-25T12:30:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Board-to-Board Connector Market by Type, Connector Type, Mounting, Pitch - Global Forecast to 2030\" report has been added to ResearchAndMarkets.com's of… [+8303 chars]"
+    },
+    {
+      "title": "Digital Realty Expands Innovation Lab Network to Singapore, Japan and London to Accelerate AI and Hybrid Cloud Implementation",
+      "description": "Asia Pacific and European locations will provide real-world environments for customers and partners to test and optimize next generation infrastructure Asia Pacific and European locations will provide real-world environments for customers and partners to test…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244506/0/en/Digital-Realty-Expands-Innovation-Lab-Network-to-Singapore-Japan-and-London-to-Accelerate-AI-and-Hybrid-Cloud-Implementation.html",
+      "published_at": "2026-02-25T12:30:00Z",
+      "author": "Digital Realty Trust, L.P.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/dabe9af5-a528-4432-8a44-867697ef609b",
+      "content": "AUSTIN, Texas, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Digital Realty (NYSE: DLR), the worlds largest cloud- and carrier-neutral data center platform, today announced the expansion of its Digital Realty In… [+7375 chars]"
+    },
+    {
+      "title": "Medline Reports Fourth Quarter and Full Year 2025 Results",
+      "description": "NORTHFIELD, Ill., Feb. 25, 2026 (GLOBE NEWSWIRE) -- Medline Inc. (“Medline” or the “Company”) (Nasdaq: MDLN), the largest provider of medical-surgical (“med-surg”) products and supply chain solutions serving all points of care2, today reported its operating r…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244502/0/en/Medline-Reports-Fourth-Quarter-and-Full-Year-2025-Results.html",
+      "published_at": "2026-02-25T12:30:00Z",
+      "author": "Medline Industries, LP",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/70e45830-32e3-4232-b15b-7e43c436de41",
+      "content": "<ul><li>Delivered strong full year 2025 results</li><li>Completed Initial Public Offering</li><li>Introduced full year 2026 guidance</li><li>Fourth quarter net sales of $7.8 billion, an increase of 1… [+47387 chars]"
+    },
+    {
+      "title": "Amerigo Announces Strong 2025 Results & Quarterly Dividend",
+      "description": "VANCOUVER, British Columbia, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Amerigo Resources Ltd. (TSX: ARG; OTCQX: ARREF) (“Amerigo” or the “Company”) is pleased to announce strong financial results for the year and three months (“Q4-2025”) ended December 31, 2025. Doll…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244499/0/en/Amerigo-Announces-Strong-2025-Results-Quarterly-Dividend.html",
+      "published_at": "2026-02-25T12:30:00Z",
+      "author": "Amerigo Resources Ltd",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/54a59677-596f-4928-a94a-e25a74e49aea",
+      "content": "<ul><li>2025 Net Income of $35.4 million, EBITDA1 of $89.8 million and Free Cash Flow to Equity1 of $37.1 million</li><li>18th Quarterly Dividend of Cdn$0.04 Declared</li><li>$20.4 million Returned t… [+32038 chars]"
+    },
+    {
+      "title": "BEN LAMM MIGHT JUST SAVE THE WORLD",
+      "description": "Can Ben Lamm save the planet? He thinks so. Short, stocky and unassuming with a puckish sense of humor, the shaggy-haired Dallas-based entrepreneur seems more like the brainiac in the back of class who loans everyone his calculus notes than a slick, high-powe…",
+      "source": "SPIN",
+      "url": "https://www.spin.com/2026/02/ben-lamm-woolly-mammoth/",
+      "published_at": "2026-02-25T12:30:00Z",
+      "author": "Linda Marsa",
+      "image_url": "https://static.spin.com/files/2026/02/GettyImages-2175315423.jpg",
+      "content": "Can Ben Lamm save the planet? He thinks so.\r\nShort, stocky and unassuming with a puckish sense of humor, the shaggy-haired Dallas-based entrepreneur seems more like the brainiac in the back of class … [+19728 chars]"
+    },
+    {
+      "title": "Wrap Expands into Indian Market Following Purchase Order for DFR-X Non-Lethal Drone Systems, BolaWrap Devices, and WrapReality Virtual Training Systems",
+      "description": "Wrap Expands into Indian Market Following Purchase Order for DFR-X Non-Lethal Drone Systems, BolaWrap Devices, and WrapReality Virtual Training Systems...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244507/0/en/Wrap-Expands-into-Indian-Market-Following-Purchase-Order-for-DFR-X-Non-Lethal-Drone-Systems-BolaWrap-Devices-and-WrapReality-Virtual-Training-Systems.html",
+      "published_at": "2026-02-25T12:30:00Z",
+      "author": "Wrap Technologies, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/4bb925f9-68c4-4202-b586-7437078944f3",
+      "content": "MIAMI, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Wrap Technologies, Inc. (NASDAQ: WRAP) (Wrap or the Company), a global leader in non-lethal response and public safety technology, today announced a strategic… [+9566 chars]"
+    },
+    {
+      "title": "Takeaways from Trump's State of the Union. And, House rejects aviation safety bill",
+      "description": "Trump's State of the Union underplayed the economic problems that voters are concerned about. And, the House rejected a bipartisan aviation safety bill after the Pentagon abruptly withdrew support.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/02/25/g-s1-111453/up-first-newsletter-trump-state-of-the-union-aviation-safety-bill-pete-hegseth-anthropic",
+      "published_at": "2026-02-25T12:28:29Z",
+      "author": "Brittney Melton",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7921x4456+0+413/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F2a%2F059a043b4872bcc1bf69d2385b33%2Fgettyimages-2262903834.jpg",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7214 chars]"
+    },
+    {
+      "title": "Indian stocks set for another lacklustre year amid geopolitical uncertainty: Poll",
+      "description": "Optimism about Indian stocks among equity strategists has waned from three months ago, although analysts ​still expect benchmark indices to scale new highs ​by mid-year, according to a Reuters poll.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-set-for-another-lacklustre-year-amid-geopolitical-uncertainty-poll/articleshow/128782329.cms",
+      "published_at": "2026-02-25T12:27:24Z",
+      "author": "Reuters",
+      "image_url": "https://img.etimg.com/thumb/msid-128782329,width-1200,height-630,imgsize-156066,overlay-etmarkets/articleshow.jpg",
+      "content": "Optimism about Indian stocks among equity strategists has waned from three months ago, although analysts still expect benchmark indices to scale new highs by mid-year, according to a Reuters poll.Aft… [+2854 chars]"
+    },
+    {
+      "title": "Private Credit’s AI Woes Not Systemic, Brookfield’s Flatt Says",
+      "description": "The risk of AI disruption upending private credit poses little threat to the wider financial system or the global economy, according to Brookfield Corp.’s Chief Executive Officer Bruce Flatt.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/private-credits-ai-woes-not-systemic-brookfields-flatt-says",
+      "published_at": "2026-02-25T12:25:37Z",
+      "author": "Bloomberg News",
+      "image_url": null,
+      "content": "(Bloomberg) The risk of AI disruption upending private credit poses little threat to the wider financial system or the global economy, according to Brookfield Corp.s Chief Executive Officer Bruce Fla… [+4865 chars]"
+    },
+    {
+      "title": "Electrolyzers Global Market Forecasts 2025-2031 with Thyssenkrupp Nucera, Siemens Energy, Nel, Cummins, Plug Power, LONGi, Asahi Kasei Dominating",
+      "description": "The global electrolyzers market is forecasted to grow from USD 2.08 billion in 2025 to USD 14.48 billion by 2031, at a CAGR of 38.2%. Key drivers include the rise in renewable energy deployments, industrial decarbonization, and clean mobility initiatives, all…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244496/28124/en/Electrolyzers-Global-Market-Forecasts-2025-2031-with-Thyssenkrupp-Nucera-Siemens-Energy-Nel-Cummins-Plug-Power-LONGi-Asahi-Kasei-Dominating.html",
+      "published_at": "2026-02-25T12:25:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Electrolyzers Market, by Technology, Power Rating, Application, Component, and Region - Global Forecast to 2031\" has been added to ResearchAndMarkets.co… [+6764 chars]"
+    },
+    {
+      "title": "Type 2 Diabetes Market Forecasted to Reach USD 79.25 Billion by 2035 Amid Increasing Disease Burden and Innovation in GLP-1 Therapies",
+      "description": "The global type 2 diabetes market size surpassed USD 40.09 billion in 2025 and is projected to reach approximately USD 79.25 billion by 2035, growing at a CAGR of 7.05% from 2026 to 2035. The improved diagnosis of T2D and the consumption of a poor diet drive …",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244497/0/en/Type-2-Diabetes-Market-Forecasted-to-Reach-USD-79-25-Billion-by-2035-Amid-Increasing-Disease-Burden-and-Innovation-in-GLP-1-Therapies.html",
+      "published_at": "2026-02-25T12:25:00Z",
+      "author": "Precedence Research",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "content": "Ottawa, Feb. 25, 2026 (GLOBE NEWSWIRE) -- According to Precedence Research, the global type 2 diabetes market size is predicted to reach around USD 79.25 billion by 2035, increasing from USD 43.29 bi… [+22127 chars]"
+    },
+    {
+      "title": "Texas Instruments (TXN) Fell Due to Quicker Recovery Expectation",
+      "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/texas-instruments-txn-fell-due-122115042.html",
+      "published_at": "2026-02-25T12:21:15Z",
+      "author": "Soumya Eswaran",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/318214b27e0dfe70cf048105ca9e5501",
+      "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2591 chars]"
+    },
+    {
+      "title": "Green Hydrogen Industry Research and Global Forecast Report 2025-2032: Market to Grow at a CAGR of 60%, Driven by Emergence of Hubs & Industrial Clusters, and Grid Balancing & Energy Storage",
+      "description": "The green hydrogen market is set to expand dramatically from USD 2.79 billion in 2025 to USD 74.81 billion by 2032, growing at a CAGR of 60.0%. This growth is driven by declining renewable energy costs, technological advancements in electrolysis, and rising d…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244493/28124/en/Green-Hydrogen-Industry-Research-and-Global-Forecast-Report-2025-2032-Market-to-Grow-at-a-CAGR-of-60-Driven-by-Emergence-of-Hubs-Industrial-Clusters-and-Grid-Balancing-Energy-Stora.html",
+      "published_at": "2026-02-25T12:21:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Green Hydrogen Market by Technology, Renewable Source, End-use Industry, and Region - Global Forecast to 2032\" report has been added to ResearchAndMarke… [+10962 chars]"
+    },
+    {
+      "title": "AI Is Reshaping Everything—And Faster Than Most Realize",
+      "description": "Former Wall Street executive Enrique Abeyta outlines how artificial intelligence is beginning to redefine work, institutions, and modern decision-making in new video presentation Former Wall Street executive Enrique Abeyta outlines how artificial intelligence…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244492/0/en/AI-Is-Reshaping-Everything-And-Faster-Than-Most-Realize.html",
+      "published_at": "2026-02-25T12:20:00Z",
+      "author": "Tech Analyst and Former Wall Street Insider Enrique Abeyta",
+      "image_url": null,
+      "content": "Washington, D.C., Feb. 25, 2026 (GLOBE NEWSWIRE) -- Artificial intelligence is no longer a distant concept or a niche innovationit is rapidly becoming a defining force influencing how industries oper… [+4234 chars]"
+    },
+    {
+      "title": "Slow Volume Growth Hurt Copart (CPRT) in Q4",
+      "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/slow-volume-growth-hurt-copart-121846415.html",
+      "published_at": "2026-02-25T12:18:46Z",
+      "author": "Soumya Eswaran",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/1cc02852e282008c6ae60d65c81222f6",
+      "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2495 chars]"
+    },
+    {
+      "title": "Keysight Technologies (KEYS) is Returning to Growth",
+      "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/keysight-technologies-keys-returning-growth-121710161.html",
+      "published_at": "2026-02-25T12:17:10Z",
+      "author": "Soumya Eswaran",
+      "image_url": "https://s.yimg.com/os/en/insidermonkey.com/928fee4ed8ebd1f95596ab330e63279c",
+      "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2569 chars]"
+    },
+    {
+      "title": "Denver Announces Data Center Moratorium as Opposition Picks Up Steam Around the Country",
+      "description": "Many states are considering a moratorium. Will national politicians catch up?",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/denver-announces-data-center-moratorium-as-opposition-picks-up-steam-around-the-country-2000726129",
+      "published_at": "2026-02-25T12:15:25Z",
+      "author": "Ece Yildirim",
+      "image_url": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2685684165-1200x675.jpg",
+      "content": "Denver Mayor Mike Johnston announced this week that the city will be imposing a moratorium on the development of new data centers.\r\nIf approved in an upcoming city council ordinance vote, the morator… [+5445 chars]"
+    },
+    {
+      "title": "How Digital Marketing Fuels Business Growth in the Modern Era?",
+      "description": "A comprehensive guide on leveraging SEO, SMM and data analytics to drive sustainable business growth in a competitive digital landscape.",
+      "source": "Indsysholdings.com",
+      "url": "https://www.indsysholdings.com/blog/how-digital-marketing-fuels-business-growth.html",
+      "published_at": "2026-02-25T12:15:02Z",
+      "author": "Author: Hari Krishnan",
+      "image_url": "https://www.indsysholdings.com/blog/img/how-digital-marketing-fuels-business-growth.png",
+      "content": "In todays hyper-connected competitive and digital world,\r\n digital marketing has become a backbone and a necessary one\r\n for sustainable business growth. With customers spending more\r\n time online th… [+5563 chars]"
+    },
+    {
+      "title": "Donut Lab Solid-State Battery Claim Challenged After VTT Lab Findings",
+      "description": "The world’s first solid-state battery, announced by Donut Lab, has sparked interest for its potential advancements over traditional lithium-ion technology. While marketed as a breakthrough in energy density, safety, and charging speed, independent testing by …",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/donut-lab-solid-state-battery/",
+      "published_at": "2026-02-25T12:15:00Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/lithium-ion-voltage-curve-comparison-graph.jpg",
+      "content": "The world’s first solid-state battery, announced by Donut Lab, has sparked interest for its potential advancements over traditional lithium-ion technology. While marketed as a breakthrough in energy … [+5674 chars]"
+    },
+    {
+      "title": "Scotty Kilmer Calls His Brand-New Toyota Camry \"Trash\"",
+      "description": "For decades, Scotty Kilmer built his reputation on one uncompromising message: never buy a new car. The veteran mechanic consistently warned viewers about...",
+      "source": "Autoblog",
+      "url": "https://www.autoblog.com/news/scotty-kilmer-calls-his-brand-new-toyota-camry-trash",
+      "published_at": "2026-02-25T12:15:00Z",
+      "author": "Leroy Marion",
+      "image_url": "https://s.yimg.com/os/en/autoblog_arena_articles_145/4fa4a80abce12f59b735e028b6484b8b",
+      "content": "Does Scotty Regret His Purchase?\r\nFor decades, Scotty Kilmer built his reputation on one uncompromising message: never buy a new car. The veteran mechanic consistently warned viewers about depreciati… [+4051 chars]"
+    },
+    {
+      "title": "Digital Identity Solutions Market Global Forecast 2025-2031: Cross-Border Identity Solutions, Advanced Authentication and Blockchain-Enabled Security Drive Next-Generation Digital ID Ecosystems",
+      "description": "The global digital identity solutions market is set to surge from USD 44.20 billion in 2025 to USD 132.14 billion by 2031, registering a CAGR of 20.0%. The rapid integration of AI, ML, and blockchain is revolutionizing digital identity, enhancing security thr…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244491/28124/en/Digital-Identity-Solutions-Market-Global-Forecast-2025-2031-Cross-Border-Identity-Solutions-Advanced-Authentication-and-Blockchain-Enabled-Security-Drive-Next-Generation-Digital-ID.html",
+      "published_at": "2026-02-25T12:14:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Digital Identity Solutions Market by Hardware, Solution type, Identity Type - Global Forecast to 2031\" has been added to ResearchAndMarkets.com's offeri… [+7050 chars]"
+    },
+    {
+      "title": "$3.2+ Bn Heavy Equipment Telematics Markets, 2032 with Samsara, Trimble, Geotab, ORBCOMM, and CalAmp Leading",
+      "description": "The global heavy equipment telematics market is expected to surge from USD 1.33 billion in 2025 to USD 3.21 billion by 2032, growing at a CAGR of 13.4%. Key drivers include rising fuel costs, equipment failures, and thefts. Equipment maintenance and diagnosti…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244490/28124/en/3-2-Bn-Heavy-Equipment-Telematics-Markets-2032-with-Samsara-Trimble-Geotab-ORBCOMM-and-CalAmp-Leading.html",
+      "published_at": "2026-02-25T12:11:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Heavy Equipment Telematics Market by Industry (Construction, Mining, Agriculture), Solution (Asset Navigation &amp; Tracking, Fleet Performance, Diagnos… [+9934 chars]"
+    },
+    {
+      "title": "How fast can Donut Lab's EV battery charge? #lifestyle",
+      "description": "A dramatic leap in charging speed — with caveats Independent testing released by Finnish start‑up Donut Lab found that its new solid‑state battery can reach roughly 80 percent charge in about five minutes. If that performance holds up across production units …",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/lifestyle/how-fast-can-donut-lab-s-ev-battery-charge",
+      "published_at": "2026-02-25T12:10:47Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "content": "Independent testing released by Finnish startup Donut Lab found that its new solidstate battery can reach roughly 80 percent charge in about five minutes. If that performance holds up across producti… [+1558 chars]"
+    },
+    {
+      "title": "Covalon Reports on 2026 First Quarter Results and Recent Achievements and Highlights",
+      "description": "MISSISSAUGA, Ontario — Covalon Technologies Ltd. (the “Company” or “Covalon”) (TSXV: COV; OTCQX: CVALF), an advanced medical technologies company, today announced its fiscal 2026 first quarter results for the period ended December 31, 2025, along with its rec…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/covalon-reports-on-2026-first-quarter-results-and-recent-achievements-and-highlights",
+      "published_at": "2026-02-25T12:09:10Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "MISSISSAUGA, Ontario Covalon Technologies Ltd. (the Company or Covalon) (TSXV: COV; OTCQX: CVALF), an advanced medical technologies company, today announced its fiscal 2026 first quarter results for … [+10353 chars]"
+    },
+    {
+      "title": "NMG Completes Acquisition of Brownfield Site in Bécancour to Deploy its Active Anode Material Production for Panasonic Energy",
+      "description": "Brownfield site enabling NMG to accelerate the construction and commissioning of a first stage Bécancour Battery Material Plant to fulfill Panasonic Energy’s 13,000-tpa active anode material offtake Strategic acquisition of 143,000-m2 site with large industri…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nmg-completes-acquisition-of-brownfield-site-in-becancour-to-deploy-its-active-anode-material-production-for-panasonic-energy",
+      "published_at": "2026-02-25T12:08:57Z",
+      "author": "Business Wire",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/bw20260225476582_canadoil.jpeg",
+      "content": "<ul><li>Brownfield site enabling NMG to accelerate the construction and commissioning of a first stage Bécancour Battery Material Plant to fulfill Panasonic Energys 13,000-tpa active anode material o… [+10999 chars]"
+    },
+    {
+      "title": "First Irish National Maritime Security Strategy launched",
+      "description": "Minister for Defence Helen McEntee has launched Ireland's first National Maritime Security Strategy, aimed at safeguarding Irish sovereignty and to deepen naval co-operation with France and the UK.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/ireland/2026/0225/1560362-maritime-strategy/",
+      "published_at": "2026-02-25T12:08:05Z",
+      "author": "Harry Manning",
+      "image_url": "https://www.rte.ie/images/0023f511-1600.jpg",
+      "content": "Minister for Defence Helen McEntee has launched Ireland's first National Maritime Security Strategy, aimed at safeguarding Irish sovereignty and to deepen naval co-operation with France and the UK.\r\n… [+4953 chars]"
+    },
+    {
+      "title": "TOKYO SKYTREE Elevates Cherry Blossom Season with “THE Sakura SKYTREE” Spring Experience",
+      "description": "Hello Kotpad brings you the latest Tribal News from India along with real-time Kotpad news, Koraput updates, and top Odisha headlines. Stay informed with authentic local coverage.",
+      "source": "Hellokotpad.com",
+      "url": "https://hellokotpad.com/business/tokyo-skytree-elevates-cherry-blossom-season-with-the-sakura-skytree-spring-experience/",
+      "published_at": "2026-02-25T12:07:35Z",
+      "author": "Neel Achary",
+      "image_url": "https://api.newsinpics.com/uploads/0t43pvesys.jpg",
+      "content": "Tokyo, Feb 25:Tobu Tower Skytree Co., Ltd. has announced the return of its seasonal spring event, “THE Sakura SKYTREE® – Going to Meet the Cherry Blossoms Above the Clouds,” at TOKYO SKYTREE. The lim… [+2866 chars]"
+    },
+    {
+      "title": "Why Voice AI Is Ready for Prime Time",
+      "description": "Why Voice AI Is Ready for Prime Time written by John Jantsch read more at Duct Tape Marketing\nCatch the Full Episode: Episode Overview Voice agents are rapidly evolving from novelty tools into core revenue infrastructure. Instead of functioning as glorified t…",
+      "source": "Ducttapemarketing.com",
+      "url": "https://ducttapemarketing.com/why-voice-ai-is-ready-for-prime-time/",
+      "published_at": "2026-02-25T12:06:52Z",
+      "author": "John Jantsch",
+      "image_url": "https://ducttapemarketing.com/wp-content/uploads/2026/02/panos-sakalakis-63sI4HO30tw-unsplash-scaled.jpg",
+      "content": "John Jantsch (00:03.032)\r\nSo voice agents are moving from novelty to revenue infrastructure. And if that's is if you stop treating them like talking FAQs and start treating them like a role, maybe qu… [+23077 chars]"
+    },
+    {
+      "title": "Read the complete transcript of Trump’s 2026 State of the Union",
+      "description": "The address covered immigration, the economy and more.",
+      "source": "Boston Herald",
+      "url": "https://www.bostonherald.com/2026/02/25/state-of-the-union-transcript/",
+      "published_at": "2026-02-25T12:06:50Z",
+      "author": "Associated Press",
+      "image_url": "https://www.bostonherald.com/wp-content/uploads/2026/02/AP26056085177572.jpg?w=1024&h=682",
+      "content": "WASHINGTON (AP) President Donald Trumps State of the Union address, delivered on Tuesday, Feb. 24, 2026, as transcribed by The Associated Press:\r\nSpeaker Johnson, Vice President Vance, first lady of … [+59103 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 39422,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "Gemini Adds Voice Chat & AI Studio Tools for Rapid Product Prototyping",
+        "description": "Gemini AI introduces a range of advanced features designed to meet the needs of both technical and creative professionals, as explored by Dylan Davis. One standout capability is its expansive memory, which supports up to 1 million tokens, far surpassing the l…",
+        "url": "https://www.geeky-gadgets.com/gemini-million-token-memory/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/gemini-speed-comparison-chatgpt-claude.jpg",
+        "publishedAt": "2026-02-25T12:41:00Z",
+        "content": "Gemini AI introduces a range of advanced features designed to meet the needs of both technical and creative professionals, as explored by Dylan Davis. One standout capability is its expansive memory,… [+6376 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Preimplantation Genetic Testing Market Research and Global Forecast Report 2025-2030",
+        "description": "The preimplantation genetic testing market is projected to surge from USD 690.2 million in 2025 to USD 1.13 billion by 2030, reflecting a robust CAGR of 10.5%. Key growth drivers include rising genetic disorder prevalence, increased awareness of early genetic…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244515/28124/en/Preimplantation-Genetic-Testing-Market-Research-and-Global-Forecast-Report-2025-2030.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-02-25T12:41:00Z",
+        "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Preimplantation Genetic Testing Market by Product &amp; Service, Technology, Procedure, Application, Type of Cycle - Global Forecast to 2030\" report has… [+7992 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "AI student advocate among first lady Melania Trump's State of the Union guests",
+        "description": "Everest Nevraumont, a 10-year-old AI advocate and Austin Alpha School student, joined first lady Melania Trump at President Donald Trump's address Tuesday night.",
+        "url": "https://www.foxnews.com/media/ai-student-advocate-among-first-lady-melania-trumps-state-union-guests",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/everest-nevraumont.jpg",
+        "publishedAt": "2026-02-25T12:40:08Z",
+        "content": "Ten-year-old student and artificial intelligence (AI) advocate Everest Nevraumont was among first lady Melania Trump's guests at President Donald Trump's State of the Union address Tuesday night.\r\nNe… [+2461 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "US Market | US stock futures rise in run-up to Nvidia earnings as AI worries subside",
+        "description": "U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week as investors assessed risks to the AI trade and growing tariff doubts heading into Nvidia's earnings due later in the day.",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-futures-rise-in-run-up-to-nvidia-earnings-as-ai-worries-subside/articleshow/128782743.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128782743,width-1200,height-630,imgsize-131808,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-02-25T12:39:41Z",
+        "content": "U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week as investors assessed risks to the AI trade and growing tariff doubts heading into Nvidia's earnings due l… [+2925 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.qt.io"
+        },
+        "author": "volker.hilsheimer@qt.io (Volker Hilsheimer)",
+        "title": "New in Qt 6.11: QRangeModel updates and QRangeModelAdapter",
+        "description": "When introducing QRangeModel for Qt 6.10 I wrote that we'd try to tackle some limitations in future releases. In Qt 611, QRangeModel supports caching ranges like std::views::filter, and provides a customization point for reading from and writing role-data to …",
+        "url": "https://www.qt.io/blog/new-in-qt-6.11-qrangemodel-updates-and-qrangemodeladapter",
+        "urlToImage": "https://www.qt.io/hubfs/AI-Generated%20Media/Images/An%20abstract%20image%20with%20a%20mirror%20showing%20the%20reflection%20of%20a%20Qt%20desktop%20application%20with%20lists%20and%20tables%20of%20data-1.png",
+        "publishedAt": "2026-02-25T12:39:10Z",
+        "content": "When introducing QRangeModel for Qt 6.10 I wrote that we'd try to tackle some limitations in future releases. In Qt 611, QRangeModel supports caching ranges like std::views::filter, and provides a cu… [+7587 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BioSpace"
+        },
+        "author": null,
+        "title": "Verdiva Bio Announces Completion of Enrollment for EVOLVE-2 Phase 2b Study of VRB-101, a Potential Once-Weekly Oral GLP-1 Peptide Analog in Individuals with Obesity",
+        "description": "Verdiva Bio Announces Completion of Enrollment for EVOLVE-2 Phase 2b Study of VRB-101, a Potential Once-Weekly Oral GLP-1 Peptide Analog in Individuals with Obesitybiospace.com",
+        "url": "https://www.biospace.com/press-releases/verdiva-bio-announces-completion-of-enrollment-for-evolve-2-phase-2b-study-of-vrb-101-a-potential-once-weekly-oral-glp-1-peptide-analog-in-individuals-with-obesity",
+        "urlToImage": "https://static.biospace.com/dims4/default/d32393a/2147483647/strip/true/crop/1120x630+40+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-biospace.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F88%2Fa9fddaf440db946b77e1d45d2e26%2Fbiospace-5.png",
+        "publishedAt": "2026-02-25T12:39:09Z",
+        "content": "<ul><li>Over 200 participants fully enrolled across 22 sites in the US</li><li>Trial designed to inform optimal dose and titration schedule of VRB-101 for future clinical development</li><li>Topline … [+3963 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Chinese drone maker DJI sues to contest US import ban",
+        "description": "Chinese firm DJI, the world's largest drone manufacturer, has sued the US Federal Communications Commission for adding it to a blacklist which restricts sales in the United States, the company said Wednesday (Feb 25).DJI has faced growing scrutiny from Washin…",
+        "url": "https://www.channelnewsasia.com/east-asia/dji-chinese-drone-maker-sues-contest-us-import-ban-5952581",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--hYwbc1Rt--/c_crop,h_449,w_799,x_1,y_22/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-22T210450Z_2_LYNXMPELBL0TA_RTROPTP_3_USA-CHINA-DRONES-CONGRESS.JPG?itok=7pvTIt9j",
+        "publishedAt": "2026-02-25T12:39:08Z",
+        "content": "Chinese firm DJI, the world's largest drone manufacturer, has sued the US Federal Communications Commission for adding it to a blacklist which restricts sales in the United States, the company said W… [+1746 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Insurance Journal"
+        },
+        "author": "Admin",
+        "title": "Hackers Used AI to Breach 600 Firewalls in Weeks, Amazon Says",
+        "description": "Over the last five weeks, a limited number of hackers broke into more than 600 firewalls across dozens of countries with the help of widely available artificial intelligence tools, according to security research from Amazon.com Inc. The small group of …",
+        "url": "https://www.insurancejournal.com/news/national/2026/02/25/859554.htm",
+        "urlToImage": "https://www.insurancejournal.com/app/uploads/2024/01/amazon-logo-on-black-wall-190121941-bigstock-scaled.jpg",
+        "publishedAt": "2026-02-25T12:39:06Z",
+        "content": "Over the last five weeks, a limited number of hackers broke into more than 600 firewalls across dozens of countries with the help of widely available artificial intelligence tools, according to secur… [+2164 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "BL Bengaluru Bureau",
+        "title": "India–Europe cargo links to take off as Kempegowda International Airport, Frankfurt Airport tie up",
+        "description": "Kempegowda International Airport and Frankfurt Airport enhance cargo ties to boost trade and streamline logistics between India and Europe.",
+        "url": "https://www.thehindubusinessline.com/economy/logistics/indiaeurope-cargo-links-to-take-off-as-kempegowda-international-airport-frankfurt-airport-tie-up/article70675347.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/v6rie2/article70675626.ece/alternates/LANDSCAPE_1200/2024-01-18T132707Z_1511986224_RC2DK5A4BL0Z_RTRMADP_3_INDIA-AVIATION-SUMMIT.JPG",
+        "publishedAt": "2026-02-25T12:38:34Z",
+        "content": "Kempegowda International Airport, Bengaluru, and Frankfurt Airport have signed a Memorandum of Understanding to enhance cargo connectivity between South India and Europe. The agreement was signed dur… [+1785 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "Tanmay Bhat clarifies about GLP-1 usage after netizens question his 75 kg weight loss. 'Spare me the moral lecture'",
+        "description": "Tanmay Bhat has addressed criticism after revealing that he is experimenting with GLP-1 weight loss medication. The comedian clarified that he had already lost over 75 kg without using any injections and is only trying the drug to see how it works for him. He…",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/tanmay-bhat-clarifies-about-glp-1-usage-after-netizens-question-his-75-kg-weight-loss-spare-me-moral-lecture/articleshow/128782048.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128782715,width-1200,height-630,imgsize-40274,overlay-etpanache/articleshow.jpg",
+        "publishedAt": "2026-02-25T12:37:04Z",
+        "content": "Comedian and content creator Tanmay Bhat has addressed the chatter around his dramatic weight loss after social media users began questioning whether his transformation was driven by GLP-1 drugs. The… [+2204 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Precedence Research",
+        "title": "Marketing Technology (MarTech) Market Worth USD 3.28 Trillion by 2035 Driven by AI, Agile Marketing, and Privacy-First Personalization",
+        "description": "The global marketing technology (MarTech) market size will grow from USD 669.14 billion in 2026 to nearly USD 3.28 trillion by 2035, expanding at a CAGR of 19.40% from 2026 to 2035. Marketers use marketing technology tools to inspire, retain, and engage consu…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244514/0/en/Marketing-Technology-MarTech-Market-Worth-USD-3-28-Trillion-by-2035-Driven-by-AI-Agile-Marketing-and-Privacy-First-Personalization.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+        "publishedAt": "2026-02-25T12:36:00Z",
+        "content": "Ottawa, Feb. 25, 2026 (GLOBE NEWSWIRE) -- According to Precedence Research, the global marketing technology market size was calculated at USD 557.94 billion in 2025 and is predicted to be worth USD 3… [+17236 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Amerigo Announces Strong 2025 Results & Quarterly Dividend",
+        "description": "2025 Net Income of $35.4 million, EBITDA1 of $89.8 million and Free Cash Flow to Equity1 of $37.1 million 18th Quarterly Dividend of Cdn$0.04 Declared $20.4 million Returned to Shareholders in 2025 Company Remains Bullish on Copper Prices, Capital Return Stra…",
+        "url": "https://financialpost.com/globe-newswire/amerigo-announces-strong-2025-results-quarterly-dividend",
+        "urlToImage": null,
+        "publishedAt": "2026-02-25T12:34:53Z",
+        "content": "MVCs pricing terms are based on the average LME copper price of the third month following the delivery of copper concentrates produced under the DET tolling agreement (M+3). This means that when fina… [+6558 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Soumya Eswaran",
+        "title": "Here’s Why Madison Large Cap Fund Chose to Exit Nike (NKE)",
+        "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+        "url": "https://finance.yahoo.com/news/why-madison-large-cap-fund-123443957.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/9fea7ca260b4a4e47d8daf77e7f77830",
+        "publishedAt": "2026-02-25T12:34:43Z",
+        "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2563 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Omar Sohail",
+        "title": "Samsung Originally Intended To Charge Apple A 60% Premium For LPDDR5X RAM, But The iPhone Maker’s Desperation Led It Down A Costly Path",
+        "description": "A robust and reliable supply chain doesn’t make Apple immune to DRAM shortages, which is why the company’s executives were previously reported to have booked long-term hotel stays in South Korea in an effort to come to terms with Samsung to secure adequate su…",
+        "url": "https://wccftech.com/apple-agreed-to-pay-samsung-a-massive-sum-for-lpddr5x-ram/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Samsung-memory-chips-for-iPhone.jpg",
+        "publishedAt": "2026-02-25T12:34:21Z",
+        "content": "A robust and reliable supply chain doesnt make Apple immune to DRAM shortages, which is why the companys executives were previously reported to have booked long-term hotel stays in South Korea in an … [+2162 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Finanznachrichten.de"
+        },
+        "author": null,
+        "title": "Health In Tech Inc.: Health In Tech Appoints Former SAP and IBM Executive Sri Rajagopalan as Chief Technology Officer to Advance AI-driven Enterprise-Grade Platform Growth",
+        "description": "Health In Tech Inc.: Health In Tech Appoints Former SAP and IBM Executive Sri Rajagopalan as Chief Technology Officer to Advance AI-driven Enterprise-Grade Platform Growthfinanznachrichten.de",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-02/67786008-health-in-tech-inc-health-in-tech-appoints-former-sap-and-ibm-executive-sri-rajagopalan-as-chief-technology-officer-to-advance-ai-driven-enterprise-008.htm",
+        "urlToImage": "https://www.finanznachrichten.de/content/g/fb.png",
+        "publishedAt": "2026-02-25T12:33:15Z",
+        "content": "STUART, Fla., Feb. 24, 2026 /PRNewswire/ -- Health In Tech, Inc. (Nasdaq: HIT), an AI-enabled InsurTech platform company, today announced the appointment of Sri Rajagopalan as Chief Technology Office… [+6146 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Richainspires.in"
+        },
+        "author": "Richa",
+        "title": "What is Digital Marketing? A Complete Beginner’s Guide to Learn, Earn & Grow Online",
+        "description": "Learn what is digital marketing, how it works, skills beginners need, earning methods, and step-by-step roadmap to start digital marketing successfully",
+        "url": "https://richainspires.in/what-is-digital-marketing-beginner-guide/",
+        "urlToImage": "https://richainspires.in/wp-content/uploads/2026/02/digital-marketing-strategy-featured.webp",
+        "publishedAt": "2026-02-25T12:32:57Z",
+        "content": "Today, almost every buying decision starts online. People search on Google, watch YouTube reviews, compare prices on websites, and follow brands on social media before spending money. This shift has … [+21053 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "The Secret iPhone Setting That Makes Every Photo Sharper Instantly",
+        "description": "Capturing sharp, clear photos with your iPhone can sometimes feel challenging, even with its advanced camera technology. Whether you’re documenting a fleeting moment or focusing on intricate details, blurry images can be frustrating. However, by mastering you…",
+        "url": "https://www.geeky-gadgets.com/the-secret-iphone-setting-that-makes-every-photo-sharper-instantly/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iPhone-3.webp",
+        "publishedAt": "2026-02-25T12:30:42Z",
+        "content": "Capturing sharp, clear photos with your iPhone can sometimes feel challenging, even with its advanced camera technology. Whether you’re documenting a fleeting moment or focusing on intricate details,… [+5673 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ComputerWeekly.com"
+        },
+        "author": "Alex Scroxton",
+        "title": "Cisco Catalyst SD-WAN users targeted in series of cyber attacks",
+        "description": "The NCSC, Cisa, and other Five Eyes agencies have warned of mass exploitation of vulnerabilities in Cisco Catalyst SD-WAN, which Cisco is attributing to an unknown threat actor called UAT-8616.",
+        "url": "https://www.computerweekly.com/news/366639459/Cisco-Catalyst-SD-WAN-users-targeted-in-series-of-cyber-attacks",
+        "urlToImage": "https://www.computerweekly.com/visuals/German/article/wires-network-security-adobe.jpg",
+        "publishedAt": "2026-02-25T12:30:00Z",
+        "content": "The UKs National Cyber Security Centre (NCSC) and its partner agencies in the Anglophone Five Eyes intelligence-sharing group have warned users of Cisco Catalyst Software Defined Wide Area Networks (… [+3876 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Board-to-Board Connector Global Market Forecast to 2030: Opportunities in Rising Adoption of Electric Vehicles and Increasing Demand for Rugged and Field-Reliable Electronics and Heavy-Duty Machinery",
+        "description": "Expansion in industrial automation and robotics is driving this growth, necessitating more interconnected technologies for reliable data transmission. Adoption of compact, vibration-resistant, and high-speed connectors is increasing as industries focus on Ind…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244513/28124/en/Board-to-Board-Connector-Global-Market-Forecast-to-2030-Opportunities-in-Rising-Adoption-of-Electric-Vehicles-and-Increasing-Demand-for-Rugged-and-Field-Reliable-Electronics-and-He.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-02-25T12:30:00Z",
+        "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Board-to-Board Connector Market by Type, Connector Type, Mounting, Pitch - Global Forecast to 2030\" report has been added to ResearchAndMarkets.com's of… [+8303 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Digital Realty Trust, L.P.",
+        "title": "Digital Realty Expands Innovation Lab Network to Singapore, Japan and London to Accelerate AI and Hybrid Cloud Implementation",
+        "description": "Asia Pacific and European locations will provide real-world environments for customers and partners to test and optimize next generation infrastructure Asia Pacific and European locations will provide real-world environments for customers and partners to test…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244506/0/en/Digital-Realty-Expands-Innovation-Lab-Network-to-Singapore-Japan-and-London-to-Accelerate-AI-and-Hybrid-Cloud-Implementation.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/dabe9af5-a528-4432-8a44-867697ef609b",
+        "publishedAt": "2026-02-25T12:30:00Z",
+        "content": "AUSTIN, Texas, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Digital Realty (NYSE: DLR), the worlds largest cloud- and carrier-neutral data center platform, today announced the expansion of its Digital Realty In… [+7375 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Medline Industries, LP",
+        "title": "Medline Reports Fourth Quarter and Full Year 2025 Results",
+        "description": "NORTHFIELD, Ill., Feb. 25, 2026 (GLOBE NEWSWIRE) -- Medline Inc. (“Medline” or the “Company”) (Nasdaq: MDLN), the largest provider of medical-surgical (“med-surg”) products and supply chain solutions serving all points of care2, today reported its operating r…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244502/0/en/Medline-Reports-Fourth-Quarter-and-Full-Year-2025-Results.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/70e45830-32e3-4232-b15b-7e43c436de41",
+        "publishedAt": "2026-02-25T12:30:00Z",
+        "content": "<ul><li>Delivered strong full year 2025 results</li><li>Completed Initial Public Offering</li><li>Introduced full year 2026 guidance</li><li>Fourth quarter net sales of $7.8 billion, an increase of 1… [+47387 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Amerigo Resources Ltd",
+        "title": "Amerigo Announces Strong 2025 Results & Quarterly Dividend",
+        "description": "VANCOUVER, British Columbia, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Amerigo Resources Ltd. (TSX: ARG; OTCQX: ARREF) (“Amerigo” or the “Company”) is pleased to announce strong financial results for the year and three months (“Q4-2025”) ended December 31, 2025. Doll…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244499/0/en/Amerigo-Announces-Strong-2025-Results-Quarterly-Dividend.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/54a59677-596f-4928-a94a-e25a74e49aea",
+        "publishedAt": "2026-02-25T12:30:00Z",
+        "content": "<ul><li>2025 Net Income of $35.4 million, EBITDA1 of $89.8 million and Free Cash Flow to Equity1 of $37.1 million</li><li>18th Quarterly Dividend of Cdn$0.04 Declared</li><li>$20.4 million Returned t… [+32038 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SPIN"
+        },
+        "author": "Linda Marsa",
+        "title": "BEN LAMM MIGHT JUST SAVE THE WORLD",
+        "description": "Can Ben Lamm save the planet? He thinks so. Short, stocky and unassuming with a puckish sense of humor, the shaggy-haired Dallas-based entrepreneur seems more like the brainiac in the back of class who loans everyone his calculus notes than a slick, high-powe…",
+        "url": "https://www.spin.com/2026/02/ben-lamm-woolly-mammoth/",
+        "urlToImage": "https://static.spin.com/files/2026/02/GettyImages-2175315423.jpg",
+        "publishedAt": "2026-02-25T12:30:00Z",
+        "content": "Can Ben Lamm save the planet? He thinks so.\r\nShort, stocky and unassuming with a puckish sense of humor, the shaggy-haired Dallas-based entrepreneur seems more like the brainiac in the back of class … [+19728 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Wrap Technologies, Inc.",
+        "title": "Wrap Expands into Indian Market Following Purchase Order for DFR-X Non-Lethal Drone Systems, BolaWrap Devices, and WrapReality Virtual Training Systems",
+        "description": "Wrap Expands into Indian Market Following Purchase Order for DFR-X Non-Lethal Drone Systems, BolaWrap Devices, and WrapReality Virtual Training Systems...",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244507/0/en/Wrap-Expands-into-Indian-Market-Following-Purchase-Order-for-DFR-X-Non-Lethal-Drone-Systems-BolaWrap-Devices-and-WrapReality-Virtual-Training-Systems.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/4bb925f9-68c4-4202-b586-7437078944f3",
+        "publishedAt": "2026-02-25T12:30:00Z",
+        "content": "MIAMI, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Wrap Technologies, Inc. (NASDAQ: WRAP) (Wrap or the Company), a global leader in non-lethal response and public safety technology, today announced a strategic… [+9566 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Brittney Melton",
+        "title": "Takeaways from Trump's State of the Union. And, House rejects aviation safety bill",
+        "description": "Trump's State of the Union underplayed the economic problems that voters are concerned about. And, the House rejected a bipartisan aviation safety bill after the Pentagon abruptly withdrew support.",
+        "url": "https://www.npr.org/2026/02/25/g-s1-111453/up-first-newsletter-trump-state-of-the-union-aviation-safety-bill-pete-hegseth-anthropic",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7921x4456+0+413/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F2a%2F059a043b4872bcc1bf69d2385b33%2Fgettyimages-2262903834.jpg",
+        "publishedAt": "2026-02-25T12:28:29Z",
+        "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7214 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "Indian stocks set for another lacklustre year amid geopolitical uncertainty: Poll",
+        "description": "Optimism about Indian stocks among equity strategists has waned from three months ago, although analysts ​still expect benchmark indices to scale new highs ​by mid-year, according to a Reuters poll.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-set-for-another-lacklustre-year-amid-geopolitical-uncertainty-poll/articleshow/128782329.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128782329,width-1200,height-630,imgsize-156066,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-02-25T12:27:24Z",
+        "content": "Optimism about Indian stocks among equity strategists has waned from three months ago, although analysts still expect benchmark indices to scale new highs by mid-year, according to a Reuters poll.Aft… [+2854 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Bloomberg News",
+        "title": "Private Credit’s AI Woes Not Systemic, Brookfield’s Flatt Says",
+        "description": "The risk of AI disruption upending private credit poses little threat to the wider financial system or the global economy, according to Brookfield Corp.’s Chief Executive Officer Bruce Flatt.",
+        "url": "https://financialpost.com/pmn/business-pmn/private-credits-ai-woes-not-systemic-brookfields-flatt-says",
+        "urlToImage": null,
+        "publishedAt": "2026-02-25T12:25:37Z",
+        "content": "(Bloomberg) The risk of AI disruption upending private credit poses little threat to the wider financial system or the global economy, according to Brookfield Corp.s Chief Executive Officer Bruce Fla… [+4865 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Electrolyzers Global Market Forecasts 2025-2031 with Thyssenkrupp Nucera, Siemens Energy, Nel, Cummins, Plug Power, LONGi, Asahi Kasei Dominating",
+        "description": "The global electrolyzers market is forecasted to grow from USD 2.08 billion in 2025 to USD 14.48 billion by 2031, at a CAGR of 38.2%. Key drivers include the rise in renewable energy deployments, industrial decarbonization, and clean mobility initiatives, all…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244496/28124/en/Electrolyzers-Global-Market-Forecasts-2025-2031-with-Thyssenkrupp-Nucera-Siemens-Energy-Nel-Cummins-Plug-Power-LONGi-Asahi-Kasei-Dominating.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-02-25T12:25:00Z",
+        "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Electrolyzers Market, by Technology, Power Rating, Application, Component, and Region - Global Forecast to 2031\" has been added to ResearchAndMarkets.co… [+6764 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Precedence Research",
+        "title": "Type 2 Diabetes Market Forecasted to Reach USD 79.25 Billion by 2035 Amid Increasing Disease Burden and Innovation in GLP-1 Therapies",
+        "description": "The global type 2 diabetes market size surpassed USD 40.09 billion in 2025 and is projected to reach approximately USD 79.25 billion by 2035, growing at a CAGR of 7.05% from 2026 to 2035. The improved diagnosis of T2D and the consumption of a poor diet drive …",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244497/0/en/Type-2-Diabetes-Market-Forecasted-to-Reach-USD-79-25-Billion-by-2035-Amid-Increasing-Disease-Burden-and-Innovation-in-GLP-1-Therapies.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+        "publishedAt": "2026-02-25T12:25:00Z",
+        "content": "Ottawa, Feb. 25, 2026 (GLOBE NEWSWIRE) -- According to Precedence Research, the global type 2 diabetes market size is predicted to reach around USD 79.25 billion by 2035, increasing from USD 43.29 bi… [+22127 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Soumya Eswaran",
+        "title": "Texas Instruments (TXN) Fell Due to Quicker Recovery Expectation",
+        "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+        "url": "https://finance.yahoo.com/news/texas-instruments-txn-fell-due-122115042.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/318214b27e0dfe70cf048105ca9e5501",
+        "publishedAt": "2026-02-25T12:21:15Z",
+        "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2591 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Green Hydrogen Industry Research and Global Forecast Report 2025-2032: Market to Grow at a CAGR of 60%, Driven by Emergence of Hubs & Industrial Clusters, and Grid Balancing & Energy Storage",
+        "description": "The green hydrogen market is set to expand dramatically from USD 2.79 billion in 2025 to USD 74.81 billion by 2032, growing at a CAGR of 60.0%. This growth is driven by declining renewable energy costs, technological advancements in electrolysis, and rising d…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244493/28124/en/Green-Hydrogen-Industry-Research-and-Global-Forecast-Report-2025-2032-Market-to-Grow-at-a-CAGR-of-60-Driven-by-Emergence-of-Hubs-Industrial-Clusters-and-Grid-Balancing-Energy-Stora.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-02-25T12:21:00Z",
+        "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Green Hydrogen Market by Technology, Renewable Source, End-use Industry, and Region - Global Forecast to 2032\" report has been added to ResearchAndMarke… [+10962 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Tech Analyst and Former Wall Street Insider Enrique Abeyta",
+        "title": "AI Is Reshaping Everything—And Faster Than Most Realize",
+        "description": "Former Wall Street executive Enrique Abeyta outlines how artificial intelligence is beginning to redefine work, institutions, and modern decision-making in new video presentation Former Wall Street executive Enrique Abeyta outlines how artificial intelligence…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244492/0/en/AI-Is-Reshaping-Everything-And-Faster-Than-Most-Realize.html",
+        "urlToImage": null,
+        "publishedAt": "2026-02-25T12:20:00Z",
+        "content": "Washington, D.C., Feb. 25, 2026 (GLOBE NEWSWIRE) -- Artificial intelligence is no longer a distant concept or a niche innovationit is rapidly becoming a defining force influencing how industries oper… [+4234 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Soumya Eswaran",
+        "title": "Slow Volume Growth Hurt Copart (CPRT) in Q4",
+        "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+        "url": "https://finance.yahoo.com/news/slow-volume-growth-hurt-copart-121846415.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/1cc02852e282008c6ae60d65c81222f6",
+        "publishedAt": "2026-02-25T12:18:46Z",
+        "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2495 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Soumya Eswaran",
+        "title": "Keysight Technologies (KEYS) is Returning to Growth",
+        "description": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the “Madison Large Cap Fund”. A copy of the letter can be...",
+        "url": "https://finance.yahoo.com/news/keysight-technologies-keys-returning-growth-121710161.html",
+        "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/928fee4ed8ebd1f95596ab330e63279c",
+        "publishedAt": "2026-02-25T12:17:10Z",
+        "content": "Madison Investments, an investment advisor, released its fourth-quarter 2025 investor letter for the Madison Large Cap Fund. A copy of the letter can be downloaded here. In the fourth quarter, the S&… [+2569 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "Denver Announces Data Center Moratorium as Opposition Picks Up Steam Around the Country",
+        "description": "Many states are considering a moratorium. Will national politicians catch up?",
+        "url": "https://gizmodo.com/denver-announces-data-center-moratorium-as-opposition-picks-up-steam-around-the-country-2000726129",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2685684165-1200x675.jpg",
+        "publishedAt": "2026-02-25T12:15:25Z",
+        "content": "Denver Mayor Mike Johnston announced this week that the city will be imposing a moratorium on the development of new data centers.\r\nIf approved in an upcoming city council ordinance vote, the morator… [+5445 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Indsysholdings.com"
+        },
+        "author": "Author: Hari Krishnan",
+        "title": "How Digital Marketing Fuels Business Growth in the Modern Era?",
+        "description": "A comprehensive guide on leveraging SEO, SMM and data analytics to drive sustainable business growth in a competitive digital landscape.",
+        "url": "https://www.indsysholdings.com/blog/how-digital-marketing-fuels-business-growth.html",
+        "urlToImage": "https://www.indsysholdings.com/blog/img/how-digital-marketing-fuels-business-growth.png",
+        "publishedAt": "2026-02-25T12:15:02Z",
+        "content": "In todays hyper-connected competitive and digital world,\r\n digital marketing has become a backbone and a necessary one\r\n for sustainable business growth. With customers spending more\r\n time online th… [+5563 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "Donut Lab Solid-State Battery Claim Challenged After VTT Lab Findings",
+        "description": "The world’s first solid-state battery, announced by Donut Lab, has sparked interest for its potential advancements over traditional lithium-ion technology. While marketed as a breakthrough in energy density, safety, and charging speed, independent testing by …",
+        "url": "https://www.geeky-gadgets.com/donut-lab-solid-state-battery/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/lithium-ion-voltage-curve-comparison-graph.jpg",
+        "publishedAt": "2026-02-25T12:15:00Z",
+        "content": "The world’s first solid-state battery, announced by Donut Lab, has sparked interest for its potential advancements over traditional lithium-ion technology. While marketed as a breakthrough in energy … [+5674 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Autoblog"
+        },
+        "author": "Leroy Marion",
+        "title": "Scotty Kilmer Calls His Brand-New Toyota Camry \"Trash\"",
+        "description": "For decades, Scotty Kilmer built his reputation on one uncompromising message: never buy a new car. The veteran mechanic consistently warned viewers about...",
+        "url": "https://www.autoblog.com/news/scotty-kilmer-calls-his-brand-new-toyota-camry-trash",
+        "urlToImage": "https://s.yimg.com/os/en/autoblog_arena_articles_145/4fa4a80abce12f59b735e028b6484b8b",
+        "publishedAt": "2026-02-25T12:15:00Z",
+        "content": "Does Scotty Regret His Purchase?\r\nFor decades, Scotty Kilmer built his reputation on one uncompromising message: never buy a new car. The veteran mechanic consistently warned viewers about depreciati… [+4051 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Digital Identity Solutions Market Global Forecast 2025-2031: Cross-Border Identity Solutions, Advanced Authentication and Blockchain-Enabled Security Drive Next-Generation Digital ID Ecosystems",
+        "description": "The global digital identity solutions market is set to surge from USD 44.20 billion in 2025 to USD 132.14 billion by 2031, registering a CAGR of 20.0%. The rapid integration of AI, ML, and blockchain is revolutionizing digital identity, enhancing security thr…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244491/28124/en/Digital-Identity-Solutions-Market-Global-Forecast-2025-2031-Cross-Border-Identity-Solutions-Advanced-Authentication-and-Blockchain-Enabled-Security-Drive-Next-Generation-Digital-ID.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-02-25T12:14:00Z",
+        "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Digital Identity Solutions Market by Hardware, Solution type, Identity Type - Global Forecast to 2031\" has been added to ResearchAndMarkets.com's offeri… [+7050 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "$3.2+ Bn Heavy Equipment Telematics Markets, 2032 with Samsara, Trimble, Geotab, ORBCOMM, and CalAmp Leading",
+        "description": "The global heavy equipment telematics market is expected to surge from USD 1.33 billion in 2025 to USD 3.21 billion by 2032, growing at a CAGR of 13.4%. Key drivers include rising fuel costs, equipment failures, and thefts. Equipment maintenance and diagnosti…",
+        "url": "https://www.globenewswire.com/news-release/2026/02/25/3244490/28124/en/3-2-Bn-Heavy-Equipment-Telematics-Markets-2032-with-Samsara-Trimble-Geotab-ORBCOMM-and-CalAmp-Leading.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-02-25T12:11:00Z",
+        "content": "Dublin, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The \"Heavy Equipment Telematics Market by Industry (Construction, Mining, Agriculture), Solution (Asset Navigation &amp; Tracking, Fleet Performance, Diagnos… [+9934 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "How fast can Donut Lab's EV battery charge? #lifestyle",
+        "description": "A dramatic leap in charging speed — with caveats Independent testing released by Finnish start‑up Donut Lab found that its new solid‑state battery can reach roughly 80 percent charge in about five minutes. If that performance holds up across production units …",
+        "url": "https://alltoc.com/lifestyle/how-fast-can-donut-lab-s-ev-battery-charge",
+        "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+        "publishedAt": "2026-02-25T12:10:47Z",
+        "content": "Independent testing released by Finnish startup Donut Lab found that its new solidstate battery can reach roughly 80 percent charge in about five minutes. If that performance holds up across producti… [+1558 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "Covalon Reports on 2026 First Quarter Results and Recent Achievements and Highlights",
+        "description": "MISSISSAUGA, Ontario — Covalon Technologies Ltd. (the “Company” or “Covalon”) (TSXV: COV; OTCQX: CVALF), an advanced medical technologies company, today announced its fiscal 2026 first quarter results for the period ended December 31, 2025, along with its rec…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/covalon-reports-on-2026-first-quarter-results-and-recent-achievements-and-highlights",
+        "urlToImage": null,
+        "publishedAt": "2026-02-25T12:09:10Z",
+        "content": "MISSISSAUGA, Ontario Covalon Technologies Ltd. (the Company or Covalon) (TSXV: COV; OTCQX: CVALF), an advanced medical technologies company, today announced its fiscal 2026 first quarter results for … [+10353 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "NMG Completes Acquisition of Brownfield Site in Bécancour to Deploy its Active Anode Material Production for Panasonic Energy",
+        "description": "Brownfield site enabling NMG to accelerate the construction and commissioning of a first stage Bécancour Battery Material Plant to fulfill Panasonic Energy’s 13,000-tpa active anode material offtake Strategic acquisition of 143,000-m2 site with large industri…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nmg-completes-acquisition-of-brownfield-site-in-becancour-to-deploy-its-active-anode-material-production-for-panasonic-energy",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/bw20260225476582_canadoil.jpeg",
+        "publishedAt": "2026-02-25T12:08:57Z",
+        "content": "<ul><li>Brownfield site enabling NMG to accelerate the construction and commissioning of a first stage Bécancour Battery Material Plant to fulfill Panasonic Energys 13,000-tpa active anode material o… [+10999 chars]"
+      },
+      {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "Harry Manning",
+        "title": "First Irish National Maritime Security Strategy launched",
+        "description": "Minister for Defence Helen McEntee has launched Ireland's first National Maritime Security Strategy, aimed at safeguarding Irish sovereignty and to deepen naval co-operation with France and the UK.",
+        "url": "https://www.rte.ie/news/ireland/2026/0225/1560362-maritime-strategy/",
+        "urlToImage": "https://www.rte.ie/images/0023f511-1600.jpg",
+        "publishedAt": "2026-02-25T12:08:05Z",
+        "content": "Minister for Defence Helen McEntee has launched Ireland's first National Maritime Security Strategy, aimed at safeguarding Irish sovereignty and to deepen naval co-operation with France and the UK.\r\n… [+4953 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hellokotpad.com"
+        },
+        "author": "Neel Achary",
+        "title": "TOKYO SKYTREE Elevates Cherry Blossom Season with “THE Sakura SKYTREE” Spring Experience",
+        "description": "Hello Kotpad brings you the latest Tribal News from India along with real-time Kotpad news, Koraput updates, and top Odisha headlines. Stay informed with authentic local coverage.",
+        "url": "https://hellokotpad.com/business/tokyo-skytree-elevates-cherry-blossom-season-with-the-sakura-skytree-spring-experience/",
+        "urlToImage": "https://api.newsinpics.com/uploads/0t43pvesys.jpg",
+        "publishedAt": "2026-02-25T12:07:35Z",
+        "content": "Tokyo, Feb 25:Tobu Tower Skytree Co., Ltd. has announced the return of its seasonal spring event, “THE Sakura SKYTREE® – Going to Meet the Cherry Blossoms Above the Clouds,” at TOKYO SKYTREE. The lim… [+2866 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ducttapemarketing.com"
+        },
+        "author": "John Jantsch",
+        "title": "Why Voice AI Is Ready for Prime Time",
+        "description": "Why Voice AI Is Ready for Prime Time written by John Jantsch read more at Duct Tape Marketing\nCatch the Full Episode: Episode Overview Voice agents are rapidly evolving from novelty tools into core revenue infrastructure. Instead of functioning as glorified t…",
+        "url": "https://ducttapemarketing.com/why-voice-ai-is-ready-for-prime-time/",
+        "urlToImage": "https://ducttapemarketing.com/wp-content/uploads/2026/02/panos-sakalakis-63sI4HO30tw-unsplash-scaled.jpg",
+        "publishedAt": "2026-02-25T12:06:52Z",
+        "content": "John Jantsch (00:03.032)\r\nSo voice agents are moving from novelty to revenue infrastructure. And if that's is if you stop treating them like talking FAQs and start treating them like a role, maybe qu… [+23077 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Boston Herald"
+        },
+        "author": "Associated Press",
+        "title": "Read the complete transcript of Trump’s 2026 State of the Union",
+        "description": "The address covered immigration, the economy and more.",
+        "url": "https://www.bostonherald.com/2026/02/25/state-of-the-union-transcript/",
+        "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/AP26056085177572.jpg?w=1024&h=682",
+        "publishedAt": "2026-02-25T12:06:50Z",
+        "content": "WASHINGTON (AP) President Donald Trumps State of the Union address, delivered on Tuesday, Feb. 24, 2026, as transcribed by The Associated Press:\r\nSpeaker Johnson, Vice President Vance, first lady of … [+59103 chars]"
+      }
+    ]
+  }
+}

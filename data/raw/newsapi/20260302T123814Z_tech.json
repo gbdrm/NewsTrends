@@ -1,0 +1,1094 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 35511,
+  "articles": [
+    {
+      "title": "Twelve Quotes About AI—And How It Makes Us Better",
+      "description": "An optimistic take on AI, featuring insights from business leaders and educators on its impact, opportunities and future in business and society.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/shephyken/2026/03/01/twelve-quotes-about-ai-and-how-it-makes-us-better/",
+      "published_at": "2026-03-01T12:30:00Z",
+      "author": "Shep Hyken, Contributor, \n Shep Hyken, Contributor\n https://www.forbes.com/sites/shephyken/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a1c159efd493d2c9cd9a0a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "content": "getty\r\nThe greatest technology in the world hasnt replaced the ultimate relationship-building tool between a customer and a business: the human touch. \r\nI came up with this quote and posted it on Twi… [+4007 chars]"
+    },
+    {
+      "title": "High employability for technocrat tahfiz graduates, says Zahid",
+      "description": "KUALA LUMPUR: Professional and technocrat tahfiz graduates will be highly employable as there is and strong demand within the engineering sector, says Datuk Seri Dr Ahmad Zahid Hamidi. Read full story",
+      "source": "The Star Online",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/01/high-employability-for-technocrat-tahfiz-graduates-says-zahid",
+      "published_at": "2026-03-01T12:27:00Z",
+      "author": "YASMIN ABDUL LATIF",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/03/01/3792744.jpg",
+      "content": "KUALA LUMPUR: Professional and technocrat tahfiz graduates will be highly employable as there is strong demand from the engineering sector, says Datuk Seri Dr Ahmad Zahid Hamidi.\r\nThe Deputy Prime Mi… [+1327 chars]"
+    },
+    {
+      "title": "Recognized as “Tech Guru of the Year,” James Altucher Uses Latest Presentation to Spotlight a Quiet Player Behind Starlink",
+      "description": "In a newly delivered tech briefing, Altucher examines satellite internet’s rapid evolution—and calls attention to a little-known company operating beneath the headlines In a newly delivered tech briefing, Altucher examines satellite internet’s rapid evolution…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/01/3246929/0/en/Recognized-as-Tech-Guru-of-the-Year-James-Altucher-Uses-Latest-Presentation-to-Spotlight-a-Quiet-Player-Behind-Starlink.html",
+      "published_at": "2026-03-01T12:15:00Z",
+      "author": "James Altucher, Tech Investor",
+      "image_url": null,
+      "content": "Washington, D.C., March 01, 2026 (GLOBE NEWSWIRE) -- Fresh off being recognized as Tech Guru of the Year, by Paradigm Press, entrepreneur and technology analyst James Altucher delivered a new present… [+4646 chars]"
+    },
+    {
+      "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
+      "description": "President Donald Trump and Hegseth accused rising AI star Anthropic of endangering national security after its CEO Dario Amodei refused to back down over concerns the company's products could be used for mass surveillance or autonomous armed drones.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/technology/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/articleshow/128915226.cms",
+      "published_at": "2026-03-01T12:14:57Z",
+      "author": "AP",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37742,resizemode-75,msid-128915226/tech/technology/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use.jpg",
+      "content": "A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defense Secretary Pete Hegseth brusquely terminated the Pentagon's work with Anthropic and oth… [+8222 chars]"
+    },
+    {
+      "title": "'AI is a big topic...': How Indian-origin elderly couple lost £2,500 in UK flight ticket scam; learned truth only at Heathrow check-in desk",
+      "description": "Flight ticket scam: An elderly Indian-origin couple lost over £2,500 to an online flight booking scam after being tricked via WhatsApp. They were left stranded at Heathrow Airport when their supposedly booked tickets were revealed as fake. The couple urges vi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/ai-is-a-big-topic-how-indian-origin-elderly-couple-lost-2500-in-uk-flight-ticket-scam-learned-truth-only-at-heathrow-check-in-desk/articleshow/128914919.cms",
+      "published_at": "2026-03-01T12:14:53Z",
+      "author": "ET Online",
+      "image_url": "https://img.etimg.com/thumb/msid-128915105,width-1200,height-630,imgsize-1509078,overlay-economictimes/articleshow.jpg",
+      "content": "An elderly Indian-origin couple from Leicester have spoken out after losing more than £2,500 to an online flight booking scam, urging others to remain vigilant against increasingly sophisticated frau… [+4491 chars]"
+    },
+    {
+      "title": "OpenAI: Pentagon deal has stronger guardrails than Anthropic's",
+      "description": "Open AI firm said ​that the ⁠contract struck ‌on ​Friday ​to deploy ⁠technology in the U.S. Defense ​Department's classified network enforces ​three red lines: no use of ‌OpenAI technology on mass domestic ​surveillance, no ​directing ⁠autonomous weapons syst…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pentagon-deal-has-stronger-guardrails-than-anthropics/articleshow/128915173.cms",
+      "published_at": "2026-03-01T12:11:49Z",
+      "author": "Reuters",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53358,resizemode-75,msid-128915173/tech/artificial-intelligence/openai-pentagon-deal-has-stronger-guardrails-than-anthropics.jpg",
+      "content": "OpenAI said on Saturday that its agreement with the Pentagon \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's.\"Open AI firm said that the contract… [+254 chars]"
+    },
+    {
+      "title": "AI worries push Nifty IT ETFs down up to 21% in Feb, Nasdaq ETFs fall only 5%: Here’s why",
+      "description": "The Nifty IT index closed February around 20% lower, while the tech-heavy Nasdaq declined only 4% during the same month.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-worries-push-nifty-it-etfs-down-up-to-21-in-feb-nasdaq-etfs-fall-only-5-heres-why/articleshow/128915040.cms",
+      "published_at": "2026-03-01T12:07:02Z",
+      "author": "Debaroti Adhikary",
+      "image_url": "https://img.etimg.com/thumb/msid-128915038,width-1200,height-630,imgsize-84408,overlay-etmarkets/articleshow.jpg",
+      "content": "The Nifty IT index closed February around 20% lower, while the tech-heavy Nasdaq declined only 4% during the same month. Experts highlighted structural differences in index composition as the reason … [+3591 chars]"
+    },
+    {
+      "title": "What does PS5 Pro's PSSR upgrade do for RE Requiem? #gaming",
+      "description": "PS5 Pro’s PSSR upgrade and what it means for visuals Sony rolled out an upgraded version of PlayStation Spectral Super Resolution (PSSR) for the PS5 Pro, and Capcom’s Resident Evil Requiem is the first major game to ship with that enhanced upscaler enabled. I…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/gaming/what-does-ps5-pro-s-pssr-upgrade-do-for-re-requiem",
+      "published_at": "2026-03-01T12:05:08Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "content": "Sony rolled out an upgraded version of PlayStation Spectral Super Resolution (PSSR) for the PS5 Pro, and Capcoms Resident Evil Requiem is the first major game to ship with that enhanced upscaler enab… [+1671 chars]"
+    },
+    {
+      "title": "Why did the Pentagon and White House move against Anthropic? #tech",
+      "description": "A clash over guardrails and military uses of AI The dispute escalated after the Department of War demanded that Anthropic remove safeguards it said could restrict military use of the company’s Claude models. U.S. officials — including the president and the De…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/tech/why-did-the-pentagon-and-white-house-move-against-anthropic",
+      "published_at": "2026-03-01T12:03:32Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "content": "The dispute escalated after the Department of War demanded that Anthropic remove safeguards it said could restrict military use of the companys Claude models. U.S. officials including the president a… [+1768 chars]"
+    },
+    {
+      "title": "What did OpenAI’s agreement with the Defense Department include? #tech",
+      "description": "Deploying models into classified networks with technical safeguards OpenAI announced a deal to let its models run inside the Department of War’s classified environment. Company leadership framed the agreement as preserving key safety limits: the models will n…",
+      "source": "Alltoc.com",
+      "url": "https://alltoc.com/tech/what-did-openais-agreement-with-the-defense-department-include",
+      "published_at": "2026-03-01T12:03:32Z",
+      "author": "AllToc",
+      "image_url": "https://alltoc.com/cdn/1046/og.png",
+      "content": "OpenAI announced a deal to let its models run inside the Department of Wars classified environment. Company leadership framed the agreement as preserving key safety limits: the models will not be use… [+1675 chars]"
+    },
+    {
+      "title": "Fewer cameras can be better, and this phone proves it",
+      "description": "After disappointment with variable focal-length phone cameras, I was sceptical about the Xiaomi 17 Ultra. Turns out I was wrong; it's superb.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/xiaomi-17-ultra-zoom-camera-3637543/",
+      "published_at": "2026-03-01T12:00:53Z",
+      "author": "Robert Triggs",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-Ultra-camera-array.jpg",
+      "content": "I cant get enough of new camera technology, so I was eager to try out the new Xiaomi 17 Ultra that arrived on my desk a few weeks ago. I loved its predecessor and its quad camera array. But what make… [+7779 chars]"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra vs Galaxy Z Fold 7: Is the Privacy Display a Game Changer?",
+      "description": "When deciding between the Samsung Galaxy S26 Ultra and the Z Fold 7, you are comparing two flagship devices that cater to distinct user needs. The Galaxy S26 Ultra refines the traditional smartphone experience with its premium features and performance, while …",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/ssamsung-galaxy-s26-ultra-vs-galaxy-z-fold-7/",
+      "published_at": "2026-03-01T12:00:46Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/samsung-galaxy-s26-ultra-vs-z-fold-7-comparison_optimized.jpg",
+      "content": "When deciding between the Samsung Galaxy S26 Ultra and the Z Fold 7, you are comparing two flagship devices that cater to distinct user needs. The Galaxy S26 Ultra refines the traditional smartphone … [+7394 chars]"
+    },
+    {
+      "title": "With the Pixel 11, Google needs to admit it has a hardware problem",
+      "description": "It's time to talk about what's hiding behind Pixel's attractive design and helpful Qi2 support — a lack of design innovation.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-pixel-hardware-problem-3643891/",
+      "published_at": "2026-03-01T12:00:18Z",
+      "author": "Brady Snyder",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-2-scaled.jpg",
+      "content": "Google is coming out of one of the greatest smartphone design runs of all time. Every phone generation from the Pixel 6 to the Pixel 9 featured complete or near-complete hardware redesigns. The Pixel… [+7069 chars]"
+    },
+    {
+      "title": "Just Lying On Your Stomach Can Have Huge Health Benefits",
+      "description": "Your tech neck and your hips will thank you.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/adults-need-tummy-time-too-here-are-the-ailments-it-can-actually-help-fix-goog_l_69a06607e4b0788617048e74",
+      "published_at": "2026-03-01T12:00:17Z",
+      "author": "HuffPost",
+      "image_url": "https://img.huffingtonpost.com/asset/69a066621500008e26019ce3.jpeg?cache=QDj74yVOxB&ops=1200_630",
+      "content": "If youre a parent, tummy time is probably a familiar term, considered by many to be key to the physical development of babies. But now, tummy time is trending for adults, too.\r\nGetting out of your de… [+6576 chars]"
+    },
+    {
+      "title": "AI could reshape 410,000 Silicon Valley jobs",
+      "description": "White-collar professions face the greatest exposure as investment in automation accelerates.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2026/03/01/more-than-400000-jobs-silicon-valley-exposed-ai-silicon-valley-index/",
+      "published_at": "2026-03-01T12:00:12Z",
+      "author": "Ethan Baron",
+      "image_url": "https://www.mercurynews.com/wp-content/uploads/2026/02/SJM-L-SILICONAI-0000-1.jpg?w=1024&h=683",
+      "content": "This story is the second in a three-part series examining findings from the latest Silicon Valley Index. Read the first installment here.\r\nRobin McCarthy watches the images appear on her screen.\r\nIns… [+8753 chars]"
+    },
+    {
+      "title": "The $40 Apple Pencil dupe that also works on Android",
+      "description": "Tinymoose may as well be the Apple Pencil, but it’s a fraction of the price, and you can use it with your Android tablet or smartphone.",
+      "source": "Popular Science",
+      "url": "http://www.popsci.com/sponsored-content/this-apple-pencil-dupe-that-also-works-on-android-sponsored-deal/",
+      "published_at": "2026-03-01T12:00:00Z",
+      "author": "Stack Commerce",
+      "image_url": "https://www.popsci.com/wp-content/uploads/2026/02/image_febc70.png?quality=85&w=1200",
+      "content": "We may earn revenue from the products available on this page and participate in affiliate programs. Learn more TL;DR: The Tinymoose Pencil Pro Ultra stylus is now $39.95 with free shipping, compatibl… [+1963 chars]"
+    },
+    {
+      "title": "designboom radar: exhibitions to see around the world this march",
+      "description": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this march appeared first on designboom | architecture & design magazine.",
+      "source": "Designboom",
+      "url": "https://www.designboom.com/art/designboom-radar-exhibitions-to-see-around-the-world-this-march/",
+      "published_at": "2026-03-01T11:50:46Z",
+      "author": "kat barandy I designboom",
+      "image_url": "https://www.designboom.com/twitterimages/uploads/2026/02/march-2026-exhibition-radar-designboom-FB.jpg",
+      "content": "March exhibitions from DESIGNBOOM RADAR\r\nMarch’s standout exhibitions place architecture and material at the center of the experience. In São Paulo, ABERTO5 opens Eduardo Longo’s Casa Bola, using the… [+8024 chars]"
+    },
+    {
+      "title": "Show HN: Steward – a background agent that closes 80% low-risk noise",
+      "description": "Steward connects GitHub/email/Slack/calendar + local screen signals into context, auto-executes low-risk tasks with safety gates for irreversible actions, and sends scheduled natural-language briefings instead of constant notifications.\n\nComments URL: https:/…",
+      "source": "Github.com",
+      "url": "https://github.com/study8677/Steward",
+      "published_at": "2026-03-01T11:49:29Z",
+      "author": "867762462f",
+      "image_url": "https://opengraph.githubassets.com/296d79d8d7c23755d41ce8f1e41e880f934c23dbed78d30217f7d837c9383ac4/study8677/Steward",
+      "content": "An ambient, proactive agent that handles low-risk work automaticallyand briefs you only when your judgment is needed.\r\n · Agent Spec · Dashboard\r\nPicture yourself playing a grand strategy game Hearts… [+3668 chars]"
+    },
+    {
+      "title": "Global agricultural subsidies directly linked to deforestation, World Bank warns",
+      "description": "About 14% of global farm subsidies are linked to forest loss, with the lender calling on countries including India to shift spending away from input-heavy support toward more sustainable models.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/agriculture/india-fertilizer-subsidy-reform-world-bank-warning-agriculture-future-farming-practices-11772356696662.html",
+      "published_at": "2026-03-01T11:46:18Z",
+      "author": "Vijay C Roy",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/03/01/1600x900/logo/Valerie_Hickey_world_bank_3_1772365294309_1772365299330.jpg",
+      "content": "In an interview, World Bank Group's global environment director Valerie Hickey said around 14% of global agricultural subsidies are directly linked to deforestation. In many countries, including Indi… [+4367 chars]"
+    },
+    {
+      "title": "Tired of websites blocking your VPN? A dedicated IP fixes that",
+      "description": "Frustrated by VPN blocks from banks and streaming sites? Shared IPs trigger suspicion. Learn how dedicated IPs solve login issues and captcha problems.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/tired-websites-blocking-your-vpn-dedicated-ip-fixes",
+      "published_at": "2026-03-01T11:44:16Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/3-tired-of-websites-blocking-your-vpn_-a-dedicated-ip-fixes-that.jpg",
+      "content": "If you have ever turned on your VPN and suddenly could not log in to your bank, email, streaming service or work portal, you are not imagining things. In fact, this is one of the most common frustrat… [+6535 chars]"
+    },
+    {
+      "title": "Apple Stock Dips 3.2% to $264.18 Amid Geopolitical Tensions, But Upcoming Product Fuel Optimism for 2026",
+      "description": "Apple Inc.'s stock closed at $264.18 on Friday, Feb. 27, 2026, down $8.77 or 3.21% from the previous session's close, as broader market concerns over escalating U.S.-Israel-Iran conflict and potential oil price spikes weighed on technology shares.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/apple-stock-dips-32-26418-amid-geopolitical-tensions-upcoming-product-fuel-optimism-2026-1862410",
+      "published_at": "2026-03-01T11:38:35Z",
+      "author": "Mike Clair",
+      "image_url": "https://d.ibtimes.com.au/en/full/1882511/trump-has-criticized-apple-chief-executive-tim-cook-seen-beijing-march-2025.jpg",
+      "content": "Apple Inc.'s stock closed at $264.18 on Friday, Feb. 27, 2026, down $8.77 or 3.21% from the previous session's close, as broader market concerns over escalating U.S.-Israel-Iran conflict and potentia… [+5143 chars]"
+    },
+    {
+      "title": "SMR Deadline: BFA Law Urges NuScale Power Corporation Investors with Losses to Act Before April 20 Securities Fraud Class Action Deadline Amid 12% Stock Decline",
+      "description": "BFA Law Urges NuScale Power Corporation Investors with Losses to Act Before April 20 Securities Fraud Class Action Deadline Amid 12% Stock Decline...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/01/3246925/0/en/SMR-Deadline-BFA-Law-Urges-NuScale-Power-Corporation-Investors-with-Losses-to-Act-Before-April-20-Securities-Fraud-Class-Action-Deadline-Amid-12-Stock-Decline.html",
+      "published_at": "2026-03-01T11:36:00Z",
+      "author": "Bleichmar Fonti & Auld",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+      "content": "A securities fraud class action has been filed against NuScale executives alleging misrepresentations about ENTRA1 leading to a 12.4% stock plunge.\r\nNEW YORK, March 01, 2026 (GLOBE NEWSWIRE) -- Leadi… [+5382 chars]"
+    },
+    {
+      "title": "How VAR denied Burnley one of greatest comebacks",
+      "description": "Burnley's first heartbreak came in the 78th minute when Zian Flemming thought he had bundled them into a 4-3 lead, but the offside flag quickly followed. Jaidon Anthony, scorer of Burnley's second goal, was offside by the width of his shoulder, something he d…",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f482ee7b-a61d-4383-8bd4-b588545063e9",
+      "published_at": "2026-03-01T11:29:25Z",
+      "author": null,
+      "image_url": null,
+      "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+    },
+    {
+      "title": "Linux 7.0 Development & Intel Panther Lake Proved Most Popular In February",
+      "description": "During the last month on Phoronix there were 289 original open-source/Linux-related news articles and another 20 featured articles as in Linux hardware reviews and multi-page benchmark articles. There was a lot of interesting software and hardware happenings …",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/February-2026-Recap",
+      "published_at": "2026-03-01T11:29:15Z",
+      "author": "Michael Larabel",
+      "image_url": "https://www.phoronix.net/image.php?id=intel-arc-b390-panther-lake-linux&image=intel_b390_0",
+      "content": "During the last month on Phoronix there were 289 original open-source/Linux-related news articles and another 20 featured articles as in Linux hardware reviews and multi-page benchmark articles. Ther… [+14778 chars]"
+    },
+    {
+      "title": "USAA CEO says Gen Z ‘are not going to be as well off’ as boomers and Gen Xers—they need to take ownership of their success, he urges",
+      "description": "USAA's Juan C. Andrade says Gen Zers are struggling, especially as AI continues to upend entry-level jobs. Young workers can take control by adopting this career strategy.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/03/01/usaa-ceo-juan-andrade-gen-z-not-as-well-off-as-boomers-gen-x-take-ownership-success/",
+      "published_at": "2026-03-01T11:02:00Z",
+      "author": "Emma Burleigh",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1486075730-e1772226060371.jpg?resize=1200,600",
+      "content": "I think, unfortunately, our Gen Zs are not going to be as well off as our boomers and Gen Xers were, for different reasons, he tells Fortune. You definitely see it among the Gen Z generation, both ac… [+5067 chars]"
+    },
+    {
+      "title": "This NASA technology meant for space now powers everyday life",
+      "description": "Previously, the Hubble Space Telescope was one of the major space telescopes used for astronomical observations. However, it had limitations in deep space missions, leading to the invention of the CMOS active pixel sensors. This new technology is now used not…",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/This-NASA-technology-meant-for-space-now-powers-everyday-life.1238172.0.html",
+      "published_at": "2026-03-01T11:02:00Z",
+      "author": "Chibuike Okpara",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Close-up-view-of-a-smartphone-camera-array.jpg",
+      "content": "For a very long time, space observation relied on CCD (charge-coupled device) sensors, including the Hubble Space Telescope. This sensor operates by converting incoming light into electrical charge w… [+1143 chars]"
+    },
+    {
+      "title": "From Quantum Spam to Quantum Minds: Why the ‘Best’ Revolution in Physics Is Only Getting Started",
+      "description": "Physicist Paul Davies looks back at the past century of quantum mechanics—the most disruptive theory in the history of modern science.",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/from-quantum-spam-to-quantum-minds-why-the-best-revolution-in-physics-is-only-getting-started-2000727266",
+      "published_at": "2026-03-01T11:00:52Z",
+      "author": "Gayoung Lee",
+      "image_url": "https://gizmodo.com/app/uploads/2026/02/paul-davies-quantum-revolution-top-image-1200x675.jpg",
+      "content": "The use of the word quantum has become rather hackneyed. There are quantum computers, quantum sensors, and even quantum refrigerators; the list is endless. I mean, whats nextquantum washing machines?… [+9137 chars]"
+    },
+    {
+      "title": "AMD’s K6-III ‘Sharptooth’ debuted this week in 1999 with on-die L2 cache to savage the Intel Pentium II — it also held the line against the Pentium III",
+      "description": "AMD launched its first processors with on-die L2 cache this week in 1999, heralding the beginning of the Super Socket 7 era.",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-k6-iii-sharptooth-debuted-this-week-in-1999-with-on-die-l2-cache-to-savage-the-intel-pentium-ii-it-also-held-the-line-against-the-pentium-iii",
+      "published_at": "2026-03-01T11:00:00Z",
+      "author": "Mark Tyson",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sQi7eEM4HyMv9nVqhPNjim-1920-80.jpg",
+      "content": "AMD launched its first processors with on-die L2 cache this week in 1999, heralding the beginning of the Super Socket 7 era. With its new K6-III CPUs, AMD presented a major architectural leap above t… [+3023 chars]"
+    },
+    {
+      "title": "Global Earnings Underscore Shift From US as S&P 500 Slumped",
+      "description": "As the latest earnings season wraps, investors could be forgiven for missing some of the fireworks, what with AI’s stranglehold on the market narrative, geopolitical angst and renewed trade uncertainty.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/global-earnings-underscore-shift-from-us-as-sp-500-slumped",
+      "published_at": "2026-03-01T10:43:41Z",
+      "author": "Bloomberg News",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/us-earnings-dominance-set-to-be-challenged-earnings-growth-.jpg",
+      "content": "You can pay 16 times forward earnings in Europe or 23 times in the US for what consensus expects to be similar earnings growth by 2027, said Adrian Helfert, chief investment officer of multi-asset st… [+3257 chars]"
+    },
+    {
+      "title": "Probe Google, Meta, others over media, consumer harms, SERAP urges FCCPC",
+      "description": "SERAP urges Nigeria’s FCCPC to probe Google, Meta, and other tech giants for alleged consumer harms, market dominance, and undermining media freedom.\n\nRead More: https://punchng.com/probe-google-meta-others-over-media-consumer-harms-serap-urges-fccpc/",
+      "source": "The Punch",
+      "url": "https://punchng.com/probe-google-meta-others-over-media-consumer-harms-serap-urges-fccpc/",
+      "published_at": "2026-03-01T10:41:44Z",
+      "author": "Punch Newspapers",
+      "image_url": "https://cdn.punchng.com/wp-content/uploads/2017/03/13002527/SERAP.jpg",
+      "content": "The Socio-Economic Rights and Accountability Project has urged the Federal Competition and Consumer Protection Commission to investigate allegations that major technology companies are undermining Ni… [+5084 chars]"
+    },
+    {
+      "title": "Collina explains upcoming referee and VAR changes: ‘The situation is very different’",
+      "description": "Legendary former referee Pierluigi Collina has had his say on a number of upcoming VAR and refereeing changes that are expected to come into effect in time",
+      "source": "Football Italia",
+      "url": "https://football-italia.net/collina-explains-upcoming-referee-var-changes/",
+      "published_at": "2026-03-01T10:39:01Z",
+      "author": "Peter Young",
+      "image_url": "https://icdn.football-italia.net/wp-content/uploads/2026/03/panel-discussion-with-pierluigi-.jpg",
+      "content": "Legendary former referee Pierluigi Collina has had his say on a number of upcoming VAR and refereeing changes that are expected to come into effect in time for the 2026 FIFA World Cup in North Americ… [+4270 chars]"
+    },
+    {
+      "title": "Samsung Takes Next Stride Toward AI-Native Software-Driven Networks With NVIDIA",
+      "description": "Samsung Electronics today announced the successful completion of a multi-cell test at its R&D center, combining Samsung’s virtualized RAN (vRAN) software with NVIDIA’s accelerated computing platform. The test validates the performance of this integrated solut…",
+      "source": "Samsung.com",
+      "url": "https://news.samsung.com/global/samsung-takes-next-stride-toward-ai-native-software-driven-networks-with-nvidia",
+      "published_at": "2026-03-01T10:35:03Z",
+      "author": "Samsung Newsroom",
+      "image_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/03/28122610/Samsung-Network-Solutions-Mobile-World-Congress-2026-NVIDIA-AI-Native-Software-Driven-Networks_Thumb932.jpg",
+      "content": "Samsung Electronics today announced the successful completion of a multi-cell test at its R&amp;D center, combining Samsungs virtualized RAN (vRAN) software with NVIDIAs accelerated computing platfor… [+3410 chars]"
+    },
+    {
+      "title": "[Prime] One More Sonoflow Pro ANC Wireless Bluetooth Headphones (Black) $81.12 Delivered @ 1More AU Inc via Amazon AU",
+      "description": "need to be on prime and tick 21% off coupon. black only. I remember when Sonoflow SE was ~$66 on amazon. the newest Pro model is now $81 with coupon. quick google says the Pro is superior to the …",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/949989",
+      "published_at": "2026-03-01T10:32:16Z",
+      "author": "skibidigrimacmoggr67",
+      "image_url": "https://files.ozbargain.com.au/n/89/949989l.jpg?h=d2cee2e0",
+      "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nneed to be on prime and tick 21% off coupon… [+2029 chars]"
+    },
+    {
+      "title": "More Apple Display Studio 2 details are rumored, with two models apparently on the way",
+      "description": "A fresh report on the Apple Display Studio 2 gives us some hints about what's coming from the new monitor.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/computing/monitors/more-apple-display-studio-2-details-are-rumored-with-two-models-apparently-on-the-way",
+      "published_at": "2026-03-01T10:30:00Z",
+      "author": "David Nield",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JZbxtrTTzVoDhC29pqcfBT-2000-80.jpg",
+      "content": "<ul><li>More details of the Apple Studio Display 2 have leaked</li><li>32-inch and 27-inch models could be incoming</li><li>Apple has several product launches lined up for next week</li></ul>\r\nWe hav… [+2464 chars]"
+    },
+    {
+      "title": "Silk Feels So Good! [Comic]",
+      "description": "[Source: @Goattoself] Enjoying the content? Please consider supporting Geeks are Sexy!\nClick This Link for the Full Post > Silk Feels So Good! [Comic]",
+      "source": "Geeksaresexy.net",
+      "url": "https://www.geeksaresexy.net/2026/03/01/silk-feels-so-good-comic/",
+      "published_at": "2026-03-01T10:15:45Z",
+      "author": "Geeks are Sexy",
+      "image_url": "https://i0.wp.com/www.geeksaresexy.net/wp-content/uploads/2024/11/silkt.jpg?fit=1200%2C628&ssl=1",
+      "content": "Tech, science, cosplay and news by geeks, for geeks! We make technology sexy!\r\n© Geeks are Sexy|\r\nPrivacy Policy and Affiliate Disclaimer\r\n|\r\nLegal Disclaimer\r\n|"
+    },
+    {
+      "title": "NASA astronaut who required evacuation from ISS 'doing very well'",
+      "description": "New York (AFP) Feb 25, 2026\n\n\n The astronaut who faced a health issue prompting the first-ever medical evacuation in International Space Station history is \"doing very well,\" he said in a statement issued by NASA on Wednesday. \n\nMike Fincke, 58, said he's \"do…",
+      "source": "Space Daily",
+      "url": "https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html",
+      "published_at": "2026-03-01T10:13:48Z",
+      "author": "by AFP Staff Writers",
+      "image_url": "https://www.spacedaily.com/images-hg/mike-fincke-boeing-starliner-testing-hg.jpg",
+      "content": "by AFP Staff WritersNew York (AFP) Feb 25, 2026\r\nThe astronaut who faced a health issue prompting the first-ever medical evacuation in International Space Station history is \"doing very well,\" he sai… [+1121 chars]"
+    },
+    {
+      "title": "The Ethicist From The ‘Social Dilemma’ Asked AI Leaders Why They’re Really Doing This…",
+      "description": "Tristan Harris is a former Google design ethicist who became one of tech’s most prominent whistleblowers. He co-founded the Center for Humane Technology and was featured in the Netflix docume…",
+      "source": "Thoughtcatalog.com",
+      "url": "https://thoughtcatalog.com/holden-desalles/2026/03/the-ethicist-from-the-social-dilemma-asked-ai-leaders-why-theyre-really-doing-this/",
+      "published_at": "2026-03-01T10:08:00Z",
+      "author": "Holden Desalles",
+      "image_url": "https://thoughtcatalog.com/wp-content/uploads/2026/02/aiend.jpg?w=1536&h=768&crop=1",
+      "content": "Tristan Harris is a former Google design ethicist who became one of tech’s most prominent whistleblowers. He co-founded the Center for Humane Technology and was featured in the Netflix documentary “T… [+2496 chars]"
+    },
+    {
+      "title": "PM Modi unveils development projects Rs 4,400 crore in poll-bound Tamil Nadu",
+      "description": "Prime Minister Narendra Modi launched infrastructure projects exceeding Rs. 4,400 crore in Madurai, Tamil Nadu. The initiatives include redeveloped railway stations, highway four-laning projects, and new FM transmitters, all aimed at boosting connectivity, mo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/tamil-nadu/amrit-bharat-station-scheme-national-highway-projects-pm-modi-unveils-development-initiatives-rs-4400-crore-in-poll-bound-tamil-nadu/articleshow/128912194.cms",
+      "published_at": "2026-03-01T10:02:14Z",
+      "author": "ET Online",
+      "image_url": "https://img.etimg.com/thumb/msid-128912209,width-1200,height-630,imgsize-266122,overlay-economictimes/articleshow.jpg",
+      "content": "Prime Minister Narendra Modi unveiled infrastructure projects worth over Rs. 4,400 crore in poll-bound Tamil Nadu's Madurai, aimed at enhancing connectivity, improving mobility and accelerating regio… [+2488 chars]"
+    },
+    {
+      "title": "The Supreme Court Could Still Tilt the Midterms to the GOP",
+      "description": "If a decision gutting the Voting Rights Act comes down soon, we could see a big wave of Republican gerrymanders before the election.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/the-supreme-court-could-still-tilt-the-midterms-to-the-gop.html",
+      "published_at": "2026-03-01T10:00:52Z",
+      "author": "Ed Kilgore",
+      "image_url": "https://pyxis.nymag.com/v1/imgs/1cd/5db/992ae62e6ef3f937b88adfd93a9c0bf059-scotus-votingrights.1x.rsocial.w1200.jpg",
+      "content": "In the wake of the U.S. Supreme Courts 6-3 decision invalidating the basis of Donald Trumps beloved Liberation Day tariffs, theres a sense that the Courts conservative majority (or at least not all o… [+4732 chars]"
+    },
+    {
+      "title": "Pennsylvania Sportswatch Daily Listings",
+      "description": "SportsNet Pittsburgh, ESPN Select, ESPN Unlimited, Fubo Sports, MLB.TV The Associated Press created this story using technology provided by Data Skrive TV...",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/pennsylvania-sportswatch-daily-listings-100030105.html",
+      "published_at": "2026-03-01T10:00:30Z",
+      "author": "The Associated Press",
+      "image_url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "content": "Tampa Bay at Pittsburgh SportsNet Pittsburgh, ESPN Select, ESPN Unlimited, Fubo Sports, MLB.TV\r\nThe Associated Press created this story using technology provided by Data Skrive TV listings provided b… [+16 chars]"
+    },
+    {
+      "title": "Michigan Sportswatch Daily Listings",
+      "description": "ESPN, ESPN Unlimited, Fubo Sports, MLB.TV Detroit at Nashville — FDSN Detroit, FDSN South, FDSN South TN Nash. NHLN, ESPN Select, ESPN Unlimited, Fubo Sports...",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/michigan-sportswatch-daily-listings-100006750.html",
+      "published_at": "2026-03-01T10:00:06Z",
+      "author": "The Associated Press",
+      "image_url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "content": "Atlanta at Detroit ESPN, ESPN Unlimited, Fubo Sports, MLB.TV\r\nDetroit at Nashville FDSN Detroit, FDSN South, FDSN South TN Nash., NHLN, ESPN Select, ESPN Unlimited, Fubo Sports\r\nThe Associated Press … [+98 chars]"
+    },
+    {
+      "title": "'Strong handoff': Elementary school principal who went viral now Solanco High School principal",
+      "description": "Solanco School District has been part of Zac Bauermaster’s life, in one way or another, for, well, his entire life.",
+      "source": "LancasterOnline",
+      "url": "https://lancasteronline.com/news/local/strong-handoff-elementary-school-principal-who-went-viral-now-solanco-high-school-principal/article_92ed2e4a-7115-42b4-9ae1-ccaa463d656e.html",
+      "published_at": "2026-03-01T10:00:00Z",
+      "author": "ASHLEY STALNECKER | Staff Writer",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/9b/39be46ca-afc3-499e-a86e-3b48ea3e6cd1/696545c095fc6.image.jpg?crop=1609%2C845%2C0%2C221&resize=1200%2C630&order=crop%2Cresize",
+      "content": "Solanco School District has been part of Zac Bauermasters life, in one way or another, for, well, his entire life.\r\nBauermaster was raised in Quarryville Borough and attended Providence Elementary Sc… [+5560 chars]"
+    },
+    {
+      "title": "Here’s how to build something that lasts, from the founder of a $300 million bootstrapped company that’s been growing for 28 years straight",
+      "description": "The moments that sparked meaningful change and business longevity.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/03/01/double-good-founder-popcorn-fundraising-tim-heitmann/",
+      "published_at": "2026-03-01T10:00:00Z",
+      "author": "Tim Heitmann",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/doublegood.png?resize=1200,600",
+      "content": "When I started my company, growth simply meant keeping the lights on and trying everything we could to find the right market for our product. The view was wide and experimental. I was thinking about … [+6960 chars]"
+    },
+    {
+      "title": "The GOP’s Cruel Plans for Another Big Ugly Bill",
+      "description": "The Republican Study Committee’s framework for a second reconciliation bill aims to make life even more miserable for immigrants, including legal residents.\nThe post The GOP’s Cruel Plans for Another Big Ugly Bill appeared first on Washington Monthly.",
+      "source": "Washington Monthly",
+      "url": "http://washingtonmonthly.com/2026/03/01/the-gops-cruel-plans-for-another-big-ugly-bill/",
+      "published_at": "2026-03-01T10:00:00Z",
+      "author": "Anne Kim",
+      "image_url": "https://i0.wp.com/washingtonmonthly.com/wp-content/uploads/2026/02/AP21273772094937-scaled.jpg?fit=2560%2C1707&quality=89&ssl=1",
+      "content": "My grandmother immigrated to the US from South Korea when I was three years old. She arrived in the country legally and got her green card around the same time my parents became naturalized US citize… [+9592 chars]"
+    },
+    {
+      "title": "Acwa Board of Directors names Dr. Samir J. Serhan Chief Executive Officer",
+      "description": "Dr. Samir J. Serhan named CEO effective today by Acwa Board of Directors. Dr. Serhan was previously President of Saudi Arabia and the Middle East at Acwa, and formerly Chief Operating Officer of US-based Air Products. Marco Arcelli, CEO of Acwa since March 20…",
+      "source": "PR Newswire UK",
+      "url": "https://www.prnewswire.co.uk/news-releases/acwa-board-of-directors-names-dr-samir-j-serhan-chief-executive-officer-302700350.html",
+      "published_at": "2026-03-01T09:54:00Z",
+      "author": null,
+      "image_url": null,
+      "content": "<ul><li>Dr. Samir J. Serhan named CEO effective today by Acwa Board of Directors.</li><li>Dr. Serhan was previously President of Saudi Arabia and the Middle East at Acwa, and formerly Chief Operating… [+5209 chars]"
+    },
+    {
+      "title": "Stock markets to react negatively amid escalating crisis in Middle East: Analysts",
+      "description": "Besides, geopolitical situation, macroeconomic data announcements, global market trends, and trading activity of foreign investors would also influence investors' sentiment in a holiday-shortened week ahead",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets-to-react-negatively-amid-escalating-crisis-in-middle-east-analysts/article70691135.ece",
+      "published_at": "2026-03-01T09:48:36Z",
+      "author": "PTI",
+      "image_url": "https://bl-i.thgim.com/public/incoming/s1yzkk/article70691152.ece/alternates/LANDSCAPE_1200/iStock-1409383663.jpg",
+      "content": "Stock markets will react negatively on Monday due to the escalating crisis in the Middle East, and the impact on equities will depend on how long the conflict lasts, analysts said.\r\nThe US and Israel… [+3183 chars]"
+    },
+    {
+      "title": "India's AI power in democratising expertise, pushing scientific frontiers: Google DeepMind senior exec",
+      "description": "Kohli, a distinguished scientist and senior executive at Google DeepMind - the advanced AI research arm of Google - said that beyond widening access, AI's role is in unlocking new treatments for diseases and accelerating drug discovery",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/info-tech/indias-ai-power-in-democratising-expertise-pushing-scientific-frontiers-google-deepmind-senior-exec/article70691166.ece",
+      "published_at": "2026-03-01T09:47:40Z",
+      "author": "PTI",
+      "image_url": "https://bl-i.thgim.com/public/incoming/yszt5p/article70691169.ece/alternates/LANDSCAPE_1200/BioAsia%202026%2019.jpg",
+      "content": "India's biggest AI opportunity unlock' is in democratising expertise at scale and advancing scientific frontiers, Pushmeet Kohli, Vice President of Research at Google DeepMind said, citing its transf… [+5342 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 35511,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Shep Hyken, Contributor, \n Shep Hyken, Contributor\n https://www.forbes.com/sites/shephyken/",
+        "title": "Twelve Quotes About AI—And How It Makes Us Better",
+        "description": "An optimistic take on AI, featuring insights from business leaders and educators on its impact, opportunities and future in business and society.",
+        "url": "https://www.forbes.com/sites/shephyken/2026/03/01/twelve-quotes-about-ai-and-how-it-makes-us-better/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a1c159efd493d2c9cd9a0a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-03-01T12:30:00Z",
+        "content": "getty\r\nThe greatest technology in the world hasnt replaced the ultimate relationship-building tool between a customer and a business: the human touch. \r\nI came up with this quote and posted it on Twi… [+4007 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Star Online"
+        },
+        "author": "YASMIN ABDUL LATIF",
+        "title": "High employability for technocrat tahfiz graduates, says Zahid",
+        "description": "KUALA LUMPUR: Professional and technocrat tahfiz graduates will be highly employable as there is and strong demand within the engineering sector, says Datuk Seri Dr Ahmad Zahid Hamidi. Read full story",
+        "url": "https://www.thestar.com.my/news/nation/2026/03/01/high-employability-for-technocrat-tahfiz-graduates-says-zahid",
+        "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/01/3792744.jpg",
+        "publishedAt": "2026-03-01T12:27:00Z",
+        "content": "KUALA LUMPUR: Professional and technocrat tahfiz graduates will be highly employable as there is strong demand from the engineering sector, says Datuk Seri Dr Ahmad Zahid Hamidi.\r\nThe Deputy Prime Mi… [+1327 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "James Altucher, Tech Investor",
+        "title": "Recognized as “Tech Guru of the Year,” James Altucher Uses Latest Presentation to Spotlight a Quiet Player Behind Starlink",
+        "description": "In a newly delivered tech briefing, Altucher examines satellite internet’s rapid evolution—and calls attention to a little-known company operating beneath the headlines In a newly delivered tech briefing, Altucher examines satellite internet’s rapid evolution…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/01/3246929/0/en/Recognized-as-Tech-Guru-of-the-Year-James-Altucher-Uses-Latest-Presentation-to-Spotlight-a-Quiet-Player-Behind-Starlink.html",
+        "urlToImage": null,
+        "publishedAt": "2026-03-01T12:15:00Z",
+        "content": "Washington, D.C., March 01, 2026 (GLOBE NEWSWIRE) -- Fresh off being recognized as Tech Guru of the Year, by Paradigm Press, entrepreneur and technology analyst James Altucher delivered a new present… [+4646 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "AP",
+        "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
+        "description": "President Donald Trump and Hegseth accused rising AI star Anthropic of endangering national security after its CEO Dario Amodei refused to back down over concerns the company's products could be used for mass surveillance or autonomous armed drones.",
+        "url": "https://economictimes.indiatimes.com/tech/technology/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/articleshow/128915226.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37742,resizemode-75,msid-128915226/tech/technology/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use.jpg",
+        "publishedAt": "2026-03-01T12:14:57Z",
+        "content": "A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defense Secretary Pete Hegseth brusquely terminated the Pentagon's work with Anthropic and oth… [+8222 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "'AI is a big topic...': How Indian-origin elderly couple lost £2,500 in UK flight ticket scam; learned truth only at Heathrow check-in desk",
+        "description": "Flight ticket scam: An elderly Indian-origin couple lost over £2,500 to an online flight booking scam after being tricked via WhatsApp. They were left stranded at Heathrow Airport when their supposedly booked tickets were revealed as fake. The couple urges vi…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/ai-is-a-big-topic-how-indian-origin-elderly-couple-lost-2500-in-uk-flight-ticket-scam-learned-truth-only-at-heathrow-check-in-desk/articleshow/128914919.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128915105,width-1200,height-630,imgsize-1509078,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-01T12:14:53Z",
+        "content": "An elderly Indian-origin couple from Leicester have spoken out after losing more than £2,500 to an online flight booking scam, urging others to remain vigilant against increasingly sophisticated frau… [+4491 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "OpenAI: Pentagon deal has stronger guardrails than Anthropic's",
+        "description": "Open AI firm said ​that the ⁠contract struck ‌on ​Friday ​to deploy ⁠technology in the U.S. Defense ​Department's classified network enforces ​three red lines: no use of ‌OpenAI technology on mass domestic ​surveillance, no ​directing ⁠autonomous weapons syst…",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pentagon-deal-has-stronger-guardrails-than-anthropics/articleshow/128915173.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-53358,resizemode-75,msid-128915173/tech/artificial-intelligence/openai-pentagon-deal-has-stronger-guardrails-than-anthropics.jpg",
+        "publishedAt": "2026-03-01T12:11:49Z",
+        "content": "OpenAI said on Saturday that its agreement with the Pentagon \"has more guardrails than any previous agreement for classified AI deployments, including Anthropic's.\"Open AI firm said that the contract… [+254 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Debaroti Adhikary",
+        "title": "AI worries push Nifty IT ETFs down up to 21% in Feb, Nasdaq ETFs fall only 5%: Here’s why",
+        "description": "The Nifty IT index closed February around 20% lower, while the tech-heavy Nasdaq declined only 4% during the same month.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-worries-push-nifty-it-etfs-down-up-to-21-in-feb-nasdaq-etfs-fall-only-5-heres-why/articleshow/128915040.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128915038,width-1200,height-630,imgsize-84408,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-03-01T12:07:02Z",
+        "content": "The Nifty IT index closed February around 20% lower, while the tech-heavy Nasdaq declined only 4% during the same month. Experts highlighted structural differences in index composition as the reason … [+3591 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "What does PS5 Pro's PSSR upgrade do for RE Requiem? #gaming",
+        "description": "PS5 Pro’s PSSR upgrade and what it means for visuals Sony rolled out an upgraded version of PlayStation Spectral Super Resolution (PSSR) for the PS5 Pro, and Capcom’s Resident Evil Requiem is the first major game to ship with that enhanced upscaler enabled. I…",
+        "url": "https://alltoc.com/gaming/what-does-ps5-pro-s-pssr-upgrade-do-for-re-requiem",
+        "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+        "publishedAt": "2026-03-01T12:05:08Z",
+        "content": "Sony rolled out an upgraded version of PlayStation Spectral Super Resolution (PSSR) for the PS5 Pro, and Capcoms Resident Evil Requiem is the first major game to ship with that enhanced upscaler enab… [+1671 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "Why did the Pentagon and White House move against Anthropic? #tech",
+        "description": "A clash over guardrails and military uses of AI The dispute escalated after the Department of War demanded that Anthropic remove safeguards it said could restrict military use of the company’s Claude models. U.S. officials — including the president and the De…",
+        "url": "https://alltoc.com/tech/why-did-the-pentagon-and-white-house-move-against-anthropic",
+        "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+        "publishedAt": "2026-03-01T12:03:32Z",
+        "content": "The dispute escalated after the Department of War demanded that Anthropic remove safeguards it said could restrict military use of the companys Claude models. U.S. officials including the president a… [+1768 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "What did OpenAI’s agreement with the Defense Department include? #tech",
+        "description": "Deploying models into classified networks with technical safeguards OpenAI announced a deal to let its models run inside the Department of War’s classified environment. Company leadership framed the agreement as preserving key safety limits: the models will n…",
+        "url": "https://alltoc.com/tech/what-did-openais-agreement-with-the-defense-department-include",
+        "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+        "publishedAt": "2026-03-01T12:03:32Z",
+        "content": "OpenAI announced a deal to let its models run inside the Department of Wars classified environment. Company leadership framed the agreement as preserving key safety limits: the models will not be use… [+1675 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": "Robert Triggs",
+        "title": "Fewer cameras can be better, and this phone proves it",
+        "description": "After disappointment with variable focal-length phone cameras, I was sceptical about the Xiaomi 17 Ultra. Turns out I was wrong; it's superb.",
+        "url": "https://www.androidauthority.com/xiaomi-17-ultra-zoom-camera-3637543/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-Ultra-camera-array.jpg",
+        "publishedAt": "2026-03-01T12:00:53Z",
+        "content": "I cant get enough of new camera technology, so I was eager to try out the new Xiaomi 17 Ultra that arrived on my desk a few weeks ago. I loved its predecessor and its quad camera array. But what make… [+7779 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Samsung Galaxy S26 Ultra vs Galaxy Z Fold 7: Is the Privacy Display a Game Changer?",
+        "description": "When deciding between the Samsung Galaxy S26 Ultra and the Z Fold 7, you are comparing two flagship devices that cater to distinct user needs. The Galaxy S26 Ultra refines the traditional smartphone experience with its premium features and performance, while …",
+        "url": "https://www.geeky-gadgets.com/ssamsung-galaxy-s26-ultra-vs-galaxy-z-fold-7/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/samsung-galaxy-s26-ultra-vs-z-fold-7-comparison_optimized.jpg",
+        "publishedAt": "2026-03-01T12:00:46Z",
+        "content": "When deciding between the Samsung Galaxy S26 Ultra and the Z Fold 7, you are comparing two flagship devices that cater to distinct user needs. The Galaxy S26 Ultra refines the traditional smartphone … [+7394 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": "Brady Snyder",
+        "title": "With the Pixel 11, Google needs to admit it has a hardware problem",
+        "description": "It's time to talk about what's hiding behind Pixel's attractive design and helpful Qi2 support — a lack of design innovation.",
+        "url": "https://www.androidauthority.com/google-pixel-hardware-problem-3643891/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-2-scaled.jpg",
+        "publishedAt": "2026-03-01T12:00:18Z",
+        "content": "Google is coming out of one of the greatest smartphone design runs of all time. Every phone generation from the Pixel 6 to the Pixel 9 featured complete or near-complete hardware redesigns. The Pixel… [+7069 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "HuffPost",
+        "title": "Just Lying On Your Stomach Can Have Huge Health Benefits",
+        "description": "Your tech neck and your hips will thank you.",
+        "url": "https://www.huffpost.com/entry/adults-need-tummy-time-too-here-are-the-ailments-it-can-actually-help-fix-goog_l_69a06607e4b0788617048e74",
+        "urlToImage": "https://img.huffingtonpost.com/asset/69a066621500008e26019ce3.jpeg?cache=QDj74yVOxB&ops=1200_630",
+        "publishedAt": "2026-03-01T12:00:17Z",
+        "content": "If youre a parent, tummy time is probably a familiar term, considered by many to be key to the physical development of babies. But now, tummy time is trending for adults, too.\r\nGetting out of your de… [+6576 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Mercury News"
+        },
+        "author": "Ethan Baron",
+        "title": "AI could reshape 410,000 Silicon Valley jobs",
+        "description": "White-collar professions face the greatest exposure as investment in automation accelerates.",
+        "url": "https://www.mercurynews.com/2026/03/01/more-than-400000-jobs-silicon-valley-exposed-ai-silicon-valley-index/",
+        "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/02/SJM-L-SILICONAI-0000-1.jpg?w=1024&h=683",
+        "publishedAt": "2026-03-01T12:00:12Z",
+        "content": "This story is the second in a three-part series examining findings from the latest Silicon Valley Index. Read the first installment here.\r\nRobin McCarthy watches the images appear on her screen.\r\nIns… [+8753 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Popular Science"
+        },
+        "author": "Stack Commerce",
+        "title": "The $40 Apple Pencil dupe that also works on Android",
+        "description": "Tinymoose may as well be the Apple Pencil, but it’s a fraction of the price, and you can use it with your Android tablet or smartphone.",
+        "url": "http://www.popsci.com/sponsored-content/this-apple-pencil-dupe-that-also-works-on-android-sponsored-deal/",
+        "urlToImage": "https://www.popsci.com/wp-content/uploads/2026/02/image_febc70.png?quality=85&w=1200",
+        "publishedAt": "2026-03-01T12:00:00Z",
+        "content": "We may earn revenue from the products available on this page and participate in affiliate programs. Learn more TL;DR: The Tinymoose Pencil Pro Ultra stylus is now $39.95 with free shipping, compatibl… [+1963 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Designboom"
+        },
+        "author": "kat barandy I designboom",
+        "title": "designboom radar: exhibitions to see around the world this march",
+        "description": "explore our monthly round up of must-see art, design, and architecture exhibitions to check out around the world.\nThe post designboom radar: exhibitions to see around the world this march appeared first on designboom | architecture & design magazine.",
+        "url": "https://www.designboom.com/art/designboom-radar-exhibitions-to-see-around-the-world-this-march/",
+        "urlToImage": "https://www.designboom.com/twitterimages/uploads/2026/02/march-2026-exhibition-radar-designboom-FB.jpg",
+        "publishedAt": "2026-03-01T11:50:46Z",
+        "content": "March exhibitions from DESIGNBOOM RADAR\r\nMarch’s standout exhibitions place architecture and material at the center of the experience. In São Paulo, ABERTO5 opens Eduardo Longo’s Casa Bola, using the… [+8024 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Github.com"
+        },
+        "author": "867762462f",
+        "title": "Show HN: Steward – a background agent that closes 80% low-risk noise",
+        "description": "Steward connects GitHub/email/Slack/calendar + local screen signals into context, auto-executes low-risk tasks with safety gates for irreversible actions, and sends scheduled natural-language briefings instead of constant notifications.\n\nComments URL: https:/…",
+        "url": "https://github.com/study8677/Steward",
+        "urlToImage": "https://opengraph.githubassets.com/296d79d8d7c23755d41ce8f1e41e880f934c23dbed78d30217f7d837c9383ac4/study8677/Steward",
+        "publishedAt": "2026-03-01T11:49:29Z",
+        "content": "An ambient, proactive agent that handles low-risk work automaticallyand briefs you only when your judgment is needed.\r\n · Agent Spec · Dashboard\r\nPicture yourself playing a grand strategy game Hearts… [+3668 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Vijay C Roy",
+        "title": "Global agricultural subsidies directly linked to deforestation, World Bank warns",
+        "description": "About 14% of global farm subsidies are linked to forest loss, with the lender calling on countries including India to shift spending away from input-heavy support toward more sustainable models.",
+        "url": "https://www.livemint.com/industry/agriculture/india-fertilizer-subsidy-reform-world-bank-warning-agriculture-future-farming-practices-11772356696662.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/03/01/1600x900/logo/Valerie_Hickey_world_bank_3_1772365294309_1772365299330.jpg",
+        "publishedAt": "2026-03-01T11:46:18Z",
+        "content": "In an interview, World Bank Group's global environment director Valerie Hickey said around 14% of global agricultural subsidies are directly linked to deforestation. In many countries, including Indi… [+4367 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Tired of websites blocking your VPN? A dedicated IP fixes that",
+        "description": "Frustrated by VPN blocks from banks and streaming sites? Shared IPs trigger suspicion. Learn how dedicated IPs solve login issues and captcha problems.",
+        "url": "https://www.foxnews.com/tech/tired-websites-blocking-your-vpn-dedicated-ip-fixes",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/3-tired-of-websites-blocking-your-vpn_-a-dedicated-ip-fixes-that.jpg",
+        "publishedAt": "2026-03-01T11:44:16Z",
+        "content": "If you have ever turned on your VPN and suddenly could not log in to your bank, email, streaming service or work portal, you are not imagining things. In fact, this is one of the most common frustrat… [+6535 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ibtimes.com.au"
+        },
+        "author": "Mike Clair",
+        "title": "Apple Stock Dips 3.2% to $264.18 Amid Geopolitical Tensions, But Upcoming Product Fuel Optimism for 2026",
+        "description": "Apple Inc.'s stock closed at $264.18 on Friday, Feb. 27, 2026, down $8.77 or 3.21% from the previous session's close, as broader market concerns over escalating U.S.-Israel-Iran conflict and potential oil price spikes weighed on technology shares.",
+        "url": "https://www.ibtimes.com.au/apple-stock-dips-32-26418-amid-geopolitical-tensions-upcoming-product-fuel-optimism-2026-1862410",
+        "urlToImage": "https://d.ibtimes.com.au/en/full/1882511/trump-has-criticized-apple-chief-executive-tim-cook-seen-beijing-march-2025.jpg",
+        "publishedAt": "2026-03-01T11:38:35Z",
+        "content": "Apple Inc.'s stock closed at $264.18 on Friday, Feb. 27, 2026, down $8.77 or 3.21% from the previous session's close, as broader market concerns over escalating U.S.-Israel-Iran conflict and potentia… [+5143 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Bleichmar Fonti & Auld",
+        "title": "SMR Deadline: BFA Law Urges NuScale Power Corporation Investors with Losses to Act Before April 20 Securities Fraud Class Action Deadline Amid 12% Stock Decline",
+        "description": "BFA Law Urges NuScale Power Corporation Investors with Losses to Act Before April 20 Securities Fraud Class Action Deadline Amid 12% Stock Decline...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/01/3246925/0/en/SMR-Deadline-BFA-Law-Urges-NuScale-Power-Corporation-Investors-with-Losses-to-Act-Before-April-20-Securities-Fraud-Class-Action-Deadline-Amid-12-Stock-Decline.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+        "publishedAt": "2026-03-01T11:36:00Z",
+        "content": "A securities fraud class action has been filed against NuScale executives alleging misrepresentations about ENTRA1 leading to a 12.4% stock plunge.\r\nNEW YORK, March 01, 2026 (GLOBE NEWSWIRE) -- Leadi… [+5382 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "How VAR denied Burnley one of greatest comebacks",
+        "description": "Burnley's first heartbreak came in the 78th minute when Zian Flemming thought he had bundled them into a 4-3 lead, but the offside flag quickly followed. Jaidon Anthony, scorer of Burnley's second goal, was offside by the width of his shoulder, something he d…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f482ee7b-a61d-4383-8bd4-b588545063e9",
+        "urlToImage": null,
+        "publishedAt": "2026-03-01T11:29:25Z",
+        "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Phoronix"
+        },
+        "author": "Michael Larabel",
+        "title": "Linux 7.0 Development & Intel Panther Lake Proved Most Popular In February",
+        "description": "During the last month on Phoronix there were 289 original open-source/Linux-related news articles and another 20 featured articles as in Linux hardware reviews and multi-page benchmark articles. There was a lot of interesting software and hardware happenings …",
+        "url": "https://www.phoronix.com/news/February-2026-Recap",
+        "urlToImage": "https://www.phoronix.net/image.php?id=intel-arc-b390-panther-lake-linux&image=intel_b390_0",
+        "publishedAt": "2026-03-01T11:29:15Z",
+        "content": "During the last month on Phoronix there were 289 original open-source/Linux-related news articles and another 20 featured articles as in Linux hardware reviews and multi-page benchmark articles. Ther… [+14778 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Emma Burleigh",
+        "title": "USAA CEO says Gen Z ‘are not going to be as well off’ as boomers and Gen Xers—they need to take ownership of their success, he urges",
+        "description": "USAA's Juan C. Andrade says Gen Zers are struggling, especially as AI continues to upend entry-level jobs. Young workers can take control by adopting this career strategy.",
+        "url": "https://fortune.com/2026/03/01/usaa-ceo-juan-andrade-gen-z-not-as-well-off-as-boomers-gen-x-take-ownership-success/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1486075730-e1772226060371.jpg?resize=1200,600",
+        "publishedAt": "2026-03-01T11:02:00Z",
+        "content": "I think, unfortunately, our Gen Zs are not going to be as well off as our boomers and Gen Xers were, for different reasons, he tells Fortune. You definitely see it among the Gen Z generation, both ac… [+5067 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Notebookcheck.net"
+        },
+        "author": "Chibuike Okpara",
+        "title": "This NASA technology meant for space now powers everyday life",
+        "description": "Previously, the Hubble Space Telescope was one of the major space telescopes used for astronomical observations. However, it had limitations in deep space missions, leading to the invention of the CMOS active pixel sensors. This new technology is now used not…",
+        "url": "https://www.notebookcheck.net/This-NASA-technology-meant-for-space-now-powers-everyday-life.1238172.0.html",
+        "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Close-up-view-of-a-smartphone-camera-array.jpg",
+        "publishedAt": "2026-03-01T11:02:00Z",
+        "content": "For a very long time, space observation relied on CCD (charge-coupled device) sensors, including the Hubble Space Telescope. This sensor operates by converting incoming light into electrical charge w… [+1143 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Gayoung Lee",
+        "title": "From Quantum Spam to Quantum Minds: Why the ‘Best’ Revolution in Physics Is Only Getting Started",
+        "description": "Physicist Paul Davies looks back at the past century of quantum mechanics—the most disruptive theory in the history of modern science.",
+        "url": "https://gizmodo.com/from-quantum-spam-to-quantum-minds-why-the-best-revolution-in-physics-is-only-getting-started-2000727266",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/02/paul-davies-quantum-revolution-top-image-1200x675.jpg",
+        "publishedAt": "2026-03-01T11:00:52Z",
+        "content": "The use of the word quantum has become rather hackneyed. There are quantum computers, quantum sensors, and even quantum refrigerators; the list is endless. I mean, whats nextquantum washing machines?… [+9137 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tom's Hardware UK"
+        },
+        "author": "Mark Tyson",
+        "title": "AMD’s K6-III ‘Sharptooth’ debuted this week in 1999 with on-die L2 cache to savage the Intel Pentium II — it also held the line against the Pentium III",
+        "description": "AMD launched its first processors with on-die L2 cache this week in 1999, heralding the beginning of the Super Socket 7 era.",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amds-k6-iii-sharptooth-debuted-this-week-in-1999-with-on-die-l2-cache-to-savage-the-intel-pentium-ii-it-also-held-the-line-against-the-pentium-iii",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/sQi7eEM4HyMv9nVqhPNjim-1920-80.jpg",
+        "publishedAt": "2026-03-01T11:00:00Z",
+        "content": "AMD launched its first processors with on-die L2 cache this week in 1999, heralding the beginning of the Super Socket 7 era. With its new K6-III CPUs, AMD presented a major architectural leap above t… [+3023 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Bloomberg News",
+        "title": "Global Earnings Underscore Shift From US as S&P 500 Slumped",
+        "description": "As the latest earnings season wraps, investors could be forgiven for missing some of the fireworks, what with AI’s stranglehold on the market narrative, geopolitical angst and renewed trade uncertainty.",
+        "url": "https://financialpost.com/pmn/business-pmn/global-earnings-underscore-shift-from-us-as-sp-500-slumped",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/us-earnings-dominance-set-to-be-challenged-earnings-growth-.jpg",
+        "publishedAt": "2026-03-01T10:43:41Z",
+        "content": "You can pay 16 times forward earnings in Europe or 23 times in the US for what consensus expects to be similar earnings growth by 2027, said Adrian Helfert, chief investment officer of multi-asset st… [+3257 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "Probe Google, Meta, others over media, consumer harms, SERAP urges FCCPC",
+        "description": "SERAP urges Nigeria’s FCCPC to probe Google, Meta, and other tech giants for alleged consumer harms, market dominance, and undermining media freedom.\n\nRead More: https://punchng.com/probe-google-meta-others-over-media-consumer-harms-serap-urges-fccpc/",
+        "url": "https://punchng.com/probe-google-meta-others-over-media-consumer-harms-serap-urges-fccpc/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/03/13002527/SERAP.jpg",
+        "publishedAt": "2026-03-01T10:41:44Z",
+        "content": "The Socio-Economic Rights and Accountability Project has urged the Federal Competition and Consumer Protection Commission to investigate allegations that major technology companies are undermining Ni… [+5084 chars]"
+      },
+      {
+        "source": {
+          "id": "football-italia",
+          "name": "Football Italia"
+        },
+        "author": "Peter Young",
+        "title": "Collina explains upcoming referee and VAR changes: ‘The situation is very different’",
+        "description": "Legendary former referee Pierluigi Collina has had his say on a number of upcoming VAR and refereeing changes that are expected to come into effect in time",
+        "url": "https://football-italia.net/collina-explains-upcoming-referee-var-changes/",
+        "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2026/03/panel-discussion-with-pierluigi-.jpg",
+        "publishedAt": "2026-03-01T10:39:01Z",
+        "content": "Legendary former referee Pierluigi Collina has had his say on a number of upcoming VAR and refereeing changes that are expected to come into effect in time for the 2026 FIFA World Cup in North Americ… [+4270 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Samsung.com"
+        },
+        "author": "Samsung Newsroom",
+        "title": "Samsung Takes Next Stride Toward AI-Native Software-Driven Networks With NVIDIA",
+        "description": "Samsung Electronics today announced the successful completion of a multi-cell test at its R&D center, combining Samsung’s virtualized RAN (vRAN) software with NVIDIA’s accelerated computing platform. The test validates the performance of this integrated solut…",
+        "url": "https://news.samsung.com/global/samsung-takes-next-stride-toward-ai-native-software-driven-networks-with-nvidia",
+        "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/03/28122610/Samsung-Network-Solutions-Mobile-World-Congress-2026-NVIDIA-AI-Native-Software-Driven-Networks_Thumb932.jpg",
+        "publishedAt": "2026-03-01T10:35:03Z",
+        "content": "Samsung Electronics today announced the successful completion of a multi-cell test at its R&amp;D center, combining Samsungs virtualized RAN (vRAN) software with NVIDIAs accelerated computing platfor… [+3410 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ozbargain.com.au"
+        },
+        "author": "skibidigrimacmoggr67",
+        "title": "[Prime] One More Sonoflow Pro ANC Wireless Bluetooth Headphones (Black) $81.12 Delivered @ 1More AU Inc via Amazon AU",
+        "description": "need to be on prime and tick 21% off coupon. black only. I remember when Sonoflow SE was ~$66 on amazon. the newest Pro model is now $81 with coupon. quick google says the Pro is superior to the …",
+        "url": "https://www.ozbargain.com.au/node/949989",
+        "urlToImage": "https://files.ozbargain.com.au/n/89/949989l.jpg?h=d2cee2e0",
+        "publishedAt": "2026-03-01T10:32:16Z",
+        "content": "This post contains affiliate links. OzBargain might earn commissions when you click through and make purchases. Please see this page for more information.\r\nneed to be on prime and tick 21% off coupon… [+2029 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "David Nield",
+        "title": "More Apple Display Studio 2 details are rumored, with two models apparently on the way",
+        "description": "A fresh report on the Apple Display Studio 2 gives us some hints about what's coming from the new monitor.",
+        "url": "https://www.techradar.com/computing/monitors/more-apple-display-studio-2-details-are-rumored-with-two-models-apparently-on-the-way",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/JZbxtrTTzVoDhC29pqcfBT-2000-80.jpg",
+        "publishedAt": "2026-03-01T10:30:00Z",
+        "content": "<ul><li>More details of the Apple Studio Display 2 have leaked</li><li>32-inch and 27-inch models could be incoming</li><li>Apple has several product launches lined up for next week</li></ul>\r\nWe hav… [+2464 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeksaresexy.net"
+        },
+        "author": "Geeks are Sexy",
+        "title": "Silk Feels So Good! [Comic]",
+        "description": "[Source: @Goattoself] Enjoying the content? Please consider supporting Geeks are Sexy!\nClick This Link for the Full Post > Silk Feels So Good! [Comic]",
+        "url": "https://www.geeksaresexy.net/2026/03/01/silk-feels-so-good-comic/",
+        "urlToImage": "https://i0.wp.com/www.geeksaresexy.net/wp-content/uploads/2024/11/silkt.jpg?fit=1200%2C628&ssl=1",
+        "publishedAt": "2026-03-01T10:15:45Z",
+        "content": "Tech, science, cosplay and news by geeks, for geeks! We make technology sexy!\r\n© Geeks are Sexy|\r\nPrivacy Policy and Affiliate Disclaimer\r\n|\r\nLegal Disclaimer\r\n|"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space Daily"
+        },
+        "author": "by AFP Staff Writers",
+        "title": "NASA astronaut who required evacuation from ISS 'doing very well'",
+        "description": "New York (AFP) Feb 25, 2026\n\n\n The astronaut who faced a health issue prompting the first-ever medical evacuation in International Space Station history is \"doing very well,\" he said in a statement issued by NASA on Wednesday. \n\nMike Fincke, 58, said he's \"do…",
+        "url": "https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html",
+        "urlToImage": "https://www.spacedaily.com/images-hg/mike-fincke-boeing-starliner-testing-hg.jpg",
+        "publishedAt": "2026-03-01T10:13:48Z",
+        "content": "by AFP Staff WritersNew York (AFP) Feb 25, 2026\r\nThe astronaut who faced a health issue prompting the first-ever medical evacuation in International Space Station history is \"doing very well,\" he sai… [+1121 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thoughtcatalog.com"
+        },
+        "author": "Holden Desalles",
+        "title": "The Ethicist From The ‘Social Dilemma’ Asked AI Leaders Why They’re Really Doing This…",
+        "description": "Tristan Harris is a former Google design ethicist who became one of tech’s most prominent whistleblowers. He co-founded the Center for Humane Technology and was featured in the Netflix docume…",
+        "url": "https://thoughtcatalog.com/holden-desalles/2026/03/the-ethicist-from-the-social-dilemma-asked-ai-leaders-why-theyre-really-doing-this/",
+        "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/02/aiend.jpg?w=1536&h=768&crop=1",
+        "publishedAt": "2026-03-01T10:08:00Z",
+        "content": "Tristan Harris is a former Google design ethicist who became one of tech’s most prominent whistleblowers. He co-founded the Center for Humane Technology and was featured in the Netflix documentary “T… [+2496 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "PM Modi unveils development projects Rs 4,400 crore in poll-bound Tamil Nadu",
+        "description": "Prime Minister Narendra Modi launched infrastructure projects exceeding Rs. 4,400 crore in Madurai, Tamil Nadu. The initiatives include redeveloped railway stations, highway four-laning projects, and new FM transmitters, all aimed at boosting connectivity, mo…",
+        "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/tamil-nadu/amrit-bharat-station-scheme-national-highway-projects-pm-modi-unveils-development-initiatives-rs-4400-crore-in-poll-bound-tamil-nadu/articleshow/128912194.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-128912209,width-1200,height-630,imgsize-266122,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-01T10:02:14Z",
+        "content": "Prime Minister Narendra Modi unveiled infrastructure projects worth over Rs. 4,400 crore in poll-bound Tamil Nadu's Madurai, aimed at enhancing connectivity, improving mobility and accelerating regio… [+2488 chars]"
+      },
+      {
+        "source": {
+          "id": "new-york-magazine",
+          "name": "New York Magazine"
+        },
+        "author": "Ed Kilgore",
+        "title": "The Supreme Court Could Still Tilt the Midterms to the GOP",
+        "description": "If a decision gutting the Voting Rights Act comes down soon, we could see a big wave of Republican gerrymanders before the election.",
+        "url": "http://nymag.com/intelligencer/article/the-supreme-court-could-still-tilt-the-midterms-to-the-gop.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/1cd/5db/992ae62e6ef3f937b88adfd93a9c0bf059-scotus-votingrights.1x.rsocial.w1200.jpg",
+        "publishedAt": "2026-03-01T10:00:52Z",
+        "content": "In the wake of the U.S. Supreme Courts 6-3 decision invalidating the basis of Donald Trumps beloved Liberation Day tariffs, theres a sense that the Courts conservative majority (or at least not all o… [+4732 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "The Associated Press",
+        "title": "Pennsylvania Sportswatch Daily Listings",
+        "description": "SportsNet Pittsburgh, ESPN Select, ESPN Unlimited, Fubo Sports, MLB.TV The Associated Press created this story using technology provided by Data Skrive TV...",
+        "url": "https://sports.yahoo.com/articles/pennsylvania-sportswatch-daily-listings-100030105.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2026-03-01T10:00:30Z",
+        "content": "Tampa Bay at Pittsburgh SportsNet Pittsburgh, ESPN Select, ESPN Unlimited, Fubo Sports, MLB.TV\r\nThe Associated Press created this story using technology provided by Data Skrive TV listings provided b… [+16 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "The Associated Press",
+        "title": "Michigan Sportswatch Daily Listings",
+        "description": "ESPN, ESPN Unlimited, Fubo Sports, MLB.TV Detroit at Nashville — FDSN Detroit, FDSN South, FDSN South TN Nash. NHLN, ESPN Select, ESPN Unlimited, Fubo Sports...",
+        "url": "https://sports.yahoo.com/articles/michigan-sportswatch-daily-listings-100006750.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2026-03-01T10:00:06Z",
+        "content": "Atlanta at Detroit ESPN, ESPN Unlimited, Fubo Sports, MLB.TV\r\nDetroit at Nashville FDSN Detroit, FDSN South, FDSN South TN Nash., NHLN, ESPN Select, ESPN Unlimited, Fubo Sports\r\nThe Associated Press … [+98 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "LancasterOnline"
+        },
+        "author": "ASHLEY STALNECKER | Staff Writer",
+        "title": "'Strong handoff': Elementary school principal who went viral now Solanco High School principal",
+        "description": "Solanco School District has been part of Zac Bauermaster’s life, in one way or another, for, well, his entire life.",
+        "url": "https://lancasteronline.com/news/local/strong-handoff-elementary-school-principal-who-went-viral-now-solanco-high-school-principal/article_92ed2e4a-7115-42b4-9ae1-ccaa463d656e.html",
+        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/9b/39be46ca-afc3-499e-a86e-3b48ea3e6cd1/696545c095fc6.image.jpg?crop=1609%2C845%2C0%2C221&resize=1200%2C630&order=crop%2Cresize",
+        "publishedAt": "2026-03-01T10:00:00Z",
+        "content": "Solanco School District has been part of Zac Bauermasters life, in one way or another, for, well, his entire life.\r\nBauermaster was raised in Quarryville Borough and attended Providence Elementary Sc… [+5560 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Tim Heitmann",
+        "title": "Here’s how to build something that lasts, from the founder of a $300 million bootstrapped company that’s been growing for 28 years straight",
+        "description": "The moments that sparked meaningful change and business longevity.",
+        "url": "https://fortune.com/2026/03/01/double-good-founder-popcorn-fundraising-tim-heitmann/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/doublegood.png?resize=1200,600",
+        "publishedAt": "2026-03-01T10:00:00Z",
+        "content": "When I started my company, growth simply meant keeping the lights on and trying everything we could to find the right market for our product. The view was wide and experimental. I was thinking about … [+6960 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Washington Monthly"
+        },
+        "author": "Anne Kim",
+        "title": "The GOP’s Cruel Plans for Another Big Ugly Bill",
+        "description": "The Republican Study Committee’s framework for a second reconciliation bill aims to make life even more miserable for immigrants, including legal residents.\nThe post The GOP’s Cruel Plans for Another Big Ugly Bill appeared first on Washington Monthly.",
+        "url": "http://washingtonmonthly.com/2026/03/01/the-gops-cruel-plans-for-another-big-ugly-bill/",
+        "urlToImage": "https://i0.wp.com/washingtonmonthly.com/wp-content/uploads/2026/02/AP21273772094937-scaled.jpg?fit=2560%2C1707&quality=89&ssl=1",
+        "publishedAt": "2026-03-01T10:00:00Z",
+        "content": "My grandmother immigrated to the US from South Korea when I was three years old. She arrived in the country legally and got her green card around the same time my parents became naturalized US citize… [+9592 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PR Newswire UK"
+        },
+        "author": null,
+        "title": "Acwa Board of Directors names Dr. Samir J. Serhan Chief Executive Officer",
+        "description": "Dr. Samir J. Serhan named CEO effective today by Acwa Board of Directors. Dr. Serhan was previously President of Saudi Arabia and the Middle East at Acwa, and formerly Chief Operating Officer of US-based Air Products. Marco Arcelli, CEO of Acwa since March 20…",
+        "url": "https://www.prnewswire.co.uk/news-releases/acwa-board-of-directors-names-dr-samir-j-serhan-chief-executive-officer-302700350.html",
+        "urlToImage": null,
+        "publishedAt": "2026-03-01T09:54:00Z",
+        "content": "<ul><li>Dr. Samir J. Serhan named CEO effective today by Acwa Board of Directors.</li><li>Dr. Serhan was previously President of Saudi Arabia and the Middle East at Acwa, and formerly Chief Operating… [+5209 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "PTI",
+        "title": "Stock markets to react negatively amid escalating crisis in Middle East: Analysts",
+        "description": "Besides, geopolitical situation, macroeconomic data announcements, global market trends, and trading activity of foreign investors would also influence investors' sentiment in a holiday-shortened week ahead",
+        "url": "https://www.thehindubusinessline.com/markets/stock-markets-to-react-negatively-amid-escalating-crisis-in-middle-east-analysts/article70691135.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/s1yzkk/article70691152.ece/alternates/LANDSCAPE_1200/iStock-1409383663.jpg",
+        "publishedAt": "2026-03-01T09:48:36Z",
+        "content": "Stock markets will react negatively on Monday due to the escalating crisis in the Middle East, and the impact on equities will depend on how long the conflict lasts, analysts said.\r\nThe US and Israel… [+3183 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "PTI",
+        "title": "India's AI power in democratising expertise, pushing scientific frontiers: Google DeepMind senior exec",
+        "description": "Kohli, a distinguished scientist and senior executive at Google DeepMind - the advanced AI research arm of Google - said that beyond widening access, AI's role is in unlocking new treatments for diseases and accelerating drug discovery",
+        "url": "https://www.thehindubusinessline.com/info-tech/indias-ai-power-in-democratising-expertise-pushing-scientific-frontiers-google-deepmind-senior-exec/article70691166.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/yszt5p/article70691169.ece/alternates/LANDSCAPE_1200/BioAsia%202026%2019.jpg",
+        "publishedAt": "2026-03-01T09:47:40Z",
+        "content": "India's biggest AI opportunity unlock' is in democratising expertise at scale and advancing scientific frontiers, Pushmeet Kohli, Vice President of Research at Google DeepMind said, citing its transf… [+5342 chars]"
+      }
+    ]
+  }
+}

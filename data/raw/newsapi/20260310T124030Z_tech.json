@@ -1,0 +1,1163 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 35197,
+  "articles": [
+    {
+      "title": "United States Lamps Market Report by Product, Type, Application, States and Company Analysis 2025-2033",
+      "description": "The U.S. lamps market is projected to surge from USD 4.48 billion in 2025 to USD 6.58 billion by 2033, achieving a 4.92% CAGR. This growth is fueled by trends in energy efficiency, advancements in lighting technology, and a rising demand for stylish, innovati…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251842/28124/en/United-States-Lamps-Market-Report-by-Product-Type-Application-States-and-Company-Analysis-2025-2033.html",
+      "published_at": "2026-03-09T12:40:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"United States Lamps Market Report by Product, Type, Application, States and Company Analysis 2025-2033\" has been added to ResearchAndMarkets.com's offe… [+6462 chars]"
+    },
+    {
+      "title": "NOAA Determines TMC USA’s Consolidated Deep-Seabed Mining Application is in Substantial Compliance",
+      "description": "Determination of substantial compliance marks a key step in the U.S. regulatory process for exploration and commercial recovery of polymetallic nodules in the Clarion Clipperton Zone TMC USA’s consolidated application lodged earlier this year covers areas pre…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-substantial-compliance",
+      "published_at": "2026-03-09T12:39:05Z",
+      "author": "GlobeNewswire",
+      "image_url": null,
+      "content": "NOAA has played a central role in advancing scientific understanding of deep seabed mining impacts since the 1970s, including conducting environmental research cruises in the Clarion Clipperton Zone,… [+4605 chars]"
+    },
+    {
+      "title": "Reverse-engineering the UniFi inform protocol",
+      "description": "Every UniFi device phones home to its controller on port 8080. The payload is AES-encrypted, but the header is plaintext, and that's enough to build multi-tenant routing.",
+      "source": "Tamarack.cloud",
+      "url": "https://tamarack.cloud",
+      "published_at": "2026-03-09T12:38:46Z",
+      "author": null,
+      "image_url": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol/opengraph-image?e6b9cb467c38a6c9",
+      "content": "A few years ago I ran a small UniFi hosting service. Managed cloud controllers for MSPs and IT shops who didn't want to run their own. Every customer got their own VPS running a dedicated controller.… [+6190 chars]"
+    },
+    {
+      "title": "Fake Google Gemini AI pushes ‘Google Coin’ crypto scam",
+      "description": "Crypto scam uses fake AI chatbot impersonating Google's Gemini AI to promote fraudulent \"Google Coin\" cryptocurrency. Malwarebytes researchers expose scam.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/fake-google-gemini-ai-pushes-google-coin-crypto-scam",
+      "published_at": "2026-03-09T12:37:50Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/crypto-scam-photo-1.jpg",
+      "content": "You may think you can spot a crypto scam from a mile away. But what if the pitch comes from what looks like an official Google AI assistant, answering your questions in real time and showing projecte… [+8421 chars]"
+    },
+    {
+      "title": "Nichii Gakkan trials AI ‘Radio Time Machine’ to spark memories in dementia care",
+      "description": "A Japanese elderly care provider is trialing an AI device that recreates radio broadcasts from specific years, boosting memory recall and social engagement.",
+      "source": "Trendwatching.com",
+      "url": "https://www.trendwatching.com/innovations/nichii-gakkan-trials-ai-radio-time-machine-to-spark-memories-in-dementia-care",
+      "published_at": "2026-03-09T12:37:33Z",
+      "author": "Liesbeth den Toom",
+      "image_url": "https://www.trendwatching.com/hubfs/radio-time-machine.jpeg",
+      "content": "A Japanese elderly care provider is trialing a device that recreates radio broadcasts from specific years, boosting memory recall and social engagement.\r\nElderly care provider Nichii Gakkan is triali… [+2307 chars]"
+    },
+    {
+      "title": "Trump brothers-backed Aureus to merge with drone maker Powerus",
+      "description": "March 9 : Aureus Greenway Holdings, a golf club company backed by the sons of U.S. President Donald Trump, said it will merge with Powerus in a deal designed to take the drone technology company public.The transaction is the latest in Eric and Donald Trump Jr…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/trump-brothers-backed-aureus-merge-drone-maker-powerus-5981716",
+      "published_at": "2026-03-09T12:37:28Z",
+      "author": null,
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--nQvzMQ-X--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-09T132422Z_1_LYNXMPEM280UH_RTROPTP_3_USA-ELECTION-TRUMP.JPG?itok=Sx6O7lkR",
+      "content": "March 9 : Aureus Greenway Holdings, a golf club company backed by the sons of U.S. President Donald Trump, said it will merge with Powerus in a deal designed to take the drone technology company publ… [+1329 chars]"
+    },
+    {
+      "title": "Trump sons-backed Aureus to merge with drone maker Powerus",
+      "description": "March 9 : Aureus Greenway, a golf club company backed by the sons of U.S. President Donald Trump, said on Monday it would merge with Powerus in a deal designed to take the drone technology company public.The transaction is the latest in Eric and Donald Trump …",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/trump-sons-backed-aureus-merge-drone-maker-powerus-5981716",
+      "published_at": "2026-03-09T12:37:28Z",
+      "author": null,
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--nQvzMQ-X--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-09T132422Z_1_LYNXMPEM280UH_RTROPTP_3_USA-ELECTION-TRUMP.JPG?itok=Sx6O7lkR",
+      "content": "March 9 : Aureus Greenway, a golf club company backed by the sons of U.S. President Donald Trump, said on Monday it would merge with Powerus in a deal designed to take the drone technology company pu… [+1710 chars]"
+    },
+    {
+      "title": "Nitromethane Industry Research Report 2025: A $375+ Million Market by 2033, Driven by Expansion in Performance Fuel and Motorsport, Industrial Applications, Energy Demand and Infrastructure Growth",
+      "description": "The Nitromethane Market is slated to grow at a 5.52% CAGR, reaching $375.2 million by 2033, up from $244.11 million in 2025. As demand surges in pharmaceuticals, agrochemicals, and industrial applications, nitromethane's role as a chemical intermediate and hi…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251839/28124/en/Nitromethane-Industry-Research-Report-2025-A-375-Million-Market-by-2033-Driven-by-Expansion-in-Performance-Fuel-and-Motorsport-Industrial-Applications-Energy-Demand-and-Infrastruct.html",
+      "published_at": "2026-03-09T12:37:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Global Nitromethane Market Report by Purity, Application, Countries and Company Analysis 2025-2033\" has been added to ResearchAndMarkets.com's offering… [+7962 chars]"
+    },
+    {
+      "title": "Nvidia teams with global telecom leaders for 6G development",
+      "description": "AI behemoth and global operators and infrastructure providers team to build next-generation mobile infrastructure to advance AI-native 6G innovation based on open and trusted software-defined wireless platforms",
+      "source": "ComputerWeekly.com",
+      "url": "https://www.computerweekly.com/news/366639876/NVIDIA-teams-with-global-telecom-leaders-for-6G-development",
+      "published_at": "2026-03-09T12:37:00Z",
+      "author": "Joe O’Halloran",
+      "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/6g-mobile-network-broadband-iaremenko-adobe.jpg",
+      "content": "Havingseen its products become the cornerstone of business in the artificial intelligence (AI) era, Nvidia is turning its attention on 6G infrastructures, announcing a collaboration with leading telc… [+4076 chars]"
+    },
+    {
+      "title": "Rutgers Student Receives SBB Research Group Foundation STEM Scholarship",
+      "description": "The SBB Research Group Foundation has named Louis Joshua Cordero a STEM Scholarship recipient The SBB Research Group Foundation has named Louis Joshua Cordero a STEM Scholarship recipient",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251838/0/en/Rutgers-Student-Receives-SBB-Research-Group-Foundation-STEM-Scholarship.html",
+      "published_at": "2026-03-09T12:37:00Z",
+      "author": "SBB Research Group LLC",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d4ece951-30d3-4d64-b096-b3c681f12225",
+      "content": "CHICAGO, March 09, 2026 (GLOBE NEWSWIRE) -- The SBB Research Group Foundation named Luis Joshua Cordero a recipient of its STEM scholarship. The $2,500 award empowers students to create value for soc… [+1812 chars]"
+    },
+    {
+      "title": "Breaking the glass ceiling: India’s corporate shift toward women CEOs",
+      "description": "In India, women are breaking barriers by taking the reins of consumer goods and pharmaceutical companies, marking a significant departure from the historically male-dominated banking sector. Analysts foresee a continuing trend of growth in these industries, w…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/women-ceos-on-the-rise-indias-corporate-landscape-embraces-female-leadership/articleshow/129332930.cms",
+      "published_at": "2026-03-09T12:35:58Z",
+      "author": null,
+      "image_url": "https://img.etimg.com/thumb/msid-129333837,width-1200,height-630,imgsize-63848,overlay-economictimes/articleshow.jpg",
+      "content": "Once, Indias banking and financial services (BFSI) sector was the hallmark of womens leadership, with trailblazers like Shikha Sharma (Axis Bank), Naina Lal Kidwai (HSBC), Zarin Daruwala (Standard Ch… [+2820 chars]"
+    },
+    {
+      "title": "Africa’s web3 and digital economy ecosystem converges in Abia state",
+      "description": "Abia State is set to host one of Africa’s most anticipated technology and innovation gatherings […]",
+      "source": "Ambcrypto.com",
+      "url": "https://ambcrypto.com/africas-web3-and-digital-economy-ecosystem-converges-in-abia-state/",
+      "published_at": "2026-03-09T12:35:49Z",
+      "author": "AMBCrypto Team",
+      "image_url": "https://ambcrypto.com/wp-content/uploads/2026/03/Screenshot-2026-03-09-175604.png",
+      "content": "Abia State is set to host one of Africas most anticipated technology and innovation gatherings as the Abia Web3 &amp; Digital Economy Conference (AWDEC2026) takes place on August 78, 2026, from 9:00 … [+2338 chars]"
+    },
+    {
+      "title": "Man United launch complain to X over “sickening and irresponsible” posts",
+      "description": "Manchester United have followed Liverpool in filing a complaint with the social media platform X regarding several AI-generated posts that allegedly contain offensive and inaccurate claims relating to...",
+      "source": "The Peoples Person",
+      "url": "https://thepeoplesperson.com/2026/03/09/man-united-launch-complain-to-x-over-sickening-and-irresponsible-posts-307518/",
+      "published_at": "2026-03-09T12:35:00Z",
+      "author": "The Peoples Person",
+      "image_url": "https://s.yimg.com/os/en/the_peoples_person_articles_356/866ecd18783d6318bffa3b6e244839f2",
+      "content": "Manchester United have followed Liverpool in filing a complaint with the social media platform X regarding several AI-generated posts that allegedly contain offensive and inaccurate claims relating t… [+2032 chars]"
+    },
+    {
+      "title": "Hellenic Fire System moves a step closer to launch",
+      "description": "Following the launch of two radar satellites for Greece at the end of last year, four infrared imaging satellites dedicated to detecting and monitoring wildfires across the country are now being prepared for launch this spring. As part of the final preparatio…",
+      "source": "Esa.int",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Hellenic_Fire_System_moves_a_step_closer_to_launch",
+      "published_at": "2026-03-09T12:34:00Z",
+      "author": null,
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/demagnetising_a_hellenic_fire_system_satellite/27145594-1-eng-GB/Demagnetising_a_Hellenic_Fire_System_satellite_pillars.jpg",
+      "content": "Applications09/03/202614 views0 likes\r\nFollowing the launch of two radar satellites for Greece at the end of last year, four infrared imaging satellites dedicated to detecting and monitoring wildfire… [+3059 chars]"
+    },
+    {
+      "title": "NOAA Determines TMC USA’s Consolidated Deep-Seabed Mining Application is in Substantial Compliance",
+      "description": "NEW YORK, March 09, 2026 (GLOBE NEWSWIRE) -- TMC the metals company Inc. (Nasdaq: TMC) (“TMC” or the “Company”), a leading developer of the world’s largest resource of critical metals essential to energy, defense, manufacturing and infrastructure, today annou…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251835/0/en/NOAA-Determines-TMC-USA-s-Consolidated-Deep-Seabed-Mining-Application-is-in-Substantial-Compliance.html",
+      "published_at": "2026-03-09T12:34:00Z",
+      "author": "TMC the metals company Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/25fe098b-8e92-4c74-bb61-20b928ec09ee",
+      "content": "<ul><li>Determination of substantial compliance marks a key step in the U.S. regulatory process for exploration and commercial recovery of polymetallic nodules in the Clarion Clipperton Zone</li><li>… [+8095 chars]"
+    },
+    {
+      "title": "Oppo Find N6 to Recieve “Global Launch” on March 17",
+      "description": "Oppo is set to hold a \"global launch\" of its upcoming foldable, the Find N6 on March 17.\nThe post Oppo Find N6 to Recieve “Global Launch” on March 17 first appeared on iPhone in Canada.",
+      "source": "iPhone in Canada",
+      "url": "https://www.iphoneincanada.ca/2026/03/09/oppo-find-n6-to-recieve-global-launch-on-march-17/",
+      "published_at": "2026-03-09T12:31:31Z",
+      "author": "Steve Vegvari",
+      "image_url": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/03/Oppo-Find-N6.jpg",
+      "content": "Oppo is set to hold a “global launch” of its upcoming foldable, the Find N6. The device will release on March 17, and is expected to feature a revolutionary “Zero-Feel Crease.”\r\nIn a press release, t… [+1641 chars]"
+    },
+    {
+      "title": "Amid wave of kids' online safety laws, age-checking tech comes of age",
+      "description": "A recent outcry over the spread of AI-generated child sexual images, as well as increased confidence in the capabilities of \"age assurance\" software that backers say can suss out a person's approximate age using facial analysis, parental approval, ID checks a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amid-wave-of-kids-online-safety-laws-age-checking-tech-comes-of-age/articleshow/129333287.cms",
+      "published_at": "2026-03-09T12:31:08Z",
+      "author": "Reuters",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79560,resizemode-75,msid-129333287/tech/technology/amid-wave-of-kids-online-safety-laws-age-checking-tech-comes-of-age.jpg",
+      "content": "For years, tech companies successfully resisted pressure from child safety advocates to do more to keep kids off their services, claiming technical limitations would make any attempt to restrict acce… [+8027 chars]"
+    },
+    {
+      "title": "OneTrust expands platform with real-time AI governance and agent oversight capabilities",
+      "description": "Governance platform provider OneTrust LLC today announced new capabilities that expand its platform to support real-time artificial intelligence governance that moves beyond traditional compliance checks to continuous monitoring and enforcement of AI systems.…",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/03/09/onetrust-expands-platform-real-time-ai-governance-agent-oversight-capabilities/",
+      "published_at": "2026-03-09T12:30:49Z",
+      "author": "Duncan Riley",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/onetrus.png",
+      "content": "Governance platform provider OneTrust LLC today announced new capabilities that expand its platform to support real-time artificial intelligence governance that moves beyond traditional compliance ch… [+3985 chars]"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra vs S25 Ultra: Flex Magic Pixel and New Aluminum Design",
+      "description": "The Galaxy S26 Ultra introduces a range of enhancements over its predecessor, the S25 Ultra, focusing on camera performance, design, processing power, and battery efficiency. While these refinements improve the overall experience, they may not be significant …",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-vs-s25-ultr/",
+      "published_at": "2026-03-09T12:30:24Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/S261.jpg",
+      "content": "The Galaxy S26 Ultra introduces a range of enhancements over its predecessor, the S25 Ultra, focusing on camera performance, design, processing power, and battery efficiency. While these refinements … [+6799 chars]"
+    },
+    {
+      "title": "Small 401(k)s may automatically follow workers to their next job — except Roth money",
+      "description": "A network of plan administrators helps small 401(k) accounts rolled into IRAs find their way to a worker's next workplace plan — unless it's Roth money.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/09/401k-auto-portability-roth.html",
+      "published_at": "2026-03-09T12:30:01Z",
+      "author": "Sarah Agostino",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108274907-1772819582411-gettyimages-1483699569-vraf00087.jpeg?v=1772819601&w=1920&h=1080",
+      "content": "A system designed to help small 401(k) balances follow workers to their next job is running into a snag: Roth accounts.\r\nThe Portability Services Network, a coalition of large 401(k) administrators i… [+7658 chars]"
+    },
+    {
+      "title": "Eagle Nuclear Energy Corp. to Ring Nasdaq Opening Bell on March 11",
+      "description": "Ceremony highlights Eagle’s recent public listing and Nasdaq debut under ticker “NUCL” Ceremony highlights Eagle’s recent public listing and Nasdaq debut under ticker “NUCL”",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251808/0/en/Eagle-Nuclear-Energy-Corp-to-Ring-Nasdaq-Opening-Bell-on-March-11.html",
+      "published_at": "2026-03-09T12:30:00Z",
+      "author": "Eagle Nuclear Energy Corp.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/11d2ab09-2803-4a2e-95b7-58cc1e450cb8",
+      "content": "RENO, Nev., March 09, 2026 (GLOBE NEWSWIRE) -- Eagle Nuclear Energy Corp. (Eagle or the Company), a next-generation nuclear energy company which owns the largest conventional, measured and indicated … [+9344 chars]"
+    },
+    {
+      "title": "YY Group Announces Preliminary Fiscal Year 2025 Financial Highlights",
+      "description": "Estimated revenue of US$57 million to US$58 million, up 38.7% to 41.1% YOY Estimated gross profit of US$7.5 million to US$8 million, up 42.6% to 52.1% YOY Estimated revenue of US$57 million to US$58 million, up 38.7% to 41.1% YOY Estimated gross profit of US$…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251817/0/en/YY-Group-Announces-Preliminary-Fiscal-Year-2025-Financial-Highlights.html",
+      "published_at": "2026-03-09T12:30:00Z",
+      "author": "YY Group",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/c15b25ed-8783-477b-9949-dd81e1e9a688",
+      "content": "Singapore, March 09, 2026 (GLOBE NEWSWIRE) -- YY Group Holding Limited (NASDAQ: YYGH) (YY Group or the Company), a global leader in on-demand workforce solutions and integrated facilities management … [+5092 chars]"
+    },
+    {
+      "title": "Qualcomm plots out 6G, Wi-Fi 8 future with AI as the new user interface",
+      "description": "Leading comms tech platform provider unveils agentic radio access network management service and AI enhancements for commercial RAN platforms to accelerate value for telcos on the path to 6G",
+      "source": "ComputerWeekly.com",
+      "url": "https://www.computerweekly.com/news/366639874/Qualcomm-plots-out-6G-Wi-Fi-8-future-with-AI-as-the-new-user-interface",
+      "published_at": "2026-03-09T12:30:00Z",
+      "author": "Joe O’Halloran",
+      "image_url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Qualcomm-Snapdragon-Spaces-Dual-Render-Fusion-PR-hero.jpg",
+      "content": "As artificial intelligence (AI) reshapes the connectivity market to become more aligned with tomorrows agentic-oriented business world, comms tech provider Qualcomm has set out its vision, emphasisin… [+8345 chars]"
+    },
+    {
+      "title": "UK industry battles ‘commercial research exception’ AI plan",
+      "description": "A House of Lords committee report on Friday warned that AI poses a “clear and present danger” to the UK’s creative industries. And one danger swiftly made itself very clear and present: the potential for a ‘commercial research exception’ for AI companies. The…",
+      "source": "Music Ally",
+      "url": "http://musically.com/2026/03/09/uk-industry-battles-commercial-research-exception-ai-plan/",
+      "published_at": "2026-03-09T12:30:00Z",
+      "author": "Stuart Dredge",
+      "image_url": "https://i0.wp.com/musically.com/wp-content/uploads/2026/03/pf4qfacfdua.jpg?fit=1600%2C1200&ssl=1",
+      "content": "A House of Lords committee report on Friday warned that AI poses a clear and present danger to the UKs creative industries. And one danger swiftly made itself very clear and present: the potential fo… [+3794 chars]"
+    },
+    {
+      "title": "SS Innovations Announces Completion of an $18.6 Million Private Placement to Support Growth Initiatives",
+      "description": "SS Innovations Announces Completion of an $18.6 Million Private Placement to Support Growth Initiatives...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251813/0/en/SS-Innovations-Announces-Completion-of-an-18-6-Million-Private-Placement-to-Support-Growth-Initiatives.html",
+      "published_at": "2026-03-09T12:30:00Z",
+      "author": "SS Innovations",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/cef267e0-040f-4889-a706-cc4d0ae49e55",
+      "content": "FORT LAUDERDALE, Fla., March 09, 2026 (GLOBE NEWSWIRE) -- SS Innovations International, Inc. (the Company or SS Innovations) (Nasdaq: SSII), a developer of innovative surgical robotic technologies de… [+6280 chars]"
+    },
+    {
+      "title": "Capricor Therapeutics to Present Fourth Quarter and Full Year 2025 Financial Results and Recent Corporate Update on March 12",
+      "description": "– Company to Host Conference Call on March 12, 2026, at 4:30 p.m. ET –  SAN DIEGO, March  09, 2026  (GLOBE NEWSWIRE) -- Capricor Therapeutics (NASDAQ:...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251814/0/en/Capricor-Therapeutics-to-Present-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Recent-Corporate-Update-on-March-12.html",
+      "published_at": "2026-03-09T12:30:00Z",
+      "author": "Capricor Therapeutics",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/16ce4387-5b8f-447c-96b8-7c453633f9bf",
+      "content": "Company to Host Conference Call on March 12, 2026, at 4:30 p.m. ET \r\nSAN DIEGO, March 09, 2026 (GLOBE NEWSWIRE) -- Capricor Therapeutics (NASDAQ: CAPR), a biotechnology company developing transformat… [+5148 chars]"
+    },
+    {
+      "title": "Domestic Metals expands exploration efforts at Smart Creek Project in US",
+      "description": "The Smart Creek Project is situated 100km south-east of Missoula and 20km north of Philipsburg in Montana.",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com/news/domestic-metals-exploration-efforts-smart-creek-project/",
+      "published_at": "2026-03-09T12:27:27Z",
+      "author": "Shree Mishra",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/Xi3Z3kgLupnubnQ1vfnUkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mining_technology_700/804b6526980d7d86f3c21a16c514c2a1",
+      "content": "Domestic Metals has announced an expansion of its exploration budget following results from a surface exploration programme at the Smart Creek Copper Project in Montana, US.\r\nThe Smart Creek Project … [+2624 chars]"
+    },
+    {
+      "title": "Why Tesla stock (TSLA) falls as NHTSA probe into FSD vehicles and March 9 deadline spark investor concerns",
+      "description": "Tesla stock​ (TSLA) today: Tesla stock (TSLA) is falling as investors react to a federal probe into driver-assistance technology and a March 9 deadline for data compliance. The NHTSA's investigation tackles traffic violations involving over 2.8 million Tesla …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-tesla-stock-tsla-falls-as-nhtsa-probe-into-fsd-vehicles-and-march-9-deadline-spark-investor-concerns/articleshow/129331955.cms",
+      "published_at": "2026-03-09T12:23:18Z",
+      "author": "Shreya Biswas",
+      "image_url": "https://img.etimg.com/thumb/msid-129332961,width-1200,height-630,imgsize-31094,overlay-economictimes/articleshow.jpg",
+      "content": "Tesla stock (TSLA) today: Tesla stock (TSLA) is down more than 2% on Monday in pre-market trading as it is drawing investor attention as the company faces a near-term federal deadline to provide data… [+4019 chars]"
+    },
+    {
+      "title": "U.S. Treasury signals shift on crypto mixers, acknowledges legitimate privacy uses",
+      "description": "A congressional report on implementing the Genius Act acknowledges the existence of lawful uses for blockchain privacy tools even as U.S. regulators pursue enforcement cases tied to illicit finance.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/03/09/u-s-treasury-signals-shift-on-crypto-mixers-acknowledges-legitimate-privacy-uses",
+      "published_at": "2026-03-09T12:23:08Z",
+      "author": "Olivier Acuna",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/da536971efdec2094b8daa6723e8cc459fb08f44-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "content": "After years of opposition to crypto mixers, the onchain services that obfuscate digital asset transactions, the U.S. Treasury Department now says they may have legitimate privacy uses as well as thei… [+2291 chars]"
+    },
+    {
+      "title": "Samsung’s Odyssey 27-inch QHD QD-OLED monitor is back to its lowest price and comes with FREE Resident Evil Requiem game",
+      "description": "We just spotted a deal at B&H that gets you Samsung’s 27-inch Odyssey G5 (G50SF) QHD QD-OLED gaming monitor for $349.99 shipped with an on-page coupon that auto-applies during checkout. This is regularly a $550 model that hit the $350 low for the first time l…",
+      "source": "9to5Toys",
+      "url": "http://9to5toys.com/2026/03/09/samsung-odyssey-27-inch-qhd-qd-oled-monitor-back-to-its-lowest-price/",
+      "published_at": "2026-03-09T12:22:32Z",
+      "author": "Karthik Iyer",
+      "image_url": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/12/Samsung-Odyssey-G50SF-QD-OLED-gaming-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "content": "We just spotted a deal at B&amp;H that gets you Samsung’s 27-inch Odyssey G5 (G50SF) QHD QD-OLED gaming monitor for $349.99 shipped with an on-page coupon that auto-applies during checkout. This is r… [+2088 chars]"
+    },
+    {
+      "title": "Oil and Gas Accumulator Industry Research Report 2025-2033: $908 Million Market Driven by the U.S., Germany, China, and Saudi Arabia",
+      "description": "The Oil and Gas Accumulator Market is projected to grow from US$ 627.31 million in 2025 to US$ 908.62 million by 2033, with a CAGR of 4.74%. This growth is driven by increasing offshore and onshore drilling, stringent safety regulations, and global exploratio…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251803/28124/en/Oil-and-Gas-Accumulator-Industry-Research-Report-2025-2033-908-Million-Market-Driven-by-the-U-S-Germany-China-and-Saudi-Arabia.html",
+      "published_at": "2026-03-09T12:21:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Oil and Gas Accumulator Market Report by Type, Deployment Location, Application, Countries and Company Analysis 2025-2033\" has been added to ResearchAn… [+8669 chars]"
+    },
+    {
+      "title": "Air India staff base better aligned with private-sector metrics after privatisation: Government",
+      "description": "Air India's workforce is now younger and more skilled after privatization. The airline has modernized through new hires and contract changes.  Retirement ages are up, and business travel is restricted.  These steps show a shift towards customer focus.  Schedu…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-staff-base-better-aligned-with-private-sector-metrics-after-privatisation-government/articleshow/129332814.cms",
+      "published_at": "2026-03-09T12:20:02Z",
+      "author": "PTI",
+      "image_url": "https://img.etimg.com/thumb/msid-129332926,width-1200,height-630,imgsize-145356,overlay-economictimes/articleshow.jpg",
+      "content": "New Delhi: The civil aviation ministry on Monday informed the Rajya Sabha that post-privatisation, Air India's workforce has been modernised through hiring, reshaping contracts, and offering exit opt… [+2314 chars]"
+    },
+    {
+      "title": "Jeffs' Brands: KeepZone AI Enters into Channel Partner Agreement for 4G/5G Infrastructure",
+      "description": "Agreement Provides for Sale and Promotion of Private Communications Solutions in Ecuador  Tel Aviv, Israel, March  09, 2026  (GLOBE NEWSWIRE) --  Jeffs'...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251802/0/en/Jeffs-Brands-KeepZone-AI-Enters-into-Channel-Partner-Agreement-for-4G-5G-Infrastructure.html",
+      "published_at": "2026-03-09T12:20:00Z",
+      "author": "Jeffs' Brands Ltd",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/ab7d2c66-2303-4d0b-a5bb-53ef3a94593c",
+      "content": "Agreement Provides for Sale and Promotion of Private Communications Solutions in Ecuador\r\nTel Aviv, Israel, March 09, 2026 (GLOBE NEWSWIRE) -- Jeffs' Brands Ltd (Jeffs Brands or the Company) (Nasdaq:… [+7592 chars]"
+    },
+    {
+      "title": "3D printer that can mine Bitcoin uses excess heat for temperature control — throttled ASICs use printing bed as a heatsink",
+      "description": "The creator of a 3D printer that mines Bitcoin took part in an interview on the Home Mining Podcast at the weekend.",
+      "source": "Tom's Hardware UK",
+      "url": "https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink",
+      "published_at": "2026-03-09T12:18:26Z",
+      "author": "Mark Tyson",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Kv9tgCWqxFUoSPdQto69SB-1920-80.jpg",
+      "content": "The creator of a 3D printer that mines Bitcoin took part in an interview on the Home Mining Podcast over the weekend. Host Two Sats quizzed creator PizzAndy about his adapted 3D printing prototype. I… [+4096 chars]"
+    },
+    {
+      "title": "Safe Harbor Financial CEO Highlights Growth Platform Launch, Debt Elimination, and Financial Stabilization in Letter to Shareholders",
+      "description": "DENVER, March 09, 2026 (GLOBE NEWSWIRE) -- SHF Holdings, Inc., d/b/a Safe Harbor Financial\r\n (“Safe Harbor” or the “Company”) (NASDAQ: SHFS), a leading fintech platform serving the banking, lending, and financial services needs of the regulated cannabis and h…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251801/0/en/Safe-Harbor-Financial-CEO-Highlights-Growth-Platform-Launch-Debt-Elimination-and-Financial-Stabilization-in-Letter-to-Shareholders.html",
+      "published_at": "2026-03-09T12:17:00Z",
+      "author": "Safe Harbor Financial Services, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a6d3ca5e-c333-45cf-a224-81fe3f48d053",
+      "content": "DENVER, March 09, 2026 (GLOBE NEWSWIRE) -- SHF Holdings, Inc., d/b/a Safe Harbor Financial\r\n (Safe Harbor or the Company) (NASDAQ: SHFS), a leading fintech platform serving the banking, lending, and … [+13844 chars]"
+    },
+    {
+      "title": "Live Nation settles US antitrust case, keeps Ticketmaster",
+      "description": "Live Nation Entertainment has reached a settlement with the US Justice Department that allows the concert promoter to retain Ticketmaster, Politico reported today, citing people familiar with the matter.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0309/1562385-live-nation-settles-us-antitrust-case/",
+      "published_at": "2026-03-09T12:14:07Z",
+      "author": "RTÉ News",
+      "image_url": "https://www.rte.ie/images/002059fa-1600.jpg",
+      "content": "Live Nation Entertainment has reached a settlement with the US Justice Department that allows the concert promoter to retain Ticketmaster, Politico reported today, citing people familiar with the mat… [+1568 chars]"
+    },
+    {
+      "title": "Nexperia China says it has begun producing its own chips",
+      "description": "Chipmaker Nexperia's Chinese subsidiary said on Monday it has begun producing its own ‌chips, a further step towards independence from its Dutch ‌parent as a...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/nexperia-china-announces-12-inch-121257771.html",
+      "published_at": "2026-03-09T12:12:57Z",
+      "author": "Reuters",
+      "image_url": "https://s.yimg.com/os/en/reuters-finance.com/a437f5546865c6e7f6fd1401883d8009",
+      "content": "BEIJING, March 9 (Reuters) - Chipmaker Nexperia's Chinese subsidiary said on Monday it has begun producing its own chips, a further step towards independence from its Dutch parent as a dispute that h… [+1418 chars]"
+    },
+    {
+      "title": "Product ethics, AI adoption theatre, an architecture that no longer exists",
+      "description": "Weekly curated resources for designers — thinkers and makers.",
+      "source": "Uxdesign.cc",
+      "url": "https://uxdesign.cc/product-ethics-ai-adoption-theatre-an-architecture-that-no-longer-exists-6f445c6dafac",
+      "published_at": "2026-03-09T12:12:03Z",
+      "author": "Fabricio Teixeira",
+      "image_url": null,
+      "content": "In the last week of February 2026, something unusual happened. A sitting US president took to social media to brand a private technology company a political threat. The Secretary of Defense designate… [+248 chars]"
+    },
+    {
+      "title": "United States Decorative Lighting Market Report 2025-2033: Rising Social Media Influence, Interior Design Trends, and Expanding DIY Decor Culture Fueling the $56.72 Billion Industry",
+      "description": "Growth is fueled by burgeoning design trends, urbanization, and increasing consumer investment in interior aesthetics. Demand is bolstered by advancements in LED and smart lighting technologies, enhancing energy efficiency and design flexibility. Key drivers …",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251800/28124/en/United-States-Decorative-Lighting-Market-Report-2025-2033-Rising-Social-Media-Influence-Interior-Design-Trends-and-Expanding-DIY-Decor-Culture-Fueling-the-56-72-Billion-Industry.html",
+      "published_at": "2026-03-09T12:12:00Z",
+      "author": "Research and Markets",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"United States Decorative Lighting Market Report by Light Source, Product, Application, Distribution Channel, States and Company Analysis, 2025-2033\" ha… [+5892 chars]"
+    },
+    {
+      "title": "Belagavi startup vs global AI giant: Karnataka court orders summons to Anthropic’s US headquarters in Rs 1 crore trademark suit",
+      "description": "Belagavi startup vs global AI giant: Karnataka court orders summons to Anthropic’s US headquarters in Rs 1 crore trademark suit.",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/anthropic-trademark-dispute-belagavi-court-us-office-10573107/",
+      "published_at": "2026-03-09T12:08:47Z",
+      "author": "Mustafa Plumber",
+      "image_url": "https://images.indianexpress.com/2026/03/karnataka-high-court_20260309120740.jpg",
+      "content": "Belagavi-based Anthropic Software Private Limited claimed that the US company has deliberately used a deceptively similar mark, causing confusion amounting to passing off and unfair competition.A com… [+4517 chars]"
+    },
+    {
+      "title": "Acronis Releases 2025 ESG Report Highlighting Progress in Sustainability, Workforce Engagement, and Responsible Technology",
+      "description": "The latest report showcases Acronis’ ongoing commitment to responsible business practices, sustainable growth, and protecting the digital world SCHAFFHAUSEN, Switzerland, March 09, 2026 (GLOBE NEWSWIRE) — Acronis, a global leader in cyber protection, today an…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/acronis-releases-2025-esg-report-highlighting-progress-in-sustainability-workforce-engagement-and-responsible-technology",
+      "published_at": "2026-03-09T12:07:38Z",
+      "author": "GlobeNewswire",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/acronis-releases-2025-esg-report-highlighting-progress-in-su.jpeg",
+      "content": "The latest report showcases Acronis ongoing commitment to responsible business practices, sustainable growth, and protecting the digital world\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscrib… [+5231 chars]"
+    },
+    {
+      "title": "Tesla builds a car with no steering wheel. Now what?",
+      "description": "Tesla Cybercab production begins at Gigafactory Texas with no steering wheel or pedals, as Elon Musk announces April start for the autonomous robotaxi starting under $30,000.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/tesla-builds-car-no-steering-wheel-now-what",
+      "published_at": "2026-03-09T12:07:37Z",
+      "author": null,
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/tesla-photo-1.jpg",
+      "content": "The first Tesla Cybercab has officially rolled off the floor at Tesla Gigafactory Texas. And yes, it has no steering wheel. No pedals either. That alone makes it one of the boldest vehicles ever buil… [+5669 chars]"
+    },
+    {
+      "title": "Adeia Enters into Multi-Year IP License Agreement with AMD",
+      "description": "Adeia Enters into Multi-Year IP License Agreement with AMD...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251798/0/en/Adeia-Enters-into-Multi-Year-IP-License-Agreement-with-AMD.html",
+      "published_at": "2026-03-09T12:06:00Z",
+      "author": "Adeia Holdings Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/82d29e95-dcfb-407c-9a26-5eec6c741977",
+      "content": "SAN JOSE, Calif., March 09, 2026 (GLOBE NEWSWIRE) -- Adeia Inc. (Nasdaq: ADEA), the technology company known for developing foundational innovations that enable next-generation solutions for the semi… [+1587 chars]"
+    },
+    {
+      "title": "Has AI Ended Thought Leadership?",
+      "description": "The technology has made it easier than ever to sound like an expert. It’s time to pay attention to the people with actual experience.",
+      "source": "Harvard Business Review",
+      "url": "https://hbr.org/2026/03/has-ai-ended-thought-leadership",
+      "published_at": "2026-03-09T12:05:18Z",
+      "author": "John Winsor",
+      "image_url": "https://hbr.org/resources/images/article_assets/2026/03/Mar26_07_119003046.jpg",
+      "content": "By any conventional measure, I am a thought leader. Ive spent decades at the intersection of innovation and storytelling, building companies, selling them, breaking things, and starting over. Ive wri… [+105 chars]"
+    },
+    {
+      "title": "Hello",
+      "description": "Hello - posted in Introductions: My name is Santosh. I’m an SEO professional with over 11 years of experience in digital marketing, focusing on SEO, website optimization and online growth strategies. I enjoy learning about technology, cybersecurity and data p…",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/forums/t/814272/hello/",
+      "published_at": "2026-03-09T12:05:13Z",
+      "author": "",
+      "image_url": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+      "content": "My name is Santosh. I’m an SEO professional with over 11 years of experience in digital marketing, focusing on SEO, website optimization and online growth strategies. I enjoy learning about technolog… [+36 chars]"
+    },
+    {
+      "title": "The Incredible Story of Hiroshi Hase: From Olympic Mat to Governor’s Office",
+      "description": "Hiroshi Hase, the iconic Japanese figure who transitioned seamlessly from the wrestling ring to the halls of political power, has long been a symbol of perseverance, resilience, and leadership. His journey, from representing Japan in the 1984 Olympics to navi…",
+      "source": "Whatjapanthinks.com",
+      "url": "https://whatjapanthinks.com/story-of-hiroshi-hase-olympic-mat-to-governors-office/",
+      "published_at": "2026-03-09T12:05:07Z",
+      "author": "Ken Y-N",
+      "image_url": "https://whatjapanthinks.com/wp-content/uploads/2026/03/Story-of-Hiroshi-Hase.webp",
+      "content": "Hiroshi Hase, the iconic Japanese figure who transitioned seamlessly from the wrestling ring to the halls of political power, has long been a symbol of perseverance, resilience, and leadership. His j… [+6412 chars]"
+    },
+    {
+      "title": "Acronis Releases 2025 ESG Report Highlighting Progress in Sustainability, Workforce Engagement, and Responsible Technology",
+      "description": "Acronis releases its 2025 Environmental, Social, and Governance (ESG) Report highlighting the company’s ESG strategy, key initiatives, and progress....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251797/0/en/Acronis-Releases-2025-ESG-Report-Highlighting-Progress-in-Sustainability-Workforce-Engagement-and-Responsible-Technology.html",
+      "published_at": "2026-03-09T12:05:00Z",
+      "author": "Acronis, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f70be083-b458-42fe-b575-529c5c261088",
+      "content": "SCHAFFHAUSEN, Switzerland, March 09, 2026 (GLOBE NEWSWIRE) -- Acronis\r\n, a global leader in cyber protection, today announced the release of its 2025 Environmental, Social, and Governance (ESG) Repor… [+7965 chars]"
+    },
+    {
+      "title": "What CIOs can learn from Anthropic's safety pullback",
+      "description": "Anthropic’s clash with the Pentagon shows how AI vendor safety policies can shift politically, forcing CIOs to strengthen governance and manage supplier risk.",
+      "source": "Techtarget.com",
+      "url": "https://www.techtarget.com/searchcio/feature/What-CIOs-can-learn-from-Anthropics-safety-pullback",
+      "published_at": "2026-03-09T12:04:00Z",
+      "author": "Sean Michael Kerner",
+      "image_url": "https://www.techtarget.com/rms/onlineimages/security_a218339023.jpg",
+      "content": "The recent Anthropic safety pullback just turned one of enterprise AIs most trusted vendors into a geopolitical flashpoint.\r\nFor CIOs betting on safe\" or responsible AI, the episode is a reminder tha… [+12052 chars]"
+    },
+    {
+      "title": "How to build UI using GPT-5.1 + Bootstrap – Use UXPin Merge!",
+      "description": "Create production-ready React UIs from plain text prompts using GPT-5.1, Bootstrap, and UXPin Merge — generate, refine, test, and export clean code.\nThe post How to build UI using GPT-5.1 + Bootstrap – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "source": "Uxpin.com",
+      "url": "https://www.uxpin.com/studio/blog/build-ui-gpt-5-1-bootstrap-uxpin-merge/",
+      "published_at": "2026-03-09T12:03:52Z",
+      "author": "Andrew Martin",
+      "image_url": "https://studio.uxpincdn.com/studio/wp-content/uploads/2026/03/image_bedf7b627e040ce1d49f58ee1e02a99a.jpeg.webp",
+      "content": "Want to speed up UI design without losing quality? With GPT-5.1, Bootstrap, and UXPin Merge, you can create production-ready UIs directly from prompts – no static mockups or endless handoffs. Here’s … [+18443 chars]"
+    },
+    {
+      "title": "What China's latest economic plans say about its tech ambitions and rivalry with the US",
+      "description": "Two major economic plans unveiled at the annual meeting of China’s legislature outline top priorities",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/chinas-latest-economic-plans-tech-ambitions-rivalry-us-130888320",
+      "published_at": "2026-03-09T12:02:23Z",
+      "author": "KEN MORITSUGU Associated Press, CHAN HO-HIM Associated Press",
+      "image_url": "https://i.abcnewsfe.com/a/352af796-6286-46d8-b7ff-8459eb5fc0ef/wirestory_7face4580fcfba44410ff2134a09d6bb_16x9.jpg?w=1600",
+      "content": "BEIJING -- Two major economic plans unveiled at the annual meeting of China's legislature outline top priorities that have different ramifications for the global economy.\r\nIn the government plan for … [+4924 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 35197,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "United States Lamps Market Report by Product, Type, Application, States and Company Analysis 2025-2033",
+        "description": "The U.S. lamps market is projected to surge from USD 4.48 billion in 2025 to USD 6.58 billion by 2033, achieving a 4.92% CAGR. This growth is fueled by trends in energy efficiency, advancements in lighting technology, and a rising demand for stylish, innovati…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251842/28124/en/United-States-Lamps-Market-Report-by-Product-Type-Application-States-and-Company-Analysis-2025-2033.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-03-09T12:40:00Z",
+        "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"United States Lamps Market Report by Product, Type, Application, States and Company Analysis 2025-2033\" has been added to ResearchAndMarkets.com's offe… [+6462 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "NOAA Determines TMC USA’s Consolidated Deep-Seabed Mining Application is in Substantial Compliance",
+        "description": "Determination of substantial compliance marks a key step in the U.S. regulatory process for exploration and commercial recovery of polymetallic nodules in the Clarion Clipperton Zone TMC USA’s consolidated application lodged earlier this year covers areas pre…",
+        "url": "https://financialpost.com/globe-newswire/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-application-is-in-substantial-compliance",
+        "urlToImage": null,
+        "publishedAt": "2026-03-09T12:39:05Z",
+        "content": "NOAA has played a central role in advancing scientific understanding of deep seabed mining impacts since the 1970s, including conducting environmental research cruises in the Clarion Clipperton Zone,… [+4605 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tamarack.cloud"
+        },
+        "author": null,
+        "title": "Reverse-engineering the UniFi inform protocol",
+        "description": "Every UniFi device phones home to its controller on port 8080. The payload is AES-encrypted, but the header is plaintext, and that's enough to build multi-tenant routing.",
+        "url": "https://tamarack.cloud",
+        "urlToImage": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol/opengraph-image?e6b9cb467c38a6c9",
+        "publishedAt": "2026-03-09T12:38:46Z",
+        "content": "A few years ago I ran a small UniFi hosting service. Managed cloud controllers for MSPs and IT shops who didn't want to run their own. Every customer got their own VPS running a dedicated controller.… [+6190 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Fake Google Gemini AI pushes ‘Google Coin’ crypto scam",
+        "description": "Crypto scam uses fake AI chatbot impersonating Google's Gemini AI to promote fraudulent \"Google Coin\" cryptocurrency. Malwarebytes researchers expose scam.",
+        "url": "https://www.foxnews.com/tech/fake-google-gemini-ai-pushes-google-coin-crypto-scam",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/crypto-scam-photo-1.jpg",
+        "publishedAt": "2026-03-09T12:37:50Z",
+        "content": "You may think you can spot a crypto scam from a mile away. But what if the pitch comes from what looks like an official Google AI assistant, answering your questions in real time and showing projecte… [+8421 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Trendwatching.com"
+        },
+        "author": "Liesbeth den Toom",
+        "title": "Nichii Gakkan trials AI ‘Radio Time Machine’ to spark memories in dementia care",
+        "description": "A Japanese elderly care provider is trialing an AI device that recreates radio broadcasts from specific years, boosting memory recall and social engagement.",
+        "url": "https://www.trendwatching.com/innovations/nichii-gakkan-trials-ai-radio-time-machine-to-spark-memories-in-dementia-care",
+        "urlToImage": "https://www.trendwatching.com/hubfs/radio-time-machine.jpeg",
+        "publishedAt": "2026-03-09T12:37:33Z",
+        "content": "A Japanese elderly care provider is trialing a device that recreates radio broadcasts from specific years, boosting memory recall and social engagement.\r\nElderly care provider Nichii Gakkan is triali… [+2307 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Trump brothers-backed Aureus to merge with drone maker Powerus",
+        "description": "March 9 : Aureus Greenway Holdings, a golf club company backed by the sons of U.S. President Donald Trump, said it will merge with Powerus in a deal designed to take the drone technology company public.The transaction is the latest in Eric and Donald Trump Jr…",
+        "url": "https://www.channelnewsasia.com/business/trump-brothers-backed-aureus-merge-drone-maker-powerus-5981716",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--nQvzMQ-X--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-09T132422Z_1_LYNXMPEM280UH_RTROPTP_3_USA-ELECTION-TRUMP.JPG?itok=Sx6O7lkR",
+        "publishedAt": "2026-03-09T12:37:28Z",
+        "content": "March 9 : Aureus Greenway Holdings, a golf club company backed by the sons of U.S. President Donald Trump, said it will merge with Powerus in a deal designed to take the drone technology company publ… [+1329 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Trump sons-backed Aureus to merge with drone maker Powerus",
+        "description": "March 9 : Aureus Greenway, a golf club company backed by the sons of U.S. President Donald Trump, said on Monday it would merge with Powerus in a deal designed to take the drone technology company public.The transaction is the latest in Eric and Donald Trump …",
+        "url": "https://www.channelnewsasia.com/business/trump-sons-backed-aureus-merge-drone-maker-powerus-5981716",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--nQvzMQ-X--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-03-09T132422Z_1_LYNXMPEM280UH_RTROPTP_3_USA-ELECTION-TRUMP.JPG?itok=Sx6O7lkR",
+        "publishedAt": "2026-03-09T12:37:28Z",
+        "content": "March 9 : Aureus Greenway, a golf club company backed by the sons of U.S. President Donald Trump, said on Monday it would merge with Powerus in a deal designed to take the drone technology company pu… [+1710 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Nitromethane Industry Research Report 2025: A $375+ Million Market by 2033, Driven by Expansion in Performance Fuel and Motorsport, Industrial Applications, Energy Demand and Infrastructure Growth",
+        "description": "The Nitromethane Market is slated to grow at a 5.52% CAGR, reaching $375.2 million by 2033, up from $244.11 million in 2025. As demand surges in pharmaceuticals, agrochemicals, and industrial applications, nitromethane's role as a chemical intermediate and hi…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251839/28124/en/Nitromethane-Industry-Research-Report-2025-A-375-Million-Market-by-2033-Driven-by-Expansion-in-Performance-Fuel-and-Motorsport-Industrial-Applications-Energy-Demand-and-Infrastruct.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-03-09T12:37:00Z",
+        "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Global Nitromethane Market Report by Purity, Application, Countries and Company Analysis 2025-2033\" has been added to ResearchAndMarkets.com's offering… [+7962 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ComputerWeekly.com"
+        },
+        "author": "Joe O’Halloran",
+        "title": "Nvidia teams with global telecom leaders for 6G development",
+        "description": "AI behemoth and global operators and infrastructure providers team to build next-generation mobile infrastructure to advance AI-native 6G innovation based on open and trusted software-defined wireless platforms",
+        "url": "https://www.computerweekly.com/news/366639876/NVIDIA-teams-with-global-telecom-leaders-for-6G-development",
+        "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/6g-mobile-network-broadband-iaremenko-adobe.jpg",
+        "publishedAt": "2026-03-09T12:37:00Z",
+        "content": "Havingseen its products become the cornerstone of business in the artificial intelligence (AI) era, Nvidia is turning its attention on 6G infrastructures, announcing a collaboration with leading telc… [+4076 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SBB Research Group LLC",
+        "title": "Rutgers Student Receives SBB Research Group Foundation STEM Scholarship",
+        "description": "The SBB Research Group Foundation has named Louis Joshua Cordero a STEM Scholarship recipient The SBB Research Group Foundation has named Louis Joshua Cordero a STEM Scholarship recipient",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251838/0/en/Rutgers-Student-Receives-SBB-Research-Group-Foundation-STEM-Scholarship.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/d4ece951-30d3-4d64-b096-b3c681f12225",
+        "publishedAt": "2026-03-09T12:37:00Z",
+        "content": "CHICAGO, March 09, 2026 (GLOBE NEWSWIRE) -- The SBB Research Group Foundation named Luis Joshua Cordero a recipient of its STEM scholarship. The $2,500 award empowers students to create value for soc… [+1812 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Breaking the glass ceiling: India’s corporate shift toward women CEOs",
+        "description": "In India, women are breaking barriers by taking the reins of consumer goods and pharmaceutical companies, marking a significant departure from the historically male-dominated banking sector. Analysts foresee a continuing trend of growth in these industries, w…",
+        "url": "https://economictimes.indiatimes.com/news/india/women-ceos-on-the-rise-indias-corporate-landscape-embraces-female-leadership/articleshow/129332930.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-129333837,width-1200,height-630,imgsize-63848,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-09T12:35:58Z",
+        "content": "Once, Indias banking and financial services (BFSI) sector was the hallmark of womens leadership, with trailblazers like Shikha Sharma (Axis Bank), Naina Lal Kidwai (HSBC), Zarin Daruwala (Standard Ch… [+2820 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ambcrypto.com"
+        },
+        "author": "AMBCrypto Team",
+        "title": "Africa’s web3 and digital economy ecosystem converges in Abia state",
+        "description": "Abia State is set to host one of Africa’s most anticipated technology and innovation gatherings […]",
+        "url": "https://ambcrypto.com/africas-web3-and-digital-economy-ecosystem-converges-in-abia-state/",
+        "urlToImage": "https://ambcrypto.com/wp-content/uploads/2026/03/Screenshot-2026-03-09-175604.png",
+        "publishedAt": "2026-03-09T12:35:49Z",
+        "content": "Abia State is set to host one of Africas most anticipated technology and innovation gatherings as the Abia Web3 &amp; Digital Economy Conference (AWDEC2026) takes place on August 78, 2026, from 9:00 … [+2338 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Peoples Person"
+        },
+        "author": "The Peoples Person",
+        "title": "Man United launch complain to X over “sickening and irresponsible” posts",
+        "description": "Manchester United have followed Liverpool in filing a complaint with the social media platform X regarding several AI-generated posts that allegedly contain offensive and inaccurate claims relating to...",
+        "url": "https://thepeoplesperson.com/2026/03/09/man-united-launch-complain-to-x-over-sickening-and-irresponsible-posts-307518/",
+        "urlToImage": "https://s.yimg.com/os/en/the_peoples_person_articles_356/866ecd18783d6318bffa3b6e244839f2",
+        "publishedAt": "2026-03-09T12:35:00Z",
+        "content": "Manchester United have followed Liverpool in filing a complaint with the social media platform X regarding several AI-generated posts that allegedly contain offensive and inaccurate claims relating t… [+2032 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Esa.int"
+        },
+        "author": null,
+        "title": "Hellenic Fire System moves a step closer to launch",
+        "description": "Following the launch of two radar satellites for Greece at the end of last year, four infrared imaging satellites dedicated to detecting and monitoring wildfires across the country are now being prepared for launch this spring. As part of the final preparatio…",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Hellenic_Fire_System_moves_a_step_closer_to_launch",
+        "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/demagnetising_a_hellenic_fire_system_satellite/27145594-1-eng-GB/Demagnetising_a_Hellenic_Fire_System_satellite_pillars.jpg",
+        "publishedAt": "2026-03-09T12:34:00Z",
+        "content": "Applications09/03/202614 views0 likes\r\nFollowing the launch of two radar satellites for Greece at the end of last year, four infrared imaging satellites dedicated to detecting and monitoring wildfire… [+3059 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "TMC the metals company Inc.",
+        "title": "NOAA Determines TMC USA’s Consolidated Deep-Seabed Mining Application is in Substantial Compliance",
+        "description": "NEW YORK, March 09, 2026 (GLOBE NEWSWIRE) -- TMC the metals company Inc. (Nasdaq: TMC) (“TMC” or the “Company”), a leading developer of the world’s largest resource of critical metals essential to energy, defense, manufacturing and infrastructure, today annou…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251835/0/en/NOAA-Determines-TMC-USA-s-Consolidated-Deep-Seabed-Mining-Application-is-in-Substantial-Compliance.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/25fe098b-8e92-4c74-bb61-20b928ec09ee",
+        "publishedAt": "2026-03-09T12:34:00Z",
+        "content": "<ul><li>Determination of substantial compliance marks a key step in the U.S. regulatory process for exploration and commercial recovery of polymetallic nodules in the Clarion Clipperton Zone</li><li>… [+8095 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "iPhone in Canada"
+        },
+        "author": "Steve Vegvari",
+        "title": "Oppo Find N6 to Recieve “Global Launch” on March 17",
+        "description": "Oppo is set to hold a \"global launch\" of its upcoming foldable, the Find N6 on March 17.\nThe post Oppo Find N6 to Recieve “Global Launch” on March 17 first appeared on iPhone in Canada.",
+        "url": "https://www.iphoneincanada.ca/2026/03/09/oppo-find-n6-to-recieve-global-launch-on-march-17/",
+        "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/03/Oppo-Find-N6.jpg",
+        "publishedAt": "2026-03-09T12:31:31Z",
+        "content": "Oppo is set to hold a “global launch” of its upcoming foldable, the Find N6. The device will release on March 17, and is expected to feature a revolutionary “Zero-Feel Crease.”\r\nIn a press release, t… [+1641 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "Amid wave of kids' online safety laws, age-checking tech comes of age",
+        "description": "A recent outcry over the spread of AI-generated child sexual images, as well as increased confidence in the capabilities of \"age assurance\" software that backers say can suss out a person's approximate age using facial analysis, parental approval, ID checks a…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/amid-wave-of-kids-online-safety-laws-age-checking-tech-comes-of-age/articleshow/129333287.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79560,resizemode-75,msid-129333287/tech/technology/amid-wave-of-kids-online-safety-laws-age-checking-tech-comes-of-age.jpg",
+        "publishedAt": "2026-03-09T12:31:08Z",
+        "content": "For years, tech companies successfully resisted pressure from child safety advocates to do more to keep kids off their services, claiming technical limitations would make any attempt to restrict acce… [+8027 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SiliconANGLE News"
+        },
+        "author": "Duncan Riley",
+        "title": "OneTrust expands platform with real-time AI governance and agent oversight capabilities",
+        "description": "Governance platform provider OneTrust LLC today announced new capabilities that expand its platform to support real-time artificial intelligence governance that moves beyond traditional compliance checks to continuous monitoring and enforcement of AI systems.…",
+        "url": "https://siliconangle.com/2026/03/09/onetrust-expands-platform-real-time-ai-governance-agent-oversight-capabilities/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/onetrus.png",
+        "publishedAt": "2026-03-09T12:30:49Z",
+        "content": "Governance platform provider OneTrust LLC today announced new capabilities that expand its platform to support real-time artificial intelligence governance that moves beyond traditional compliance ch… [+3985 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Samsung Galaxy S26 Ultra vs S25 Ultra: Flex Magic Pixel and New Aluminum Design",
+        "description": "The Galaxy S26 Ultra introduces a range of enhancements over its predecessor, the S25 Ultra, focusing on camera performance, design, processing power, and battery efficiency. While these refinements improve the overall experience, they may not be significant …",
+        "url": "https://www.geeky-gadgets.com/samsung-galaxy-s26-ultra-vs-s25-ultr/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/S261.jpg",
+        "publishedAt": "2026-03-09T12:30:24Z",
+        "content": "The Galaxy S26 Ultra introduces a range of enhancements over its predecessor, the S25 Ultra, focusing on camera performance, design, processing power, and battery efficiency. While these refinements … [+6799 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Sarah Agostino",
+        "title": "Small 401(k)s may automatically follow workers to their next job — except Roth money",
+        "description": "A network of plan administrators helps small 401(k) accounts rolled into IRAs find their way to a worker's next workplace plan — unless it's Roth money.",
+        "url": "https://www.cnbc.com/2026/03/09/401k-auto-portability-roth.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108274907-1772819582411-gettyimages-1483699569-vraf00087.jpeg?v=1772819601&w=1920&h=1080",
+        "publishedAt": "2026-03-09T12:30:01Z",
+        "content": "A system designed to help small 401(k) balances follow workers to their next job is running into a snag: Roth accounts.\r\nThe Portability Services Network, a coalition of large 401(k) administrators i… [+7658 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Eagle Nuclear Energy Corp.",
+        "title": "Eagle Nuclear Energy Corp. to Ring Nasdaq Opening Bell on March 11",
+        "description": "Ceremony highlights Eagle’s recent public listing and Nasdaq debut under ticker “NUCL” Ceremony highlights Eagle’s recent public listing and Nasdaq debut under ticker “NUCL”",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251808/0/en/Eagle-Nuclear-Energy-Corp-to-Ring-Nasdaq-Opening-Bell-on-March-11.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/11d2ab09-2803-4a2e-95b7-58cc1e450cb8",
+        "publishedAt": "2026-03-09T12:30:00Z",
+        "content": "RENO, Nev., March 09, 2026 (GLOBE NEWSWIRE) -- Eagle Nuclear Energy Corp. (Eagle or the Company), a next-generation nuclear energy company which owns the largest conventional, measured and indicated … [+9344 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "YY Group",
+        "title": "YY Group Announces Preliminary Fiscal Year 2025 Financial Highlights",
+        "description": "Estimated revenue of US$57 million to US$58 million, up 38.7% to 41.1% YOY Estimated gross profit of US$7.5 million to US$8 million, up 42.6% to 52.1% YOY Estimated revenue of US$57 million to US$58 million, up 38.7% to 41.1% YOY Estimated gross profit of US$…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251817/0/en/YY-Group-Announces-Preliminary-Fiscal-Year-2025-Financial-Highlights.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/c15b25ed-8783-477b-9949-dd81e1e9a688",
+        "publishedAt": "2026-03-09T12:30:00Z",
+        "content": "Singapore, March 09, 2026 (GLOBE NEWSWIRE) -- YY Group Holding Limited (NASDAQ: YYGH) (YY Group or the Company), a global leader in on-demand workforce solutions and integrated facilities management … [+5092 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ComputerWeekly.com"
+        },
+        "author": "Joe O’Halloran",
+        "title": "Qualcomm plots out 6G, Wi-Fi 8 future with AI as the new user interface",
+        "description": "Leading comms tech platform provider unveils agentic radio access network management service and AI enhancements for commercial RAN platforms to accelerate value for telcos on the path to 6G",
+        "url": "https://www.computerweekly.com/news/366639874/Qualcomm-plots-out-6G-Wi-Fi-8-future-with-AI-as-the-new-user-interface",
+        "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Qualcomm-Snapdragon-Spaces-Dual-Render-Fusion-PR-hero.jpg",
+        "publishedAt": "2026-03-09T12:30:00Z",
+        "content": "As artificial intelligence (AI) reshapes the connectivity market to become more aligned with tomorrows agentic-oriented business world, comms tech provider Qualcomm has set out its vision, emphasisin… [+8345 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Music Ally"
+        },
+        "author": "Stuart Dredge",
+        "title": "UK industry battles ‘commercial research exception’ AI plan",
+        "description": "A House of Lords committee report on Friday warned that AI poses a “clear and present danger” to the UK’s creative industries. And one danger swiftly made itself very clear and present: the potential for a ‘commercial research exception’ for AI companies. The…",
+        "url": "http://musically.com/2026/03/09/uk-industry-battles-commercial-research-exception-ai-plan/",
+        "urlToImage": "https://i0.wp.com/musically.com/wp-content/uploads/2026/03/pf4qfacfdua.jpg?fit=1600%2C1200&ssl=1",
+        "publishedAt": "2026-03-09T12:30:00Z",
+        "content": "A House of Lords committee report on Friday warned that AI poses a clear and present danger to the UKs creative industries. And one danger swiftly made itself very clear and present: the potential fo… [+3794 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SS Innovations",
+        "title": "SS Innovations Announces Completion of an $18.6 Million Private Placement to Support Growth Initiatives",
+        "description": "SS Innovations Announces Completion of an $18.6 Million Private Placement to Support Growth Initiatives...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251813/0/en/SS-Innovations-Announces-Completion-of-an-18-6-Million-Private-Placement-to-Support-Growth-Initiatives.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/cef267e0-040f-4889-a706-cc4d0ae49e55",
+        "publishedAt": "2026-03-09T12:30:00Z",
+        "content": "FORT LAUDERDALE, Fla., March 09, 2026 (GLOBE NEWSWIRE) -- SS Innovations International, Inc. (the Company or SS Innovations) (Nasdaq: SSII), a developer of innovative surgical robotic technologies de… [+6280 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Capricor Therapeutics",
+        "title": "Capricor Therapeutics to Present Fourth Quarter and Full Year 2025 Financial Results and Recent Corporate Update on March 12",
+        "description": "– Company to Host Conference Call on March 12, 2026, at 4:30 p.m. ET –  SAN DIEGO, March  09, 2026  (GLOBE NEWSWIRE) -- Capricor Therapeutics (NASDAQ:...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251814/0/en/Capricor-Therapeutics-to-Present-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Recent-Corporate-Update-on-March-12.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/16ce4387-5b8f-447c-96b8-7c453633f9bf",
+        "publishedAt": "2026-03-09T12:30:00Z",
+        "content": "Company to Host Conference Call on March 12, 2026, at 4:30 p.m. ET \r\nSAN DIEGO, March 09, 2026 (GLOBE NEWSWIRE) -- Capricor Therapeutics (NASDAQ: CAPR), a biotechnology company developing transformat… [+5148 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Mining Technology"
+        },
+        "author": "Shree Mishra",
+        "title": "Domestic Metals expands exploration efforts at Smart Creek Project in US",
+        "description": "The Smart Creek Project is situated 100km south-east of Missoula and 20km north of Philipsburg in Montana.",
+        "url": "https://www.mining-technology.com/news/domestic-metals-exploration-efforts-smart-creek-project/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Xi3Z3kgLupnubnQ1vfnUkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/mining_technology_700/804b6526980d7d86f3c21a16c514c2a1",
+        "publishedAt": "2026-03-09T12:27:27Z",
+        "content": "Domestic Metals has announced an expansion of its exploration budget following results from a surface exploration programme at the Smart Creek Copper Project in Montana, US.\r\nThe Smart Creek Project … [+2624 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Shreya Biswas",
+        "title": "Why Tesla stock (TSLA) falls as NHTSA probe into FSD vehicles and March 9 deadline spark investor concerns",
+        "description": "Tesla stock​ (TSLA) today: Tesla stock (TSLA) is falling as investors react to a federal probe into driver-assistance technology and a March 9 deadline for data compliance. The NHTSA's investigation tackles traffic violations involving over 2.8 million Tesla …",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-tesla-stock-tsla-falls-as-nhtsa-probe-into-fsd-vehicles-and-march-9-deadline-spark-investor-concerns/articleshow/129331955.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-129332961,width-1200,height-630,imgsize-31094,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-09T12:23:18Z",
+        "content": "Tesla stock (TSLA) today: Tesla stock (TSLA) is down more than 2% on Monday in pre-market trading as it is drawing investor attention as the company faces a near-term federal deadline to provide data… [+4019 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "U.S. Treasury signals shift on crypto mixers, acknowledges legitimate privacy uses",
+        "description": "A congressional report on implementing the Genius Act acknowledges the existence of lawful uses for blockchain privacy tools even as U.S. regulators pursue enforcement cases tied to illicit finance.",
+        "url": "https://www.coindesk.com/policy/2026/03/09/u-s-treasury-signals-shift-on-crypto-mixers-acknowledges-legitimate-privacy-uses",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/da536971efdec2094b8daa6723e8cc459fb08f44-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-03-09T12:23:08Z",
+        "content": "After years of opposition to crypto mixers, the onchain services that obfuscate digital asset transactions, the U.S. Treasury Department now says they may have legitimate privacy uses as well as thei… [+2291 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Toys"
+        },
+        "author": "Karthik Iyer",
+        "title": "Samsung’s Odyssey 27-inch QHD QD-OLED monitor is back to its lowest price and comes with FREE Resident Evil Requiem game",
+        "description": "We just spotted a deal at B&H that gets you Samsung’s 27-inch Odyssey G5 (G50SF) QHD QD-OLED gaming monitor for $349.99 shipped with an on-page coupon that auto-applies during checkout. This is regularly a $550 model that hit the $350 low for the first time l…",
+        "url": "http://9to5toys.com/2026/03/09/samsung-odyssey-27-inch-qhd-qd-oled-monitor-back-to-its-lowest-price/",
+        "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/12/Samsung-Odyssey-G50SF-QD-OLED-gaming-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-03-09T12:22:32Z",
+        "content": "We just spotted a deal at B&amp;H that gets you Samsung’s 27-inch Odyssey G5 (G50SF) QHD QD-OLED gaming monitor for $349.99 shipped with an on-page coupon that auto-applies during checkout. This is r… [+2088 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "Oil and Gas Accumulator Industry Research Report 2025-2033: $908 Million Market Driven by the U.S., Germany, China, and Saudi Arabia",
+        "description": "The Oil and Gas Accumulator Market is projected to grow from US$ 627.31 million in 2025 to US$ 908.62 million by 2033, with a CAGR of 4.74%. This growth is driven by increasing offshore and onshore drilling, stringent safety regulations, and global exploratio…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251803/28124/en/Oil-and-Gas-Accumulator-Industry-Research-Report-2025-2033-908-Million-Market-Driven-by-the-U-S-Germany-China-and-Saudi-Arabia.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-03-09T12:21:00Z",
+        "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Oil and Gas Accumulator Market Report by Type, Deployment Location, Application, Countries and Company Analysis 2025-2033\" has been added to ResearchAn… [+8669 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Air India staff base better aligned with private-sector metrics after privatisation: Government",
+        "description": "Air India's workforce is now younger and more skilled after privatization. The airline has modernized through new hires and contract changes.  Retirement ages are up, and business travel is restricted.  These steps show a shift towards customer focus.  Schedu…",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-staff-base-better-aligned-with-private-sector-metrics-after-privatisation-government/articleshow/129332814.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-129332926,width-1200,height-630,imgsize-145356,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-09T12:20:02Z",
+        "content": "New Delhi: The civil aviation ministry on Monday informed the Rajya Sabha that post-privatisation, Air India's workforce has been modernised through hiring, reshaping contracts, and offering exit opt… [+2314 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Jeffs' Brands Ltd",
+        "title": "Jeffs' Brands: KeepZone AI Enters into Channel Partner Agreement for 4G/5G Infrastructure",
+        "description": "Agreement Provides for Sale and Promotion of Private Communications Solutions in Ecuador  Tel Aviv, Israel, March  09, 2026  (GLOBE NEWSWIRE) --  Jeffs'...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251802/0/en/Jeffs-Brands-KeepZone-AI-Enters-into-Channel-Partner-Agreement-for-4G-5G-Infrastructure.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/ab7d2c66-2303-4d0b-a5bb-53ef3a94593c",
+        "publishedAt": "2026-03-09T12:20:00Z",
+        "content": "Agreement Provides for Sale and Promotion of Private Communications Solutions in Ecuador\r\nTel Aviv, Israel, March 09, 2026 (GLOBE NEWSWIRE) -- Jeffs' Brands Ltd (Jeffs Brands or the Company) (Nasdaq:… [+7592 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tom's Hardware UK"
+        },
+        "author": "Mark Tyson",
+        "title": "3D printer that can mine Bitcoin uses excess heat for temperature control — throttled ASICs use printing bed as a heatsink",
+        "description": "The creator of a 3D printer that mines Bitcoin took part in an interview on the Home Mining Podcast at the weekend.",
+        "url": "https://www.tomshardware.com/tech-industry/cryptomining/3d-printer-that-can-mine-bitcoin-uses-excess-heat-for-temperature-control-throttled-asics-use-printing-bed-as-a-heatsink",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kv9tgCWqxFUoSPdQto69SB-1920-80.jpg",
+        "publishedAt": "2026-03-09T12:18:26Z",
+        "content": "The creator of a 3D printer that mines Bitcoin took part in an interview on the Home Mining Podcast over the weekend. Host Two Sats quizzed creator PizzAndy about his adapted 3D printing prototype. I… [+4096 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Safe Harbor Financial Services, Inc.",
+        "title": "Safe Harbor Financial CEO Highlights Growth Platform Launch, Debt Elimination, and Financial Stabilization in Letter to Shareholders",
+        "description": "DENVER, March 09, 2026 (GLOBE NEWSWIRE) -- SHF Holdings, Inc., d/b/a Safe Harbor Financial\r\n (“Safe Harbor” or the “Company”) (NASDAQ: SHFS), a leading fintech platform serving the banking, lending, and financial services needs of the regulated cannabis and h…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251801/0/en/Safe-Harbor-Financial-CEO-Highlights-Growth-Platform-Launch-Debt-Elimination-and-Financial-Stabilization-in-Letter-to-Shareholders.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/a6d3ca5e-c333-45cf-a224-81fe3f48d053",
+        "publishedAt": "2026-03-09T12:17:00Z",
+        "content": "DENVER, March 09, 2026 (GLOBE NEWSWIRE) -- SHF Holdings, Inc., d/b/a Safe Harbor Financial\r\n (Safe Harbor or the Company) (NASDAQ: SHFS), a leading fintech platform serving the banking, lending, and … [+13844 chars]"
+      },
+      {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "RTÉ News",
+        "title": "Live Nation settles US antitrust case, keeps Ticketmaster",
+        "description": "Live Nation Entertainment has reached a settlement with the US Justice Department that allows the concert promoter to retain Ticketmaster, Politico reported today, citing people familiar with the matter.",
+        "url": "https://www.rte.ie/news/business/2026/0309/1562385-live-nation-settles-us-antitrust-case/",
+        "urlToImage": "https://www.rte.ie/images/002059fa-1600.jpg",
+        "publishedAt": "2026-03-09T12:14:07Z",
+        "content": "Live Nation Entertainment has reached a settlement with the US Justice Department that allows the concert promoter to retain Ticketmaster, Politico reported today, citing people familiar with the mat… [+1568 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Reuters",
+        "title": "Nexperia China says it has begun producing its own chips",
+        "description": "Chipmaker Nexperia's Chinese subsidiary said on Monday it has begun producing its own ‌chips, a further step towards independence from its Dutch ‌parent as a...",
+        "url": "https://finance.yahoo.com/news/nexperia-china-announces-12-inch-121257771.html",
+        "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/a437f5546865c6e7f6fd1401883d8009",
+        "publishedAt": "2026-03-09T12:12:57Z",
+        "content": "BEIJING, March 9 (Reuters) - Chipmaker Nexperia's Chinese subsidiary said on Monday it has begun producing its own chips, a further step towards independence from its Dutch parent as a dispute that h… [+1418 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uxdesign.cc"
+        },
+        "author": "Fabricio Teixeira",
+        "title": "Product ethics, AI adoption theatre, an architecture that no longer exists",
+        "description": "Weekly curated resources for designers — thinkers and makers.",
+        "url": "https://uxdesign.cc/product-ethics-ai-adoption-theatre-an-architecture-that-no-longer-exists-6f445c6dafac",
+        "urlToImage": null,
+        "publishedAt": "2026-03-09T12:12:03Z",
+        "content": "In the last week of February 2026, something unusual happened. A sitting US president took to social media to brand a private technology company a political threat. The Secretary of Defense designate… [+248 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Research and Markets",
+        "title": "United States Decorative Lighting Market Report 2025-2033: Rising Social Media Influence, Interior Design Trends, and Expanding DIY Decor Culture Fueling the $56.72 Billion Industry",
+        "description": "Growth is fueled by burgeoning design trends, urbanization, and increasing consumer investment in interior aesthetics. Demand is bolstered by advancements in LED and smart lighting technologies, enhancing energy efficiency and design flexibility. Key drivers …",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251800/28124/en/United-States-Decorative-Lighting-Market-Report-2025-2033-Rising-Social-Media-Influence-Interior-Design-Trends-and-Expanding-DIY-Decor-Culture-Fueling-the-56-72-Billion-Industry.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+        "publishedAt": "2026-03-09T12:12:00Z",
+        "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"United States Decorative Lighting Market Report by Light Source, Product, Application, Distribution Channel, States and Company Analysis, 2025-2033\" ha… [+5892 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "Mustafa Plumber",
+        "title": "Belagavi startup vs global AI giant: Karnataka court orders summons to Anthropic’s US headquarters in Rs 1 crore trademark suit",
+        "description": "Belagavi startup vs global AI giant: Karnataka court orders summons to Anthropic’s US headquarters in Rs 1 crore trademark suit.",
+        "url": "https://indianexpress.com/article/legal-news/anthropic-trademark-dispute-belagavi-court-us-office-10573107/",
+        "urlToImage": "https://images.indianexpress.com/2026/03/karnataka-high-court_20260309120740.jpg",
+        "publishedAt": "2026-03-09T12:08:47Z",
+        "content": "Belagavi-based Anthropic Software Private Limited claimed that the US company has deliberately used a deceptively similar mark, causing confusion amounting to passing off and unfair competition.A com… [+4517 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "Acronis Releases 2025 ESG Report Highlighting Progress in Sustainability, Workforce Engagement, and Responsible Technology",
+        "description": "The latest report showcases Acronis’ ongoing commitment to responsible business practices, sustainable growth, and protecting the digital world SCHAFFHAUSEN, Switzerland, March 09, 2026 (GLOBE NEWSWIRE) — Acronis, a global leader in cyber protection, today an…",
+        "url": "https://financialpost.com/globe-newswire/acronis-releases-2025-esg-report-highlighting-progress-in-sustainability-workforce-engagement-and-responsible-technology",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/acronis-releases-2025-esg-report-highlighting-progress-in-su.jpeg",
+        "publishedAt": "2026-03-09T12:07:38Z",
+        "content": "The latest report showcases Acronis ongoing commitment to responsible business practices, sustainable growth, and protecting the digital world\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscrib… [+5231 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Tesla builds a car with no steering wheel. Now what?",
+        "description": "Tesla Cybercab production begins at Gigafactory Texas with no steering wheel or pedals, as Elon Musk announces April start for the autonomous robotaxi starting under $30,000.",
+        "url": "https://www.foxnews.com/tech/tesla-builds-car-no-steering-wheel-now-what",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/tesla-photo-1.jpg",
+        "publishedAt": "2026-03-09T12:07:37Z",
+        "content": "The first Tesla Cybercab has officially rolled off the floor at Tesla Gigafactory Texas. And yes, it has no steering wheel. No pedals either. That alone makes it one of the boldest vehicles ever buil… [+5669 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Adeia Holdings Inc.",
+        "title": "Adeia Enters into Multi-Year IP License Agreement with AMD",
+        "description": "Adeia Enters into Multi-Year IP License Agreement with AMD...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251798/0/en/Adeia-Enters-into-Multi-Year-IP-License-Agreement-with-AMD.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/82d29e95-dcfb-407c-9a26-5eec6c741977",
+        "publishedAt": "2026-03-09T12:06:00Z",
+        "content": "SAN JOSE, Calif., March 09, 2026 (GLOBE NEWSWIRE) -- Adeia Inc. (Nasdaq: ADEA), the technology company known for developing foundational innovations that enable next-generation solutions for the semi… [+1587 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Harvard Business Review"
+        },
+        "author": "John Winsor",
+        "title": "Has AI Ended Thought Leadership?",
+        "description": "The technology has made it easier than ever to sound like an expert. It’s time to pay attention to the people with actual experience.",
+        "url": "https://hbr.org/2026/03/has-ai-ended-thought-leadership",
+        "urlToImage": "https://hbr.org/resources/images/article_assets/2026/03/Mar26_07_119003046.jpg",
+        "publishedAt": "2026-03-09T12:05:18Z",
+        "content": "By any conventional measure, I am a thought leader. Ive spent decades at the intersection of innovation and storytelling, building companies, selling them, breaking things, and starting over. Ive wri… [+105 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BleepingComputer"
+        },
+        "author": "",
+        "title": "Hello",
+        "description": "Hello - posted in Introductions: My name is Santosh. I’m an SEO professional with over 11 years of experience in digital marketing, focusing on SEO, website optimization and online growth strategies. I enjoy learning about technology, cybersecurity and data p…",
+        "url": "https://www.bleepingcomputer.com/forums/t/814272/hello/",
+        "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+        "publishedAt": "2026-03-09T12:05:13Z",
+        "content": "My name is Santosh. I’m an SEO professional with over 11 years of experience in digital marketing, focusing on SEO, website optimization and online growth strategies. I enjoy learning about technolog… [+36 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Whatjapanthinks.com"
+        },
+        "author": "Ken Y-N",
+        "title": "The Incredible Story of Hiroshi Hase: From Olympic Mat to Governor’s Office",
+        "description": "Hiroshi Hase, the iconic Japanese figure who transitioned seamlessly from the wrestling ring to the halls of political power, has long been a symbol of perseverance, resilience, and leadership. His journey, from representing Japan in the 1984 Olympics to navi…",
+        "url": "https://whatjapanthinks.com/story-of-hiroshi-hase-olympic-mat-to-governors-office/",
+        "urlToImage": "https://whatjapanthinks.com/wp-content/uploads/2026/03/Story-of-Hiroshi-Hase.webp",
+        "publishedAt": "2026-03-09T12:05:07Z",
+        "content": "Hiroshi Hase, the iconic Japanese figure who transitioned seamlessly from the wrestling ring to the halls of political power, has long been a symbol of perseverance, resilience, and leadership. His j… [+6412 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Acronis, Inc.",
+        "title": "Acronis Releases 2025 ESG Report Highlighting Progress in Sustainability, Workforce Engagement, and Responsible Technology",
+        "description": "Acronis releases its 2025 Environmental, Social, and Governance (ESG) Report highlighting the company’s ESG strategy, key initiatives, and progress....",
+        "url": "https://www.globenewswire.com/news-release/2026/03/09/3251797/0/en/Acronis-Releases-2025-ESG-Report-Highlighting-Progress-in-Sustainability-Workforce-Engagement-and-Responsible-Technology.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/f70be083-b458-42fe-b575-529c5c261088",
+        "publishedAt": "2026-03-09T12:05:00Z",
+        "content": "SCHAFFHAUSEN, Switzerland, March 09, 2026 (GLOBE NEWSWIRE) -- Acronis\r\n, a global leader in cyber protection, today announced the release of its 2025 Environmental, Social, and Governance (ESG) Repor… [+7965 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techtarget.com"
+        },
+        "author": "Sean Michael Kerner",
+        "title": "What CIOs can learn from Anthropic's safety pullback",
+        "description": "Anthropic’s clash with the Pentagon shows how AI vendor safety policies can shift politically, forcing CIOs to strengthen governance and manage supplier risk.",
+        "url": "https://www.techtarget.com/searchcio/feature/What-CIOs-can-learn-from-Anthropics-safety-pullback",
+        "urlToImage": "https://www.techtarget.com/rms/onlineimages/security_a218339023.jpg",
+        "publishedAt": "2026-03-09T12:04:00Z",
+        "content": "The recent Anthropic safety pullback just turned one of enterprise AIs most trusted vendors into a geopolitical flashpoint.\r\nFor CIOs betting on safe\" or responsible AI, the episode is a reminder tha… [+12052 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uxpin.com"
+        },
+        "author": "Andrew Martin",
+        "title": "How to build UI using GPT-5.1 + Bootstrap – Use UXPin Merge!",
+        "description": "Create production-ready React UIs from plain text prompts using GPT-5.1, Bootstrap, and UXPin Merge — generate, refine, test, and export clean code.\nThe post How to build UI using GPT-5.1 + Bootstrap – Use UXPin Merge! appeared first on Studio by UXPin.",
+        "url": "https://www.uxpin.com/studio/blog/build-ui-gpt-5-1-bootstrap-uxpin-merge/",
+        "urlToImage": "https://studio.uxpincdn.com/studio/wp-content/uploads/2026/03/image_bedf7b627e040ce1d49f58ee1e02a99a.jpeg.webp",
+        "publishedAt": "2026-03-09T12:03:52Z",
+        "content": "Want to speed up UI design without losing quality? With GPT-5.1, Bootstrap, and UXPin Merge, you can create production-ready UIs directly from prompts – no static mockups or endless handoffs. Here’s … [+18443 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Abcnews.com"
+        },
+        "author": "KEN MORITSUGU Associated Press, CHAN HO-HIM Associated Press",
+        "title": "What China's latest economic plans say about its tech ambitions and rivalry with the US",
+        "description": "Two major economic plans unveiled at the annual meeting of China’s legislature outline top priorities",
+        "url": "https://abcnews.com/International/wireStory/chinas-latest-economic-plans-tech-ambitions-rivalry-us-130888320",
+        "urlToImage": "https://i.abcnewsfe.com/a/352af796-6286-46d8-b7ff-8459eb5fc0ef/wirestory_7face4580fcfba44410ff2134a09d6bb_16x9.jpg?w=1600",
+        "publishedAt": "2026-03-09T12:02:23Z",
+        "content": "BEIJING -- Two major economic plans unveiled at the annual meeting of China's legislature outline top priorities that have different ramifications for the global economy.\r\nIn the government plan for … [+4924 chars]"
+      }
+    ]
+  }
+}

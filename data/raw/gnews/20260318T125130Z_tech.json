@@ -1,0 +1,277 @@
+{
+  "provider": "gnews",
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "title": "Showdown Over AI: Anthropic Battles Pentagon Blacklist",
+      "description": "The Trump administration justified the Pentagon's blacklisting of AI lab Anthropic due to national security concerns. The firm, known for its AI assistant Claude, challenges this action in court, asserting a violation of constitutional rights. The dispute highlights tensions between AI technology safeguards and government security priorities.",
+      "source": "Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/law-order/3842126-showdown-over-ai-anthropic-battles-pentagon-blacklist",
+      "published_at": "2026-03-18T00:46:52Z",
+      "author": "",
+      "image_url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_22_07_11_397655.png?width=920&format=jpeg",
+      "content": "The Trump administration has defended the Pentagon's decision to blacklist AI company Anthropic, labeling it a national security risk. The administration asserts this move was necessary after Anthropic resisted lifting restrictions on its AI technolo... [676 chars]"
+    },
+    {
+      "title": "CLSA Sticks to Its Buy Rating for Contemporary Amperex Technology Co., Limited Class H (3750)",
+      "description": "In a report released on March 16, Horace Tse from CLSA maintained a Buy rating on Contemporary Amperex Technology Co., Limited Class H, with a p...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/clsa-sticks-to-its-buy-rating-for-contemporary-amperex-technology-co-limited-class-h-3750-1035940216",
+      "published_at": "2026-03-18T00:45:11Z",
+      "author": "",
+      "image_url": "https://markets.businessinsider.com/favicon-32x32.png",
+      "content": "In a report released on March 16, Horace Tse from CLSA maintained a Buy rating on Contemporary Amperex Technology Co., Limited Class H, with a price target of HK$710.00. The company’s shares closed yesterday at HK$670.00.\nClaim 70% Off TipRanks Premi... [955 chars]"
+    },
+    {
+      "title": "CIO Priorities 2026: AI Value and Financial Discipline Define IT Leadership in APAC, Finds Info-Tech Research Group",
+      "description": "**media[977648]**Technology leaders throughout Australia and the Asia-Pacific region are under increasing pressure to demonstrate measurable returns on AI and digital investments as economic conditions tighten and regulatory scrutiny heightens. Info-Tech Research Group's CIO Priorities 2026 report draws on global survey data, diagnostics, and executive interviews to identify five priorities shaping IT leadership agendas in the year ahead.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/03/18/tmt-newswire/pr-newswire/cio-priorities-2026-ai-value-and-financial-discipline-define-it-leadership-in-apac-finds-info-tech-research-group/2302344",
+      "published_at": "2026-03-18T00:38:24Z",
+      "author": "",
+      "image_url": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/18/977646.jpg",
+      "content": "Technology leaders throughout Australia and the Asia-Pacific region are under increasing pressure to demonstrate measurable returns on AI and digital investments as economic conditions tighten and regulatory scrutiny heightens. Info-Tech Research Gro... [7294 chars]"
+    },
+    {
+      "title": "Session on global research opportunities at IIT Kanpur",
+      "description": "Kanpur: The PG Academics & Career Council (AnC), Students' Gymkhana, Indian Institute of Technology Kanpur, organised an insightful session titled.",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/session-on-global-research-opportunities-at-iit-kanpur/articleshow/129640955.cms",
+      "published_at": "2026-03-18T00:38:00Z",
+      "author": "",
+      "image_url": "https://static.toiimg.com/thumb/msid-117623031,width-1280,height-720,imgsize-96020,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "content": "Kanpur: The PG Academics & Career Council (AnC), Students' Gymkhana, Indian Institute of Technology Kanpur, organised an insightful session titled \"Global Research Opportunities: Fellowships, Grants & Collaborations\" here. The event was conducted in ... [1304 chars]"
+    },
+    {
+      "title": "Nvidia says restarting production of China-bound chips",
+      "description": "SAN JOSE, California— Nvidia chief Jensen Huang on Tuesday said the AI technology powerhouse is restarting production of its high-performance chips for clients in China.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/03/18/business/sunday-business-it/nvidia-says-restarting-production-of-china-bound-chips/2302346",
+      "published_at": "2026-03-18T00:37:00Z",
+      "author": "",
+      "image_url": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/18/977650.jpg",
+      "content": "SAN JOSE, California— Nvidia chief Jensen Huang on Tuesday said the AI technology powerhouse is restarting production of its high-performance chips for clients in China.\n\"We have received purchase orders from many customers, and we're in the process ... [2046 chars]"
+    },
+    {
+      "title": "Parliamentary panel suggests MeitY seek expert views on GPU plans",
+      "description": "The Parliamentary Standing Committee on Communications and Information Technology in its latest report suggested the Ministry of Electronics and IT to consult with all stakeholders, academicians and environmentalists on how to tackle the challenges.",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/parliamentary-panel-suggests-meity-seek-expert-views-on-gpu-plans/articleshow/129639183.cms",
+      "published_at": "2026-03-18T00:30:00Z",
+      "author": "",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33739,resizemode-75,msid-129639183/tech/technology/parliamentary-panel-suggests-meity-seek-expert-views-on-gpu-plans.jpg",
+      "content": "Synopsis\nThe Parliamentary Standing Committee on Communications and Information Technology in its latest report suggested the Ministry of Electronics and IT to consult with all stakeholders, academicians and environmentalists on how to tackle the cha... [3106 chars]"
+    },
+    {
+      "title": "Rising component cost to keep hardware prices elevated in near term, Lenovo executive says",
+      "description": "Shortages of key components such as memory chips are pushing up costs across the artificial intelligence computing ecosystem globally and are likely to keep hardware prices elevated in the near term, a senior executive at Chinese technology company Lenovo said.",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says/articleshow/129638561.cms",
+      "published_at": "2026-03-18T00:30:00Z",
+      "author": "",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-824143,resizemode-75,msid-129638561/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says.jpg",
+      "content": "Synopsis\nShortages of key components such as memory chips are pushing up costs across the artificial intelligence computing ecosystem globally and are likely to keep hardware prices elevated in the near term, a senior executive at Chinese technology ... [3274 chars]"
+    },
+    {
+      "title": "Citi Sticks to Its Hold Rating for Q Technology (Group) Co (1478)",
+      "description": "In a report released yesterday, from Citi maintained a Hold rating on Q Technology (Group) Co, with a price target of HK$9.00.Claim 70% Off Tip...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/citi-sticks-to-its-hold-rating-for-q-technology-group-co-1478-1035940128",
+      "published_at": "2026-03-18T00:25:51Z",
+      "author": "",
+      "image_url": "https://markets.businessinsider.com/favicon-32x32.png",
+      "content": "In a report released yesterday, from Citi maintained a Hold rating on Q Technology (Group) Co, with a price target of HK$9.00.\nClaim 70% Off TipRanks Premium\nUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions\nSta... [518 chars]"
+    },
+    {
+      "title": "How DTF Printing in Arizona Is Enabling Agile Manufacturing for Tech-Driven Businesses",
+      "description": "DTF printing in Arizona is becoming an important operational asset for technology-driven businesses that depend on speed, flexibility, and scalable production models.",
+      "source": "TechBullion",
+      "url": "https://techbullion.com/how-dtf-printing-in-arizona-is-enabling-agile-manufacturing-for-tech-driven-businesses/",
+      "published_at": "2026-03-18T00:24:09Z",
+      "author": "",
+      "image_url": "https://techbullion.com/wp-content/uploads/2026/03/unnamed-2026-03-17T172255.521-1000x582.png",
+      "content": "Share\nShare\nShare\nShare\nEmail\nDTF printing in Arizona is becoming an important operational asset for technology-driven businesses that depend on speed, flexibility, and scalable production models. As digital brands expand into physical merchandise an... [5034 chars]"
+    },
+    {
+      "title": "End Generative Engine Optimisation Framework for Australian Brands",
+      "description": "Pattern Group Inc. (Nasdaq: PTRN) (“Pattern”), a leader in accelerating brands on global ecommerce marketplaces by leveraging proprietary technology a...",
+      "source": "iTWire",
+      "url": "https://itwire.com/business-it-news/data/pattern-launches-end-to-end-generative-engine-optimisation-framework-for-australian-brands.html",
+      "published_at": "2026-03-18T00:09:17Z",
+      "author": "",
+      "image_url": "https://itwire.com/media/k2/items/cache/f60cdd8663c8cf58d442ce3608e5ace9_XS.jpg",
+      "content": "As more shoppers turn to chat for product discovery, optimised content for these engines is increasingly essential for brand visibility and growth. According to a recent survey by Capgemi, 58% of consumers now (vs 25% in 2023) use AI to discover and ... [1938 chars]"
+    }
+  ],
+  "raw_response": {
+    "information": {
+      "realTimeArticles": {
+        "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+      }
+    },
+    "totalArticles": 146704,
+    "articles": [
+      {
+        "id": "6b5ca8acc696c5135167a9f6ad6db2aa",
+        "title": "Showdown Over AI: Anthropic Battles Pentagon Blacklist",
+        "description": "The Trump administration justified the Pentagon's blacklisting of AI lab Anthropic due to national security concerns. The firm, known for its AI assistant Claude, challenges this action in court, asserting a violation of constitutional rights. The dispute highlights tensions between AI technology safeguards and government security priorities.",
+        "content": "The Trump administration has defended the Pentagon's decision to blacklist AI company Anthropic, labeling it a national security risk. The administration asserts this move was necessary after Anthropic resisted lifting restrictions on its AI technolo... [676 chars]",
+        "url": "https://www.devdiscourse.com/article/law-order/3842126-showdown-over-ai-anthropic-battles-pentagon-blacklist",
+        "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_22_07_11_397655.png?width=920&format=jpeg",
+        "publishedAt": "2026-03-18T00:46:52Z",
+        "lang": "en",
+        "source": {
+          "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+          "name": "Devdiscourse",
+          "url": "https://www.devdiscourse.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "e755cf46aa9b83c0f802404fa98c13b0",
+        "title": "CLSA Sticks to Its Buy Rating for Contemporary Amperex Technology Co., Limited Class H (3750)",
+        "description": "In a report released on March 16, Horace Tse from CLSA maintained a Buy rating on Contemporary Amperex Technology Co., Limited Class H, with a p...",
+        "content": "In a report released on March 16, Horace Tse from CLSA maintained a Buy rating on Contemporary Amperex Technology Co., Limited Class H, with a price target of HK$710.00. The company’s shares closed yesterday at HK$670.00.\nClaim 70% Off TipRanks Premi... [955 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/clsa-sticks-to-its-buy-rating-for-contemporary-amperex-technology-co-limited-class-h-3750-1035940216",
+        "image": "https://markets.businessinsider.com/favicon-32x32.png",
+        "publishedAt": "2026-03-18T00:45:11Z",
+        "lang": "en",
+        "source": {
+          "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+          "name": "Markets Insider",
+          "url": "https://markets.businessinsider.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "fb71e74edfbe0d11f9b3728633f12e40",
+        "title": "CIO Priorities 2026: AI Value and Financial Discipline Define IT Leadership in APAC, Finds Info-Tech Research Group",
+        "description": "**media[977648]**Technology leaders throughout Australia and the Asia-Pacific region are under increasing pressure to demonstrate measurable returns on AI and digital investments as economic conditions tighten and regulatory scrutiny heightens. Info-Tech Research Group's CIO Priorities 2026 report draws on global survey data, diagnostics, and executive interviews to identify five priorities shaping IT leadership agendas in the year ahead.",
+        "content": "Technology leaders throughout Australia and the Asia-Pacific region are under increasing pressure to demonstrate measurable returns on AI and digital investments as economic conditions tighten and regulatory scrutiny heightens. Info-Tech Research Gro... [7294 chars]",
+        "url": "https://www.manilatimes.net/2026/03/18/tmt-newswire/pr-newswire/cio-priorities-2026-ai-value-and-financial-discipline-define-it-leadership-in-apac-finds-info-tech-research-group/2302344",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/18/977646.jpg",
+        "publishedAt": "2026-03-18T00:38:24Z",
+        "lang": "en",
+        "source": {
+          "id": "7c666ee953f873d3057b310220f510df",
+          "name": "The Manila Times",
+          "url": "https://www.manilatimes.net",
+          "country": "ph"
+        }
+      },
+      {
+        "id": "368e9b12d41eab43af595cbbd14838fe",
+        "title": "Session on global research opportunities at IIT Kanpur",
+        "description": "Kanpur: The PG Academics & Career Council (AnC), Students' Gymkhana, Indian Institute of Technology Kanpur, organised an insightful session titled.",
+        "content": "Kanpur: The PG Academics & Career Council (AnC), Students' Gymkhana, Indian Institute of Technology Kanpur, organised an insightful session titled \"Global Research Opportunities: Fellowships, Grants & Collaborations\" here. The event was conducted in ... [1304 chars]",
+        "url": "https://timesofindia.indiatimes.com/city/kanpur/session-on-global-research-opportunities-at-iit-kanpur/articleshow/129640955.cms",
+        "image": "https://static.toiimg.com/thumb/msid-117623031,width-1280,height-720,imgsize-96020,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-18T00:38:00Z",
+        "lang": "en",
+        "source": {
+          "id": "9a9a0fb79c70bbf499d39baca94921ae",
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "fd0abe4bdf7bb4785ad13c1bd7b70582",
+        "title": "Nvidia says restarting production of China-bound chips",
+        "description": "SAN JOSE, California— Nvidia chief Jensen Huang on Tuesday said the AI technology powerhouse is restarting production of its high-performance chips for clients in China.",
+        "content": "SAN JOSE, California— Nvidia chief Jensen Huang on Tuesday said the AI technology powerhouse is restarting production of its high-performance chips for clients in China.\n\"We have received purchase orders from many customers, and we're in the process ... [2046 chars]",
+        "url": "https://www.manilatimes.net/2026/03/18/business/sunday-business-it/nvidia-says-restarting-production-of-china-bound-chips/2302346",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/03/18/977650.jpg",
+        "publishedAt": "2026-03-18T00:37:00Z",
+        "lang": "en",
+        "source": {
+          "id": "7c666ee953f873d3057b310220f510df",
+          "name": "The Manila Times",
+          "url": "https://www.manilatimes.net",
+          "country": "ph"
+        }
+      },
+      {
+        "id": "71ae90808bf43b110ecb64d8318b4267",
+        "title": "Parliamentary panel suggests MeitY seek expert views on GPU plans",
+        "description": "The Parliamentary Standing Committee on Communications and Information Technology in its latest report suggested the Ministry of Electronics and IT to consult with all stakeholders, academicians and environmentalists on how to tackle the challenges.",
+        "content": "Synopsis\nThe Parliamentary Standing Committee on Communications and Information Technology in its latest report suggested the Ministry of Electronics and IT to consult with all stakeholders, academicians and environmentalists on how to tackle the cha... [3106 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/parliamentary-panel-suggests-meity-seek-expert-views-on-gpu-plans/articleshow/129639183.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33739,resizemode-75,msid-129639183/tech/technology/parliamentary-panel-suggests-meity-seek-expert-views-on-gpu-plans.jpg",
+        "publishedAt": "2026-03-18T00:30:00Z",
+        "lang": "en",
+        "source": {
+          "id": "5464668c1f0466950a0b2fab5249ec6c",
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "20a7b5442fe129623742cab8544d031f",
+        "title": "Rising component cost to keep hardware prices elevated in near term, Lenovo executive says",
+        "description": "Shortages of key components such as memory chips are pushing up costs across the artificial intelligence computing ecosystem globally and are likely to keep hardware prices elevated in the near term, a senior executive at Chinese technology company Lenovo said.",
+        "content": "Synopsis\nShortages of key components such as memory chips are pushing up costs across the artificial intelligence computing ecosystem globally and are likely to keep hardware prices elevated in the near term, a senior executive at Chinese technology ... [3274 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says/articleshow/129638561.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-824143,resizemode-75,msid-129638561/tech/technology/rising-component-cost-to-keep-hardware-prices-elevated-in-near-term-lenovo-executive-says.jpg",
+        "publishedAt": "2026-03-18T00:30:00Z",
+        "lang": "en",
+        "source": {
+          "id": "5464668c1f0466950a0b2fab5249ec6c",
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "52874a6159e223cf031b97fffe3cb03a",
+        "title": "Citi Sticks to Its Hold Rating for Q Technology (Group) Co (1478)",
+        "description": "In a report released yesterday, from Citi maintained a Hold rating on Q Technology (Group) Co, with a price target of HK$9.00.Claim 70% Off Tip...",
+        "content": "In a report released yesterday, from Citi maintained a Hold rating on Q Technology (Group) Co, with a price target of HK$9.00.\nClaim 70% Off TipRanks Premium\nUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions\nSta... [518 chars]",
+        "url": "https://markets.businessinsider.com/news/stocks/citi-sticks-to-its-hold-rating-for-q-technology-group-co-1478-1035940128",
+        "image": "https://markets.businessinsider.com/favicon-32x32.png",
+        "publishedAt": "2026-03-18T00:25:51Z",
+        "lang": "en",
+        "source": {
+          "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+          "name": "Markets Insider",
+          "url": "https://markets.businessinsider.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "4e822d227f55b96ceda34f218bdbbadb",
+        "title": "How DTF Printing in Arizona Is Enabling Agile Manufacturing for Tech-Driven Businesses",
+        "description": "DTF printing in Arizona is becoming an important operational asset for technology-driven businesses that depend on speed, flexibility, and scalable production models.",
+        "content": "Share\nShare\nShare\nShare\nEmail\nDTF printing in Arizona is becoming an important operational asset for technology-driven businesses that depend on speed, flexibility, and scalable production models. As digital brands expand into physical merchandise an... [5034 chars]",
+        "url": "https://techbullion.com/how-dtf-printing-in-arizona-is-enabling-agile-manufacturing-for-tech-driven-businesses/",
+        "image": "https://techbullion.com/wp-content/uploads/2026/03/unnamed-2026-03-17T172255.521-1000x582.png",
+        "publishedAt": "2026-03-18T00:24:09Z",
+        "lang": "en",
+        "source": {
+          "id": "c45dc51281d68ce51bff0cc4fe959bbf",
+          "name": "TechBullion",
+          "url": "https://techbullion.com",
+          "country": "gb"
+        }
+      },
+      {
+        "id": "8d8ff38af9e684f14ec1be20ae19d133",
+        "title": "End Generative Engine Optimisation Framework for Australian Brands",
+        "description": "Pattern Group Inc. (Nasdaq: PTRN) (“Pattern”), a leader in accelerating brands on global ecommerce marketplaces by leveraging proprietary technology a...",
+        "content": "As more shoppers turn to chat for product discovery, optimised content for these engines is increasingly essential for brand visibility and growth. According to a recent survey by Capgemi, 58% of consumers now (vs 25% in 2023) use AI to discover and ... [1938 chars]",
+        "url": "https://itwire.com/business-it-news/data/pattern-launches-end-to-end-generative-engine-optimisation-framework-for-australian-brands.html",
+        "image": "https://itwire.com/media/k2/items/cache/f60cdd8663c8cf58d442ce3608e5ace9_XS.jpg",
+        "publishedAt": "2026-03-18T00:09:17Z",
+        "lang": "en",
+        "source": {
+          "id": "10cbfb3760cfcdeb78c733c527f0e814",
+          "name": "iTWire",
+          "url": "https://itwire.com",
+          "country": "au"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1163 @@
+{
+  "provider": "newsapi",
+  "status": "ok",
+  "totalResults": 32912,
+  "articles": [
+    {
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t mince words about the state of the battery industry. “Almos…",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "published_at": "2026-03-26T12:42:53Z",
+      "author": "Thomas Macaulay",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MU-closed-loop-autonomous-lab.jpg?resize=1200,600",
+      "content": "Hu is the CEO of SES AI, a Massachusetts-based battery company. It previously developed advanced lithium batteries for major industries, but is now shifting to AI materials discovery. Read our story … [+977 chars]"
+    },
+    {
+      "title": "JFB Announces XTEND’s Strategic Partnership with ParaZero Technologies to Revolutionize Drone Interception Capabilities",
+      "description": "New Integration Enables Fully Autonomous Drone Interception, from Detection to Capture   Partnership a Result of Increasing Demand for Integrated Defense...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3263020/0/en/JFB-Announces-XTEND-s-Strategic-Partnership-with-ParaZero-Technologies-to-Revolutionize-Drone-Interception-Capabilities.html",
+      "published_at": "2026-03-26T12:42:00Z",
+      "author": "JFB Construction Holdings",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/81461b25-0600-45db-95b7-f6a117825037",
+      "content": "New Integration Enables Fully Autonomous Drone Interception, from Detection to Capture \r\nPartnership a Result of Increasing Demand for Integrated Defense Solutions as Multi-Domain Drone Threats Inten… [+13021 chars]"
+    },
+    {
+      "title": "Morning Minute: Trump’s New Science Council Is a Who’s Who of AI and Crypto",
+      "description": "Trump just stacked his science council and crypto has a seat at the table, while Circle's worst day is looking more like an overreaction.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/362422/morning-minute-trumps-new-science-council-is-a-whos-who-of-ai-and-crypto",
+      "published_at": "2026-03-26T12:41:54Z",
+      "author": "Tyler Warner",
+      "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png",
+      "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show co… [+9797 chars]"
+    },
+    {
+      "title": "UK and US seek solutions to counter underwater drone threat",
+      "description": "The US Defense Innovation Unit (DIU) is seeking technology to counter unmanned underwater vehicle threats. UK companies can apply, with solutions assessed by jHub — for potential UK defence use.",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/news/uk-and-us-seek-solutions-to-counter-underwater-drone-threat",
+      "published_at": "2026-03-26T12:41:04Z",
+      "author": "UK Defence Innovation",
+      "image_url": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "content": "The US DIU has launched a Commercial Solutions Opening (CSO) which is a fast, flexible route for companies to pitch technology directly to government. The programme, called REEF (Robotic Exclusion an… [+2447 chars]"
+    },
+    {
+      "title": "Strategy Summit 2026: Inventive Strategy and the ‘Unbossed’ Organization",
+      "description": "A conversation with Columbia Business School’s Rita McGrath on finding competitive advantage in the time of AI.",
+      "source": "Harvard Business Review",
+      "url": "https://hbr.org/podcast/2026/03/strategy-summit-2026-inventive-strategy-and-the-unbossed-organization",
+      "published_at": "2026-03-26T12:40:00Z",
+      "author": null,
+      "image_url": "https://hbr.org/resources/images/article_assets/2025/02/wide-ideacast_25.png",
+      "content": "ADI IGNATIUS: I’m Adi Ignatius, and this is the HBR IdeaCast.\r\nHarvard Business Review recently hosted the HBR Strategy Summit 2026, a day filled with expert advice and guidance from executives and a… [+24894 chars]"
+    },
+    {
+      "title": "Maris-Tech Receives Follow-On Order from Governmental Customer in Intelligence Gathering Domain",
+      "description": "Continued engagement reflects ongoing operational deployment and customer confidence in Maris-Tech’s technology  Rehovot, Israel, March  26, 2026  (GLOBE...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3263019/0/en/Maris-Tech-Receives-Follow-On-Order-from-Governmental-Customer-in-Intelligence-Gathering-Domain.html",
+      "published_at": "2026-03-26T12:40:00Z",
+      "author": "Maris-Tech Ltd.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5d98827d-5fca-4beb-b603-08d5c973e3bd",
+      "content": "Continued engagement reflects ongoing operational deployment and customer confidence in Maris-Techs technology\r\nRehovot, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- Maris-Tech Ltd. (Nasdaq: MTEK, MTEK… [+4572 chars]"
+    },
+    {
+      "title": "echodb added to PyPI",
+      "description": "Persistent temporal memory layer for LLM conversational agents",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/echodb/",
+      "published_at": "2026-03-26T12:38:59Z",
+      "author": "shivelite2003@gmail.com",
+      "image_url": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "content": "A persistent, temporal memory layer for LLM-powered conversational agents. Drop it into any chat loop and your assistant will remember facts, track how they change over time, extract structured knowl… [+16292 chars]"
+    },
+    {
+      "title": "This Spring Sale Deal Just Might Make Your 3D-Print Dreams Come True",
+      "description": "CNET's most-viewed 3D printer, the Centauri Carbon, is now $80 less.",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/centauri-carbon-3d-printer-spring-sale/",
+      "published_at": "2026-03-26T12:38:00Z",
+      "author": "Dhruv Bhutani",
+      "image_url": "https://www.cnet.com/a/img/resize/f8a7332b566eaa03ebfc817c9eee8fb7dd39b362/hub/2026/03/25/a0dbf0c0-6647-4779-8e67-738c4f9f88ee/elegoo.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "content": "It's not everyday that you see a well-reviewed 3D printer get a meaningful discount, but right now, the Elegoo Centauri Carbon is $80 off as part of the on-going Amazon Big Spring Sale. That's a soli… [+1803 chars]"
+    },
+    {
+      "title": "MBody AI Corp. Expands Fortune 500 Deployment, Advancing National Robotics Rollout",
+      "description": "Proven pilot converts to multi-property expansion; deployment remains less than 10% of national footprint ISFIYA, Israel and LAS VEGAS, March 26, 2026 (GLOBE NEWSWIRE) — Check-Cap Ltd. (“Check-Cap” or the “Company”) (NASDAQ: $MBAI) through its pending busines…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/mbody-ai-corp-expands-fortune-500-deployment-advancing-national-robotics-rollout",
+      "published_at": "2026-03-26T12:37:31Z",
+      "author": "GlobeNewswire",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/mbody-orchestrator-tm-lobby.jpeg",
+      "content": "Check-Cap Ltd. (NASDAQ: $MBAI) is a technology company executing a strategic transformation through its shareholder-approved merger with MBody AI Corp. Upon completion, Check-Cap expects to become a … [+2676 chars]"
+    },
+    {
+      "title": "Engineer Uses 22 Remote-Controlled LEGO Cars to Create Circular ‘Shockwave’ Traffic Jam",
+      "description": "\"Brick Technology\" placed 22 remote-controlled LEGO vehicles on a circular track in order to create a \"shockwave\" traffic jam.\nsubscribe to the Laughing Squid Newsletter\nThe post Engineer Uses 22 Remote-Controlled LEGO Cars to Create Circular ‘Shockwave’ Traf…",
+      "source": "Laughingsquid.com",
+      "url": "https://laughingsquid.com/lego-shockwave-traffic-jam/",
+      "published_at": "2026-03-26T12:37:13Z",
+      "author": "Lori Dorn",
+      "image_url": "https://laughingsquid.com/wp-content/uploads/2026/03/LEGO-Car-Circular-Traffic-Jam.jpg",
+      "content": "The engineer behind Brick Technology built a series of 22 remote-controlled LEGO vehicles and placed them on a circular track to see if he could create a “shockwave” traffic jam. This experiment is v… [+404 chars]"
+    },
+    {
+      "title": "Diarmaid Ferriter: Decades after drivers camped overnight for petrol, Ireland is still too dependent on oil",
+      "description": "The current crisis highlights the sad longevity of the toxic combination of hubris, power and corruption the control of oil has generated",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/2026/03/26/diarmaid-ferriter-decades-after-drivers-camped-overnight-for-petrol-ireland-is-still-too-dependent-on-oil/",
+      "published_at": "2026-03-26T12:36:22Z",
+      "author": "Diarmaid Ferriter",
+      "image_url": "https://www.irishtimes.com/resizer/v2/5ZS3FJ6QR5HI5CDHWA5C6RMLJA.JPG?smart=true&auth=ecc916bfcd6b3066faf8592c9dc4453cb64cb26b8b97bbcff4d6ba3013c28ef6&width=1200&height=630",
+      "content": "Instability in the Middle East did much to destabilise the politics and economics of 1970s Ireland, as the resultant oil crises upended plans and diluted optimism. Irish entry to the European Economi… [+4913 chars]"
+    },
+    {
+      "title": "Formula Systems Reports Fourth Quarter and Full Year 2025 Financial Results",
+      "description": "PRESS RELEASE  2025 Full-year revenues increased by 18.4% year over year, reaching $2.63 billion. Net income attributable to Formula shareholders reached...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3263016/0/en/Formula-Systems-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
+      "published_at": "2026-03-26T12:36:00Z",
+      "author": "Formula Systems (1985) Ltd.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/c1e0d61c-0502-4447-bb14-76845b229030",
+      "content": "PRESS RELEASE\r\n2025Full-year revenues increased by 18.4% year over year, reaching $2.63 billion. Net income attributable to Formula shareholders reached $606.5 million following the completion of Sap… [+41815 chars]"
+    },
+    {
+      "title": "Aligned Data Centers Closes on $2.58 Billion Credit Facility to Fuel Continued U.S. Expansion",
+      "description": "Aligned Data Centers closed a $2.58B credit facility to expand its U.S. data center portfolio, adding flexible capital backed by institutional lenders....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3263015/0/en/Aligned-Data-Centers-Closes-on-2-58-Billion-Credit-Facility-to-Fuel-Continued-U-S-Expansion.html",
+      "published_at": "2026-03-26T12:35:00Z",
+      "author": "Aligned Data Centers, LLC",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/ecc070e8-4f6c-4709-9e43-e40f10244b78",
+      "content": "DALLAS, March 26, 2026 (GLOBE NEWSWIRE) -- Aligned Data Centers (Aligned or the Company), a leading provider of Gigascale, Build-to-Scale, and Multi-tenant data center solutions supporting hyperscale… [+2787 chars]"
+    },
+    {
+      "title": "MBody AI Corp. Expands Fortune 500 Deployment, Advancing National Robotics Rollout",
+      "description": "Proven pilot converts to multi-property expansion; deployment remains less than 10% of national footprint Proven pilot converts to multi-property expansion; deployment remains less than 10% of national footprint",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3263014/0/en/MBody-AI-Corp-Expands-Fortune-500-Deployment-Advancing-National-Robotics-Rollout.html",
+      "published_at": "2026-03-26T12:35:00Z",
+      "author": "MBody AI Corp",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/9619d4ce-306e-4e3c-9453-5123b09833ab",
+      "content": "ISFIYA, Israel and LAS VEGAS, March 26, 2026 (GLOBE NEWSWIRE) -- Check-Cap Ltd. (\"Check-Cap\" or the \"Company\") (NASDAQ: $MBAI) through its pending business combination, MBody AI Corp., a market-leadi… [+6146 chars]"
+    },
+    {
+      "title": "TecWork Global Business Solutions: Building India’s next‑gen software for safety and quality",
+      "description": "India Business News: TecWork Global Business Solutions, an Indore-headquartered technology company, is gradually emerging as a credible homegrown SaaS product firm in Indi.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/tecwork-global-business-solutions-building-indias-nextgen-software-for-safety-and-quality/articleshow/129824537.cms",
+      "published_at": "2026-03-26T12:34:57Z",
+      "author": "Spotlight Wire",
+      "image_url": "https://static.toiimg.com/thumb/msid-129824819,width-1280,height-720,imgsize-103200,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "content": "TecWork Global Business Solutions"
+    },
+    {
+      "title": "EPtalk by Dr. Jayne 3/26/26",
+      "description": "I was excited to learn about Perplexity Health. It gave ...",
+      "source": "Histalk2.com",
+      "url": "https://histalk2.com/2026/03/26/eptalk-by-dr-jayne-3-26-26/",
+      "published_at": "2026-03-26T12:34:44Z",
+      "author": "Mr. HIStalk",
+      "image_url": null,
+      "content": "I was excited to learn about Perplexity Health. It gave me the idea of how to potentially solve the nightly what should we have for dinner question. \r\nThe announcement mentions that the tool can link… [+7119 chars]"
+    },
+    {
+      "title": "​Germany: Building sector warns of spiralling costs",
+      "description": "Germany has a desperate shortage of affordable housing. The government's modernization of the construction law seems to be failing to get more homes built at \"turbo\" speed.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/germany-building-sector-warns-of-spiralling-costs/a-76541631",
+      "published_at": "2026-03-26T12:34:00Z",
+      "author": "Helen Whittle",
+      "image_url": "https://static.dw.com/image/74718297_6.jpg",
+      "content": "Business associations from the construction and real estate sectors, as well as academics, are warning the German government of a worsening crisis in the housing market, as building costs spiral out … [+6136 chars]"
+    },
+    {
+      "title": "HFCL unifies defence biz under new entity, loaded with Rs 1,680 crore order book",
+      "description": "India Business News: NEW DELHI: Domestic technology firm HFCL Limited has consolidated its defence business under a new entity, HASPL, which will commence operations with .",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hfcl-unifies-defence-biz-under-new-entity-loaded-with-rs-1680-crore-order-book/articleshow/129824768.cms",
+      "published_at": "2026-03-26T12:33:58Z",
+      "author": "PTI",
+      "image_url": "https://static.toiimg.com/thumb/msid-129824866,width-1280,height-720,imgsize-630670,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "content": "EMI CalculatorDetermine the monthly installment amount for a loan"
+    },
+    {
+      "title": "Treasure Global Reports 7x ARPU Growth on ZCITY; TAZTE Enters Strategic Redevelopment",
+      "description": "High-Frequency Users on ZCITY Surge to 70%, ARPU Grows Sevenfold High-Frequency Users on ZCITY Surge to 70%, ARPU Grows Sevenfold",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3263012/0/en/Treasure-Global-Reports-7x-ARPU-Growth-on-ZCITY-TAZTE-Enters-Strategic-Redevelopment.html",
+      "published_at": "2026-03-26T12:33:00Z",
+      "author": "Treasure Global Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/77c418b4-b5c2-4bac-a053-f63cd51de1dc",
+      "content": "KUALA LUMPUR, Malaysia, March 26, 2026 (GLOBE NEWSWIRE) -- Treasure Global Inc. (NASDAQ: TGL) (Treasure Global or the Company), a Southeast Asiaanchored technology company, today announced record eng… [+4675 chars]"
+    },
+    {
+      "title": "NASA’s Artemis II mission will take an astronaut crew around the Moon – a space policy expert describes the long road to launch",
+      "description": "Artemis II will test the life control systems on the Orion spacecraft and, if all goes well, take a trip around the Moon.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/nasas-artemis-ii-mission-will-take-an-astronaut-crew-around-the-moon-a-space-policy-expert-describes-the-long-road-to-launch-274481",
+      "published_at": "2026-03-26T12:32:52Z",
+      "author": "Scott Pace, Professor of the Practice of International Affairs, George Washington University",
+      "image_url": "https://images.theconversation.com/files/714730/original/file-20260127-56-tbmbmc.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6457%2C3228&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "NASA's Space Launch System rocket will launch a crewed capsule into orbit and then on a mission around the Moon. AP Photo/John Raoux\r\nNASA is once again shooting for the Moon, for the first time sinc… [+8180 chars]"
+    },
+    {
+      "title": "Why do basketball players miss shots they’ve made a thousand times before? Neuroscience has an answer",
+      "description": "Elite athletes miss plenty of shots during March Madness and the NBA playoffs. Training both brain and body can help even beginners and novices get more net.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/why-do-basketball-players-miss-shots-theyve-made-a-thousand-times-before-neuroscience-has-an-answer-279040",
+      "published_at": "2026-03-26T12:32:20Z",
+      "author": "David Van den Heever, Associate Professor of Agricultural and Biological Engineering, Mississippi State University",
+      "image_url": "https://images.theconversation.com/files/725923/original/file-20260324-57-2ltubk.jpg?ixlib=rb-4.1.0&rect=2%2C734%2C1504%2C752&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "Every March Madness it happens. A player steps to the line, takes the shot and misses. And just like that, there goes your perfect bracket. \n\nThese are elite players. The player has made that shot th… [+5397 chars]"
+    },
+    {
+      "title": "ParaZero Technologies Announces Strategic Partnership with XTEND for Advanced Drone Interception Capabilities",
+      "description": "Kfar Saba, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- ParaZero Technologies Ltd. (Nasdaq: PRZO) (the “company” or “ParaZero”), an aerospace defense company pioneering smart, autonomous solutions for the global manned and unmanned aerial systems (UAS) industry…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3263011/0/en/ParaZero-Technologies-Announces-Strategic-Partnership-with-XTEND-for-Advanced-Drone-Interception-Capabilities.html",
+      "published_at": "2026-03-26T12:32:00Z",
+      "author": "ParaZero Technologies Ltd.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/8c30a37d-5356-460c-afd6-54602c209d8f",
+      "content": "Kfar Saba, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- ParaZero Technologies Ltd. (Nasdaq: PRZO) (the company or ParaZero), an aerospace defense company pioneering smart, autonomous solutions for the … [+7417 chars]"
+    },
+    {
+      "title": "Renault Duster base model vs Kia Seltos base variant (2026): Features, price, and key differences",
+      "description": "Renault India has launched the 2026 Duster SUV, with pre-bookings open for five variants priced from ₹10.29 lakh. The base Authentic trim emphasizes safety and functionality, featuring six airbags and advanced stability systems. In contrast, the Kia Seltos HT…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/renault-duster-base-model-vs-kia-seltos-base-variant-2026-features-price-and-key-differences/articleshow/129824758.cms",
+      "published_at": "2026-03-26T12:31:35Z",
+      "author": "ET Online",
+      "image_url": "https://img.etimg.com/thumb/msid-129824772,width-1200,height-630,imgsize-1367479,overlay-economictimes/articleshow.jpg",
+      "content": "Renault India has introduced the all-new 2026 Renault Duster SUV, with pre-bookings now open across dealerships and online platforms. The SUV is available in five variants Authentic, Evolution, Techn… [+3379 chars]"
+    },
+    {
+      "title": "Daily Guess The Famous Person Game #012 (Mar 26, 2026)",
+      "description": "From world leaders to pop culture icons—can you guess today’s famous person? Crack the 6 clues to identify the mystery figure. Play the daily trivia game!. Celebrities, Entertainment",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/guess-the-person-26-03-2026/",
+      "published_at": "2026-03-26T12:31:06Z",
+      "author": "Editorial Staff",
+      "image_url": "https://static.boredpanda.com/blog/wp-content/uploads/2026/03/guess-the-person-14-03-2026-fb-69b41ff2e2b9c.jpg",
+      "content": "How well do you know famous people?\r\nGuess the Famous Person will test your knowledge of history, politics, entertainment, science, and pop culture. With every guess, you’ll discover whether you matc… [+1420 chars]"
+    },
+    {
+      "title": "Sanders, Ocasio-Cortez push bill to impose AI data center moratorium",
+      "description": "A bill introduced by two high-profile progressive lawmakers would pause new data centers in the United States until national safeguards are in place to protect workers and consumers and ensure the technologies don’t harm the environment",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Technology/wireStory/sanders-ocasio-cortez-push-bill-impose-ai-data-131408546",
+      "published_at": "2026-03-26T12:30:59Z",
+      "author": "MATTHEW DALY Associated Press",
+      "image_url": "https://i.abcnewsfe.com/a/6a75eba2-1722-4f81-80d7-13f8b6f253c6/wirestory_65651bd28c3d911d18eeb46cd54f4c75_16x9.jpg?w=1600",
+      "content": "WASHINGTON -- Two high-profile progressive lawmakers introduced a bill Wednesday that would pause new data centers in the United States until national safeguards are in place to protect workers and c… [+4218 chars]"
+    },
+    {
+      "title": "These Nothing ANC Headphones Just Hit Their All-Time New Low Price of $69",
+      "description": "Amazon is selling all three colors at this special price during its Big Spring Sale event.",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/nothing-headphone-pro-amazon-deal/",
+      "published_at": "2026-03-26T12:30:35Z",
+      "author": "Oliver Haslam",
+      "image_url": "https://www.cnet.com/a/img/resize/408e880a3a2b12af2fb7173ec3f377692eb4a02a/hub/2026/03/26/3d4e1db4-433c-42fe-8a37-c73bcc082bda/cmf-by-nothing-headphone-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "content": "There's never been a better time to treat yourself to the CMF by Nothing Headphone Pro, with the Amazon Big Spring Sale slashing its price to an all-time low of just $69. That's a full $30 off, and y… [+1518 chars]"
+    },
+    {
+      "title": "US Blocks Foreign-Made Routers on Security Grounds",
+      "description": "The US has taken action against certain foreign-made routers over security concerns, raising fresh questions about cyber threats and network safety.\nThe post US Blocks Foreign-Made Routers on Security Grounds appeared first on MEDIANAMA.",
+      "source": "MediaNama.com",
+      "url": "https://www.medianama.com/2026/03/223-us-restricts-foreign-made-routers-security-covered-list/",
+      "published_at": "2026-03-26T12:30:07Z",
+      "author": "Ann Mary Peter",
+      "image_url": "https://www.medianama.com/wp-content/uploads/2017/10/20171009_114048-1.jpg.jpg",
+      "content": "You can access the original document from here.\r\nThe U.S. Federal Communications Commission (FCC) has added foreign-made consumer-grade routers to its Covered List, which prohibits new models from en… [+3457 chars]"
+    },
+    {
+      "title": "Thicker is Better? Why the Galaxy Z Fold 8’s Leaked Design is a Win for Battery Life",
+      "description": "Samsung’s Galaxy Z Fold 8, the latest addition to its foldable smartphone lineup, builds upon the foundation laid by its predecessors with a series of refinements. While the design remains largely consistent with the Z Fold 7, the device introduces notable im…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/galaxy-z-fold-8-design-leaked/",
+      "published_at": "2026-03-26T12:30:07Z",
+      "author": "Roland Hutchinson",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/Fold-8-2.jpg",
+      "content": "Samsung’s Galaxy Z Fold 8, the latest addition to its foldable smartphone lineup, builds upon the foundation laid by its predecessors with a series of refinements. While the design remains largely co… [+7004 chars]"
+    },
+    {
+      "title": "VIOOH Brings Orange Barrel Media’s US Urban Inventory to its Global Programmatic Platform",
+      "description": "Today (26th March, 2026), VIOOH, the leading premium global digital out-of-home (DOOH) supply-side platform, announced a strategic partnership with Orange Barrel Media(OBM) & IKE Smart City, a pioneer in landmark media and smart city technology, to further ex…",
+      "source": "ExchangeWire",
+      "url": "https://www.exchangewire.com/blog/2026/03/26/viooh-brings-orange-barrel-medias-us-urban-inventory-to-its-global-programmatic-platform/",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "ExchangeWire PressBox",
+      "image_url": "https://cdn.exchangewire.com/wp-content/uploads/2026/03/VIOOH-x-Orange-Barrel-Media-image.jpeg",
+      "content": "Today (26th March, 2026), VIOOH, the leading premium global digital out-of-home (DOOH) supply-side platform, announced a strategic partnership with Orange Barrel Media(OBM) &amp; IKE Smart City, a pi… [+2633 chars]"
+    },
+    {
+      "title": "All Resolutions Passed at DirectBooking Technology Extraordinary General Meeting, Clearing Path for Enhanced Share Capital Structure",
+      "description": "DirectBooking investors endorse six resolutions reshaping capital and voting control....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262987/0/en/All-Resolutions-Passed-at-DirectBooking-Technology-Extraordinary-General-Meeting-Clearing-Path-for-Enhanced-Share-Capital-Structure.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "DirectBooking Technology Co., Ltd.",
+      "image_url": null,
+      "content": "HONG KONG, March 26, 2026 (GLOBE NEWSWIRE) -- DirectBooking Technology Co., Ltd. (NASDAQ: ZDAI) (hereinafter referred to as \"DirectBooking\" or the \"Company\") announced that shareholders have approved… [+4958 chars]"
+    },
+    {
+      "title": "SurgePays Launches Managed Marketing Services Platform Across Nationwide Retail Network",
+      "description": "In-store digital media platform expected to drive customer acquisition and create new high-margin recurring revenue opportunities In-store digital media platform expected to drive customer acquisition and create new high-margin recurring revenue opportunities",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262988/0/en/SurgePays-Launches-Managed-Marketing-Services-Platform-Across-Nationwide-Retail-Network.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "SurgePays, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/c1a134e6-c515-41de-9ac6-f0e8c5fe117e",
+      "content": "BARTLETT, Tenn., March 26, 2026 (GLOBE NEWSWIRE) -- SurgePays, Inc. (NASDAQ: SURG) (SurgePays or the Company), a wireless and fintech technology company serving subprime and underserved consumers, to… [+5910 chars]"
+    },
+    {
+      "title": "NeoVolta Receives $1.9 Million First Purchase Order from Luminia, Accelerating Commercial and Industrial Energy Storage Platform",
+      "description": "Initial Order for 40 FEOC-Compliant C&I Battery Storage Systems Marks First Definitive Transaction Under Strategic Supply Collaboration and Validates NeoVolta's Position as a Leading Integrated C&I Energy Storage Provider Initial Order for 40 FEOC-Compliant C…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262995/0/en/NeoVolta-Receives-1-9-Million-First-Purchase-Order-from-Luminia-Accelerating-Commercial-and-Industrial-Energy-Storage-Platform.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "NeoVolta Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/1fdd2381-f235-499a-999a-d1d22f639e49",
+      "content": "SAN DIEGO, March 26, 2026 (GLOBE NEWSWIRE) -- NeoVolta Inc. (NASDAQ: NEOV) (NeoVolta or the Company), a U.S.-based energy technology company delivering scalable energy storage solutions, today announ… [+8463 chars]"
+    },
+    {
+      "title": "Synchronoss Appoints Pat Doran as Chief Executive Officer Following Lumine Group Acquisition",
+      "description": "Synchronoss appoints Pat Doran as CEO following Lumine Group acquisition, reinforcing leadership continuity and operational excellence....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262993/37247/en/Synchronoss-Appoints-Pat-Doran-as-Chief-Executive-Officer-Following-Lumine-Group-Acquisition.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "Synchronoss Technologies, Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/e90aebc2-0699-435a-ad39-fd81a6a2408f",
+      "content": "BRIDGEWATER, N.J., March 26, 2026 (GLOBE NEWSWIRE) -- Synchronoss Technologies, Inc. (Synchronoss or the Company), a global leader of personal cloud platforms for telecom operators, today announced t… [+2226 chars]"
+    },
+    {
+      "title": "Amaze Holdings Announces Creator Commerce Media Platform, Designed to Unlock Data-Driven Revenue Streams",
+      "description": "NEWPORT BEACH, Calif., March 26, 2026 (GLOBE NEWSWIRE) -- Amaze Holdings, Inc.\r\n (NYSE American: AMZE) (“Amaze” or the “Company”), a global leader in creator-powered commerce, today announced the launch of its Creator Commerce Media Platform, a new revenue in…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262991/0/en/Amaze-Holdings-Announces-Creator-Commerce-Media-Platform-Designed-to-Unlock-Data-Driven-Revenue-Streams.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "Amaze Holdings, Inc",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/e5a3ffdc-3de3-4cd5-9b61-d0e5682a1931",
+      "content": "NEWPORT BEACH, Calif., March 26, 2026 (GLOBE NEWSWIRE) -- Amaze Holdings, Inc.\r\n (NYSE American: AMZE) (Amaze or the Company), a global leader in creator-powered commerce, today announced the launch … [+9910 chars]"
+    },
+    {
+      "title": "Duos Technologies Group Sets Fourth Quarter and Full Year 2025 Earnings Call for Tuesday, March 31, 2026 at 4:30 PM ET",
+      "description": "DUOT- a provider of modular, colocation Edge & AI data centers, & technology infrastructure solutions - Sets Q4 & FY25 Earnings Call on 3/31/26, 4:30pm ET...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262997/12618/en/Duos-Technologies-Group-Sets-Fourth-Quarter-and-Full-Year-2025-Earnings-Call-for-Tuesday-March-31-2026-at-4-30-PM-ET.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "Duos Technologies Group, Inc",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/bf184181-16bb-49e9-8674-fd086bb6411d",
+      "content": "JACKSONVILLE, Fla., March 26, 2026 (GLOBE NEWSWIRE) -- Duos Technologies Group, Inc. (Duos or the Company) (Nasdaq: DUOT) a provider of modular, colocation Edge and AI data centers and technology inf… [+4493 chars]"
+    },
+    {
+      "title": "SEALSQ Well Positioned with Post-Quantum Chips and PKI to Support Wi-SUN Alliance Members in Building Quantum-Resilient Smart Meter Ecosystems Amid Rising Demand in Smart Energy",
+      "description": "Geneva, Switzerland, March 26, 2026 (GLOBE NEWSWIRE) -- SEALSQ Corp (NASDAQ: LAES) (\"SEALSQ\" or \"Company\"), a leader in semiconductors, Public Key Infrastructure (PKI), and post-quantum cryptography (PQC) hardware and software solutions, today announced its r…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262990/0/en/SEALSQ-Well-Positioned-with-Post-Quantum-Chips-and-PKI-to-Support-Wi-SUN-Alliance-Members-in-Building-Quantum-Resilient-Smart-Meter-Ecosystems-Amid-Rising-Demand-in-Smart-Energy.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "SEAL Semiconductors",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df",
+      "content": "Geneva, Switzerland, March 26, 2026 (GLOBE NEWSWIRE) -- \r\nSEALSQ Corp (NASDAQ: LAES) (\"SEALSQ\" or \"Company\"), a leader in semiconductors, Public Key Infrastructure (PKI), and post-quantum cryptograph… [+6726 chars]"
+    },
+    {
+      "title": "Emory Healthcare Successfully Completes Robotic Peripheral Endovascular Procedures using Microbot Medical®’s LIBERTY® Endovascular Robotic System",
+      "description": "Emory Healthcare Successfully Completes Robotic Peripheral Endovascular Procedures using Microbot Medical®’s  LIBERTY® Endovascular Robotic System...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262994/0/en/Emory-Healthcare-Successfully-Completes-Robotic-Peripheral-Endovascular-Procedures-using-Microbot-Medical-s-LIBERTY-Endovascular-Robotic-System.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "Microbot Medical Inc.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/346df7fb-c134-40c2-970a-39bcbaf974cd",
+      "content": "Worlds first robotic Prostatic Artery Embolization (PAE) for Benign Prostatic Hyperplasia (BPH) and robotic Y-90 radioembolization mapping for liver cancer are among the robotic cases performed using… [+7012 chars]"
+    },
+    {
+      "title": "Blockchain philanthropy fails Africa’s real-world test",
+      "description": "Crypto philanthropy in Africa builds moments, not enduring systems. Transparency without local ownership and maintenance delivers aid dependency, not dignity.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/opinion/blockchain-philanthropy-fails-africa-test",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "Cointelegraph by Samuel Owusu-Boadi",
+      "image_url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb348-5f1c-7ed3-af02-48fa78eb2cd3.jpg",
+      "content": "Opinion by: Samuel Owusu-Boadi, founder of WellsForAll\r\nOver the past decade, crypto philanthropy has exploded. From a niche experiment to a transformative force channeling billions into global cause… [+6863 chars]"
+    },
+    {
+      "title": "RENX ENTERPRISES CONFIRMS MICROTEC UTM 1200 TURBO MILL COMPLETED AND READY FOR SHIPMENT; APRIL DELIVERY EXPECTED AS SITE PREPARATION ADVANCES",
+      "description": "MIAMI, FL , March 26, 2026 (GLOBE NEWSWIRE) -- RenX Enterprises Corp. “RenX” (NASDAQ: RENX), a  biomass recycling, logistics, and real estate company, today announced that it has received written confirmation from MTDH Germany GmbH (“Microtec”) that the  UTM …",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/26/3262998/0/en/RENX-ENTERPRISES-CONFIRMS-MICROTEC-UTM-1200-TURBO-MILL-COMPLETED-AND-READY-FOR-SHIPMENT-APRIL-DELIVERY-EXPECTED-AS-SITE-PREPARATION-ADVANCES.html",
+      "published_at": "2026-03-26T12:30:00Z",
+      "author": "RenX Enterprises Corp.",
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f483a332-2404-4b7d-accf-e74700052a8f",
+      "content": "MIAMI, FL , March 26, 2026 (GLOBE NEWSWIRE) -- RenX Enterprises Corp. RenX (NASDAQ: RENX), a  biomass recycling, logistics, and real estate company, today announced that it has received written confi… [+8048 chars]"
+    },
+    {
+      "title": "One Tech Tip: Here's how AI can (and can't) help you in your job hunt",
+      "description": "Finding a job feels harder than ever",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/tech-tip-ai-job-hunt-131422675",
+      "published_at": "2026-03-26T12:29:46Z",
+      "author": "KELVIN CHAN AP business writer",
+      "image_url": "https://i.abcnewsfe.com/a/2b69c884-1437-4129-ad95-ab8ce0cc37ad/wirestory_a535a7932ff291a1998158d40cd82c4c_16x9.jpg?w=1600",
+      "content": "For many job seekers, it might seem like there's never been a harder time to find a job. \r\nHiring for white-collar jobs has been especially weak, part of what economists call a low-hire, low-fire job… [+7012 chars]"
+    },
+    {
+      "title": "Enterprises are rushing into AI — but deployment complexity could stop them cold",
+      "description": "Cloud-native AI infrastructure is gaining ground fast in the enterprise — but what separates deployment at scale from stalled ambition? The convergence of cloud-native and AI-native computing is pushing engineers and application developers to retool existing …",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/03/26/developer-experience-center-cloud-native-ai-infrastructure-kubeconeu/",
+      "published_at": "2026-03-26T12:29:11Z",
+      "author": "Ryan Stevens",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Cube-image-2.jpg",
+      "content": "Cloud-native AI infrastructure is gaining ground fast in the enterprise but what separates deployment at scale from stalled ambition?\r\nThe convergence of cloud-native and AI-native computing is pushi… [+5011 chars]"
+    },
+    {
+      "title": "India sees spike in social media censorship amid Iran war",
+      "description": "Activists in India are sounding the alarm over the removal of content from social media, especially posts criticizing the government and its Iran war stance.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/india-sees-spike-in-social-media-censorship-amid-iran-war/a-76527249",
+      "published_at": "2026-03-26T12:29:00Z",
+      "author": "Murali Krishnan",
+      "image_url": "https://static.dw.com/image/76131633_6.jpg",
+      "content": "Over the past two weeks, internet watchdogs in India have reported dozens of removals of posts on social media that were critical of the government's failure to condemn the US-Israeli strikes on Iran… [+7246 chars]"
+    },
+    {
+      "title": "5G service officially to be launched on March 31",
+      "description": "Transport and Infrastructure Minister Abdulkadir Uraloğlu has announced that Türkiye will formally declare its move to 5G at a ceremony on March 31 at the Presidential Complex in Ankara, with President Recep Tayyip Erdoğan in attendance.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/5g-service-officially-to-be-launched-on-march-31-220348",
+      "published_at": "2026-03-26T12:26:07Z",
+      "author": "hurriyetdailynews.com",
+      "image_url": "https://image.hurimg.com/i/hurriyet/75/200x200/69c525dd5b06fcb7fa325244.jpg",
+      "content": "ANKARA\r\nTransport and Infrastructure Minister Abdulkadir Uralolu has announced that Türkiye will formally declare its move to 5G at a ceremony on March 31 at the Presidential Complex in Ankara, with … [+1453 chars]"
+    },
+    {
+      "title": "SEBI asks Google to verify stock trading apps, use AI to track finfluencers",
+      "description": "SEBI partners with Google to add verified badges for trading apps, curb fake apps, and use AI tools to track misleading finfluencers, strengthening investor protection and reducing digital investment fraud.\nThe post SEBI asks Google to verify stock trading ap…",
+      "source": "MediaNama.com",
+      "url": "https://www.medianama.com/2026/03/223-sebi-google-verify-stock-trading-apps-use-ai-track-finfluencers/",
+      "published_at": "2026-03-26T12:25:11Z",
+      "author": "Amit Singh",
+      "image_url": "https://www.medianama.com/wp-content/uploads/2020/10/sebi.gif.gif",
+      "content": "Downloads:\r\n— SEBI press release on verified label for stock trading apps\r\n— Address by SEBI chairman at launch of Verified App Label\r\nThe Securities and Exchange Board of India (SEBI) has partnered … [+2259 chars]"
+    },
+    {
+      "title": "Trump names Huang, Ellison, Dell Zuckerberg and more on new White House council to help 'the Golden Age of Innovation'",
+      "description": "PCAST will reportedly help advise the President on 'strengthening American leadership in science and technology'.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/trump-names-huang-ellison-dell-zuckerberg-and-more-on-new-white-house-council-to-help-the-golden-age-of-innovation",
+      "published_at": "2026-03-26T12:25:00Z",
+      "author": "Mike Moore",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UUzYY3XYt4RmDVe7ZzWB89-1400-80.jpg",
+      "content": "<ul><li>Trump administration reveals new PCAST advisory board</li><li>Great and good of the tech industry are all included, from Huang to Ellison to Zuckerberg</li><li>PCAST will advise the President… [+3244 chars]"
+    },
+    {
+      "title": "T-REX Network and Zama Launch Institutional-Grade Confidentiality Infrastructure for RWA Tokenization",
+      "description": "Paris, France, 26th March 2026, Chainwire\nThe post T-REX Network and Zama Launch Institutional-Grade Confidentiality Infrastructure for RWA Tokenization appeared first on The Daily Hodl.",
+      "source": "The Daily Hodl",
+      "url": "https://dailyhodl.com/2026/03/26/t-rex-network-and-zama-launch-institutional-grade-confidentiality-infrastructure-for-rwa-tokenization/",
+      "published_at": "2026-03-26T12:21:33Z",
+      "author": "Chainwire",
+      "image_url": "https://dailyhodl.com/wp-content/uploads/2026/03/ZAMA-LOGO-COVER-1200x720_1774521440uaF44u0L9f.jpg?resize=1200,720",
+      "content": "March 26th, 2026 Paris, France\r\nT-REX Network, the multi-chain RWA orchestration layer supported by Apex Group, which services $3.5 trillion in assets, has partnered with Zama, the pioneer in Fully H… [+6813 chars]"
+    },
+    {
+      "title": "Supreme Court’s tariff decision still leaves a ‘mess’ for companies trying to grab refunds",
+      "description": "Companies that had sued for tariff refunds are taking different approaches to getting their money back – or quitting the effort.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/supreme-courts-tariff-decision-still-leaves-a-mess-for-companies-trying-to-grab-refunds-276822",
+      "published_at": "2026-03-26T12:21:25Z",
+      "author": "Peter R. Crabb, Professor of Finance and Economics, Northwest Nazarene University; Institute for Humane Studies, Alison Graham Larson, Assistant Professor of Criminal Justice, Northwest Nazarene University",
+      "image_url": "https://images.theconversation.com/files/726271/original/file-20260325-57-s69dju.jpg?ixlib=rb-4.1.0&rect=0%2C269%2C3227%2C1613&q=45&auto=format&w=1356&h=668&fit=crop",
+      "content": "Containers are stacked up in a cargo terminal in Frankfurt, Germany. AP Photo/Michael Probst\r\nU.S. companies stung by President Donald Trump’s emergency tariffs had hoped for relief when the U.S. Sup… [+7199 chars]"
+    },
+    {
+      "title": "Claude Can Now Code Websites “By Sight” Here’s How It Works",
+      "description": "Jay E | RoboNuggets examines how the new Drawbridge plugin enhances AI-driven web design by allowing users to annotate browser elements visually. This free Chrome extension supports screenshots, HTML and comments to create detailed instructions for AI systems…",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/drawbridge-claude-code/",
+      "published_at": "2026-03-26T12:20:50Z",
+      "author": "Julian Horsey",
+      "image_url": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/mo-tasks-md-annotation-log-claude-code.jpg",
+      "content": "Jay E | RoboNuggets examines how the new Drawbridge plugin enhances AI-driven web design by allowing users to annotate browser elements visually. This free Chrome extension supports screenshots, HTML… [+6270 chars]"
+    },
+    {
+      "title": "When is SpaceX IPO? Share price, valuation, predictions and how to buy shares",
+      "description": "SpaceX is preparing one of the biggest IPOs in history, targeting $75 billion, according to insiders. The move could value Elon Musk’s company at $1.75 trillion, surpassing all previous public offerings. Starlink, with over 9,500 satellites, drives the compan…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/when-is-spacex-ipo-share-price-valuation-predictions-and-how-to-buy-shares/articleshow/129823534.cms",
+      "published_at": "2026-03-26T12:19:01Z",
+      "author": "Piyush Shukla",
+      "image_url": "https://img.etimg.com/thumb/msid-129823551,width-1200,height-630,imgsize-116302,overlay-economictimes/articleshow.jpg",
+      "content": "SpaceX is reportedly preparing to make one of the largest initial public offerings (IPO) in history, aiming to raise approximately $75 billion, sources familiar with the matter said. This move could … [+4537 chars]"
+    },
+    {
+      "title": "M1X Global Announces Public Launch and Oversubscribed $3 Million Angel Round to Scale On-Chain Sovereign Finance",
+      "description": "NEW YORK — M1X Global, a sovereign financial infrastructure and technology company, today announced its public launch alongside the close of an oversubscribed $3 million angel round. The funding, spanning strategic investments and grants, will support platfor…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/m1x-global-announces-public-launch-and-oversubscribed-3-million-angel-round-to-scale-on-chain-sovereign-finance",
+      "published_at": "2026-03-26T12:18:29Z",
+      "author": "Business Wire",
+      "image_url": null,
+      "content": "NEW YORK M1X Global, a sovereign financial infrastructure and technology company, today announced its public launch alongside the close of an oversubscribed $3 million angel round. The funding, spann… [+8114 chars]"
+    }
+  ],
+  "raw_response": {
+    "status": "ok",
+    "totalResults": 32912,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "MIT Technology Review"
+        },
+        "author": "Thomas Macaulay",
+        "title": "The Download: a battery pivot to AI, and rewriting math",
+        "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t mince words about the state of the battery industry. “Almos…",
+        "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+        "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MU-closed-loop-autonomous-lab.jpg?resize=1200,600",
+        "publishedAt": "2026-03-26T12:42:53Z",
+        "content": "Hu is the CEO of SES AI, a Massachusetts-based battery company. It previously developed advanced lithium batteries for major industries, but is now shifting to AI materials discovery. Read our story … [+977 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "JFB Construction Holdings",
+        "title": "JFB Announces XTEND’s Strategic Partnership with ParaZero Technologies to Revolutionize Drone Interception Capabilities",
+        "description": "New Integration Enables Fully Autonomous Drone Interception, from Detection to Capture   Partnership a Result of Increasing Demand for Integrated Defense...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3263020/0/en/JFB-Announces-XTEND-s-Strategic-Partnership-with-ParaZero-Technologies-to-Revolutionize-Drone-Interception-Capabilities.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/81461b25-0600-45db-95b7-f6a117825037",
+        "publishedAt": "2026-03-26T12:42:00Z",
+        "content": "New Integration Enables Fully Autonomous Drone Interception, from Detection to Capture \r\nPartnership a Result of Increasing Demand for Integrated Defense Solutions as Multi-Domain Drone Threats Inten… [+13021 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Decrypt"
+        },
+        "author": "Tyler Warner",
+        "title": "Morning Minute: Trump’s New Science Council Is a Who’s Who of AI and Crypto",
+        "description": "Trump just stacked his science council and crypto has a seat at the table, while Circle's worst day is looking more like an overreaction.",
+        "url": "https://decrypt.co/362422/morning-minute-trumps-new-science-council-is-a-whos-who-of-ai-and-crypto",
+        "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png",
+        "publishedAt": "2026-03-26T12:41:54Z",
+        "content": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our new daily news show co… [+9797 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.gov.uk"
+        },
+        "author": "UK Defence Innovation",
+        "title": "UK and US seek solutions to counter underwater drone threat",
+        "description": "The US Defense Innovation Unit (DIU) is seeking technology to counter unmanned underwater vehicle threats. UK companies can apply, with solutions assessed by jHub — for potential UK defence use.",
+        "url": "https://www.gov.uk/government/news/uk-and-us-seek-solutions-to-counter-underwater-drone-threat",
+        "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+        "publishedAt": "2026-03-26T12:41:04Z",
+        "content": "The US DIU has launched a Commercial Solutions Opening (CSO) which is a fast, flexible route for companies to pitch technology directly to government. The programme, called REEF (Robotic Exclusion an… [+2447 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Harvard Business Review"
+        },
+        "author": null,
+        "title": "Strategy Summit 2026: Inventive Strategy and the ‘Unbossed’ Organization",
+        "description": "A conversation with Columbia Business School’s Rita McGrath on finding competitive advantage in the time of AI.",
+        "url": "https://hbr.org/podcast/2026/03/strategy-summit-2026-inventive-strategy-and-the-unbossed-organization",
+        "urlToImage": "https://hbr.org/resources/images/article_assets/2025/02/wide-ideacast_25.png",
+        "publishedAt": "2026-03-26T12:40:00Z",
+        "content": "ADI IGNATIUS: I’m Adi Ignatius, and this is the HBR IdeaCast.\r\nHarvard Business Review recently hosted the HBR Strategy Summit 2026, a day filled with expert advice and guidance from executives and a… [+24894 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Maris-Tech Ltd.",
+        "title": "Maris-Tech Receives Follow-On Order from Governmental Customer in Intelligence Gathering Domain",
+        "description": "Continued engagement reflects ongoing operational deployment and customer confidence in Maris-Tech’s technology  Rehovot, Israel, March  26, 2026  (GLOBE...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3263019/0/en/Maris-Tech-Receives-Follow-On-Order-from-Governmental-Customer-in-Intelligence-Gathering-Domain.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/5d98827d-5fca-4beb-b603-08d5c973e3bd",
+        "publishedAt": "2026-03-26T12:40:00Z",
+        "content": "Continued engagement reflects ongoing operational deployment and customer confidence in Maris-Techs technology\r\nRehovot, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- Maris-Tech Ltd. (Nasdaq: MTEK, MTEK… [+4572 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "shivelite2003@gmail.com",
+        "title": "echodb added to PyPI",
+        "description": "Persistent temporal memory layer for LLM conversational agents",
+        "url": "https://pypi.org/project/echodb/",
+        "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "publishedAt": "2026-03-26T12:38:59Z",
+        "content": "A persistent, temporal memory layer for LLM-powered conversational agents. Drop it into any chat loop and your assistant will remember facts, track how they change over time, extract structured knowl… [+16292 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Dhruv Bhutani",
+        "title": "This Spring Sale Deal Just Might Make Your 3D-Print Dreams Come True",
+        "description": "CNET's most-viewed 3D printer, the Centauri Carbon, is now $80 less.",
+        "url": "https://www.cnet.com/deals/centauri-carbon-3d-printer-spring-sale/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/f8a7332b566eaa03ebfc817c9eee8fb7dd39b362/hub/2026/03/25/a0dbf0c0-6647-4779-8e67-738c4f9f88ee/elegoo.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-26T12:38:00Z",
+        "content": "It's not everyday that you see a well-reviewed 3D printer get a meaningful discount, but right now, the Elegoo Centauri Carbon is $80 off as part of the on-going Amazon Big Spring Sale. That's a soli… [+1803 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "GlobeNewswire",
+        "title": "MBody AI Corp. Expands Fortune 500 Deployment, Advancing National Robotics Rollout",
+        "description": "Proven pilot converts to multi-property expansion; deployment remains less than 10% of national footprint ISFIYA, Israel and LAS VEGAS, March 26, 2026 (GLOBE NEWSWIRE) — Check-Cap Ltd. (“Check-Cap” or the “Company”) (NASDAQ: $MBAI) through its pending busines…",
+        "url": "https://financialpost.com/globe-newswire/mbody-ai-corp-expands-fortune-500-deployment-advancing-national-robotics-rollout",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/03/mbody-orchestrator-tm-lobby.jpeg",
+        "publishedAt": "2026-03-26T12:37:31Z",
+        "content": "Check-Cap Ltd. (NASDAQ: $MBAI) is a technology company executing a strategic transformation through its shareholder-approved merger with MBody AI Corp. Upon completion, Check-Cap expects to become a … [+2676 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Laughingsquid.com"
+        },
+        "author": "Lori Dorn",
+        "title": "Engineer Uses 22 Remote-Controlled LEGO Cars to Create Circular ‘Shockwave’ Traffic Jam",
+        "description": "\"Brick Technology\" placed 22 remote-controlled LEGO vehicles on a circular track in order to create a \"shockwave\" traffic jam.\nsubscribe to the Laughing Squid Newsletter\nThe post Engineer Uses 22 Remote-Controlled LEGO Cars to Create Circular ‘Shockwave’ Traf…",
+        "url": "https://laughingsquid.com/lego-shockwave-traffic-jam/",
+        "urlToImage": "https://laughingsquid.com/wp-content/uploads/2026/03/LEGO-Car-Circular-Traffic-Jam.jpg",
+        "publishedAt": "2026-03-26T12:37:13Z",
+        "content": "The engineer behind Brick Technology built a series of 22 remote-controlled LEGO vehicles and placed them on a circular track to see if he could create a “shockwave” traffic jam. This experiment is v… [+404 chars]"
+      },
+      {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Diarmaid Ferriter",
+        "title": "Diarmaid Ferriter: Decades after drivers camped overnight for petrol, Ireland is still too dependent on oil",
+        "description": "The current crisis highlights the sad longevity of the toxic combination of hubris, power and corruption the control of oil has generated",
+        "url": "https://www.irishtimes.com/opinion/2026/03/26/diarmaid-ferriter-decades-after-drivers-camped-overnight-for-petrol-ireland-is-still-too-dependent-on-oil/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/5ZS3FJ6QR5HI5CDHWA5C6RMLJA.JPG?smart=true&auth=ecc916bfcd6b3066faf8592c9dc4453cb64cb26b8b97bbcff4d6ba3013c28ef6&width=1200&height=630",
+        "publishedAt": "2026-03-26T12:36:22Z",
+        "content": "Instability in the Middle East did much to destabilise the politics and economics of 1970s Ireland, as the resultant oil crises upended plans and diluted optimism. Irish entry to the European Economi… [+4913 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Formula Systems (1985) Ltd.",
+        "title": "Formula Systems Reports Fourth Quarter and Full Year 2025 Financial Results",
+        "description": "PRESS RELEASE  2025 Full-year revenues increased by 18.4% year over year, reaching $2.63 billion. Net income attributable to Formula shareholders reached...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3263016/0/en/Formula-Systems-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/c1e0d61c-0502-4447-bb14-76845b229030",
+        "publishedAt": "2026-03-26T12:36:00Z",
+        "content": "PRESS RELEASE\r\n2025Full-year revenues increased by 18.4% year over year, reaching $2.63 billion. Net income attributable to Formula shareholders reached $606.5 million following the completion of Sap… [+41815 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Aligned Data Centers, LLC",
+        "title": "Aligned Data Centers Closes on $2.58 Billion Credit Facility to Fuel Continued U.S. Expansion",
+        "description": "Aligned Data Centers closed a $2.58B credit facility to expand its U.S. data center portfolio, adding flexible capital backed by institutional lenders....",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3263015/0/en/Aligned-Data-Centers-Closes-on-2-58-Billion-Credit-Facility-to-Fuel-Continued-U-S-Expansion.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/ecc070e8-4f6c-4709-9e43-e40f10244b78",
+        "publishedAt": "2026-03-26T12:35:00Z",
+        "content": "DALLAS, March 26, 2026 (GLOBE NEWSWIRE) -- Aligned Data Centers (Aligned or the Company), a leading provider of Gigascale, Build-to-Scale, and Multi-tenant data center solutions supporting hyperscale… [+2787 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "MBody AI Corp",
+        "title": "MBody AI Corp. Expands Fortune 500 Deployment, Advancing National Robotics Rollout",
+        "description": "Proven pilot converts to multi-property expansion; deployment remains less than 10% of national footprint Proven pilot converts to multi-property expansion; deployment remains less than 10% of national footprint",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3263014/0/en/MBody-AI-Corp-Expands-Fortune-500-Deployment-Advancing-National-Robotics-Rollout.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/9619d4ce-306e-4e3c-9453-5123b09833ab",
+        "publishedAt": "2026-03-26T12:35:00Z",
+        "content": "ISFIYA, Israel and LAS VEGAS, March 26, 2026 (GLOBE NEWSWIRE) -- Check-Cap Ltd. (\"Check-Cap\" or the \"Company\") (NASDAQ: $MBAI) through its pending business combination, MBody AI Corp., a market-leadi… [+6146 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Spotlight Wire",
+        "title": "TecWork Global Business Solutions: Building India’s next‑gen software for safety and quality",
+        "description": "India Business News: TecWork Global Business Solutions, an Indore-headquartered technology company, is gradually emerging as a credible homegrown SaaS product firm in Indi.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/tecwork-global-business-solutions-building-indias-nextgen-software-for-safety-and-quality/articleshow/129824537.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-129824819,width-1280,height-720,imgsize-103200,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-26T12:34:57Z",
+        "content": "TecWork Global Business Solutions"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Histalk2.com"
+        },
+        "author": "Mr. HIStalk",
+        "title": "EPtalk by Dr. Jayne 3/26/26",
+        "description": "I was excited to learn about Perplexity Health. It gave ...",
+        "url": "https://histalk2.com/2026/03/26/eptalk-by-dr-jayne-3-26-26/",
+        "urlToImage": null,
+        "publishedAt": "2026-03-26T12:34:44Z",
+        "content": "I was excited to learn about Perplexity Health. It gave me the idea of how to potentially solve the nightly what should we have for dinner question. \r\nThe announcement mentions that the tool can link… [+7119 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Helen Whittle",
+        "title": "​Germany: Building sector warns of spiralling costs",
+        "description": "Germany has a desperate shortage of affordable housing. The government's modernization of the construction law seems to be failing to get more homes built at \"turbo\" speed.",
+        "url": "https://www.dw.com/en/germany-building-sector-warns-of-spiralling-costs/a-76541631",
+        "urlToImage": "https://static.dw.com/image/74718297_6.jpg",
+        "publishedAt": "2026-03-26T12:34:00Z",
+        "content": "Business associations from the construction and real estate sectors, as well as academics, are warning the German government of a worsening crisis in the housing market, as building costs spiral out … [+6136 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "HFCL unifies defence biz under new entity, loaded with Rs 1,680 crore order book",
+        "description": "India Business News: NEW DELHI: Domestic technology firm HFCL Limited has consolidated its defence business under a new entity, HASPL, which will commence operations with .",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/hfcl-unifies-defence-biz-under-new-entity-loaded-with-rs-1680-crore-order-book/articleshow/129824768.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-129824866,width-1280,height-720,imgsize-630670,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-03-26T12:33:58Z",
+        "content": "EMI CalculatorDetermine the monthly installment amount for a loan"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Treasure Global Inc.",
+        "title": "Treasure Global Reports 7x ARPU Growth on ZCITY; TAZTE Enters Strategic Redevelopment",
+        "description": "High-Frequency Users on ZCITY Surge to 70%, ARPU Grows Sevenfold High-Frequency Users on ZCITY Surge to 70%, ARPU Grows Sevenfold",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3263012/0/en/Treasure-Global-Reports-7x-ARPU-Growth-on-ZCITY-TAZTE-Enters-Strategic-Redevelopment.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/77c418b4-b5c2-4bac-a053-f63cd51de1dc",
+        "publishedAt": "2026-03-26T12:33:00Z",
+        "content": "KUALA LUMPUR, Malaysia, March 26, 2026 (GLOBE NEWSWIRE) -- Treasure Global Inc. (NASDAQ: TGL) (Treasure Global or the Company), a Southeast Asiaanchored technology company, today announced record eng… [+4675 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "Scott Pace, Professor of the Practice of International Affairs, George Washington University",
+        "title": "NASA’s Artemis II mission will take an astronaut crew around the Moon – a space policy expert describes the long road to launch",
+        "description": "Artemis II will test the life control systems on the Orion spacecraft and, if all goes well, take a trip around the Moon.",
+        "url": "https://theconversation.com/nasas-artemis-ii-mission-will-take-an-astronaut-crew-around-the-moon-a-space-policy-expert-describes-the-long-road-to-launch-274481",
+        "urlToImage": "https://images.theconversation.com/files/714730/original/file-20260127-56-tbmbmc.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C6457%2C3228&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-03-26T12:32:52Z",
+        "content": "NASA's Space Launch System rocket will launch a crewed capsule into orbit and then on a mission around the Moon. AP Photo/John Raoux\r\nNASA is once again shooting for the Moon, for the first time sinc… [+8180 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "David Van den Heever, Associate Professor of Agricultural and Biological Engineering, Mississippi State University",
+        "title": "Why do basketball players miss shots they’ve made a thousand times before? Neuroscience has an answer",
+        "description": "Elite athletes miss plenty of shots during March Madness and the NBA playoffs. Training both brain and body can help even beginners and novices get more net.",
+        "url": "https://theconversation.com/why-do-basketball-players-miss-shots-theyve-made-a-thousand-times-before-neuroscience-has-an-answer-279040",
+        "urlToImage": "https://images.theconversation.com/files/725923/original/file-20260324-57-2ltubk.jpg?ixlib=rb-4.1.0&rect=2%2C734%2C1504%2C752&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-03-26T12:32:20Z",
+        "content": "Every March Madness it happens. A player steps to the line, takes the shot and misses. And just like that, there goes your perfect bracket. \n\nThese are elite players. The player has made that shot th… [+5397 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "ParaZero Technologies Ltd.",
+        "title": "ParaZero Technologies Announces Strategic Partnership with XTEND for Advanced Drone Interception Capabilities",
+        "description": "Kfar Saba, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- ParaZero Technologies Ltd. (Nasdaq: PRZO) (the “company” or “ParaZero”), an aerospace defense company pioneering smart, autonomous solutions for the global manned and unmanned aerial systems (UAS) industry…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3263011/0/en/ParaZero-Technologies-Announces-Strategic-Partnership-with-XTEND-for-Advanced-Drone-Interception-Capabilities.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/8c30a37d-5356-460c-afd6-54602c209d8f",
+        "publishedAt": "2026-03-26T12:32:00Z",
+        "content": "Kfar Saba, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- ParaZero Technologies Ltd. (Nasdaq: PRZO) (the company or ParaZero), an aerospace defense company pioneering smart, autonomous solutions for the … [+7417 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "Renault Duster base model vs Kia Seltos base variant (2026): Features, price, and key differences",
+        "description": "Renault India has launched the 2026 Duster SUV, with pre-bookings open for five variants priced from ₹10.29 lakh. The base Authentic trim emphasizes safety and functionality, featuring six airbags and advanced stability systems. In contrast, the Kia Seltos HT…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/renault-duster-base-model-vs-kia-seltos-base-variant-2026-features-price-and-key-differences/articleshow/129824758.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-129824772,width-1200,height-630,imgsize-1367479,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-26T12:31:35Z",
+        "content": "Renault India has introduced the all-new 2026 Renault Duster SUV, with pre-bookings now open across dealerships and online platforms. The SUV is available in five variants Authentic, Evolution, Techn… [+3379 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Boredpanda.com"
+        },
+        "author": "Editorial Staff",
+        "title": "Daily Guess The Famous Person Game #012 (Mar 26, 2026)",
+        "description": "From world leaders to pop culture icons—can you guess today’s famous person? Crack the 6 clues to identify the mystery figure. Play the daily trivia game!. Celebrities, Entertainment",
+        "url": "https://www.boredpanda.com/guess-the-person-26-03-2026/",
+        "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/03/guess-the-person-14-03-2026-fb-69b41ff2e2b9c.jpg",
+        "publishedAt": "2026-03-26T12:31:06Z",
+        "content": "How well do you know famous people?\r\nGuess the Famous Person will test your knowledge of history, politics, entertainment, science, and pop culture. With every guess, you’ll discover whether you matc… [+1420 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Abcnews.com"
+        },
+        "author": "MATTHEW DALY Associated Press",
+        "title": "Sanders, Ocasio-Cortez push bill to impose AI data center moratorium",
+        "description": "A bill introduced by two high-profile progressive lawmakers would pause new data centers in the United States until national safeguards are in place to protect workers and consumers and ensure the technologies don’t harm the environment",
+        "url": "https://abcnews.com/Technology/wireStory/sanders-ocasio-cortez-push-bill-impose-ai-data-131408546",
+        "urlToImage": "https://i.abcnewsfe.com/a/6a75eba2-1722-4f81-80d7-13f8b6f253c6/wirestory_65651bd28c3d911d18eeb46cd54f4c75_16x9.jpg?w=1600",
+        "publishedAt": "2026-03-26T12:30:59Z",
+        "content": "WASHINGTON -- Two high-profile progressive lawmakers introduced a bill Wednesday that would pause new data centers in the United States until national safeguards are in place to protect workers and c… [+4218 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Oliver Haslam",
+        "title": "These Nothing ANC Headphones Just Hit Their All-Time New Low Price of $69",
+        "description": "Amazon is selling all three colors at this special price during its Big Spring Sale event.",
+        "url": "https://www.cnet.com/deals/nothing-headphone-pro-amazon-deal/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/408e880a3a2b12af2fb7173ec3f377692eb4a02a/hub/2026/03/26/3d4e1db4-433c-42fe-8a37-c73bcc082bda/cmf-by-nothing-headphone-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-03-26T12:30:35Z",
+        "content": "There's never been a better time to treat yourself to the CMF by Nothing Headphone Pro, with the Amazon Big Spring Sale slashing its price to an all-time low of just $69. That's a full $30 off, and y… [+1518 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MediaNama.com"
+        },
+        "author": "Ann Mary Peter",
+        "title": "US Blocks Foreign-Made Routers on Security Grounds",
+        "description": "The US has taken action against certain foreign-made routers over security concerns, raising fresh questions about cyber threats and network safety.\nThe post US Blocks Foreign-Made Routers on Security Grounds appeared first on MEDIANAMA.",
+        "url": "https://www.medianama.com/2026/03/223-us-restricts-foreign-made-routers-security-covered-list/",
+        "urlToImage": "https://www.medianama.com/wp-content/uploads/2017/10/20171009_114048-1.jpg.jpg",
+        "publishedAt": "2026-03-26T12:30:07Z",
+        "content": "You can access the original document from here.\r\nThe U.S. Federal Communications Commission (FCC) has added foreign-made consumer-grade routers to its Covered List, which prohibits new models from en… [+3457 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Roland Hutchinson",
+        "title": "Thicker is Better? Why the Galaxy Z Fold 8’s Leaked Design is a Win for Battery Life",
+        "description": "Samsung’s Galaxy Z Fold 8, the latest addition to its foldable smartphone lineup, builds upon the foundation laid by its predecessors with a series of refinements. While the design remains largely consistent with the Z Fold 7, the device introduces notable im…",
+        "url": "https://www.geeky-gadgets.com/galaxy-z-fold-8-design-leaked/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/Fold-8-2.jpg",
+        "publishedAt": "2026-03-26T12:30:07Z",
+        "content": "Samsung’s Galaxy Z Fold 8, the latest addition to its foldable smartphone lineup, builds upon the foundation laid by its predecessors with a series of refinements. While the design remains largely co… [+7004 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ExchangeWire"
+        },
+        "author": "ExchangeWire PressBox",
+        "title": "VIOOH Brings Orange Barrel Media’s US Urban Inventory to its Global Programmatic Platform",
+        "description": "Today (26th March, 2026), VIOOH, the leading premium global digital out-of-home (DOOH) supply-side platform, announced a strategic partnership with Orange Barrel Media(OBM) & IKE Smart City, a pioneer in landmark media and smart city technology, to further ex…",
+        "url": "https://www.exchangewire.com/blog/2026/03/26/viooh-brings-orange-barrel-medias-us-urban-inventory-to-its-global-programmatic-platform/",
+        "urlToImage": "https://cdn.exchangewire.com/wp-content/uploads/2026/03/VIOOH-x-Orange-Barrel-Media-image.jpeg",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "Today (26th March, 2026), VIOOH, the leading premium global digital out-of-home (DOOH) supply-side platform, announced a strategic partnership with Orange Barrel Media(OBM) &amp; IKE Smart City, a pi… [+2633 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "DirectBooking Technology Co., Ltd.",
+        "title": "All Resolutions Passed at DirectBooking Technology Extraordinary General Meeting, Clearing Path for Enhanced Share Capital Structure",
+        "description": "DirectBooking investors endorse six resolutions reshaping capital and voting control....",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262987/0/en/All-Resolutions-Passed-at-DirectBooking-Technology-Extraordinary-General-Meeting-Clearing-Path-for-Enhanced-Share-Capital-Structure.html",
+        "urlToImage": null,
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "HONG KONG, March 26, 2026 (GLOBE NEWSWIRE) -- DirectBooking Technology Co., Ltd. (NASDAQ: ZDAI) (hereinafter referred to as \"DirectBooking\" or the \"Company\") announced that shareholders have approved… [+4958 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SurgePays, Inc.",
+        "title": "SurgePays Launches Managed Marketing Services Platform Across Nationwide Retail Network",
+        "description": "In-store digital media platform expected to drive customer acquisition and create new high-margin recurring revenue opportunities In-store digital media platform expected to drive customer acquisition and create new high-margin recurring revenue opportunities",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262988/0/en/SurgePays-Launches-Managed-Marketing-Services-Platform-Across-Nationwide-Retail-Network.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/c1a134e6-c515-41de-9ac6-f0e8c5fe117e",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "BARTLETT, Tenn., March 26, 2026 (GLOBE NEWSWIRE) -- SurgePays, Inc. (NASDAQ: SURG) (SurgePays or the Company), a wireless and fintech technology company serving subprime and underserved consumers, to… [+5910 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "NeoVolta Inc.",
+        "title": "NeoVolta Receives $1.9 Million First Purchase Order from Luminia, Accelerating Commercial and Industrial Energy Storage Platform",
+        "description": "Initial Order for 40 FEOC-Compliant C&I Battery Storage Systems Marks First Definitive Transaction Under Strategic Supply Collaboration and Validates NeoVolta's Position as a Leading Integrated C&I Energy Storage Provider Initial Order for 40 FEOC-Compliant C…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262995/0/en/NeoVolta-Receives-1-9-Million-First-Purchase-Order-from-Luminia-Accelerating-Commercial-and-Industrial-Energy-Storage-Platform.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/1fdd2381-f235-499a-999a-d1d22f639e49",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "SAN DIEGO, March 26, 2026 (GLOBE NEWSWIRE) -- NeoVolta Inc. (NASDAQ: NEOV) (NeoVolta or the Company), a U.S.-based energy technology company delivering scalable energy storage solutions, today announ… [+8463 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Synchronoss Technologies, Inc.",
+        "title": "Synchronoss Appoints Pat Doran as Chief Executive Officer Following Lumine Group Acquisition",
+        "description": "Synchronoss appoints Pat Doran as CEO following Lumine Group acquisition, reinforcing leadership continuity and operational excellence....",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262993/37247/en/Synchronoss-Appoints-Pat-Doran-as-Chief-Executive-Officer-Following-Lumine-Group-Acquisition.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/e90aebc2-0699-435a-ad39-fd81a6a2408f",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "BRIDGEWATER, N.J., March 26, 2026 (GLOBE NEWSWIRE) -- Synchronoss Technologies, Inc. (Synchronoss or the Company), a global leader of personal cloud platforms for telecom operators, today announced t… [+2226 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Amaze Holdings, Inc",
+        "title": "Amaze Holdings Announces Creator Commerce Media Platform, Designed to Unlock Data-Driven Revenue Streams",
+        "description": "NEWPORT BEACH, Calif., March 26, 2026 (GLOBE NEWSWIRE) -- Amaze Holdings, Inc.\r\n (NYSE American: AMZE) (“Amaze” or the “Company”), a global leader in creator-powered commerce, today announced the launch of its Creator Commerce Media Platform, a new revenue in…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262991/0/en/Amaze-Holdings-Announces-Creator-Commerce-Media-Platform-Designed-to-Unlock-Data-Driven-Revenue-Streams.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/e5a3ffdc-3de3-4cd5-9b61-d0e5682a1931",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "NEWPORT BEACH, Calif., March 26, 2026 (GLOBE NEWSWIRE) -- Amaze Holdings, Inc.\r\n (NYSE American: AMZE) (Amaze or the Company), a global leader in creator-powered commerce, today announced the launch … [+9910 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Duos Technologies Group, Inc",
+        "title": "Duos Technologies Group Sets Fourth Quarter and Full Year 2025 Earnings Call for Tuesday, March 31, 2026 at 4:30 PM ET",
+        "description": "DUOT- a provider of modular, colocation Edge & AI data centers, & technology infrastructure solutions - Sets Q4 & FY25 Earnings Call on 3/31/26, 4:30pm ET...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262997/12618/en/Duos-Technologies-Group-Sets-Fourth-Quarter-and-Full-Year-2025-Earnings-Call-for-Tuesday-March-31-2026-at-4-30-PM-ET.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/bf184181-16bb-49e9-8674-fd086bb6411d",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "JACKSONVILLE, Fla., March 26, 2026 (GLOBE NEWSWIRE) -- Duos Technologies Group, Inc. (Duos or the Company) (Nasdaq: DUOT) a provider of modular, colocation Edge and AI data centers and technology inf… [+4493 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "SEAL Semiconductors",
+        "title": "SEALSQ Well Positioned with Post-Quantum Chips and PKI to Support Wi-SUN Alliance Members in Building Quantum-Resilient Smart Meter Ecosystems Amid Rising Demand in Smart Energy",
+        "description": "Geneva, Switzerland, March 26, 2026 (GLOBE NEWSWIRE) -- SEALSQ Corp (NASDAQ: LAES) (\"SEALSQ\" or \"Company\"), a leader in semiconductors, Public Key Infrastructure (PKI), and post-quantum cryptography (PQC) hardware and software solutions, today announced its r…",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262990/0/en/SEALSQ-Well-Positioned-with-Post-Quantum-Chips-and-PKI-to-Support-Wi-SUN-Alliance-Members-in-Building-Quantum-Resilient-Smart-Meter-Ecosystems-Amid-Rising-Demand-in-Smart-Energy.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "Geneva, Switzerland, March 26, 2026 (GLOBE NEWSWIRE) -- \r\nSEALSQ Corp (NASDAQ: LAES) (\"SEALSQ\" or \"Company\"), a leader in semiconductors, Public Key Infrastructure (PKI), and post-quantum cryptograph… [+6726 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Microbot Medical Inc.",
+        "title": "Emory Healthcare Successfully Completes Robotic Peripheral Endovascular Procedures using Microbot Medical®’s LIBERTY® Endovascular Robotic System",
+        "description": "Emory Healthcare Successfully Completes Robotic Peripheral Endovascular Procedures using Microbot Medical®’s  LIBERTY® Endovascular Robotic System...",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262994/0/en/Emory-Healthcare-Successfully-Completes-Robotic-Peripheral-Endovascular-Procedures-using-Microbot-Medical-s-LIBERTY-Endovascular-Robotic-System.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/346df7fb-c134-40c2-970a-39bcbaf974cd",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "Worlds first robotic Prostatic Artery Embolization (PAE) for Benign Prostatic Hyperplasia (BPH) and robotic Y-90 radioembolization mapping for liver cancer are among the robotic cases performed using… [+7012 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Samuel Owusu-Boadi",
+        "title": "Blockchain philanthropy fails Africa’s real-world test",
+        "description": "Crypto philanthropy in Africa builds moments, not enduring systems. Transparency without local ownership and maintenance delivers aid dependency, not dignity.",
+        "url": "https://cointelegraph.com/opinion/blockchain-philanthropy-fails-africa-test",
+        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-03/019cb348-5f1c-7ed3-af02-48fa78eb2cd3.jpg",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "Opinion by: Samuel Owusu-Boadi, founder of WellsForAll\r\nOver the past decade, crypto philanthropy has exploded. From a niche experiment to a transformative force channeling billions into global cause… [+6863 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "RenX Enterprises Corp.",
+        "title": "RENX ENTERPRISES CONFIRMS MICROTEC UTM 1200 TURBO MILL COMPLETED AND READY FOR SHIPMENT; APRIL DELIVERY EXPECTED AS SITE PREPARATION ADVANCES",
+        "description": "MIAMI, FL , March 26, 2026 (GLOBE NEWSWIRE) -- RenX Enterprises Corp. “RenX” (NASDAQ: RENX), a  biomass recycling, logistics, and real estate company, today announced that it has received written confirmation from MTDH Germany GmbH (“Microtec”) that the  UTM …",
+        "url": "https://www.globenewswire.com/news-release/2026/03/26/3262998/0/en/RENX-ENTERPRISES-CONFIRMS-MICROTEC-UTM-1200-TURBO-MILL-COMPLETED-AND-READY-FOR-SHIPMENT-APRIL-DELIVERY-EXPECTED-AS-SITE-PREPARATION-ADVANCES.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/f483a332-2404-4b7d-accf-e74700052a8f",
+        "publishedAt": "2026-03-26T12:30:00Z",
+        "content": "MIAMI, FL , March 26, 2026 (GLOBE NEWSWIRE) -- RenX Enterprises Corp. RenX (NASDAQ: RENX), a  biomass recycling, logistics, and real estate company, today announced that it has received written confi… [+8048 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Abcnews.com"
+        },
+        "author": "KELVIN CHAN AP business writer",
+        "title": "One Tech Tip: Here's how AI can (and can't) help you in your job hunt",
+        "description": "Finding a job feels harder than ever",
+        "url": "https://abcnews.com/Business/wireStory/tech-tip-ai-job-hunt-131422675",
+        "urlToImage": "https://i.abcnewsfe.com/a/2b69c884-1437-4129-ad95-ab8ce0cc37ad/wirestory_a535a7932ff291a1998158d40cd82c4c_16x9.jpg?w=1600",
+        "publishedAt": "2026-03-26T12:29:46Z",
+        "content": "For many job seekers, it might seem like there's never been a harder time to find a job. \r\nHiring for white-collar jobs has been especially weak, part of what economists call a low-hire, low-fire job… [+7012 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SiliconANGLE News"
+        },
+        "author": "Ryan Stevens",
+        "title": "Enterprises are rushing into AI — but deployment complexity could stop them cold",
+        "description": "Cloud-native AI infrastructure is gaining ground fast in the enterprise — but what separates deployment at scale from stalled ambition? The convergence of cloud-native and AI-native computing is pushing engineers and application developers to retool existing …",
+        "url": "https://siliconangle.com/2026/03/26/developer-experience-center-cloud-native-ai-infrastructure-kubeconeu/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/Cube-image-2.jpg",
+        "publishedAt": "2026-03-26T12:29:11Z",
+        "content": "Cloud-native AI infrastructure is gaining ground fast in the enterprise but what separates deployment at scale from stalled ambition?\r\nThe convergence of cloud-native and AI-native computing is pushi… [+5011 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Murali Krishnan",
+        "title": "India sees spike in social media censorship amid Iran war",
+        "description": "Activists in India are sounding the alarm over the removal of content from social media, especially posts criticizing the government and its Iran war stance.",
+        "url": "https://www.dw.com/en/india-sees-spike-in-social-media-censorship-amid-iran-war/a-76527249",
+        "urlToImage": "https://static.dw.com/image/76131633_6.jpg",
+        "publishedAt": "2026-03-26T12:29:00Z",
+        "content": "Over the past two weeks, internet watchdogs in India have reported dozens of removals of posts on social media that were critical of the government's failure to condemn the US-Israeli strikes on Iran… [+7246 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hurriyet Daily News"
+        },
+        "author": "hurriyetdailynews.com",
+        "title": "5G service officially to be launched on March 31",
+        "description": "Transport and Infrastructure Minister Abdulkadir Uraloğlu has announced that Türkiye will formally declare its move to 5G at a ceremony on March 31 at the Presidential Complex in Ankara, with President Recep Tayyip Erdoğan in attendance.",
+        "url": "https://www.hurriyetdailynews.com/5g-service-officially-to-be-launched-on-march-31-220348",
+        "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/69c525dd5b06fcb7fa325244.jpg",
+        "publishedAt": "2026-03-26T12:26:07Z",
+        "content": "ANKARA\r\nTransport and Infrastructure Minister Abdulkadir Uralolu has announced that Türkiye will formally declare its move to 5G at a ceremony on March 31 at the Presidential Complex in Ankara, with … [+1453 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MediaNama.com"
+        },
+        "author": "Amit Singh",
+        "title": "SEBI asks Google to verify stock trading apps, use AI to track finfluencers",
+        "description": "SEBI partners with Google to add verified badges for trading apps, curb fake apps, and use AI tools to track misleading finfluencers, strengthening investor protection and reducing digital investment fraud.\nThe post SEBI asks Google to verify stock trading ap…",
+        "url": "https://www.medianama.com/2026/03/223-sebi-google-verify-stock-trading-apps-use-ai-track-finfluencers/",
+        "urlToImage": "https://www.medianama.com/wp-content/uploads/2020/10/sebi.gif.gif",
+        "publishedAt": "2026-03-26T12:25:11Z",
+        "content": "Downloads:\r\n— SEBI press release on verified label for stock trading apps\r\n— Address by SEBI chairman at launch of Verified App Label\r\nThe Securities and Exchange Board of India (SEBI) has partnered … [+2259 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "Mike Moore",
+        "title": "Trump names Huang, Ellison, Dell Zuckerberg and more on new White House council to help 'the Golden Age of Innovation'",
+        "description": "PCAST will reportedly help advise the President on 'strengthening American leadership in science and technology'.",
+        "url": "https://www.techradar.com/pro/trump-names-huang-ellison-dell-zuckerberg-and-more-on-new-white-house-council-to-help-the-golden-age-of-innovation",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/UUzYY3XYt4RmDVe7ZzWB89-1400-80.jpg",
+        "publishedAt": "2026-03-26T12:25:00Z",
+        "content": "<ul><li>Trump administration reveals new PCAST advisory board</li><li>Great and good of the tech industry are all included, from Huang to Ellison to Zuckerberg</li><li>PCAST will advise the President… [+3244 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Daily Hodl"
+        },
+        "author": "Chainwire",
+        "title": "T-REX Network and Zama Launch Institutional-Grade Confidentiality Infrastructure for RWA Tokenization",
+        "description": "Paris, France, 26th March 2026, Chainwire\nThe post T-REX Network and Zama Launch Institutional-Grade Confidentiality Infrastructure for RWA Tokenization appeared first on The Daily Hodl.",
+        "url": "https://dailyhodl.com/2026/03/26/t-rex-network-and-zama-launch-institutional-grade-confidentiality-infrastructure-for-rwa-tokenization/",
+        "urlToImage": "https://dailyhodl.com/wp-content/uploads/2026/03/ZAMA-LOGO-COVER-1200x720_1774521440uaF44u0L9f.jpg?resize=1200,720",
+        "publishedAt": "2026-03-26T12:21:33Z",
+        "content": "March 26th, 2026 Paris, France\r\nT-REX Network, the multi-chain RWA orchestration layer supported by Apex Group, which services $3.5 trillion in assets, has partnered with Zama, the pioneer in Fully H… [+6813 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Conversation Africa"
+        },
+        "author": "Peter R. Crabb, Professor of Finance and Economics, Northwest Nazarene University; Institute for Humane Studies, Alison Graham Larson, Assistant Professor of Criminal Justice, Northwest Nazarene University",
+        "title": "Supreme Court’s tariff decision still leaves a ‘mess’ for companies trying to grab refunds",
+        "description": "Companies that had sued for tariff refunds are taking different approaches to getting their money back – or quitting the effort.",
+        "url": "https://theconversation.com/supreme-courts-tariff-decision-still-leaves-a-mess-for-companies-trying-to-grab-refunds-276822",
+        "urlToImage": "https://images.theconversation.com/files/726271/original/file-20260325-57-s69dju.jpg?ixlib=rb-4.1.0&rect=0%2C269%2C3227%2C1613&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-03-26T12:21:25Z",
+        "content": "Containers are stacked up in a cargo terminal in Frankfurt, Germany. AP Photo/Michael Probst\r\nU.S. companies stung by President Donald Trump’s emergency tariffs had hoped for relief when the U.S. Sup… [+7199 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "Claude Can Now Code Websites “By Sight” Here’s How It Works",
+        "description": "Jay E | RoboNuggets examines how the new Drawbridge plugin enhances AI-driven web design by allowing users to annotate browser elements visually. This free Chrome extension supports screenshots, HTML and comments to create detailed instructions for AI systems…",
+        "url": "https://www.geeky-gadgets.com/drawbridge-claude-code/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/mo-tasks-md-annotation-log-claude-code.jpg",
+        "publishedAt": "2026-03-26T12:20:50Z",
+        "content": "Jay E | RoboNuggets examines how the new Drawbridge plugin enhances AI-driven web design by allowing users to annotate browser elements visually. This free Chrome extension supports screenshots, HTML… [+6270 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Piyush Shukla",
+        "title": "When is SpaceX IPO? Share price, valuation, predictions and how to buy shares",
+        "description": "SpaceX is preparing one of the biggest IPOs in history, targeting $75 billion, according to insiders. The move could value Elon Musk’s company at $1.75 trillion, surpassing all previous public offerings. Starlink, with over 9,500 satellites, drives the compan…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/when-is-spacex-ipo-share-price-valuation-predictions-and-how-to-buy-shares/articleshow/129823534.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-129823551,width-1200,height-630,imgsize-116302,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-03-26T12:19:01Z",
+        "content": "SpaceX is reportedly preparing to make one of the largest initial public offerings (IPO) in history, aiming to raise approximately $75 billion, sources familiar with the matter said. This move could … [+4537 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Business Wire",
+        "title": "M1X Global Announces Public Launch and Oversubscribed $3 Million Angel Round to Scale On-Chain Sovereign Finance",
+        "description": "NEW YORK — M1X Global, a sovereign financial infrastructure and technology company, today announced its public launch alongside the close of an oversubscribed $3 million angel round. The funding, spanning strategic investments and grants, will support platfor…",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/m1x-global-announces-public-launch-and-oversubscribed-3-million-angel-round-to-scale-on-chain-sovereign-finance",
+        "urlToImage": null,
+        "publishedAt": "2026-03-26T12:18:29Z",
+        "content": "NEW YORK M1X Global, a sovereign financial infrastructure and technology company, today announced its public launch alongside the close of an oversubscribed $3 million angel round. The funding, spann… [+8114 chars]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "provider": "gnews",
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "title": "Global Market Today: Asian stocks open higher with Iran deadline in focus",
+      "description": "Markets are reacting to uncertainty surrounding President Donald Trump's Iran deadline. Tentative ceasefire signals are battling fears of conflict escalation. Brent crude oil prices are fluctuating. Asian shares saw gains, led by technology stocks. President Trump stated talks are progressing but stressed freedom of navigation.",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-with-iran-deadline-in-focus/articleshow/130073519.cms",
+      "published_at": "2026-04-07T00:59:00Z",
+      "author": "",
+      "image_url": "https://img.etimg.com/thumb/msid-130073512,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "content": "Synopsis\nMarkets are reacting to uncertainty surrounding President Donald Trump's Iran deadline. Tentative ceasefire signals are battling fears of conflict escalation. Brent crude oil prices are fluctuating. Asian shares saw gains, led by technology ... [4155 chars]"
+    },
+    {
+      "title": "How you can get started with AI agents… and get your life back",
+      "description": "Personal productivity systems are now accessible to everyone. Agents, not just for coders, manage tasks like industry news and meeting follow-ups. These systems act autonomously, unlike simple chatbots. Setting up an agent involves clear instructions for specific tasks. As more agents are added, they compound, freeing up personal time. This technology is transforming how individuals manage their daily lives.",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-you-can-get-started-with-ai-agents-and-get-your-life-back/articleshow/130068021.cms",
+      "published_at": "2026-04-07T00:30:00Z",
+      "author": "",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12058,resizemode-75,msid-130068021/tech/artificial-intelligence/how-you-can-get-started-with-ai-agents-and-get-your-life-back.jpg",
+      "content": "Synopsis\nPersonal productivity systems are now accessible to everyone. Agents, not just for coders, manage tasks like industry news and meeting follow-ups. These systems act autonomously, unlike simple chatbots. Setting up an agent involves clear ins... [2740 chars]"
+    },
+    {
+      "title": "Synnex predicts 10% growth as prices rise",
+      "description": "Despite intensifying economic pressures and a cooling consumer market, SET-listed IT distributor Synnex (Thailand) is holding firm to its 10% growth target this year, aiming to reach 53 billion baht in annual revenue in a strategic pivot towards high-value technology, artificial intelligence (AI) infrastructure, and renewable energy solutions.",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3232030/synnex-predicts-10-growth-as-prices-rise",
+      "published_at": "2026-04-07T00:03:00Z",
+      "author": "",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/04/07/6038585_700.jpeg",
+      "content": "Despite intensifying economic pressures and a cooling consumer market, SET-listed IT distributor Synnex (Thailand) is holding firm to its 10% growth target this year, aiming to reach 53 billion baht in annual revenue in a strategic pivot towards high... [3423 chars]"
+    },
+    {
+      "title": "Iranians condemn strike on a top university",
+      "description": "Iranians from across the political spectrum expressed outrage Monday at overnight strikes that hit Sharif University of Technology in Tehran, one of the country's most prestigious academic institutions. It is the latest in a string of attacks that have battered Iran's higher education centers.",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/04/06/world/iranians-condemn-strike-top-university/",
+      "published_at": "2026-04-06T23:24:55Z",
+      "author": "",
+      "image_url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/RC7Q33E7WZFX2VUKQ5DVPYNC6I.jpg?auth=309326847c9049f8703414ebd6e600d5a2cab689aa4bfabafeec0abf794161d6&width=1440",
+      "content": "Iranians from across the political spectrum expressed outrage Monday at overnight strikes that hit Sharif University of Technology in Tehran, one of the country’s most prestigious academic institutions. It is the latest in a string of attacks that ha... [4008 chars]"
+    },
+    {
+      "title": "Hon Hai Technology Group (Foxconn) Honors 152 Of Its Own And Suppliers In 3rd Annual Sustainability Awards",
+      "description": "**media[1002945]**TAIPEI, April 7, 2026 /PRNewswire/ -- In a robust nod to sustainability innovation, Hon Hai Technology Group ('Foxconn') (TWSE:2317) has honored 152 teams and projects at the '2026 Hon Hai-Foxconn Sustainability Awards', an in-house distinction that accelerates the work of the world's largest electronics manufacturer and leading technology solutions provider to innovate for the good. Recognizing environmental, social and governance, across Asia, Americas and Europe, the scale and impact of the Sustainability Awards continue to grow, attracting 1,504 entries from Foxconn teams in its third year - five times more than its inaugural edition. Nitrogen safety in Vietnam, zero-carbon cleaning in China and exoskeleton-assisted equipment in the Czech Republic were among projects celebrated, demonstrating deepening of ESG capabilities.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/hon-hai-technology-group-foxconn-honors-152-of-its-own-and-suppliers-in-3rd-annual-sustainability-awards/2315048",
+      "published_at": "2026-04-06T23:24:07Z",
+      "author": "",
+      "image_url": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1002944.jpg",
+      "content": "TAIPEI, April 7, 2026 /PRNewswire/ -- In a robust nod to sustainability innovation, Hon Hai Technology Group (\"Foxconn\") (TWSE:2317) has honored 152 teams and projects at the \"2026 Hon Hai-Foxconn Sustainability Awards\", an in-house distinction that ... [2734 chars]"
+    },
+    {
+      "title": "Study finds 70% of remediated Los Angeles yards still exceed lead limit",
+      "description": "Even after one of the largest environmental remediation efforts in California history, dangerous levels of lead persist in residential neighborhoods surrounding a former battery smelter in Southeast Los Angeles, according to a new study from the University of California, Irvine's Joe C. Wen School of Population & Public Health. The research is published in the journal Environmental Science & Technology. The findings reveal a serious public health failure while also highlighting the power of community-driven research to hold institutions accountable and drive meaningful change.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-04-remediated-los-angeles-yards-exceed.html",
+      "published_at": "2026-04-06T23:20:06Z",
+      "author": "",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/study-finds-dangerous.jpg",
+      "content": "Even after one of the largest environmental remediation efforts in California history, dangerous levels of lead persist in residential neighborhoods surrounding a former battery smelter in Southeast Los Angeles, according to a new study from the Univ... [4744 chars]"
+    },
+    {
+      "title": "Review details photocatalyst-biocatalyst systems for semi-artificial photosynthesis",
+      "description": "A new review from Osaka Metropolitan University (OMU) summarizes the biocatalysts involved in semi-artificial photosynthesis, an exciting research field that combines natural photosynthesis with artificial technology to efficiently generate fuels and useful substances from sunlight. The review is published in Chemical Reviews.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-04-photocatalystbiocatalyst-semi-artificial-photosynthesis.html",
+      "published_at": "2026-04-06T23:20:01Z",
+      "author": "",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/review-summarizes-phot.jpg",
+      "content": "A new review from Osaka Metropolitan University (OMU) summarizes the biocatalysts involved in semi-artificial photosynthesis, an exciting research field that combines natural photosynthesis with artificial technology to efficiently generate fuels and... [1387 chars]"
+    },
+    {
+      "title": "IT Secy reviews implementation of Meghraj, Mini SOC",
+      "description": "Excelsior Correspondent JAMMU, Apr 6: The J&K Information Technology Department today held a review meeting under the chairmanship of its Secretary to assess and strengthen the Union Territory’s digital infrastructure, with emphasis on cloud services (Meghraj) and cybersecurity. The meeting focused on bolstering the MeghRaj Cloud’s efficiency and reliability, directing for the smooth operations, business continuity and high availability for government apps. A streamlined mechanism now ensures timely reporting and resolution of service disruptions. The Secretary had a detailed review […]",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/it-secy-reviews-implementation-of-meghraj-mini-soc/",
+      "published_at": "2026-04-06T23:17:37Z",
+      "author": "",
+      "image_url": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/IT-Secretary-reviews-implementation-of-Meghraj-Mini-SOC-6.jpg",
+      "content": "Excelsior Correspondent\nJAMMU, Apr 6: The J&K Information Technology Department today held a review meeting under the chairmanship of its Secretary to assess and strengthen the Union Territory’s digital infrastructure, with emphasis on cloud services... [1116 chars]"
+    },
+    {
+      "title": "Artemis II: Human Crew Sees the Moon’s Far Side Up Close for the First Time",
+      "description": "Halfway through the flyby, around 6:44 p.m. ET, the moon itself will cut off all communications between the capsule and Earth as it passes between the two. Contact is expected to be restored around 7:25 p.m., Technology & Science, Times Now",
+      "source": "Times Now",
+      "url": "https://www.timesnownews.com/technology-science/artemis-ii-human-crew-sees-the-moons-far-side-up-close-for-the-first-time-when-will-artemis-2-lose-contact-with-earth-article-154012707",
+      "published_at": "2026-04-06T23:05:46Z",
+      "author": "",
+      "image_url": "https://images.timesnownews.com/thumb/msid-154012707,width-1280,height-720,resizemode-75/154012707.jpg",
+      "content": "Before the flyby even reached its most dramatic point, Artemis II had already made history. (Image: NASA)\nThe Orion capsule began its lunar flyby at around 2:45 p.m. ET on Monday, kicking off just over six hours of arcing around the moon with its win... [2758 chars]"
+    },
+    {
+      "title": "EY Weaves Advanced AI Into Corporate Financial Audits Globally",
+      "description": "EY is rolling out this week advanced AI to audit teams globally, in its latest bid to bolster checks on corporate accounting and to stay ahead of the fast-developing technology.",
+      "source": "Bloomberg Tax News",
+      "url": "https://news.bloombergtax.com/daily-tax-report/ey-weaves-advanced-ai-into-corporate-financial-audits-globally",
+      "published_at": "2026-04-06T23:01:01Z",
+      "author": "",
+      "image_url": "https://bwrite-static.bloombergindustry.com/dims4/default/ae1c0d7/2147483647/crop/5453x2100+18+495/resize/958x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F84%2F6f26ba2642cbacb79920c636dfb5%2Fey-logo.jpg",
+      "content": "EY is rolling out this week advanced AI to audit teams globally, in its latest bid to bolster checks on corporate accounting and to stay ahead of the fast-developing technology.\nArtificial intelligence tools that harness autonomous agents will touch ... [343 chars]"
+    }
+  ],
+  "raw_response": {
+    "information": {
+      "realTimeArticles": {
+        "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+      }
+    },
+    "totalArticles": 152062,
+    "articles": [
+      {
+        "id": "828ef7987512f2877a3d2ff8fcbc2f9a",
+        "title": "Global Market Today: Asian stocks open higher with Iran deadline in focus",
+        "description": "Markets are reacting to uncertainty surrounding President Donald Trump's Iran deadline. Tentative ceasefire signals are battling fears of conflict escalation. Brent crude oil prices are fluctuating. Asian shares saw gains, led by technology stocks. President Trump stated talks are progressing but stressed freedom of navigation.",
+        "content": "Synopsis\nMarkets are reacting to uncertainty surrounding President Donald Trump's Iran deadline. Tentative ceasefire signals are battling fears of conflict escalation. Brent crude oil prices are fluctuating. Asian shares saw gains, led by technology ... [4155 chars]",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-with-iran-deadline-in-focus/articleshow/130073519.cms",
+        "image": "https://img.etimg.com/thumb/msid-130073512,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-04-07T00:59:00Z",
+        "lang": "en",
+        "source": {
+          "id": "5464668c1f0466950a0b2fab5249ec6c",
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "5f3907dffca88d315e7379557c2f11b2",
+        "title": "How you can get started with AI agents… and get your life back",
+        "description": "Personal productivity systems are now accessible to everyone. Agents, not just for coders, manage tasks like industry news and meeting follow-ups. These systems act autonomously, unlike simple chatbots. Setting up an agent involves clear instructions for specific tasks. As more agents are added, they compound, freeing up personal time. This technology is transforming how individuals manage their daily lives.",
+        "content": "Synopsis\nPersonal productivity systems are now accessible to everyone. Agents, not just for coders, manage tasks like industry news and meeting follow-ups. These systems act autonomously, unlike simple chatbots. Setting up an agent involves clear ins... [2740 chars]",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-you-can-get-started-with-ai-agents-and-get-your-life-back/articleshow/130068021.cms",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12058,resizemode-75,msid-130068021/tech/artificial-intelligence/how-you-can-get-started-with-ai-agents-and-get-your-life-back.jpg",
+        "publishedAt": "2026-04-07T00:30:00Z",
+        "lang": "en",
+        "source": {
+          "id": "5464668c1f0466950a0b2fab5249ec6c",
+          "name": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "c26f2dbbcfdb2b077f44bb61ab074ddb",
+        "title": "Synnex predicts 10% growth as prices rise",
+        "description": "Despite intensifying economic pressures and a cooling consumer market, SET-listed IT distributor Synnex (Thailand) is holding firm to its 10% growth target this year, aiming to reach 53 billion baht in annual revenue in a strategic pivot towards high-value technology, artificial intelligence (AI) infrastructure, and renewable energy solutions.",
+        "content": "Despite intensifying economic pressures and a cooling consumer market, SET-listed IT distributor Synnex (Thailand) is holding firm to its 10% growth target this year, aiming to reach 53 billion baht in annual revenue in a strategic pivot towards high... [3423 chars]",
+        "url": "https://www.bangkokpost.com/business/general/3232030/synnex-predicts-10-growth-as-prices-rise",
+        "image": "https://static.bangkokpost.com/media/content/dcx/2026/04/07/6038585_700.jpeg",
+        "publishedAt": "2026-04-07T00:03:00Z",
+        "lang": "en",
+        "source": {
+          "id": "91120a92e0d24e24fbffb6d0affabfe6",
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com",
+          "country": "th"
+        }
+      },
+      {
+        "id": "26a18d383de9b85fe91aace9d759c075",
+        "title": "Iranians condemn strike on a top university",
+        "description": "Iranians from across the political spectrum expressed outrage Monday at overnight strikes that hit Sharif University of Technology in Tehran, one of the country's most prestigious academic institutions. It is the latest in a string of attacks that have battered Iran's higher education centers.",
+        "content": "Iranians from across the political spectrum expressed outrage Monday at overnight strikes that hit Sharif University of Technology in Tehran, one of the country’s most prestigious academic institutions. It is the latest in a string of attacks that ha... [4008 chars]",
+        "url": "https://www.bostonglobe.com/2026/04/06/world/iranians-condemn-strike-top-university/",
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/RC7Q33E7WZFX2VUKQ5DVPYNC6I.jpg?auth=309326847c9049f8703414ebd6e600d5a2cab689aa4bfabafeec0abf794161d6&width=1440",
+        "publishedAt": "2026-04-06T23:24:55Z",
+        "lang": "en",
+        "source": {
+          "id": "0d429ea54fdbe8e34c582aa31bc81aba",
+          "name": "The Boston Globe",
+          "url": "https://www.bostonglobe.com",
+          "country": "us"
+        }
+      },
+      {
+        "id": "12c328ec1a3b605a321f60225fd089e8",
+        "title": "Hon Hai Technology Group (Foxconn) Honors 152 Of Its Own And Suppliers In 3rd Annual Sustainability Awards",
+        "description": "**media[1002945]**TAIPEI, April 7, 2026 /PRNewswire/ -- In a robust nod to sustainability innovation, Hon Hai Technology Group ('Foxconn') (TWSE:2317) has honored 152 teams and projects at the '2026 Hon Hai-Foxconn Sustainability Awards', an in-house distinction that accelerates the work of the world's largest electronics manufacturer and leading technology solutions provider to innovate for the good. Recognizing environmental, social and governance, across Asia, Americas and Europe, the scale and impact of the Sustainability Awards continue to grow, attracting 1,504 entries from Foxconn teams in its third year - five times more than its inaugural edition. Nitrogen safety in Vietnam, zero-carbon cleaning in China and exoskeleton-assisted equipment in the Czech Republic were among projects celebrated, demonstrating deepening of ESG capabilities.",
+        "content": "TAIPEI, April 7, 2026 /PRNewswire/ -- In a robust nod to sustainability innovation, Hon Hai Technology Group (\"Foxconn\") (TWSE:2317) has honored 152 teams and projects at the \"2026 Hon Hai-Foxconn Sustainability Awards\", an in-house distinction that ... [2734 chars]",
+        "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/hon-hai-technology-group-foxconn-honors-152-of-its-own-and-suppliers-in-3rd-annual-sustainability-awards/2315048",
+        "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/04/07/1002944.jpg",
+        "publishedAt": "2026-04-06T23:24:07Z",
+        "lang": "en",
+        "source": {
+          "id": "7c666ee953f873d3057b310220f510df",
+          "name": "The Manila Times",
+          "url": "https://www.manilatimes.net",
+          "country": "ph"
+        }
+      },
+      {
+        "id": "ba7cbaf314461fe1854818fd5c56be97",
+        "title": "Study finds 70% of remediated Los Angeles yards still exceed lead limit",
+        "description": "Even after one of the largest environmental remediation efforts in California history, dangerous levels of lead persist in residential neighborhoods surrounding a former battery smelter in Southeast Los Angeles, according to a new study from the University of California, Irvine's Joe C. Wen School of Population & Public Health. The research is published in the journal Environmental Science & Technology. The findings reveal a serious public health failure while also highlighting the power of community-driven research to hold institutions accountable and drive meaningful change.",
+        "content": "Even after one of the largest environmental remediation efforts in California history, dangerous levels of lead persist in residential neighborhoods surrounding a former battery smelter in Southeast Los Angeles, according to a new study from the Univ... [4744 chars]",
+        "url": "https://phys.org/news/2026-04-remediated-los-angeles-yards-exceed.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/study-finds-dangerous.jpg",
+        "publishedAt": "2026-04-06T23:20:06Z",
+        "lang": "en",
+        "source": {
+          "id": "263578fdccd92a76494cd34055806fcc",
+          "name": "Phys.org",
+          "url": "https://phys.org",
+          "country": "gb"
+        }
+      },
+      {
+        "id": "c452549439727648d335ce0922d42c0d",
+        "title": "Review details photocatalyst-biocatalyst systems for semi-artificial photosynthesis",
+        "description": "A new review from Osaka Metropolitan University (OMU) summarizes the biocatalysts involved in semi-artificial photosynthesis, an exciting research field that combines natural photosynthesis with artificial technology to efficiently generate fuels and useful substances from sunlight. The review is published in Chemical Reviews.",
+        "content": "A new review from Osaka Metropolitan University (OMU) summarizes the biocatalysts involved in semi-artificial photosynthesis, an exciting research field that combines natural photosynthesis with artificial technology to efficiently generate fuels and... [1387 chars]",
+        "url": "https://phys.org/news/2026-04-photocatalystbiocatalyst-semi-artificial-photosynthesis.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/review-summarizes-phot.jpg",
+        "publishedAt": "2026-04-06T23:20:01Z",
+        "lang": "en",
+        "source": {
+          "id": "263578fdccd92a76494cd34055806fcc",
+          "name": "Phys.org",
+          "url": "https://phys.org",
+          "country": "gb"
+        }
+      },
+      {
+        "id": "c74695dd3e0c88f7e247c91abe6af48e",
+        "title": "IT Secy reviews implementation of Meghraj, Mini SOC",
+        "description": "Excelsior Correspondent JAMMU, Apr 6: The J&K Information Technology Department today held a review meeting under the chairmanship of its Secretary to assess and strengthen the Union Territory’s digital infrastructure, with emphasis on cloud services (Meghraj) and cybersecurity. The meeting focused on bolstering the MeghRaj Cloud’s efficiency and reliability, directing for the smooth operations, business continuity and high availability for government apps. A streamlined mechanism now ensures timely reporting and resolution of service disruptions. The Secretary had a detailed review […]",
+        "content": "Excelsior Correspondent\nJAMMU, Apr 6: The J&K Information Technology Department today held a review meeting under the chairmanship of its Secretary to assess and strengthen the Union Territory’s digital infrastructure, with emphasis on cloud services... [1116 chars]",
+        "url": "https://www.dailyexcelsior.com/it-secy-reviews-implementation-of-meghraj-mini-soc/",
+        "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/04/IT-Secretary-reviews-implementation-of-Meghraj-Mini-SOC-6.jpg",
+        "publishedAt": "2026-04-06T23:17:37Z",
+        "lang": "en",
+        "source": {
+          "id": "28bc60a23a7bf89e60f893506992a3fe",
+          "name": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "88dbefd1a27391ba32ea697b1a442c66",
+        "title": "Artemis II: Human Crew Sees the Moon’s Far Side Up Close for the First Time",
+        "description": "Halfway through the flyby, around 6:44 p.m. ET, the moon itself will cut off all communications between the capsule and Earth as it passes between the two. Contact is expected to be restored around 7:25 p.m., Technology & Science, Times Now",
+        "content": "Before the flyby even reached its most dramatic point, Artemis II had already made history. (Image: NASA)\nThe Orion capsule began its lunar flyby at around 2:45 p.m. ET on Monday, kicking off just over six hours of arcing around the moon with its win... [2758 chars]",
+        "url": "https://www.timesnownews.com/technology-science/artemis-ii-human-crew-sees-the-moons-far-side-up-close-for-the-first-time-when-will-artemis-2-lose-contact-with-earth-article-154012707",
+        "image": "https://images.timesnownews.com/thumb/msid-154012707,width-1280,height-720,resizemode-75/154012707.jpg",
+        "publishedAt": "2026-04-06T23:05:46Z",
+        "lang": "en",
+        "source": {
+          "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+          "name": "Times Now",
+          "url": "https://www.timesnownews.com",
+          "country": "in"
+        }
+      },
+      {
+        "id": "18c5eee58bfed97b27492ee75217746f",
+        "title": "EY Weaves Advanced AI Into Corporate Financial Audits Globally",
+        "description": "EY is rolling out this week advanced AI to audit teams globally, in its latest bid to bolster checks on corporate accounting and to stay ahead of the fast-developing technology.",
+        "content": "EY is rolling out this week advanced AI to audit teams globally, in its latest bid to bolster checks on corporate accounting and to stay ahead of the fast-developing technology.\nArtificial intelligence tools that harness autonomous agents will touch ... [343 chars]",
+        "url": "https://news.bloombergtax.com/daily-tax-report/ey-weaves-advanced-ai-into-corporate-financial-audits-globally",
+        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/ae1c0d7/2147483647/crop/5453x2100+18+495/resize/958x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fd6%2F84%2F6f26ba2642cbacb79920c636dfb5%2Fey-logo.jpg",
+        "publishedAt": "2026-04-06T23:01:01Z",
+        "lang": "en",
+        "source": {
+          "id": "2b5db686603d0197d748f18d2dc01aec",
+          "name": "Bloomberg Tax News",
+          "url": "https://news.bloombergtax.com",
+          "country": "us"
+        }
+      }
+    ]
+  }
+}

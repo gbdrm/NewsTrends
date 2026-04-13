@@ -2,7 +2,7 @@ name: Fetch Tech News
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # daily 12:00 UTC
+    #- cron: '0 12 * * *'   # daily 12:00 UTC
   workflow_dispatch:
 
 permissions:
